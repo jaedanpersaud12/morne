@@ -1,4 +1,4 @@
-# Imani Clarke, 17
+# Juno Vale, 17
 
 **Main character. Element: none through book one; Life/decay at the age line. Depth tier 1.**
 
@@ -10,7 +10,7 @@ She is funny because she is funny. Not because of anything.
 
 ## The weight
 
-Oldest of three, raised by a strict, devout grandmother ([Pearl](supporting.md#quarry-trace)) after their mother died and their father went to Canada. Imani does the most, tries the hardest, and is still Granny's least favourite. Nothing is ever enough. "So. That's done. Now you have to keep it."
+Oldest of three, raised by a strict, devout grandmother ([Dot](supporting.md#quarry-trace)) after their mother died and their father went to Canada. Juno does the most, tries the hardest, and is still Granny's least favourite. Nothing is ever enough. "So. That's done. Now you have to keep it."
 
 A year or two ago that weight brought her to a suicide attempt. She has lived with depression since, quietly, while still being the funniest person in the room. Both are true at once. She has rules for herself (thirty seconds, then up, then the tap, then the mirror) that she learned the hard way.
 
@@ -22,20 +22,20 @@ The Sleep erases the future she worked her whole life for. Granny is asleep, so 
 
 ## Arc
 
-**Want:** keep Granny alive. Not the thirty-one. Her. If Granny lives, Imani gets to be enough.
+**Want:** keep Granny alive. Not the thirty-one. Her. If Granny lives, Juno gets to be enough.
 
 **Lie:** she only matters if she is useful, and she has to do it alone. Granny taught her the first half; she taught herself the second.
 
-**Pressure:** Judge, Troy, the kids at the bend, all of them treat her as the leader. She is not. The friends keep refusing to let her be. That refusal is the book's spine: the ecosystem versus the one girl trying to be the whole forest.
+**Pressure:** Judge, Cass, the kids at the bend, all of them treat her as the leader. She is not. The friends keep refusing to let her be. That refusal is the book's spine: the ecosystem versus the one girl trying to be the whole forest.
 
-**End of book one:** she carries Granny to the garden, and she can't do it alone, and she lets Danny take the other end. Letting herself be carried, once, by the people who were always going to carry her.
+**End of book one:** she carries Granny to the garden, and she can't do it alone, and she lets Tock take the other end. Letting herself be carried, once, by the people who were always going to carry her.
 
 ## Relationships
 
-- [Danny](danny.md): her brother. She hits him in the arm and laughs harder than anyone. She is the only person who can talk him down.
-- [Micah](micah.md): half a mother to him. He believes anything she says in the bored voice.
-- [Kai](kai.md): both have been to the edge. They recognise it in each other without saying it. The quietest, deepest bond in the book.
-- [Nia](nia.md): the only one who ever said Nia's name first. Their fight over the sleepers is the Trace's central argument.
+- [Tock](tock.md): her brother. She hits him in the arm and laughs harder than anyone. She is the only person who can talk him down.
+- [Olli](olli.md): half a mother to him. He believes anything she says in the bored voice.
+- [Fen](fen.md): both have been to the edge. They recognise it in each other without saying it. The quietest, deepest bond in the book.
+- [Kit](kit.md): the only one who ever said Kit's name first. Their fight over the sleepers is the Trace's central argument.
 - [Judge](judge.md): wants her. The doctor from the paper. First as an asset, then as a rival, then as something harder to name.
 - [The Gardener](gardener.md): offers her Granny's voice. The book's worst temptation.
 
@@ -53,4 +53,4 @@ That is her lie made literal. The girl who believes she only matters if she is u
 
 **When:** the last page of book one or the first of book two. The age line falls on her birthday, which is [open](../16-open-questions.md) but lands in the second bloom window or just before it.
 
-**Rules for writing it:** no hint of it before the siege. No glow, no sign. The first use is an accident: a hand on a dying kid, and the kid lives, and Imani is grey for a week. Nobody, including her, knows what it cost until Nia tells her what the ground said.
+**Rules for writing it:** no hint of it before the siege. No glow, no sign. The first use is an accident: a hand on a dying kid, and the kid lives, and Juno is grey for a week. Nobody, including her, knows what it cost until Kit tells her what the ground said.

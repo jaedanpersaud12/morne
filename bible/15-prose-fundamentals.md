@@ -14,7 +14,7 @@ Sources: Provost, *100 Ways to Improve Your Writing* (1985); [Purdue Global on s
 
 The standard model behind most thrillers. A **Scene** is goal, conflict, disaster: the character wants something, something opposes them, and it ends worse than it started. A **Sequel** is reaction, dilemma, decision: the character feels it, weighs the options, picks one, and that decision is the goal of the next Scene. Below that sits the **Motivation-Reaction Unit**: something happens outside the character (motivation), then the character responds, in this order: feeling, reflex action, then speech or deliberate action. Cause always before effect, and never skip the feeling.
 
-*For us:* "set up, complicate, turn" is a Scene. Our first drafts were missing the Sequel: Imani never got a beat to feel the kids at the bend before the next Scene started. Each POV character gets one short Sequel per chapter, and the chapter's end-turn becomes the next chapter's goal. When something hits a character, write the gut reaction before the dialogue.
+*For us:* "set up, complicate, turn" is a Scene. Our first drafts were missing the Sequel: Juno never got a beat to feel the kids at the bend before the next Scene started. Each POV character gets one short Sequel per chapter, and the chapter's end-turn becomes the next chapter's goal. When something hits a character, write the gut reaction before the dialogue.
 
 Sources: Swain, *Techniques of the Selling Writer* (1965); [Wikipedia: Scene and sequel](https://en.wikipedia.org/wiki/Scene_and_sequel); [Ingermanson on Scene/Sequel](https://advancedfictionwriting.com/?p=349).
 
@@ -22,7 +22,7 @@ Sources: Swain, *Techniques of the Selling Writer* (1965); [Wikipedia: Scene and
 
 Leonard's ten rules all serve one idea: stay invisible so the story shows instead of tells. The ones that bite: never open with weather unless it's a character reacting to it; use "said" and nothing else; never an adverb on "said"; don't describe places and things in detail; skip the parts readers skip; and the line everyone remembers, "if it sounds like writing, rewrite it." Stephen King's version is the same idea aimed at adverbs.
 
-*For us:* Chapter 1 opens with dust, which is weather, but Nia's father is reacting to it in the first lines, which is the exception Leonard allows. Every simile pass is "if it sounds like writing, rewrite it."
+*For us:* Chapter 1 opens with dust, which is weather, but Kit's father is reacting to it in the first lines, which is the exception Leonard allows. Every simile pass is "if it sounds like writing, rewrite it."
 
 Sources: Leonard, "Easy on the Adverbs, Exclamation Points and Especially Hooptedoodle," *NYT*, 2001 ([summary](https://fs.blog/elmore-leonard-10-rules-of-writing/)).
 
@@ -30,7 +30,7 @@ Sources: Leonard, "Easy on the Adverbs, Exclamation Points and Especially Hoopte
 
 In close third, the reader is inside the character's head, so words that report perception (saw, heard, felt, noticed, realised, thought, wondered) are a filter between reader and experience. "She saw the corbeaux on the gate" is weaker than "The corbeaux were on the gate." The same logic kills explaining: in deep POV the narrator never steps forward to tell the reader what a moment means, because the narrator isn't there.
 
-*For us:* this is why "standing there was how babies died" had to go. It was the author talking. And it is the rule for backstory: Kai can think about dance only when something in the room makes him think about it.
+*For us:* this is why "standing there was how babies died" had to go. It was the author talking. And it is the rule for backstory: Fen can think about dance only when something in the room makes him think about it.
 
 Source: [a checklist for deep POV](https://dive-into-worldbuilding.blogspot.com/2011/11/a-checklist-for-deep-pov-in-1st-or-3rd.html).
 

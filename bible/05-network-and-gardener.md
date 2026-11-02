@@ -6,7 +6,7 @@ The deep antagonist is not a villain. It is a dying organism trying to live, and
 
 - **One organism, older than the island's name.** The largest living thing on Earth is a single honey fungus in Oregon, about 2,400 years old, spread across nine square kilometres underground. Ours is older, on a volcanic island, feeding on the chemistry of hot rock below the way deep-sea vent life lives without sunlight. It was here before people.
 - **A slow mind.** Fungi send electrical spikes through their mycelium in patterns researchers have compared to language. A network this size, running for thousands of years, is a brain the size of an island that thinks over decades. Not evil, not kind. Old and patient.
-- **It remembers.** Fungi decompose everything that dies. This one keeps the patterns of what it breaks down, like a library. Every person, animal and tree that ever died here is in it. The whispers [Nia](cast/nia.md) hears are not the network talking. They are the island's dead.
+- **It remembers.** Fungi decompose everything that dies. This one keeps the patterns of what it breaks down, like a library. Every person, animal and tree that ever died here is in it. The whispers [Kit](cast/kit.md) hears are not the network talking. They are the island's dead.
 - **Folklore is the fingerprint.** It has bloomed before, small. The island's old stories of children who vanished into the forest and came back wrong, feet turned backwards, and of people who became fire and flew at night, were survivors of earlier blooms. The grandmothers knew. Nobody listened. (Use the island's own folklore names sparingly; invent ours rather than borrowing Trinidad's wholesale.)
 
 ## Why now
@@ -25,8 +25,8 @@ The biggest bloom in a thousand years is not an attack. It is a drowning organis
 **To leave.** It cannot move. Its only chance is to be carried off the island in young bodies and keep growing somewhere else. The kids are seeds. The powers are the network making its carriers strong enough to survive the trip. That is why the plot bends the way it does:
 
 - **The adults sleep because the network is reading them,** not rejecting them. Decades of memory go into the library. It keeps them alive because it is not finished.
-- **The pull toward the ships.** The Shore kids who keep trying for the navy are being nudged. Shak's third attempt was not her idea.
-- **The quarantine is right.** The navy is not cruel. Someone out there has worked out what gets off the island if a boat gets through. [Kai](cast/kai.md) learns this on the radio, and it breaks something in him.
+- **The pull toward the ships.** The Shore kids who keep trying for the navy are being nudged. Zu's third attempt was not her idea.
+- **The quarantine is right.** The navy is not cruel. Someone out there has worked out what gets off the island if a boat gets through. [Fen](cast/fen.md) learns this on the radio, and it breaks something in him.
 - **Going to seed** is the network taking back a carrier that failed.
 
 The horror: the kids are being loved by something that needs them, which is a lot like being farmed.
@@ -43,9 +43,9 @@ A kid from the Hills who went to seed in the first weeks and did not die. Fully 
 
 1. **He is always right, and it costs them.** The medicine runs out when he said it would. The bedridden die the way he said. The rooted live. You cannot fight someone who keeps being correct.
 2. **People convert, and the converts enforce.** Judge cuts a deal with him. Trace kids who lose a parent to a bed death carry sleepers out through the gate at night. The willing root themselves alive, smiling. No one's hands are dirty.
-3. **The pull.** Not control, a pressure, like homesickness for somewhere you have never been. The Shore feels it first. Eventually [Tori](cast/tori.md) feels it.
+3. **The pull.** Not control, a pressure, like homesickness for somewhere you have never been. The Shore feels it first. Eventually [Sol](cast/sol.md) feels it.
 
-**The worst thing he does is an offer.** Late in the story he tells [Imani](cast/imani.md) she can hear Granny. All she has to do is sit in the garden and put her hands in the soil. The book's best villain scene has no violence in it.
+**The worst thing he does is an offer.** Late in the story he tells [Juno](cast/juno.md) she can hear Granny. All she has to do is sit in the garden and put her hands in the soil. The book's best villain scene has no violence in it.
 
 ## What stays unexplained
 

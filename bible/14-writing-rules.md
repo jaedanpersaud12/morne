@@ -33,11 +33,11 @@ These are the rules every chapter follows, so we never rewrite the book to fix t
 
 ## Shock, then drive
 
-- The collapse lands as shock first: real panic, real freezing, somebody being sick. Nobody is calm about it. Imani's calm is a performance she pays for in private.
+- The collapse lands as shock first: real panic, real freezing, somebody being sick. Nobody is calm about it. Juno's calm is a performance she pays for in private.
 - Then drive, immediately. The characters think ahead on the first night, not in chapter twenty: water for the sleepers, babies in cribs nobody is feeding, the hospital, old people alone, the little ones. They act on it the same night.
 - The story rewards thinking ahead and punishes not doing it. When someone forgets a crib, we see what that costs.
 - The Trace thinks about the whole island because that is what the theme says a community is. Looking only after your own street is the thing the Trace will later be tempted into, not where it starts.
-- Denial is real. People say "they'll wake up" and "someone will come by morning." Imani lets them, and plans anyway.
+- Denial is real. People say "they'll wake up" and "someone will come by morning." Juno lets them, and plans anyway.
 
 ## Grounded
 
@@ -50,25 +50,25 @@ These are the rules every chapter follows, so we never rewrite the book to fix t
 
 The six are so close their humour makes no sense to anyone else. Use it:
 
-- **Let an outsider be the lens.** Nia watches them laugh at something incomprehensible and feels shut out. The reader feels it with her. Slowly she learns the jokes, and so does the reader. By the end, the reader is in the group.
+- **Let an outsider be the lens.** Kit watches them laugh at something incomprehensible and feels shut out. The reader feels it with her. Slowly she learns the jokes, and so does the reader. By the end, the reader is in the group.
 - **Never explain a joke on the spot.** Let a reference float by. Two hundred pages later we learn where it came from. (The goat is not even a goat.)
 - **Make it a survival tool.** Over a radio the Harbour is listening to, the group can say things only they understand.
 - **Use it to measure damage.** When they stop joking, the reader knows things are bad. When one of them dies, a joke dies too. The first time someone makes it again is the moment the group starts to heal.
 
 ## Writing suicide and depression
 
-Never show method details. Focus on the before and after: the feeling of being cornered, and the slow work of coming back. Recovery is not one moment; Kai and Imani still have bad days. Never use it as a twist or a shock; reveal it the way a real friend would tell you. Keep hope visible: both of them are proof that people come back from the edge.
+Never show method details. Focus on the before and after: the feeling of being cornered, and the slow work of coming back. Recovery is not one moment; Fen and Juno still have bad days. Never use it as a twist or a shock; reveal it the way a real friend would tell you. Keep hope visible: both of them are proof that people come back from the edge.
 
-## Writing Tori's story
+## Writing Sol's story
 
 The fear of being cut off is real and specific to where she grew up. Let the reader sit in the risk with her before anyone's answer comes. Acceptance from the group should cost something and mean something, not arrive for free.
 
 ## Combat
 
-- Powers on the page do work before they do damage. If a chapter has Danny burn someone, it also has him weld something that morning.
+- Powers on the page do work before they do damage. If a chapter has Tock burn someone, it also has him weld something that morning.
 - A power is thirty seconds. Fights are short. Anything longer is cutlasses and bats and running.
 - Nobody is a superhero. No fireballs, no flight, no force fields. The twins are the only pair who look like a movie, and only together.
 - Guns end arguments. The Harbour has them. Write every Trace fight as a fight they are trying not to have.
-- Injuries last weeks and go to Imani. A fight in chapter twelve is a wound in chapter fifteen.
+- Injuries last weeks and go to Juno. A fight in chapter twelve is a wound in chapter fifteen.
 - The first time a kid kills with a power, something goes quiet in them for days. The network noticed.
 - Crews are weather. The protagonists see smoke, a price, a face at the gate. They rarely see the cause.

@@ -32,8 +32,8 @@ The friends say *we are what survives the fire.* The Gardener says *nothing has 
 
 ## What he wants from the friends
 
-[Nia](nia.md), because she can already hear it. [Imani](imani.md), because she is the one keeping the sleepers in beds. Late in the story he offers Imani Granny's voice. All she has to do is sit in the garden and put her hands in the soil.
+[Kit](kit.md), because she can already hear it. [Juno](juno.md), because she is the one keeping the sleepers in beds. Late in the story he offers Juno Granny's voice. All she has to do is sit in the garden and put her hands in the soil.
 
 ## In book one
 
-A rumour from the Hills. Then a name. Then a visitor at the gate, barefoot, asking for Nia by name, who has never met him.
+A rumour from the Hills. Then a name. Then a visitor at the gate, barefoot, asking for Kit by name, who has never met him.

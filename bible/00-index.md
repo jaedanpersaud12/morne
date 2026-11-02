@@ -13,7 +13,7 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 
 ## The people
 - [Cast overview](cast/_overview.md): depth tiers, who carries POV, the fault-line map
-- Main cast: [Imani](cast/imani.md), [Danny](cast/danny.md), [Micah](cast/micah.md), [Kai](cast/kai.md), [Asha](cast/asha.md), [Tori](cast/tori.md), [Lonny](cast/lonny.md), [Nia](cast/nia.md)
+- Main cast: [Juno](cast/juno.md), [Tock](cast/tock.md), [Olli](cast/olli.md), [Fen](cast/fen.md), [Lyra](cast/lyra.md), [Sol](cast/sol.md), [Lonny](cast/lonny.md), [Kit](cast/kit.md)
 - Antagonists: [Judge](cast/judge.md), [the Gardener](cast/gardener.md)
 - [Supporting cast](cast/supporting.md): everyone else, by place
 
@@ -39,10 +39,10 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 | Thing | Value |
 | --- | --- |
 | Quarry Trace | 9 houses, 16 adults, 13 kids (incl. the six), 1 under five on day zero; about 30 kids by the end of week one as the road comes up |
-| Dr. Ali's cupboard | 6 litres of IV fluid |
+| Dr. Moss's cupboard | 6 litres of IV fluid |
 | Sleeper breathing | 11 to 12 breaths a minute, pulse around 50, skin cool |
 | Morne Bay | about 15,000 people before the Sleep |
 | Island | about 20,000 people; about 6,000 kids; about 350 powered by end of year one (1 in 10 of the 10-to-19s) |
-| Trace powered | 8 of about 22 aged 10+ by month six (the six, Troy, the Lall girl); 4 real fighters |
-| Guns | about 40 on the island; the Harbour holds 20 to 25; the Trace has Winston's shotgun and 11 shells |
+| Trace powered | 8 of about 22 aged 10+ by month six (the six, Cass, the Nettle girl); 4 real fighters |
+| Guns | about 40 on the island; the Harbour holds 20 to 25; the Trace has Ambrose's shotgun and 11 shells |
 | Day zero | a Sunday in November, Sahara dust season out of season |

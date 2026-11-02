@@ -4,7 +4,7 @@ The island has a few hundred babies and toddlers and nobody can find them all. H
 
 ## Night one: denial
 
-Nobody knows how long this lasts. The working belief, said out loud by almost everyone, is that the adults will wake up, or that someone (government, coast guard, the hospital, the ferry) will come by morning. People act on that belief: they keep their parents comfortable and wait. [Imani](cast/imani.md) half believes it too. The difference is she plans for the other case anyway, quietly, in case.
+Nobody knows how long this lasts. The working belief, said out loud by almost everyone, is that the adults will wake up, or that someone (government, coast guard, the hospital, the ferry) will come by morning. People act on that belief: they keep their parents comfortable and wait. [Juno](cast/juno.md) half believes it too. The difference is she plans for the other case anyway, quietly, in case.
 
 ## What realistically happens in Morne Bay
 
@@ -15,7 +15,7 @@ Nobody knows how long this lasts. The working belief, said out loud by almost ev
 
 ## What the Trace can actually do on night one
 
-Its own one under-five (the Ramkissoon baby, 8 months), then the twelve houses on the road below the bend that they know by name. Not town. Town has to do town. Imani knows this and hates it. She writes *town?* in the notebook and leaves the question mark.
+Its own one under-five (the Pell baby, 8 months), then the twelve houses on the road below the bend that they know by name. Not town. Town has to do town. Juno knows this and hates it. She writes *town?* in the notebook and leaves the question mark.
 
 ## Who takes the kids with nobody
 

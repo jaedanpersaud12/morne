@@ -21,10 +21,10 @@ A fictional Caribbean island, Trinidad in flavour (heat, rainy season, hills, co
 
 | Place | What it is | What it has | Who holds it |
 | --- | --- | --- | --- |
-| Quarry Trace (south) | A dead-end road climbing the south hill to the old quarry, blasted twenty years ago and shut for six. Nine ordinary houses: concrete, galvanize roofs, burglar-proofing, black water tanks on stands, a couple with an upstairs still half-built and rebar sticking out of the roof. Bush and a ravine on both sides. One way in: the bend at the bottom. No wall, no gate. | Medicine (Dr. Ali's cupboard), water (every house's tanks, and the rainwater pond on the quarry floor), one generator, a medic, a view of everything, and a road you can only come up one way | [The six](cast/_overview.md) |
+| Quarry Trace (south) | A dead-end road climbing the south hill to the old quarry, blasted twenty years ago and shut for six. Nine ordinary houses: concrete, galvanize roofs, burglar-proofing, black water tanks on stands, a couple with an upstairs still half-built and rebar sticking out of the roof. Bush and a ravine on both sides. One way in: the bend at the bottom. No wall, no gate. | Medicine (Dr. Moss's cupboard), water (every house's tanks, and the rainwater pond on the quarry floor), one generator, a medic, a view of everything, and a road you can only come up one way | [The six](cast/_overview.md) |
 | Morne Bay (west) | The port town. 15,000 people. Coast road, two churches, gas station, ferry dock, fish market, warehouses, the ice plant, the clinic, the hospital, the police station, the mas camp warehouse. | Food (fish), boats, fuel, numbers, the hospital's stores, the police station's guns (12), four Lightning kids | [Judge](cast/judge.md) |
-| The Hills (north) | Villages up the valleys. Farms, standpipes, churches, forest. The deepest roots of the network. | Crops, land knowledge, the truth | Rooted village kids, Ezra |
-| The Shore (east) | Beach hotels, fishing shacks, wrecks, the lighthouse. | Salvage, boats, rumours from the ships | Nobody. Shak, the little ones |
+| The Hills (north) | Villages up the valleys. Farms, standpipes, churches, forest. The deepest roots of the network. | Crops, land knowledge, the truth | Rooted village kids, Moth |
+| The Shore (east) | Beach hotels, fishing shacks, wrecks, the lighthouse. | Salvage, boats, rumours from the ships | Nobody. Zu, the little ones |
 | The quarantine line | Navy ships on the horizon, drones overhead, a helicopter sometimes. | The outside world's eyes | The outside world |
 
 ## Quarry Trace, house by house
@@ -33,19 +33,19 @@ Nine houses, bottom to top. Working and middle-class families: a GP, a nurse's h
 
 | No. | Family | Notes |
 | --- | --- | --- |
-| 1 (the bend) | Pierre | Winston, a taxi driver (PH car, then a licensed H-car), and [Nia](cast/nia.md). Rented a two-room flat under the landlord's empty upstairs eight months ago, after Nia's mother left. The taxi lives in the yard. A licensed shotgun he bought after a robbery on a night fare, 11 shells, in a steel box under his bed; Nia wears the key on a cord. The Trace's only gun. First house anyone sees coming up. |
-| 2 | Ramkissoon | Yellow dog that barks at the gas truck. The baby, 8 months. |
-| 3 | Lall | Two kids, 12 and 9. The girl who cried too hard to talk. |
-| 4 | Ali | Dr. H. Ali, GP, clinic in town; the biggest house on the road and still an ordinary one. Mrs. Ali, verandah chair, Bible. Daughter Farah, 16. The cupboard: 6 bags of IV fluid. The downstairs front room becomes the ward. |
-| 5 | Achong | [Tori](cast/tori.md). Her parents run the small ice plant for the fishermen. Both on the couch in front of the cricket. |
-| 6 | Mohan | [Kai](cast/kai.md), [Asha](cast/asha.md). Mother in a hospital bed in the dining room, a night nurse on Sundays. Flat roof, satellite dish, a small hurricane-season generator in the garage, his father's boat radio. |
-| 7 | Baptiste | [Lonny](cast/lonny.md), Jaylen (11), their parents. The pickup. |
-| 8 | Clarke | [Imani](cast/imani.md), [Danny](cast/danny.md), [Micah](cast/micah.md), Granny Pearl. The balcony with the view. Door never open. |
-| 9 (the top) | Old Mr. Baptiste | 90, alone, by the old quarry gate. No relation to Lonny's family, which the whole road jokes about. |
+| 1 (the bend) | Wick | Ambrose, a taxi driver (PH car, then a licensed H-car), and [Kit](cast/kit.md). Rented a two-room flat under the landlord's empty upstairs eight months ago, after Kit's mother left. The taxi lives in the yard. A licensed shotgun he bought after a robbery on a night fare, 11 shells, in a steel box under his bed; Kit wears the key on a cord. The Trace's only gun. First house anyone sees coming up. |
+| 2 | Pell | Yellow dog that barks at the gas truck. The baby, 8 months. |
+| 3 | Nettle | Two kids, 12 and 9. The girl who cried too hard to talk. |
+| 4 | Moss | Dr. Hollis Moss, GP, clinic in town; the biggest house on the road and still an ordinary one. Mrs. Moss, verandah chair, Bible. Daughter Ida, 16. The cupboard: 6 bags of IV fluid. The downstairs front room becomes the ward. |
+| 5 | Finch | [Sol](cast/sol.md). Her parents run the small ice plant for the fishermen. Both on the couch in front of the cricket. |
+| 6 | Quill | [Fen](cast/fen.md), [Lyra](cast/lyra.md). Mother in a hospital bed in the dining room, a night nurse on Sundays. Flat roof, satellite dish, a small hurricane-season generator in the garage, his father's boat radio. |
+| 7 | Hale | [Lonny](cast/lonny.md), Bix (11), their parents. The pickup. |
+| 8 | Vale | [Juno](cast/juno.md), [Tock](cast/tock.md), [Olli](cast/olli.md), Granny Dot. The balcony with the view. Door never open. |
+| 9 (the top) | Old Mr. Hale | 90, alone, by the old quarry gate. No relation to Lonny's family, which the whole road jokes about. |
 
 ## The Trace over time
 
-It starts open: a road anyone can walk up. That is the point. Week one, the kids put Winston's taxi across the bend. Month two, after the Junction crew comes up at night, more cars. Months four to six, a wall: cars, galvanize off the half-built houses, tank stands, the quarry's old chain-link, and finally the quarry's steel gate, which Danny cuts and welds across the bend. The guard is whoever sits on the Pierre gallery. Gardens go in on the quarry floor. The rainwater pond becomes the reserve.
+It starts open: a road anyone can walk up. That is the point. Week one, the kids put Ambrose's taxi across the bend. Month two, after the Junction crew comes up at night, more cars. Months four to six, a wall: cars, galvanize off the half-built houses, tank stands, the quarry's old chain-link, and finally the quarry's steel gate, which Tock cuts and welds across the bend. The guard is whoever sits on the Wick gallery. Gardens go in on the quarry floor. The rainwater pond becomes the reserve.
 
 Nobody is born with a wall. They build it, one panel at a time, and every panel is a decision. The danger is that "protect what we have" slowly becomes "keep everyone else out."
 
@@ -53,7 +53,7 @@ Nobody is born with a wall. They build it, one panel at a time, and every panel 
 
 ## The road below the bend
 
-Twelve houses between the bend and the junction. The junction has the small gas station the Mohammed brothers' family ran; their crew holds it from month two ([07](07-powers-in-practice.md#named-crews-book-one)). The road is contested from then on. Miss Pauline. The Charles family. Lonny's girlfriend's street. These are the kids who come to the bend on night one. Not town; the road. The Trace's first responsibility beyond itself, and the first place it fails someone. Several of them, Troy among them, come up and stay.
+Twelve houses between the bend and the junction. The junction has the small gas station the Harker brothers' family ran; their crew holds it from month two ([07](07-powers-in-practice.md#named-crews-book-one)). The road is contested from then on. Miss Orla. The Lark family. Lonny's girlfriend's street. These are the kids who come to the bend on night one. Not town; the road. The Trace's first responsibility beyond itself, and the first place it fails someone. Several of them, Cass among them, come up and stay.
 
 ## Seasons
 
@@ -67,4 +67,4 @@ The island runs on the theme. Dry season fires burn things back; the rains bring
 
 ## Sounds and smells (for the prose)
 
-Dogs barking at the quiet. Corbeaux on the taxi roof. The generator at the Mohan house, the only engine on the island. A house with a sleeper in it. Soca from one radio, the same song, until the batteries die. The sea, which never stops.
+Dogs barking at the quiet. Corbeaux on the taxi roof. The generator at the Quill house, the only engine on the island. A house with a sleeper in it. Soca from one radio, the same song, until the batteries die. The sea, which never stops.

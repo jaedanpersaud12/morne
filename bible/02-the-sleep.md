@@ -20,19 +20,19 @@ That is what the kids will believe for most of book one. The deeper truth is in 
 
 ## The signs, on the day
 
-Day zero is a Sunday in November with Sahara dust in the air out of season. Adults nod off through the morning, wake slow, blame the dust. By mid-afternoon they stop waking. The last to go are the ones who were kept moving (Winston at the gate lasted until a quarter to five because Nia kept him on his feet). This matters: **activity delays it by hours, not days.** Nobody outran it.
+Day zero is a Sunday in November with Sahara dust in the air out of season. Adults nod off through the morning, wake slow, blame the dust. By mid-afternoon they stop waking. The last to go are the ones who were kept moving (Ambrose at the gate lasted until a quarter to five because Kit kept him on his feet). This matters: **activity delays it by hours, not days.** Nobody outran it.
 
-Animals know first. The corbeaux come down off the light poles and sit on the roof of Winston's taxi.
+Animals know first. The corbeaux come down off the light poles and sit on the roof of Ambrose's taxi.
 
 ## The age clock
 
-The friends are 16 to 17 at the start. Over two to three years they age into the danger zone. Every birthday is a threat: does the Sleep come, and does having a power protect you? [Imani](cast/imani.md), the oldest, is first in line, and she has no power.
+The friends are 16 to 17 at the start. Over two to three years they age into the danger zone. Every birthday is a threat: does the Sleep come, and does having a power protect you? [Juno](cast/juno.md), the oldest, is first in line, and she has no power.
 
 Rules we hold to:
 - It is not a hard birthday. It is a window, and nobody knows where their edge is.
 - Having a power seems to protect you. Nobody knows whether that is true or just what everyone hopes.
 - A second bloom (year three) rolls the dice again for everyone borderline.
-- Imani does not sleep at the age line. She awakens: Life/decay, at the cost of her own lifespan. Locked in [imani.md](cast/imani.md#her-power-locked). No hint of it before the siege.
+- Juno does not sleep at the age line. She awakens: Life/decay, at the cost of her own lifespan. Locked in [imani.md](cast/juno.md#her-power-locked). No hint of it before the siege.
 
 ## The boundary: a quarantine, not a dome
 
@@ -40,7 +40,7 @@ The outside world detects the outbreak within a day. Navy ships ring the island.
 
 What the kids see: ships that never come closer, a helicopter that circles and leaves, a boat from the Shore that gets too close and does not come back.
 
-What [Kai](cast/kai.md) hears on the radio, over months: the outside world knows more than the kids do, and the quarantine is not cruelty. See [05](05-network-and-gardener.md#what-it-wants).
+What [Fen](cast/fen.md) hears on the radio, over months: the outside world knows more than the kids do, and the quarantine is not cruelty. See [05](05-network-and-gardener.md#what-it-wants).
 
 ## Infrastructure, in order of failure
 
@@ -57,10 +57,10 @@ What [Kai](cast/kai.md) hears on the radio, over months: the outside world knows
 ## What the kids figure out, and when
 
 - **Night one:** it's only adults; it's the whole Trace; it's probably the whole island. 999 and the hospital don't answer.
-- **Day one:** it's the whole island. Other groups of kids exist (the Harbour, via Kai's radio).
+- **Day one:** it's the whole island. Other groups of kids exist (the Harbour, via Fen's radio).
 - **Week one:** sleepers can be kept alive for a while; bedridden ones start dying by week two; the first rooted sleeper lives.
 - **Month one to three:** rooted sleepers survive. The Hills know something.
-- **Month three onward:** the network, piece by piece, mostly from Ezra and Nia. See [05](05-network-and-gardener.md).
+- **Month three onward:** the network, piece by piece, mostly from Moth and Kit. See [05](05-network-and-gardener.md).
 - **Never fully:** whether the sleepers dream, and what wakes.
 
 ## How many awaken

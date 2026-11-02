@@ -21,12 +21,12 @@ Each one is a real body system pushed past its limit. That is what keeps it grou
 
 | Element | Body system | Typical mark | Cost of overuse | Who has it |
 | --- | --- | --- | --- | --- |
-| Fire | Metabolism: burning fat and sugar as fuel | Loss, anger, shame | Starvation, fevers, wasting | [Danny](cast/danny.md) |
-| Water | Fluid pressure: moisture from body and air | Grief, adapting, hiding | Dehydration, kidney failure | [Tori](cast/tori.md) (ice), [Judge](cast/judge.md) (the sea) |
+| Fire | Metabolism: burning fat and sugar as fuel | Loss, anger, shame | Starvation, fevers, wasting | [Tock](cast/tock.md) |
+| Water | Fluid pressure: moisture from body and air | Grief, adapting, hiding | Dehydration, kidney failure | [Sol](cast/sol.md) (ice), [Judge](cast/judge.md) (the sea) |
 | Earth | Minerals: calcium and iron, densifying bone | Endurance, being held down, hunger | Brittle bones elsewhere, enormous calorie burn | [Lonny](cast/lonny.md) |
-| Air | Lungs, gas pressure, momentum | Fear, suffocation, being unheard | Oxygen debt, blackouts | [Kai](cast/kai.md) and [Asha](cast/asha.md) (flow), Shak |
-| Lightning | Nervous system (the body already runs on electricity) | Sudden shock | Nerve damage, seizures | Dev |
-| Life / decay | Cell growth and death. The rarest. The circle of life as an element. | Witnessing death, caretaking, the edge | Your own lifespan | [Nia](cast/nia.md), Ezra, [the Gardener](cast/gardener.md) (all six, faintly), [Imani](cast/imani.md) at the age line |
+| Air | Lungs, gas pressure, momentum | Fear, suffocation, being unheard | Oxygen debt, blackouts | [Fen](cast/fen.md) and [Lyra](cast/lyra.md) (flow), Zu |
+| Lightning | Nervous system (the body already runs on electricity) | Sudden shock | Nerve damage, seizures | Dax |
+| Life / decay | Cell growth and death. The rarest. The circle of life as an element. | Witnessing death, caretaking, the edge | Your own lifespan | [Kit](cast/kit.md), Moth, [the Gardener](cast/gardener.md) (all six, faintly), [Juno](cast/juno.md) at the age line |
 
 ## The one rule that makes it grounded
 
@@ -34,7 +34,7 @@ Each one is a real body system pushed past its limit. That is what keeps it grou
 
 Practical consequences the book must honour:
 - A powered kid eats two to three times what a normal kid eats. See [13](13-resources-and-roles.md#food).
-- A big use leaves a kid shaking, cold, and starving. Danny after welding a gate cannot stand for an hour.
+- A big use leaves a kid shaking, cold, and starving. Tock after welding a gate cannot stand for an hour.
 - Nobody can keep it up. Powers are for moments, not for living.
 
 ## Where it comes from
@@ -52,7 +52,7 @@ Like puberty. Uneven, scary, embarrassing, uncontrolled. Some kids early, some l
 - **First signs are small and deniable.** A glass of water that comes out cold. A boy who doesn't bruise. A girl who stops a fan with her breath and doesn't notice.
 - **Onset over weeks.** The first obvious use is usually an accident under stress.
 - **Control takes months** and is never total.
-- **Awakening order in the Trace:** Tori (ice, night one, deniable), Danny (heat, week one), Lonny (strength, week one to two), Nia (she already heard the ground on night one; plants by week two), Kai and Asha (month two to three, and nobody expects the dance), Troy (Earth, month three), the Lall girl (Water, finds water underground, month five).
+- **Awakening order in the Trace:** Sol (ice, night one, deniable), Tock (heat, week one), Lonny (strength, week one to two), Kit (she already heard the ground on night one; plants by week two), Fen and Lyra (month two to three, and nobody expects the dance), Cass (Earth, month three), the Nettle girl (Water, finds water underground, month five).
 
 ## Rules we can use later
 
@@ -60,8 +60,8 @@ Like puberty. Uneven, scary, embarrassing, uncontrolled. Some kids early, some l
 - **Powers mutate.** New trauma can shift a manifestation. A healer who starts fighting may find her gift turning to rot.
 - **Going to seed.** Push too far and the network takes you completely. You become part of the island. The Gardener is the one who survived it.
 - **Echoes.** A dead kid's power can resurface in someone else, carrying fragments of memory. The person who inherits the power of someone the group lost, or someone the group killed.
-- **Real chemistry combos.** Lightning splits water into hydrogen and oxygen; add fire and it explodes. Ice colliding in clouds builds charge, so Tori's ice strengthens a storm. Teamwork has physical rules.
-- **Linked powers.** Twins or very close pairs can share a loop (see [Kai](cast/kai.md) and [Asha](cast/asha.md)). Rare, and the network seems to like it.
+- **Real chemistry combos.** Lightning splits water into hydrogen and oxygen; add fire and it explodes. Ice colliding in clouds builds charge, so Sol's ice strengthens a storm. Teamwork has physical rules.
+- **Linked powers.** Twins or very close pairs can share a loop (see [Fen](cast/fen.md) and [Lyra](cast/lyra.md)). Rare, and the network seems to like it.
 
 ## What a power says about a person (manifestation examples)
 

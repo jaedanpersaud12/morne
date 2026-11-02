@@ -1,4 +1,4 @@
-# Danny Clarke, 16
+# Tock Vale, 16
 
 **Element: Fire. Depth tier 3.**
 
@@ -8,9 +8,9 @@ Granny called his anger sinful, something to pray out of him. He half believes i
 
 ## Who he is
 
-Imani's younger brother. Built like a fire hydrant, buzz cut, a white nick through his left eyebrow from a fete at fourteen. Hot-headed, loose, fights anyone who disrespects his people, and the first to have your back. He comes to everything that scares him angry. When he goes still, that is the worst sign.
+Juno's younger brother. Built like a fire hydrant, buzz cut, a white nick through his left eyebrow from a fete at fourteen. Hot-headed, loose, fights anyone who disrespects his people, and the first to have your back. He comes to everything that scares him angry. When he goes still, that is the worst sign.
 
-He was the one who walked past the Ramkissoons' crib on night one, and the one who went back.
+He was the one who walked past the Pells' crib on night one, and the one who went back.
 
 ## Power
 
@@ -20,14 +20,14 @@ He cannot throw fire. Heat builds inside him with emotion. Angry, it explodes ou
 
 ## Fault line
 
-Danny vs. himself. Is his power a sin or a gift? Who does he hurt first, and is it on purpose?
+Tock vs. himself. Is his power a sin or a gift? Who does he hurt first, and is it on purpose?
 
 ## Relationships
 
-- [Imani](imani.md): she can talk him down. Nobody else can.
+- [Juno](juno.md): she can talk him down. Nobody else can.
 - [Lonny](lonny.md): his partner on every run. The muscle and the heat.
-- [Micah](micah.md): Danny is the fun one. Micah copies his walk.
-- The Ramkissoon baby: he carried her for twenty minutes and wouldn't give her over. She is his, in a way nobody says out loud.
+- [Olli](olli.md): Tock is the fun one. Olli copies his walk.
+- The Pell baby: he carried her for twenty minutes and wouldn't give her over. She is his, in a way nobody says out loud.
 
 ## Open
 

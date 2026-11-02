@@ -24,7 +24,7 @@ About a hundred kids by month six who won't join anyone: crews of three to eight
 | Hills | about 130 | a handful | a few | Won't fight. Roots what dies there. |
 | Crews | about 15 | all of them | 3 or 4 | Can't hold anything. Can take anything that isn't guarded tonight. |
 
-The Trace's politics follow from that table: it survives by being worth more alive (Imani's hands, Tori's ice) than it would cost to take. See [07](07-powers-in-practice.md#combat).
+The Trace's politics follow from that table: it survives by being worth more alive (Juno's hands, Sol's ice) than it would cost to take. See [07](07-powers-in-practice.md#combat).
 
 ## The three questions every faction splits on
 
@@ -38,10 +38,10 @@ See [13](13-resources-and-roles.md) for the full ledger. The short version:
 
 - **Food.** Powers burn calories, so whoever controls food controls who can fight. The Harbour holds the fish. The Hills hold the crops. The Trace holds neither, which is its weakness.
 - **Fuel.** The Harbour holds the gas station and the fishing fleet's diesel. Without fuel, no generators, no boats, no trucks. The Trace's generators die in weeks without a deal.
-- **Ice.** [Tori](cast/tori.md) can preserve food and medicine. Every faction wants her.
+- **Ice.** [Sol](cast/sol.md) can preserve food and medicine. Every faction wants her.
 - **Medicine.** The Trace's cupboard. The hospital in town, which the Harbour holds and nobody knows how to use.
 - **Fresh water.** The Trace's tanks and the quarry pond versus the Harbour's dead mains and the Hills' streams.
-- **Information.** [Kai](cast/kai.md)'s radio. He knows what the outside world is saying before anyone else, and he's the only line to Judge.
+- **Information.** [Fen](cast/fen.md)'s radio. He knows what the outside world is saying before anyone else, and he's the only line to Judge.
 
 ## How power shifts over three years
 
@@ -55,7 +55,7 @@ Write these as ripples, not events. The protagonists see smoke, a price, a face 
 
 - A generator running all night on the hill tells the whole island who has fuel. (Night one.)
 - One box of antibiotics traded to the Harbour sets the price of medicine for a year.
-- Tori freezing a fish hold for Judge makes her the most valuable person on the island and puts a target on the Trace.
+- Sol freezing a fish hold for Judge makes her the most valuable person on the island and puts a target on the Trace.
 - A rooted sleeper living when a bedridden one dies empties a faction.
 - A boat sunk at the quarantine line ends the "rescue is coming" faction overnight.
 - The day the Trace turns away a five-year-old is the day it stops being the good guys to everyone outside.
@@ -66,15 +66,15 @@ Write these as ripples, not events. The protagonists see smoke, a price, a face 
 
 | Domain | Who | Why it's theirs |
 | --- | --- | --- |
-| The sleepers and medicine | [Imani](cast/imani.md) | The books, the table in her head |
-| The gate, the wall, the runs outside | [Danny](cast/danny.md) and [Lonny](cast/lonny.md) | Heat and muscle; they are the ones who go out |
-| Power, radio, Judge | [Kai](cast/kai.md) | The generator, the handheld, the only line to town |
-| The little ones and morale | [Asha](cast/asha.md) | Loud, patient, impossible to ignore |
-| Food and cold | [Tori](cast/tori.md) | Ice turns a day's fish into a week's food |
-| The ground, the Hills, Ezra | [Nia](cast/nia.md) | The only one who hears it |
+| The sleepers and medicine | [Juno](cast/juno.md) | The books, the table in her head |
+| The gate, the wall, the runs outside | [Tock](cast/tock.md) and [Lonny](cast/lonny.md) | Heat and muscle; they are the ones who go out |
+| Power, radio, Judge | [Fen](cast/fen.md) | The generator, the handheld, the only line to town |
+| The little ones and morale | [Lyra](cast/lyra.md) | Loud, patient, impossible to ignore |
+| Food and cold | [Sol](cast/sol.md) | Ice turns a day's fish into a week's food |
+| The ground, the Hills, Moth | [Kit](cast/kit.md) | The only one who hears it |
 
-Decisions that cross domains get made in the Clarkes' kitchen, by the six, arguing. The goat is how they argue.
+Decisions that cross domains get made in the Vales' kitchen, by the six, arguing. The goat is how they argue.
 
-**The pressure from outside is that someone must be in charge.** Judge wants a name to deal with. The kids at the bend ask for the doctor. Troy and the older boys ask why one friend group decides for thirty kids, and the honest answer is that nobody else was in the kitchen on night one. Everyone lands on Imani because she was in the paper. She keeps trying to carry it. The friends keep taking it off her. That tension is Imani's arc and the Trace's politics at the same time.
+**The pressure from outside is that someone must be in charge.** Judge wants a name to deal with. The kids at the bend ask for the doctor. Cass and the older boys ask why one friend group decides for thirty kids, and the honest answer is that nobody else was in the kitchen on night one. Everyone lands on Juno because she was in the paper. She keeps trying to carry it. The friends keep taking it off her. That tension is Juno's arc and the Trace's politics at the same time.
 
-**Troy's complaint is sharper than "why her":** *why them?* Six friends who were a group before the Sleep now run a road of thirty, and the other twenty-four never chose it. He is right about that, which is why the Gardener gets to him first.
+**Cass's complaint is sharper than "why her":** *why them?* Six friends who were a group before the Sleep now run a road of thirty, and the other twenty-four never chose it. He is right about that, which is why the Gardener gets to him first.
