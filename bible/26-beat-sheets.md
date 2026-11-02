@@ -368,3 +368,178 @@ The siege falling in the rains is why Sol's frozen road works. Juno's birthday a
 **Must land:** the twitch. The grandmother's voice out of a boy's mouth. Kit's name.
 **Pays:** Moth (ch 9). **Plants:** the Gardener, his interest in Kit, Moth's doubt ("Moth and the Gardener disagree, quietly", [17](17-book-one-outline.md#parallel-stories-the-world-off-page)).
 **Who knows:** the reader. None of the six.
+
+## Movement 4: the turn (ch 21–27, months 6–10)
+
+## Chapter 21 — Kit — working title "Third Time"
+
+**When:** month 7, the rains coming back. **Length:** about 3,000 words.
+**What it does:** the hope that someone is coming dies, on the island and on the Trace, in one night. Kit sees what it costs Juno to be the one who knew.
+**Where Kit is:** fifteen, Ambrose threaded to the shoulder now. Hasn't spoken to Juno in six months. Open with Fen. Moth comes to the gate more often, always right.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. Zu | First rain in six months, the whole Trace out in it with pots. Zu at the gate, soaked, a Shore girl the Trace has only heard of. Her story: the Lighthouse kids took her boat and her route to the ships. She tried to stop them; they left her on the rocks. She saw the lights come on at the quarantine line and heard it. They didn't come back. Half of it is true, and Kit can't tell which half. | Zu, the island's unreliable newspaper ([supporting](cast/supporting.md#the-shore)). Her third attempt wasn't her idea. |
+| 2. The road hears | The story goes down the road like the rain. The kids who still cheered the ship on day 7 (Olli, the Nettle boy, half the road) want to know if it's true. They look at Juno. Juno, at the gate, says what Fen told her in ch 11: "They stop boats. They're not coming." Kit watches her say it and sees the steady face, the one that only means something is badly wrong. Kit knows the face from ch 1. | The rescue faction dies in a night ([17](17-book-one-outline.md)). Juno pays for her second kept thing in public. |
+| 3. Olli | That night Olli comes down to the yard, to Kit, because Juno's door is shut. He sits by Ambrose and asks Kit if the dead go anywhere. She tells him the truth: they go in the ground and she can hear them, a little. It's the first time she's said it out loud. Olli isn't frightened. He's relieved. Kit sends him back up before Juno misses him and doesn't sleep. | Kit says it out loud for the first time, to a child. Her surprise: the dead are comforting. Olli as the bridge between Juno and Kit. |
+
+**Must land:** the first rain. Juno's "They're not coming." Olli's relief.
+**Pays:** "somebody's coming" (ch 6), the ship cheered (ch 6), Juno's knowledge of the quarantine (ch 10–11), Olli believing anything in the bored voice (ch 2). **Plants:** Zu; Olli as the go-between; Kit's hearing said out loud.
+**Who knows:** the road knows boats are stopped. Olli knows Kit hears the dead.
+
+## Chapter 22 — Fen — working title "Carriers"
+
+**When:** month 7, a week. **Length:** about 3,000 words.
+**What it does:** Fen learns the quarantine is right and why. This time he tells Juno before anyone else. That mends them.
+**Where Fen is:** his mother in the garden since ch 18, his father still in the hall. Listening to the scientist every night since ch 19 and keeping "carriers" to himself.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. What leaves | The scientist, talking to someone senior. In pieces over three nights Fen gets it: the spores are in the kids, not just the soil. Anyone off the island carries it. If one boat gets through, the Sleep goes with it. "Every adult on a continent." The quarantine isn't cruelty. It's arithmetic. | The radio: the quarantine is right ([17](17-book-one-outline.md)). Someone out there knows what leaves if a boat gets through. |
+| 2. The name | On the third night the scientist reads from a list of people pressing the government: families abroad. *Vale, Desmond. Toronto.* (The first name is new; change it freely.) Fen writes it down. Juno's father hasn't stopped calling. | Juno's father: a name the scientist says on the channel ([17](17-book-one-outline.md#side-arcs-under-the-main-plot)). |
+| 3. Telling her first | Before Lyra, before Kit, before the kitchen: Fen climbs to the Vales' gallery at midnight and tells Juno everything, the carriers, the boats, her father's name. He doesn't apologise for night one or the ship (he never does, [17](17-book-one-outline.md#cost-audit-for-ch-1-to-8-what-each-turn-cost-and-whether-the-bill-has-come)). He just tells her first. She takes the paper with her father's name on it. She doesn't cry. She says "Thank you" and means the whole year. | His need: the true thing to the person it belongs to, first ([cast/fen](cast/fen.md)). The Juno–Fen break mends ([09](09-relationships.md#juno-and-fen-the-edge)). |
+
+**Must land:** "Every adult on a continent." *Vale, Desmond.* "Thank you."
+**Pays:** Fen's whole secrets ledger, the voicemail she hung up on (ch 2), "carriers" (ch 19). **Plants:** the Gardener wants seeds off the island ([cast/gardener](cast/gardener.md#what-he-does-about-it)), so a boat is now the worst thing anyone could build; Juno's father as a book-two thread.
+**Who knows:** Juno and Fen know why the quarantine is right. Nobody else yet.
+
+## Chapter 23 — Juno — working title "Gate"
+
+**When:** month 8, two weeks. **Length:** about 3,000 words.
+**What it does:** Cass converts and starts carrying sleepers out of the Trace at night to the Gardener's people. The beds empty. Lyra has to choose.
+**Where Juno is:** mended with Fen, still not speaking to Kit. Granny's pauses long enough that Juno times them. The ward is down to the families who haven't gone to the ground.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. Three beds | Morning turn: three beds empty, the families gone with them. No note. Mud on the floor, bare footprints. The road says the Hills took them. Cass is calm at the table. He doesn't lie when Juno asks; he says they asked him. "They wanted their mothers to live." | Cass converts ([17](17-book-one-outline.md)). Three the first time. He's the Gardener's man inside the walls, and half right. |
+| 2. Mr. Quill | Cass offers to take Mr. Quill too, the sleeper nobody decided about. "Nobody's turning him but Fen." Fen says no. Cass says Fen doesn't get to decide for Lyra. Lyra finds out what Cass has been doing through Fen, at night, in the hall. She stands between her father's bed and the door. | The sleeper still being fought over. Lyra chooses her twin ([17](17-book-one-outline.md)). |
+| 3. The kitchen | Juno calls everyone in. She expects to win. She lays it out: we don't know what they become, we can't take it back. Cass answers with his mother's grave. Half the kitchen agrees with him. Nobody votes. Juno realises it was never hers to decide, and that she has been deciding anyway since ch 10. She doesn't stop Cass. She says the gate is shut at night. Cass says, "For now." | Juno's lie (she has to do it alone) meeting the Trace's no-leader politics ([08](08-factions-and-politics.md)). She loses the argument the book says she's losing, slowly. |
+
+**Must land:** bare footprints. Lyra between the bed and the door. Cass's "For now."
+**Pays:** Cass's mother (ch 11), "why do six decide for thirty" (ch 11), Mr. Quill (ch 18), Juno's ban (ch 10). **Plants:** the gate at night (ch 24, ch 28), Cass as the man who opens it, Lyra's loss of Cass.
+**Who knows:** the whole Trace knows Cass carries sleepers out. The Junction gets the first three before the Hills do ([17](17-book-one-outline.md#parallel-stories-the-world-off-page)); the Trace doesn't know that.
+
+## Chapter 24 — Tock — working title "Weld"
+
+**When:** month 9, one week. **Length:** about 3,000 words.
+**What it does:** the Harbour wants the Trace's medicine. Tock makes the Trace a fort in a week and, for the first time, the heat makes him happy.
+**Where Tock is:** Vee walking now. Ida the only person who talks to him straight. His sister mended with Fen, broken with Kit, and tired in a way he can see.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. Fairly | Nell at the gate, no cart this time, three dock boys behind her. Judge's terms: the Trace's medicine moves to the fish market, under Nell's ledger, shared "fairly," and Juno comes with it. A week to answer. Juno says no before the kitchen meets, and then the kitchen says no too, which surprises her. | Judge demands the pharmacy "fairly" ([17](17-book-one-outline.md), [10](10-conflicts.md)). |
+| 2. The gate | Tock and the garage apprentices' torch, gas from the Gas Truck, scrap from the road houses' gates. But the torch runs out and Tock finishes with his hands, and the metal goes the colour he wants, and he is calm the whole time. He thinks of nothing at all. For a week he welds the Trace shut: the bend, the quarry track, the back gardens. The Trace becomes a fort. | Tock's surprise: pride and joy in making ([cast/tock](cast/tock.md)). Calm heat, finally. |
+| 3. Ida and the quarry | The quarry floor dug into a garden (the boy who grows plants an inch a day, if you want him, came up with the road families). The ward moves inside the new wall, bed by bed. Ida won't move her father. Dr. Moss stays in his hall, outside the inner wall. Tock says he'll weld a door into the wall by the Mosses' instead. It takes him all night. Ida brings him water and says nothing about sin. | Ida refuses to leave her father's bed ([17](17-book-one-outline.md)). Tock and Ida, quietly. |
+
+**Must land:** the metal going the right colour and Tock calm. A door made for one girl's father.
+**Pays:** Tock's heat as a sin (ch 7), Juno's "how hot" (ch 7), the barricade (ch 2, ch 12), Ida (ch 7). **Plants:** the glowing gate (ch 25), the quarry garden (the Trace can be starved, [07](07-powers-in-practice.md#escalation-over-three-years)), Ida's last bed (ch 29).
+**Who knows:** the Harbour knows the Trace said no, and knows about the wall, from Ears.
+
+## Chapter 25 — Juno — working title "Wire"
+
+**When:** month 9 or 10, wet season, siege night one. **Length:** about 3,500 words.
+**What it does:** the Harbour comes up the hill with guns. Every power on the Trace in one night. Kit fires the shotgun once. Juno runs the dying room and argues with Judge across a wall.
+**Where Juno is:** her birthday close. Granny still in a bed inside the wall. Kit still not speaking to her.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. Dusk | Rain all day; the road below the bend a river of mud. Thirty dock boys up the road with Judge's guns, Dax among them. Judge himself at the foot of the gate, under an umbrella someone holds for him. He calls up for Juno by name. She goes to the wall. They talk like they're across the fish market table: the numbers, kids fed. He's right about the number. She says no. | The siege ([07](07-powers-in-practice.md#the-four-fights-of-book-one)). Personal because they understand each other ([cast/judge](cast/judge.md)). |
+| 2. The night | Short, broken, in Juno's lists. Dax's lightning on the wire. Tock's gate glowing so nobody touches it. Sol, who won't, does: the wet road freezes and the dock boys go down. The twins on the wall. Lonny in the gap, because Bix is inside. Kit with the shotgun on the gallery roof; one shot, at a dock boy coming over the back wall with a lit bottle. She doesn't hit him, and he drops the bottle and runs. Ten shells. | All eight powers, one shotgun ([07](07-powers-in-practice.md)). The eleven shells, fired once. Fights are short and ugly ([14](14-writing-rules.md#combat)). |
+| 3. The dying room | Juno in the ward with the wounded: a road boy cut with a cutlass, a dock boy with a frostbitten face they carried in, because he's a kid. She works on both. Near dawn the dock boys pull back, and smoke rises from the road below: the road houses are on fire. Lonny is gone down the hill before anyone can say his name. | The Trace holds night one, and the cost moves to the road. Reconciles [07](07-powers-in-practice.md) ("Lonny holding the gap") with [17](17-book-one-outline.md) ch 26 ("Lonny gone"). |
+
+**Must land:** Judge saying her name across the wall. Sol choosing to. Ten shells. The smoke on the road.
+**Pays:** the eleven shells (ch 9), Sol "won't, until she will" ([07](07-powers-in-practice.md)), Tock's gate (ch 24), Juno and Judge (ch 8, ch 19). **Plants:** Lonny gone, the frostbitten dock boy in the Trace's ward, Judge's loss.
+**Who knows:** the Harbour knows the Trace can be hurt only by fire and hunger.
+
+## Chapter 26 — Kit — working title "Holding"
+
+**When:** siege night two. **Length:** about 3,500 words.
+**What it does:** Kit holds the hill on the worst night, and somebody from the Trace dies. The Trace wins, and the win is worth nothing.
+**Where Kit is:** ten shells. Ambrose's eyes opening under the lids in the yard, which is outside the inner wall now. Fen on the wall. Lonny on the road. Juno inside.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The yard | Kit won't come inside the wall, because Ambrose is outside it. She sits by him with the gun across her knees in the dark. The dock boys come round the back, through the yard, because they know it's open (Ears). She puts her hand on a dock boy's cutlass as he lifts it and means it, and the blade rots and falls off the handle. He runs. The dead in the ground are loud tonight, all of them, and they don't like it. | Kit's power in a fight: rot, if she touches and means it, and the dead don't like it ([07](07-powers-in-practice.md#what-each-power-does-in-a-fight)). Her POV on the night somebody dies ([cast/kit](cast/kit.md)). |
+| 2. The stray | Inside the wall, a dock boy's gun goes off at nothing, panicking in the rain. Bix, eleven, carrying water to Tock at the gate. Kit hears it before anyone tells her: something new in the ground, small and frightened, saying Tock's name. | Bix dies (proposed, [16](16-open-questions.md)). Kit hears him go into the ground. The cost of her power at its worst. |
+| 3. Morning | The Harbour pulls back at first light, because Judge stops it. The Trace has won. Nobody cheers. Lonny comes up the road black with smoke and goes straight to the lime tree. He digs the third grave there alone; nobody offers to help, because they know he doesn't need it. Kit stands at the edge with Tock. Tock hasn't said a word. Kit says, "He's not scared now," and Tock looks at her like he's going to hit her, and then he doesn't, and he asks her how she knows. | The win is worth nothing ([17](17-book-one-outline.md)). Lonny back to bury his brother. Three graves under the lime tree, all dug by a Hale. |
+
+**Must land:** the cutlass rotting. Bix saying Tock's name in the ground. Three graves.
+**Pays:** Bix attached to Tock (ch 1–), the lime tree graves (ch 5, ch 11), Lonny's strength (ch 11), Ambrose outside the wall (ch 24). **Plants:** Kit's hearing as a thing Tock now wants, Lonny back (and whether Wren comes inside, open), Judge's walk north.
+**Who knows:** Tock knows Kit can hear the dead. **Open:** who dies (Bix is the proposal; [16](16-open-questions.md)).
+
+## Chapter 27 — Interlude: Judge — working title "Ledger"
+
+**When:** the week after the siege. **Length:** about 1,500 words, two scenes.
+**What it does:** the strongman after his first loss. Nell questions him. He walks north to meet the Gardener.
+**Where Judge is:** his number was wrong. Three dock boys dead or hurt, one frostbitten in the Trace's ward, and no medicine.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The market | The fish market at night. Nell counting: fish, shells, boys. Cookie feeding the wounded, both sides, the Trace's frostbitten boy sent back down with a note in Juno's hand about his face. Big Hob tries to lift a crate and can't. Nell asks Judge, for the first time, why. He has a number for it. She asks again. He doesn't. | Nell questions Judge for the first time ([17](17-book-one-outline.md#parallel-stories-the-world-off-page)). Big Hob can't lift. |
+| 2. North | From the end of the dock he can see one lit window on the hill. He watches it a long time. He's never been up there and never will be asked. In the morning he walks north alone, barefoot because the Hills kids are, to meet the boy everyone says can bring your father back. | His envy and loneliness ([cast/judge](cast/judge.md#open-questions): option A). The strongman and the saint. |
+
+**Must land:** Nell asking twice. The lit window.
+**Pays:** the lit house (ch 3), Juno's note on the frostbite (ch 25), Big Hob fading. **Plants:** Judge and the Gardener; the Harbour's rows of rooted sleepers (movement 5, off-page).
+**Who knows:** the reader.
+
+## Movement 5: the garden (ch 28–30, months 10–12)
+
+## Chapter 28 — Kit — working title "Voice"
+
+**When:** month 11. **Length:** about 3,000 words.
+**What it does:** the Gardener comes to the Trace. He asks for Kit by name and offers her father's voice. He tells Juno nobody has to die. Fen and Kit want opposite things for the first time.
+**Where Kit is:** Ambrose's eyes open now, tracking nothing. Tock comes to the yard at night to ask her if Bix is all right. She tells him yes.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. Barefoot | Dawn. A boy at the welded gate, barefoot, with threads at his hairline and wrists that people take for scars. Moth a step behind, not quite with him. He asks for Kit Wick by name. He has never met her. Cass is on the gate. | A visitor at the gate, barefoot, asking for Kit by name ([cast/gardener](cast/gardener.md#in-book-one)). |
+| 2. Her father's voice | Through the bars he speaks in Ambrose's voice, the ch 1 voice: the goat, the dust, "Kit, you see your mother's card?" Kit's knees go. Ambrose in the yard turns his head toward the gate. Fen wants the gate shut now. Kit wants it open. It's the first time they've wanted opposite things, and they both say so out loud. Cass has his hand on the bolt. | What he offers her: her father's voice ([17](17-book-one-outline.md)). Fen and Kit's first split ([cast/fen](cast/fen.md)). |
+| 3. Through the bars | Juno comes down. The Gardener speaks to her in his own voice, which is soft. He doesn't offer her anything yet. He says what he believes: "Nobody has to die. You know that. You've been keeping them in beds for a year." He says Granny is tired. Then he goes, and Moth stays a moment and tells Kit, quietly, that it's true and it isn't. Kit and Juno stand on the same side of the gate and still don't speak. | What he says to Juno through the bars: nobody has to die ([cast/juno](cast/juno.md)). Moth and the Gardener disagree, quietly. |
+
+**Must land:** Ambrose turning his head. "Kit, you see your mother's card?" Kit and Juno on the same side of the gate.
+**Pays:** Moth (ch 9, ch 20), the whispers knowing her name (ch 9), Cass and the gate (ch 23), Kit's mother's card (ch 1). **Plants:** the Gardener's offer to Juno (book two), Moth as Kit's guide.
+**Who knows:** everyone saw. Kit knows her father heard.
+
+## Chapter 29 — Juno — working title "The Other End"
+
+**When:** month 12, one night. **Length:** about 3,000 words.
+**What it does:** the book's argument resolved by an act, not an answer. Juno carries Granny to the garden and can't do it alone. Tock takes the other end. Kit finds them.
+**Where Juno is:** a year of her own hands on Granny. The pauses now longer than the breaths. Hers is one of the last beds in the Trace, with Ida's. Her birthday in days.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The table | Midnight in the Vales' kitchen. Juno at Granny's mahogany table, the two handprints in it, her exercise book, a year of numbers. She does the arithmetic one last time: Granny is worse with a year of water than Mr. Hale was with none. She closes the book. The last thing she looks at is the handprints. | Granny's kitchen table, the last thing Juno looks at ([19](19-imagery-and-threads.md)). The cost audit's fix, paid in full. |
+| 2. Carrying | She lifts Granny alone. Five feet tall, nothing left of her, and Juno still can't. She gets as far as the steps and sits down with Granny across her knees and doesn't get up, longer than thirty seconds. Tock is there; he's been awake. He doesn't say anything. He takes the other end. They carry her down the garden together, past the lime tree, past three graves. | Letting herself be carried, once ([cast/juno](cast/juno.md)). Tock helps put the woman who called him sinful into the ground. |
+| 3. Kit | At the bottom of the garden the soil is already turned. Kit is kneeling there in the dark. She heard them coming, or she heard something else. Nobody explains. Kit shows them how to lay her: on her side, cushion under her head, the way Juno taught everyone. Juno kneels next to Kit. Neither of them says sorry. Juno says, "Morning, Kit," because it nearly is. | The thing she wanted all year and couldn't do by herself, in one scene ([17](17-book-one-outline.md)). It mends with an act ([09](09-relationships.md#juno-and-kit-the-argument)). Pays the missing "Morning, Kit" (ch 10). |
+
+**Must land:** the handprints. More than thirty seconds on the step. "Morning, Kit."
+**Pays:** almost everything: the bag over Mr. Hale (ch 5), the turning rule (ch 2), the cushion (ch 1), the ban (ch 10), the handprints (ch 7), the thirty seconds (ch 2), the envy (Juno kneeling where Kit is, not above her). **Plants:** Ida's last bed: hers is now the only one, and her father is alive ([17](17-book-one-outline.md#side-arcs-under-the-main-plot)), the counter-argument the book never resolves.
+**Who knows:** the Trace, in the morning.
+
+## Chapter 30 — Juno — working title "Birthday"
+
+**When:** month 12, Juno's birthday, one day. **Length:** about 2,500 words.
+**What it does:** the age line. Juno wakes up, and isn't asleep. Something in her hands is cold. The book ends on the cost she doesn't know yet.
+**Where Juno is:** Granny in the ground three days. Mended with Kit and Fen. The year's anniversary days away.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. Waking | Dawn. She opens her eyes and knows the date before anything else. Tock is in the chair by the bed; he's been there all night, which is how she knows he was afraid. Olli in the doorway. She is awake. She does her own coma table, out loud, as a joke: breaths sixteen, pulse eighty, responds to pain, "Tock, stop pinching me." The house laughs harder than it should. | Tock in the room at the age line ([09](09-relationships.md#juno-and-tock-the-siblings)). Juno's humour, back. |
+| 2. The day | Small things, given back. The six on the Vales' gallery with whatever cake the Trace can make. Lonny eats most of it. Fen on the roof at nine and the channel quiet. Sol gets a message from the Harbour by Nell's cart, a folded note from Lux, and doesn't open it in front of anyone ([16](16-open-questions.md): what Lux says is still open). Kit sits next to Juno on the step, not saying anything, which is the point. | The friends, the forest, not one girl. Happy, loud, at last ([cast/juno](cast/juno.md#inside)). |
+| 3. Cold | Night. Juno goes to the garden, to Granny, and kneels and puts her hand flat on the turned soil, the way she puts it on the exercise book and the way Kit put hers on the ground on day 10. Her hand goes cold, from the wrist down, and stays cold. She doesn't know why. Last line: she lives, and she doesn't know yet what that costs. | Her hands are cold and she doesn't know why ([17](17-book-one-outline.md)). No glow, no sign ([cast/juno](cast/juno.md#her-power-locked)). Hand-off to book two. |
+
+**Must land:** "Tock, stop pinching me." Kit on the step. The cold hand, unexplained.
+**Pays:** the coma table (ch 2), the hand flat on the page (ch 6–), Kit's hand on the soil (ch 10), the age line (all book). **Plants:** book two: Juno's power and its price, Lux's note, the Gardener's offer, the second bloom.
+**Who knows:** nobody, including her.
+
+### Still to decide before writing movement 4 and 5
+
+Collected from the sheets above. Decide them in [16](16-open-questions.md), then update the sheets.
+
+- **Who dies in the siege** (ch 26). Bix is the proposal.
+- **The Gardener's name** (ch 20 needs it).
+- **Juno's birthday**, a few days off the anniversary of the Sleep (ch 30).
+- **What Lux says** (ch 30, the note).
+- **Whether Wren comes inside after the siege** (ch 26 to 30).
+- **Juno's father's first name** (ch 22; "Desmond" is a placeholder).
+- **Where Rust ends up** (planted in ch 12; nothing in book one forces it).
