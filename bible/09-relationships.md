@@ -99,7 +99,7 @@ Friction, not romance, at least in book one. Ida refuses to root her father on r
 
 ### Juno and Kit: the argument
 
-The central friendship-break of book one. Juno said Kit's name first, for fifteen years. Then Kit rooted her father without asking, and it worked, and it made Juno's medicine look like cruelty.
+The central friendship-break of book one. Juno was the one who said Kit's name first, every day of the eight months Kit had lived at the bend. Then Kit rooted her father without asking, and it worked, and it made Juno's medicine look like cruelty.
 
 - Neither is wrong. That is what makes it a break and not a fight.
 - They stop speaking. The group routes around it. Fen carries messages and hates it.
