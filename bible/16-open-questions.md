@@ -6,7 +6,7 @@ Decisions not yet made. Decide here, then update the file the decision belongs t
 - [ ] Name the Gardener, and decide how much of him book one shows
 - [ ] Where Sol is at the start: out to nobody, or to one person
 - [ ] Do the kids understand the Sleep early, or unravel it slowly (leaning slowly; the Hills know first)
-- [ ] When Juno's birthday falls (locked: she awakens at the age line, Life/decay, her lifespan as the cost; see [imani.md](cast/juno.md#her-power-locked). Open: the date, and whether it is the last page of book one or the first of book two)
+- [ ] When Juno's birthday falls (locked: she awakens at the age line, Life/decay, her lifespan as the cost; see [Juno](cast/juno.md#her-power-locked). Open: the date, and whether it is the last page of book one or the first of book two)
 - [ ] What the rooted sleepers are becoming, and whether anyone ever wakes
 - [x] Lonny's girlfriend is **Wren**, 17; she and her brother Pip (5) came up the Trace with Lonny on day one of the road houses ([ch 4](../chapters/ch04-ice/LATEST.md))
 - [ ] Which kid in the Trace needs insulin, an inhaler or epilepsy drugs (the quietest death in year one, or the quietest rescue)

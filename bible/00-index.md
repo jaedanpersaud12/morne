@@ -11,6 +11,11 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 - [06 The island](06-island.md): Morne Bay, Quarry Trace, the Hills, the Shore, the quarantine line
 - [07 Powers in practice](07-powers-in-practice.md): how many kids have powers, what they do with them daily, how fights work, the unaligned crews
 
+## Life on the island
+- [22 Life before the Sleep](22-life-before.md): the island on an ordinary Saturday, and what everyone was into
+- [23 The outside world](23-outside-world.md): the quarantine, what the world believes, the rules of the line
+- [24 Glossary](24-glossary.md): the group's private language and island words
+
 ## The people
 - [Cast overview](cast/_overview.md): depth tiers, who carries POV, the fault-line map
 - Main cast: [Juno](cast/juno.md), [Tock](cast/tock.md), [Olli](cast/olli.md), [Fen](cast/fen.md), [Lyra](cast/lyra.md), [Sol](cast/sol.md), [Lonny](cast/lonny.md), [Kit](cast/kit.md)
@@ -27,8 +32,10 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 
 ## The book
 - [17 Book one outline](17-book-one-outline.md): five movements, thirty chapters, how every system plays in
+- [20 The story so far](20-story-so-far.md): what the written chapters actually contain, setups waiting for payoff, running counts
 
 ## How we write it
+- [21 Style sheet](21-style-sheet.md): spelling, capitals, numbers, names, punctuation, dialect
 - [14 Writing rules](14-writing-rules.md): locked rules every chapter follows
 - [15 Prose fundamentals](15-prose-fundamentals.md): what the pros do, with the per-chapter checklist
 - [16 Open questions](16-open-questions.md): decisions not yet made

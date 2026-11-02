@@ -32,7 +32,7 @@ Rules we hold to:
 - It is not a hard birthday. It is a window, and nobody knows where their edge is.
 - Having a power seems to protect you. Nobody knows whether that is true or just what everyone hopes.
 - A second bloom (year three) rolls the dice again for everyone borderline.
-- Juno does not sleep at the age line. She awakens: Life/decay, at the cost of her own lifespan. Locked in [imani.md](cast/juno.md#her-power-locked). No hint of it before the siege.
+- Juno does not sleep at the age line. She awakens: Life/decay, at the cost of her own lifespan. Locked in [Juno](cast/juno.md#her-power-locked). No hint of it before the siege.
 
 ## The boundary: a quarantine, not a dome
 
