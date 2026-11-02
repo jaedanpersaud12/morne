@@ -34,6 +34,7 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 - [16 Open questions](16-open-questions.md): decisions not yet made
 - [18 Visual style](18-visual-style.md): the locked portrait style and every character's prompt
 - [19 Imagery and threads](19-imagery-and-threads.md): the three clocks (birds, light, counting), Granny as present absence, religion and Sunday, the secrets ledger, decisions marked PROPOSED
+- [20 Theories and logic](20-theories-and-logic.md): the theory ladder (what the kids think is happening, and what breaks each guess), experiments they can run, and the big-picture logic holes with proposed fixes
 
 ## Locked numbers
 

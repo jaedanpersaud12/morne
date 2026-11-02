@@ -20,7 +20,7 @@ Dot Vale was seventy-four years old and five feet tall, and in Juno's whole life
 
 That was Granny. On the floor now, with the white headtie still perfect and nothing to say.
 
-Juno picked up the house phone and dialled 999. It rang for a long time and then stopped ringing and did nothing else, no voice, no click, an open line with nobody on it. She listened to the nothing for ten seconds. Then she put it down.
+Juno picked up the house phone and dialled 999. Somewhere in town a phone was ringing on a desk. Then it stopped, and the line stayed open. She listened to the nothing for ten seconds. Then she put it down.
 
 She tried the hospital in Morne Bay. Same.
 

@@ -200,7 +200,7 @@ Fen didn't sit down. He put the handheld in the middle of the table, between the
 
 Juno put her pen down.
 
-"The boy's arm. It's setting wrong. He asked two nights ago too." Fen stopped, and Tock watched him decide whether to say the next part. "I didn't tell you. I should have. He wants you at the fish market tomorrow. He said if you don't come down, he'll send somebody up the hill to ask you nice."
+"The boy's arm. It's setting wrong. He asked two nights ago too." Fen stopped, and Tock watched him decide whether to say the next part. "I didn't tell you. He wants you at the fish market tomorrow. He said if you don't come down, he'll send somebody up the hill to ask you nice."
 
 The heat came up in Tock so fast he didn't feel it start. It came from his stomach, from the place where it lived. It came from the word *nice* in the mouth of somebody he had never met who had two hundred kids and a radio and a harbour full of fellas who did what he said, and who wanted his sister, and who thought he could send somebody up this hill and get her.
 

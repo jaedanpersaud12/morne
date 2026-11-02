@@ -10,3 +10,4 @@ Earlier drafts (v1 literary, v2 Gone-style short, v3 full-length with trading-ca
 - v005 (20261102-0253): Setting rewrite: Quarry Trace (9 ordinary houses, no wall), Kit's father a taxi driver who moved in 8 months ago, counts 16 adults / 13 kids
 - v006 (20261102-1544): Review pass: Celsius; cut duplicated goat line
 - v007 (20261102-1303): Tic-trim pass: quiet and-chains split, 'the way X' cut to ~1 per scene, Lonny's 'Okay. Okay.' changed, ch4 road paragraph split, ch5 tenting named
+- v008 (20261102-1340): Review leftovers: 999 line no longer word-for-word (ch 2); Kit's pinch test cut so Juno's tenting is a discovery (ch 1); Fen no longer says 'I should have' (ch 7)

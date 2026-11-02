@@ -114,7 +114,7 @@ His chin went to his chest. His breath went in and out. Slow. Deep. Even.
 
 "Daddy. Daddy, wake up."
 
-She shook him, slapped his face, not hard and then hard, and when that did nothing she poured what was left in the thermos over his head, lukewarm coffee running down his neck into his pressed collar. He didn't move. She pinched the skin on the back of his hand the way the clinic nurse did, and it stood up in a little tent and went down slow.
+She shook him, slapped his face, not hard and then hard, and when that did nothing she poured what was left in the thermos over his head, lukewarm coffee running down his neck into his pressed collar. He didn't move.
 
 His skin was cool.
 

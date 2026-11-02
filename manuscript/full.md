@@ -1,6 +1,6 @@
 # Morne Bay (working title)
 
-_Built 2026-11-02 13:03. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
+_Built 2026-11-02 13:40. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
 
 
 # Chapter 1 — Dust
@@ -119,7 +119,7 @@ His chin went to his chest. His breath went in and out. Slow. Deep. Even.
 
 "Daddy. Daddy, wake up."
 
-She shook him, slapped his face, not hard and then hard, and when that did nothing she poured what was left in the thermos over his head, lukewarm coffee running down his neck into his pressed collar. He didn't move. She pinched the skin on the back of his hand the way the clinic nurse did, and it stood up in a little tent and went down slow.
+She shook him, slapped his face, not hard and then hard, and when that did nothing she poured what was left in the thermos over his head, lukewarm coffee running down his neck into his pressed collar. He didn't move.
 
 His skin was cool.
 
@@ -209,7 +209,7 @@ Dot Vale was seventy-four years old and five feet tall, and in Juno's whole life
 
 That was Granny. On the floor now, with the white headtie still perfect and nothing to say.
 
-Juno picked up the house phone and dialled 999. It rang for a long time and then stopped ringing and did nothing else, no voice, no click, an open line with nobody on it. She listened to the nothing for ten seconds. Then she put it down.
+Juno picked up the house phone and dialled 999. Somewhere in town a phone was ringing on a desk. Then it stopped, and the line stayed open. She listened to the nothing for ten seconds. Then she put it down.
 
 She tried the hospital in Morne Bay. Same.
 
@@ -1419,7 +1419,7 @@ Fen didn't sit down. He put the handheld in the middle of the table, between the
 
 Juno put her pen down.
 
-"The boy's arm. It's setting wrong. He asked two nights ago too." Fen stopped, and Tock watched him decide whether to say the next part. "I didn't tell you. I should have. He wants you at the fish market tomorrow. He said if you don't come down, he'll send somebody up the hill to ask you nice."
+"The boy's arm. It's setting wrong. He asked two nights ago too." Fen stopped, and Tock watched him decide whether to say the next part. "I didn't tell you. He wants you at the fish market tomorrow. He said if you don't come down, he'll send somebody up the hill to ask you nice."
 
 The heat came up in Tock so fast he didn't feel it start. It came from his stomach, from the place where it lived. It came from the word *nice* in the mouth of somebody he had never met who had two hundred kids and a radio and a harbour full of fellas who did what he said, and who wanted his sister, and who thought he could send somebody up this hill and get her.
 

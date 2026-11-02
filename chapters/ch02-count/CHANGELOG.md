@@ -7,3 +7,4 @@
 - v004 (20261102-0230): Oz renamed to Lonny
 - v005 (20261102-0253): Setting rewrite: Quarry Trace (9 ordinary houses, no wall), Kit's father a taxi driver who moved in 8 months ago, counts 16 adults / 13 kids
 - v006 (20261102-1544): Review pass: cut Lyra's 'You always know' (on-the-nose); one fewer 'nobody said anything'
+- v007 (20261102-1340): Review leftovers: 999 line no longer word-for-word (ch 2); Kit's pinch test cut so Juno's tenting is a discovery (ch 1); Fen no longer says 'I should have' (ch 7)
