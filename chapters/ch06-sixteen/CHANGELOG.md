@@ -3,3 +3,4 @@
 - v002 (20261102-0230): Oz renamed to Lonny
 - v003 (20261102-0253): Setting rewrite: Quarry Trace (9 ordinary houses, no wall), Kit's father a taxi driver who moved in 8 months ago, counts 16 adults / 13 kids
 - v004 (20261102-1544): Review pass: Fen clocks Ears as a power; 24-kids count tied to Juno's book; Fen's one-more-day reasoning halved
+- v005 (20261102-1303): Tic-trim pass: quiet and-chains split, 'the way X' cut to ~1 per scene, Lonny's 'Okay. Okay.' changed, ch4 road paragraph split, ch5 tenting named

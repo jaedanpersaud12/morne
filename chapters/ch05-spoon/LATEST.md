@@ -14,7 +14,7 @@ Most of them swallowed. She hadn't expected that. The throat rose and fell on it
 
 Seven coughed.
 
-Mrs. Pell coughed, and the water came back out of the corner of her mouth, and Juno sat her up against her own knees and rubbed her back until the breathing settled to eleven. Mr. Finch coughed. The grandmother from the wheelbarrow coughed so hard her whole body jerked, and Juno held her and said *sorry, sorry, sorry* to a woman whose name she didn't know.
+Mrs. Pell coughed, and the water came back out of the corner of her mouth. Juno sat her up against her own knees and rubbed her back until the breathing settled to eleven. Mr. Finch coughed. The grandmother from the wheelbarrow coughed so hard her whole body jerked, and Juno held her and said *sorry, sorry, sorry* to a woman whose name she didn't know.
 
 Granny coughed on the first spoon and on the second. It was the same dry, hard bark Juno had heard through the bedroom wall every morning of her life, and for one second, with the old woman's weight against her shoulder, it was any morning and Granny was about to tell her to get up.
 
@@ -82,7 +82,7 @@ He did it like it was surgery. He went down a row with his tongue between his te
 
 "No," Juno said, without looking up. "She's too rude to die. God doesn't want her."
 
-Olli laughed, a real one, surprised out of him, and Ida looked up from across the room, and Juno felt bad for about a second and then didn't.
+Olli laughed, a real one, surprised out of him. Ida looked up from across the room. Juno felt bad for about a second, and then didn't.
 
 Granny's bag had run dry on the second day. They all had. Now the six were on syringes, a plastic one with the needle off, a few drops at a time into the cheek, because a syringe was slower than a spoon and slow was the only way they didn't cough. It was the slowest water in the house.
 
@@ -90,7 +90,7 @@ Mr. Hale was getting the most. Juno had seen to that. Four days, every hour she 
 
 On the fourth evening she pinched the skin on the back of his hand. It stayed up.
 
-A ridge, standing on its own, slowly sinking. The book had a word for that too. His lips were cracked, though she put Vaseline on them every hour. His eyes had sunk back in his face so far that Olli's tape didn't touch the lids any more. She counted his breathing, and it was eleven, and she wrote it down. She counted his pulse, and it was faster than it had been, and she wrote that down too, and didn't like it.
+A ridge, standing on its own, slowly sinking. Tenting. It was in the book with a photograph. His lips were cracked, though she put Vaseline on them every hour. His eyes had sunk back in his face so far that Olli's tape didn't touch the lids any more. She counted his breathing, and it was eleven, and she wrote it down. She counted his pulse, and it was faster than it had been, and she wrote that down too, and didn't like it.
 
 "He's getting more than any of them," Tock said, behind her. He had the baby on his hip. Vee went everywhere with Tock now; nobody had decided that either. "You're giving him more than anybody."
 
@@ -146,7 +146,7 @@ Juno looked at him.
 
 "Same name as me," Lonny said. "We're not family. Never were. Everybody on the road used to make the joke." He shrugged, and it came out wrong, too big. "Somebody with the name should do it."
 
-They chose the slope behind number nine, Mr. Hale's own house, under the lime tree at the bottom of his garden where the land fell away toward the sea. Lonny got a pickaxe and a spade from the Finches' garage. The first foot was easy, dark topsoil and roots. Under it the island was clay and stone, packed hard. He swung the pickaxe for three hours with his shirt off and his hands wrapped in a dish towel, and the little kids brought him water in relays and stood at the edge of the hole and watched, because nobody had told them not to.
+They chose the slope behind number nine, Mr. Hale's own house, under the lime tree at the bottom of his garden where the land fell away toward the sea. Lonny got a pickaxe and a spade from the Finches' garage. The first foot was easy, dark topsoil and roots. Under it the island was clay and stone, packed hard. He swung the pickaxe for three hours with his shirt off and his hands wrapped in a dish towel. The little kids brought him water in relays and stood at the edge of the hole to watch, because nobody had told them not to.
 
 Halfway down the soil changed. It went darker and cooler, and every spadeful came up threaded with something white and fine, like hair. Lonny knocked it off the blade against his boot without a word and kept digging.
 

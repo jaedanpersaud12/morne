@@ -44,7 +44,7 @@ Eleven kilometres, over water. No aerial on the island did that. Fen let it sit,
 
 "I remember."
 
-"Five days. It have a bump in it now that shouldn't be there. I could see it going wrong, Fen. I don't know what I'm looking at but I could see it going wrong." The voice slowed down, the way it had on the first night, when it found something useful. "Ask your doctor what to do. Or ask her to come and look."
+"Five days. It have a bump in it now that shouldn't be there. I could see it going wrong, Fen. I don't know what I'm looking at but I could see it going wrong." The voice slowed down, as it had on the first night, when it found something useful. "Ask your doctor what to do. Or ask her to come and look."
 
 Fen looked out at the dark where the town used to be. A few fires burned down there now, tiny, by the harbour. Cookie's drums.
 
@@ -136,7 +136,7 @@ Juno looked back at the ship. Her hand at her side opened and closed.
 
 Fen said nothing. He had learned on the first night what it cost him to say the wrong thing on the radio. He was learning now what it cost not to say the right thing off it.
 
-She put her hand on his shoulder, briefly, the way she did, and went back down the ladder. A minute later he heard her voice in the road, louder than he had heard it in a week.
+She put her hand on his shoulder, briefly, and went back down the ladder. A minute later he heard her voice in the road, louder than he had heard it in a week.
 
 "They've seen us. They know we're here. Somebody's coming."
 
@@ -194,7 +194,7 @@ The ship, he didn't know. He thought of her hand flat on the page, and her voice
 
 The arm, tonight, at the table, in front of the six. The ship, tomorrow.
 
-He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, the way it had been every night since the first. He had stopped seeing it.
+He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, as it had been every night since the first. He had stopped seeing it.
 
 There was a sound over his head.
 

@@ -6,7 +6,7 @@ He was hot all the time, without any of the shivering that came with being sick.
 
 On the sixth morning, the day after the funeral, he was in Granny's kitchen boiling water.
 
-That was his job. Nobody had given it to him; he had just started doing it on the second day and kept going. The ward at the Mosses' went through forty litres of water a day, a teaspoon at a time, and every drop of it had to be boiled and cooled first, because Juno said the tanks were fine for washing and not for putting in a sleeper's mouth. Then there were the bottles. Vee, and the Larks' little boy from the road, and the girl with the baby who had come up to the bend on the first night. Three babies, four bottles each, every day. Every bottle boiled. Every teat boiled. Formula measured with the little scoop, levelled off with a knife, the way the tin said.
+That was his job. Nobody had given it to him; he had just started doing it on the second day and kept going. The ward at the Mosses' went through forty litres of water a day, a teaspoon at a time, and every drop of it had to be boiled and cooled first, because Juno said the tanks were fine for washing and not for putting in a sleeper's mouth. Then there were the bottles. Vee, and the Larks' little boy from the road, and the girl with the baby who had come up to the bend on the first night. Three babies, four bottles each, every day. Every bottle boiled. Every teat boiled. Formula measured with the little scoop, levelled off with a knife, as the tin said.
 
 He had a system. Big pot on the back burner for the ward water, small pot on the front for the bottles. Cool the ward water in the buckets on the floor. Fill the jugs. Bix runs the jugs down to the Mosses' on Olli's old wagon. Repeat.
 
@@ -22,7 +22,7 @@ The cylinder under the counter was empty. He knew it before he tipped it; it was
 
 The regulator wouldn't seat.
 
-He had watched Granny do this a hundred times. You pushed the regulator down onto the valve and turned the collar until it clicked. He pushed. He turned. It didn't click. He took it off and put it back on and it still didn't click, and the new cylinder hissed at him through the gap, and he pulled it off before the kitchen filled with gas.
+He had watched Granny do this a hundred times. You pushed the regulator down onto the valve and turned the collar until it clicked. He pushed. He turned. It didn't click. He took it off and put it back on. It still didn't click. The new cylinder hissed at him through the gap, and he pulled it off before the kitchen filled with gas.
 
 In the living room, Vee started to cry.
 
@@ -88,7 +88,7 @@ He told everyone it was the fever. He told Juno he didn't want Vee to catch it. 
 
 On the seventh morning there was a ship.
 
-He heard the screaming from the kitchen and ran out onto the balcony, and the whole road was out, and Bix was up on the Hales' tank stand pointing at the sea, and there it was, grey, flat, sitting on the edge of the world. Kids were jumping. Somebody was banging a pot. Sol was crying and laughing. Across the road, Fen was on his roof with the radio, not moving. Then Juno came out into the road, and Tock heard her say *somebody's coming* in a voice he hadn't heard her use since before, and he felt his whole chest go loose.
+He heard the screaming from the kitchen and ran out onto the balcony. The whole road was out. Bix was up on the Hales' tank stand pointing at the sea, and there it was, grey, flat, sitting on the edge of the world. Kids were jumping. Somebody was banging a pot. Sol was crying and laughing. Across the road, Fen was on his roof with the radio, not moving. Then Juno came out into the road, and Tock heard her say *somebody's coming* in a voice he hadn't heard her use since before, and he felt his whole chest go loose.
 
 Somebody's coming. Grown people, with a ship. Somebody to take the babies and the sleepers and the counting off Juno. Somebody to look at his hands and tell him what was wrong with them.
 
@@ -160,7 +160,7 @@ He didn't say anything. He couldn't. Something in his throat had closed.
 
 He didn't know.
 
-They found out in Granny's kitchen, with the door shut and the cylinder turned off. He put both hands on the sides of the big pot and Ida stood by the sink with her arms folded and he tried to be angry. He thought about the regulator. He thought about the crib in the Pells' house on the first night, which he had walked past. His hands went hot, too hot. The water went from still to boiling in two seconds and spat and burned his wrists, and he let go and swore, and Ida said "Language," without looking up.
+They found out in Granny's kitchen, with the door shut and the cylinder turned off. He put both hands on the sides of the big pot. Ida stood by the sink with her arms folded. He tried to be angry. He thought about the regulator. He thought about the crib in the Pells' house on the first night, which he had walked past. His hands went hot, too hot. The water went from still to boiling in two seconds and spat and burned his wrists. He let go and swore. Ida said "Language," without looking up.
 
 "Again," she said. "Not angry this time."
 
@@ -194,7 +194,7 @@ They were at the Vales' kitchen table at ten that night when Fen came in with th
 
 All of them except Lyra, who was home with their mother. Juno at the head, where Granny used to sit, with the exercise book. Lonny with his chair tipped back against the wall. Sol with her knees up on her chair. Tock at the end, with his hands flat on Granny's table and Vee asleep on a pile of towels in the living room, right next door, where he could hear her breathing through the open door.
 
-Fen didn't sit down. He put the handheld in the middle of the table, between the candle jar and the exercise book, and looked at the ground beside Juno's foot, the way he did.
+Fen didn't sit down. He put the handheld in the middle of the table, between the candle jar and the exercise book, and looked at the ground beside Juno's foot.
 
 "Judge asked for you again," he said.
 
@@ -206,7 +206,7 @@ The heat came up in Tock so fast he didn't feel it start. It came from his stoma
 
 He stood up.
 
-He didn't mean to put his hands on the table. They were already there. He stood up and pushed, and the heat went out of him into the wood the way it had gone into the pot, all at once, and the table smoked under his palms.
+He didn't mean to put his hands on the table. They were already there. He stood up and pushed, and the heat went out of him into the wood as it had into the pot, all at once, and the table smoked under his palms.
 
 He snatched his hands back.
 

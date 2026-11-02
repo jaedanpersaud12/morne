@@ -12,11 +12,11 @@ That was the whole argument. Fen had made it at the kitchen table the night befo
 
 "Six of us. Fine. Hands." She looked round the table. "Who thinks a boy should have a crooked arm for the rest of his life because we're scared of a fish market."
 
-Nobody put a hand up. Lonny said he'd walk her down. Fen said he'd stay on the radio. Tock said nothing, which was worse, and in the morning he was at the bend with Vee on his hip, and he didn't say goodbye, he said, "Come back," and she said, "Obviously," and he didn't smile.
+Nobody put a hand up. Lonny said he'd walk her down. Fen said he'd stay on the radio. Tock said nothing, which was worse. In the morning he was at the bend with Vee on his hip. He didn't say goodbye. He said, "Come back," and she said, "Obviously," and he didn't smile.
 
 The coast road was eleven kilometres. They did it in two hours with Dr. Moss's bag between them and the sun on the backs of their necks.
 
-Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them, and they watched Juno and Lonny go past without a word, and the youngest one raised a hand, and Lonny raised one back, and nobody said anything about the padlock on the pump or the fact that the boy's hand had left a brown mark on the roof where he'd been resting it.
+Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them, watching Juno and Lonny go past without a word. The youngest one raised a hand. Lonny raised one back. Neither of them mentioned the padlock on the pump, or the brown mark the boy's hand had left on the roof where he'd been resting it.
 
 "Rust," Lonny said, when they were past. "That's what they call him. The little one."
 
@@ -42,7 +42,7 @@ The *Lady Marisol* was a forty-foot trawler tied up at the end of the dock with 
 
 He stood up.
 
-He was her age, and he was lean the way people are lean when they work, and his shirt was salt-stained and open at the collar, and there was a holster on his belt with something in it that he didn't touch and didn't hide. He had the kind of face that didn't move much. He looked at her for a long time before he spoke, and when he did it was slow.
+He was her age, lean the way people are lean when they work, his shirt salt-stained and open at the collar. There was a holster on his belt with something in it that he didn't touch and didn't hide. He had the kind of face that didn't move much. He looked at her for a long time before he spoke, and when he did it was slow.
 
 "You're shorter than the paper."
 
@@ -64,7 +64,7 @@ She didn't answer that. She looked at the man under the tarp.
 
 "They all are."
 
-He nodded like that was what he'd expected to hear and had wanted to hear it from someone else. Then he turned and went up the dock without checking whether she was following, and she followed, and Lonny followed her, and Nell followed Lonny with the clipboard.
+He nodded like that was what he'd expected to hear and had wanted to hear it from someone else. Then he turned and went up the dock without checking whether she was following. She followed. Lonny followed her, and Nell followed Lonny with the clipboard.
 
 The boy with the broken arm was fourteen and had fallen off a warehouse wall on the first night, eight days ago, and the arm was the wrong shape between the elbow and the wrist, and he had been given rum for it, because that was what there was. Juno knelt on the concrete beside him and opened Dr. Moss's bag and took out the book. She opened the book to the page. She had read the page eleven times on the hill and she read it again now, with the boy watching her, and Judge watching her, and fifty kids in a ring watching her, and she thought: *this is the first thing I have ever done that I cannot undo.*
 
@@ -84,7 +84,7 @@ The ring of kids made a sound, all of them at once, the sound of a crowd watchin
 
 "Lonny," Juno said. "Harder."
 
-Lonny leaned his whole weight into the boy's shoulders. Juno set her knee against the concrete and pulled the way you pull a car door that has jammed in the heat, steady and then all at once, and something gave under her hands with a soft wet crack she felt in her teeth before she heard it. The arm was straight. It was straighter. It was as straight as she was going to get it, and she knew that while it was happening, and she splinted it the way the picture showed and taped it before she could start wishing she had done it a week ago.
+Lonny leaned his whole weight into the boy's shoulders. Juno set her knee against the concrete and pulled the way you pull a car door that has jammed in the heat, steady and then all at once, and something gave under her hands with a soft wet crack she felt in her teeth before she heard it. The arm was straight. It was straighter. It was as straight as she was going to get it, and she knew that while it was happening, and she splinted it as the picture showed and taped it before she could start wishing she had done it a week ago.
 
 She sat back on her heels with her hands shaking. The boy was crying and saying thank you, thank you, and she didn't know what to do with that, so she said, "Don't climb walls."
 
@@ -124,7 +124,7 @@ She didn't answer, because the true answer was *nothing*, and Ria was looking at
 
 ---
 
-He walked her out himself, at four, when the light was going orange and the square had filled with the smell of frying from the oil drums. Nell had given her a list on a page torn from the clipboard, twenty-two names, what was wrong with each of them, in neat small handwriting. Lonny carried the bag. Judge walked on her other side with his hands behind his back, and for a long time he didn't say anything, and she realised he was waiting for her to.
+He walked her out himself, at four, when the light was going orange and the square had filled with the smell of frying from the oil drums. Nell had given her a list on a page torn from the clipboard, twenty-two names, what was wrong with each of them, in neat small handwriting. Lonny carried the bag. Judge walked on her other side with his hands behind his back. For a long time he didn't say anything. He was waiting for her to.
 
 "How are you feeding them?" she said.
 
@@ -200,4 +200,4 @@ Tock was waiting a little way up the road with Vee asleep on his shoulder.
 
 She put the box in the Mosses' front room, under the empty coat hangers where the first six had hung. She did not say where it had come from. Nobody asked.
 
-That night she lay awake with the notebook on her chest. She had a secret now, the way Fen did. She had been wrong about how easy it was to keep one.
+That night she lay awake with the notebook on her chest. She had a secret now, like Fen. She had been wrong about how easy it was to keep one.

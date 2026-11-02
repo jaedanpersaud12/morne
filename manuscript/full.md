@@ -1,6 +1,6 @@
 # Morne Bay (working title)
 
-_Built 2026-11-02 15:44. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
+_Built 2026-11-02 13:03. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
 
 
 # Chapter 1 — Dust
@@ -17,7 +17,7 @@ The sky was the colour of weak tea. Sahara dust had blown in overnight, four tho
 
 "Dust don't read calendar."
 
-Ambrose Wick had driven a taxi for sixteen years, in a shirt pressed every morning, even on a Sunday, with the crease in his trousers ironed sharp, and he washed the car before the sun got hot whether or not anybody was going anywhere. On Sundays he sat in it with the church service on the car radio, because the car was the only thing he owned outright, and a man should sit in what he owns. In sixteen years she had never seen him sleep in it in the day. She let that go, because it was Sunday and the dust was in everyone's head, and went back to the washing.
+Ambrose Wick had driven a taxi for sixteen years, in a shirt pressed every morning, even on a Sunday, with the crease in his trousers ironed sharp. He washed the car before the sun got hot whether or not anybody was going anywhere. On Sundays he sat in it with the church service on the car radio, because the car was the only thing he owned outright, and a man should sit in what he owns. In sixteen years she had never seen him sleep in it in the day. She let that go, because it was Sunday and the dust was in everyone's head, and went back to the washing.
 
 Quarry Trace was nine houses on a road that went up the hill and stopped. Concrete houses, galvanize roofs, burglar-proofing on every window, black water tanks up on stands in every yard, and two of them still had an upstairs half-built, with rebar sticking out of the roof waiting for the money. At the top the road gave up at a rusted chain-link gate, and behind it was the quarry, a bite out of the hill that the trucks had stopped coming for six years ago. From up there you could see the whole south of the island: Morne Bay curved around its harbour, the ferry dock, the two church steeples, and the sea going out flat and blue to nothing.
 
@@ -83,7 +83,7 @@ He stopped by the front step on the way. He didn't look at her, exactly. He look
 
 "I know."
 
-The pickup went round the bend and down toward the junction, six in the tray and Lonny driving too fast, and her father called "Mind the police!" after it the way he always did. But he called it late, when the pickup was already gone. Like he had to think about it.
+The pickup went round the bend and down toward the junction, six in the tray and Lonny driving too fast, and her father called "Mind the police!" after it, as he always did. But he called it late, when the pickup was already gone. Like he had to think about it.
 
 ---
 
@@ -93,7 +93,7 @@ The church service on the car radio kept stopping. The pastor would lose his pla
 
 "Dust," her father said when she told him. "Everybody feeling it."
 
-He was feeling it. She brought him the thermos and he drank all of it and she watched his eyelids anyway. Twice she had to say his name. The second time he laughed at himself, a short embarrassed sound, and got out of the car and did ten squats in the yard in his pressed shirt, which was so unlike him that she laughed too, and for a minute it was almost fine.
+He was feeling it. She brought him the thermos. He drank all of it. She watched his eyelids anyway. Twice she had to say his name. The second time he laughed at himself, a short embarrassed sound, and got out of the car and did ten squats in the yard in his pressed shirt, which was so unlike him that she laughed too, and for a minute it was almost fine.
 
 The pickup came back at two. That was early.
 
@@ -179,7 +179,7 @@ She started running again, and the whole way down she was making a list of what 
 
 The corbeaux had come down.
 
-All day they'd sat on the light pole at the bend, four or five of them, the big black vultures with their wings half open, the way they always did. Now there were a dozen. More. They were on the galvanize of the flat. They were on the roof of the taxi. They were on the yard fence on either side of it, hunched and patient, with their bald red heads turned, every one of them, toward the open door of the car.
+All day they'd sat on the light pole at the bend, four or five of them, the big black vultures with their wings half open. Now there were a dozen. More. They were on the galvanize of the flat. They were on the roof of the taxi. They were on the yard fence on either side of it, hunched and patient, with their bald red heads turned, every one of them, toward the open door of the car.
 
 Toward her father, on the ground beside it.
 
@@ -563,7 +563,7 @@ Fen stood in the yard and looked at his house. He had done it again.
 
 Sol Finch had not slept, because things had changed, and she never slept when things changed.
 
-It was ten to five. The Vales' kitchen was grey and full of breathing. The Nettle girl was asleep against Lonny with her thumb in her mouth and Lonny was asleep against the cupboards with his head back and his mouth open, the same shape as his father in the La-Z-Boy, which Sol decided not to tell him. Olli was under the table. Lyra had come up at three with news that the generator worked and had fallen asleep mid-sentence on the stairs. Tock was in the armchair with the Pell baby on his chest, and he was not asleep, and he had not moved in four hours.
+It was ten to five. The Vales' kitchen was grey and full of breathing. The Nettle girl was asleep against Lonny with her thumb in her mouth. Lonny was asleep against the cupboards, head back, mouth open, the same shape as his father in the La-Z-Boy, which Sol decided not to tell him. Olli was under the table. Lyra had come up at three with news that the generator worked and had fallen asleep mid-sentence on the stairs. Tock was in the armchair with the Pell baby on his chest. He was not asleep. He had not moved in four hours.
 
 Juno was at the counter with the notebook. She had been at the counter when Sol shut her eyes at one and she was at the counter now.
 
@@ -595,9 +595,9 @@ Lonny woke up, looked at the Nettle girl on his arm, looked at the ceiling, and 
 
 "I'm hungry *now*. It's a different thing."
 
-Sol looked at the clock on the stove, which still worked, because it ran on a battery. Her phone had said *No Service* since three. Ten to five on a Monday. Arsenal and Everton kicked off at four this afternoon, and whoever won it would win it in a stadium full of people who were awake, and nobody on this island would ever know the score. She had been going to watch it on her phone under the desk in last period. It was the first thing she had thought of when she woke up, before her parents, and she was ashamed of that, and she thought about it anyway.
+Sol looked at the clock on the stove, which still worked, because it ran on a battery. Her phone had said *No Service* since three. Ten to five on a Monday. Arsenal and Everton kicked off at four this afternoon, and whoever won it would win it in a stadium full of people who were awake, and nobody on this island would ever know the score. She had been going to watch it on her phone under the desk in last period. It was the first thing she had thought of when she woke up, before her parents. She was ashamed of that. She thought about it anyway.
 
-The baby made a sound. Everyone stopped. Tock's whole body went still in the way a person goes still when they are holding something they are afraid of, and the baby sighed and went back to sleep, and he let his breath out through his teeth.
+The baby made a sound. Everyone stopped. Tock's whole body went still, the stillness of someone holding a thing he is afraid of. The baby sighed and went back to sleep. He let his breath out through his teeth.
 
 "Does she have a name?" Sol said.
 
@@ -643,7 +643,7 @@ It was so unexpected that Lonny choked on cereal. Tock opened his eyes. He looke
 
 Sol laughed first. She always did. She couldn't help it; it came up out of her like a hiccup, and then Lonny was going, silently, shaking, trying not to wake the Nettle girl, and Lyra on the stairs said "oh my God" into her arms, and Olli under the table said "what's the goat" for the hundredth time in his life and nobody told him. Juno didn't laugh. She put the pen down and pressed the heels of her hands into her eyes and said, "I hate all of you," which was the opposite of what she meant.
 
-Sol wiped her face. Her hands were cold. She had noticed it at one and again at three and she noticed it now, and she rubbed them together under the table, and they didn't warm up.
+Sol wiped her face. Her hands were cold. She had noticed it at one and again at three, and she noticed it now. She rubbed them together under the table. They didn't warm up.
 
 ---
 
@@ -657,7 +657,7 @@ They went down past the bend at first light, Sol and Lonny, because Tock wouldn'
 
 "Yes, Juno."
 
-Kit was on the gallery of the flat at the bend. Her father was on a mattress she had dragged out there into the shade, on his side, with a cushion under his head, and she sat beside him with her knees up and watched them go past the way she had watched everyone go past since March. She lifted a hand without being asked. The corbeaux on the taxi roof shifted and settled.
+Kit was on the gallery of the flat at the bend. Her father was on a mattress she had dragged out there into the shade, on his side, with a cushion under his head, and she sat beside him with her knees up and watched them go past, as she had watched everyone go past since March. She lifted a hand without being asked. The corbeaux on the taxi roof shifted and settled.
 
 Below the bend was the road. Sol had been on it a thousand times in the back of a car. She had never once walked it.
 
@@ -677,7 +677,7 @@ Miss Orla's house was first. The door was open. The bed was stripped. There was 
 
 They stood in the doorway and looked at the track in the dust, a wheel and two small feet, going down the road toward town.
 
-"Okay," Lonny said. "Okay. That's. He's doing what we're doing."
+"Right," Lonny said. "So. That's. He's doing what we're doing."
 
 "Yeah."
 
@@ -685,9 +685,13 @@ They stood in the doorway and looked at the track in the dust, a wheel and two s
 
 He said it like it was good news and bad news at the same time, and it was.
 
-The Lark house was empty because the Lark kids were in the Mosses' front room with their baby. The next two were empty because the people in them had been at church in town on Sunday and had never come home, and Sol didn't want to think about where they were asleep. Her own were on the couch at number five, up the Trace, with the cricket still on. She had sat with them before she came to Juno's, an hour, her mother's hand in both of hers, and told her mother what she was going to do, because her mother liked a plan and liked it said out loud. Her mother ran the ice plant with a clipboard and a voice that made grown fishermen say yes ma'am, and had never once in sixteen years let Sol leave the house without knowing where she was going and when she'd be back. Strict, people said. Sol had never understood what they meant by it as a complaint. The fifth house had a man in the bath. Lonny lifted him out and laid him on the bathroom floor and put a towel under his head and Sol ran the tap to make sure the water still ran, and it did, and she filled every pot in the kitchen without discussing it, because that was what her mother would have done, and would have done an hour ago.
+The Lark house was empty because the Lark kids were in the Mosses' front room with their baby. The next two were empty because the people in them had been at church in town on Sunday and had never come home, and Sol didn't want to think about where they were asleep.
 
-The water came out of the tap the way it always did, cool on the skin, the kind of cool you stopped noticing before you were old enough to reach the sink.
+Her own were on the couch at number five, up the Trace, with the cricket still on. She had sat with them an hour before she came to Juno's, her mother's hand in both of hers, and said out loud what she was going to do, because her mother liked a plan said out loud. Her mother ran the ice plant with a clipboard and a voice that made grown fishermen say yes ma'am. Strict, people called her mother. Sol had never understood why they meant it as a complaint.
+
+The fifth house had a man in the bath. Lonny lifted him out and laid him on the bathroom floor with a towel under his head. Sol ran the tap to make sure the water still ran. It did. She filled every pot in the kitchen without discussing it, because that was what her mother would have done, and would have done an hour ago.
+
+The water came out of the tap cool on the skin, the kind of cool you stopped noticing before you were old enough to reach the sink.
 
 She held the first pot under it. By the time it was full, the water against her fingers had gone colder than tap-cool. Fridge-cold, colder than anything that had ever come out of a pipe on this island. It ran over her hands and her hands ached with it, and when she lifted the pot off the counter its sides were wet on the outside, sweating, the way a glass sweats. She stood with the pot against her chest and looked at it.
 
@@ -717,7 +721,7 @@ Wren was seventeen, and short, and had been crying, and had stopped, and was hol
 
 "I came."
 
-She put her forehead on his chest, with the boy between them, and Lonny put one hand on the back of her head and the other on the boy's back and stood there on the step, and Sol looked at the road. The dogs were watching. Somewhere down toward the junction a door banged, and a boy's voice shouted something, and another one laughed.
+She put her forehead on his chest, with the boy between them. Lonny put one hand on the back of her head and the other on the boy's back and stood there on the step. Sol looked at the road. The dogs were watching. Somewhere down toward the junction a door banged, and a boy's voice shouted something, and another one laughed.
 
 "Can we come up," Wren said into his shirt. "Up the Trace. Me and Pip. Can we."
 
@@ -729,7 +733,7 @@ Sol didn't say anything. It wasn't hers to say. It wasn't his either, and he kne
 
 They were back by eight with Wren and her brother and a man's worth of filled pots and no babies, and the first thing Juno said was, "Vee has a fever."
 
-She said it at the bend. She had come down to meet them. The notebook was under her arm and her glasses were pushed up into her hair and she had her steadiest face on, which on Juno only ever meant something was badly wrong.
+She said it at the bend. She had come down to meet them. The notebook was under her arm, a pen behind her ear, and she had her steadiest face on, which on Juno only ever meant something was badly wrong.
 
 "How high?"
 
@@ -749,13 +753,13 @@ Sol looked at her hands.
 
 The pot. The tap in the fifth house, and the water that went cold in her hands, and the sides sweating against her chest.
 
-She didn't decide anything. Later she would try to remember deciding and there was nothing there, only the pot, and a question. She just went out the back door to the tank stand and came back with a bucket of water, and put it down on the kitchen floor, and knelt beside it, and put her hands in.
+She didn't decide anything. Later she would try to remember deciding and there was nothing there, only the pot, and a question. She went out the back door to the tank stand and came back with a bucket of water. She put it down on the kitchen floor, knelt beside it, and put her hands in.
 
 "Sol," Juno said.
 
 "Wait."
 
-The water was cool, the way tap water always was here, and nothing more. She closed her eyes and thought about the cold room at the plant, the one at the back, where the ice came out in blocks and the air hurt your teeth and nobody talked because talking let the cold in. The room she went to when the world was too loud. She thought about the door shutting and the sound going away.
+The water was cool, and nothing more. She closed her eyes and thought about the cold room at the plant, the one at the back, where the ice came out in blocks and the air hurt your teeth and nobody talked because talking let the cold in. The room she went to when the world was too loud. She thought about the door shutting and the sound going away.
 
 Her hands ached. Then they didn't.
 
@@ -773,7 +777,7 @@ Then Juno did. She had a cloth in her hand before Sol had pulled her hands out o
 
 Sol sat back on the floor.
 
-Her hands were burning, the way skin burns when it comes in from snow, which she had never seen, except on television. She was shaking. She was thirstier than she had ever been in her life. Lonny put a glass of water in her hand without a word and she drank it and he filled it and she drank that too, and the third one, and her teeth were chattering in a kitchen where the air was thirty degrees.
+Her hands were burning, like skin in from snow, which she had never seen except on television. She was shaking. She was thirstier than she had ever been in her life. Lonny put a glass of water in her hand without a word and she drank it and he filled it and she drank that too, and the third one, and her teeth were chattering in a kitchen where the air was thirty degrees.
 
 "How long have you been able to do that?" Juno said, from the couch, not looking up.
 
@@ -785,13 +789,13 @@ Her hands were burning, the way skin burns when it comes in from snow, which she
 
 Juno looked at her then. A long look, the adding-up look, and Sol thought: she's going to ask what else I can do. And she didn't know, and she was afraid of the answer, and she was afraid of the question more.
 
-Juno didn't ask it. Of course she didn't. Eleven years, since they were five and Juno had walked across the Finches' yard and asked if Sol wanted to see a frog, and Juno had never once asked Sol a question before Sol was ready for it, had waited out every silence, had sat on the end of Sol's bed through the whole of Form Two without saying a word about anything, and Sol had loved her for it then and loved her for it now, with her teeth chattering on a kitchen floor.
+Juno didn't ask it. Of course she didn't. Eleven years, since they were five and Juno had walked across the Finches' yard and asked if Sol wanted to see a frog. In eleven years Juno had never once asked Sol a question before Sol was ready for it. She had waited out every silence. She had sat on the end of Sol's bed through the whole of Form Two without saying a word about anything. Sol had loved her for it then and loved her for it now, with her teeth chattering on a kitchen floor.
 
 "Drink," she said. "Keep drinking. Lonny, watch her. Tock, she's cooling, look at her, she's cooling." And then, so low it was almost to herself: "Okay. Okay. That's one thing."
 
 The baby's crying wound down to hiccups. Tock's shoulders came down from around his ears. Lonny filled the glass a fourth time. On the floor, the bucket sat with its ring of frost going grey as the kitchen warmed it, and a thread of cold air moved across the tiles and touched Sol's ankle and was gone.
 
-From the bend, Kit's voice, carrying up the hill the way it never had before, because there was no other sound on the island to cover it.
+From the bend, Kit's voice, carrying up the hill as it never had before, because there was no other sound on the island to cover it.
 
 "Juno! There's somebody at the bend. He's got a wheelbarrow."
 
@@ -817,7 +821,7 @@ Most of them swallowed. She hadn't expected that. The throat rose and fell on it
 
 Seven coughed.
 
-Mrs. Pell coughed, and the water came back out of the corner of her mouth, and Juno sat her up against her own knees and rubbed her back until the breathing settled to eleven. Mr. Finch coughed. The grandmother from the wheelbarrow coughed so hard her whole body jerked, and Juno held her and said *sorry, sorry, sorry* to a woman whose name she didn't know.
+Mrs. Pell coughed, and the water came back out of the corner of her mouth. Juno sat her up against her own knees and rubbed her back until the breathing settled to eleven. Mr. Finch coughed. The grandmother from the wheelbarrow coughed so hard her whole body jerked, and Juno held her and said *sorry, sorry, sorry* to a woman whose name she didn't know.
 
 Granny coughed on the first spoon and on the second. It was the same dry, hard bark Juno had heard through the bedroom wall every morning of her life, and for one second, with the old woman's weight against her shoulder, it was any morning and Granny was about to tell her to get up.
 
@@ -885,7 +889,7 @@ He did it like it was surgery. He went down a row with his tongue between his te
 
 "No," Juno said, without looking up. "She's too rude to die. God doesn't want her."
 
-Olli laughed, a real one, surprised out of him, and Ida looked up from across the room, and Juno felt bad for about a second and then didn't.
+Olli laughed, a real one, surprised out of him. Ida looked up from across the room. Juno felt bad for about a second, and then didn't.
 
 Granny's bag had run dry on the second day. They all had. Now the six were on syringes, a plastic one with the needle off, a few drops at a time into the cheek, because a syringe was slower than a spoon and slow was the only way they didn't cough. It was the slowest water in the house.
 
@@ -893,7 +897,7 @@ Mr. Hale was getting the most. Juno had seen to that. Four days, every hour she 
 
 On the fourth evening she pinched the skin on the back of his hand. It stayed up.
 
-A ridge, standing on its own, slowly sinking. The book had a word for that too. His lips were cracked, though she put Vaseline on them every hour. His eyes had sunk back in his face so far that Olli's tape didn't touch the lids any more. She counted his breathing, and it was eleven, and she wrote it down. She counted his pulse, and it was faster than it had been, and she wrote that down too, and didn't like it.
+A ridge, standing on its own, slowly sinking. Tenting. It was in the book with a photograph. His lips were cracked, though she put Vaseline on them every hour. His eyes had sunk back in his face so far that Olli's tape didn't touch the lids any more. She counted his breathing, and it was eleven, and she wrote it down. She counted his pulse, and it was faster than it had been, and she wrote that down too, and didn't like it.
 
 "He's getting more than any of them," Tock said, behind her. He had the baby on his hip. Vee went everywhere with Tock now; nobody had decided that either. "You're giving him more than anybody."
 
@@ -949,7 +953,7 @@ Juno looked at him.
 
 "Same name as me," Lonny said. "We're not family. Never were. Everybody on the road used to make the joke." He shrugged, and it came out wrong, too big. "Somebody with the name should do it."
 
-They chose the slope behind number nine, Mr. Hale's own house, under the lime tree at the bottom of his garden where the land fell away toward the sea. Lonny got a pickaxe and a spade from the Finches' garage. The first foot was easy, dark topsoil and roots. Under it the island was clay and stone, packed hard. He swung the pickaxe for three hours with his shirt off and his hands wrapped in a dish towel, and the little kids brought him water in relays and stood at the edge of the hole and watched, because nobody had told them not to.
+They chose the slope behind number nine, Mr. Hale's own house, under the lime tree at the bottom of his garden where the land fell away toward the sea. Lonny got a pickaxe and a spade from the Finches' garage. The first foot was easy, dark topsoil and roots. Under it the island was clay and stone, packed hard. He swung the pickaxe for three hours with his shirt off and his hands wrapped in a dish towel. The little kids brought him water in relays and stood at the edge of the hole to watch, because nobody had told them not to.
 
 Halfway down the soil changed. It went darker and cooler, and every spadeful came up threaded with something white and fine, like hair. Lonny knocked it off the blade against his boot without a word and kept digging.
 
@@ -1047,7 +1051,7 @@ Eleven kilometres, over water. No aerial on the island did that. Fen let it sit,
 
 "I remember."
 
-"Five days. It have a bump in it now that shouldn't be there. I could see it going wrong, Fen. I don't know what I'm looking at but I could see it going wrong." The voice slowed down, the way it had on the first night, when it found something useful. "Ask your doctor what to do. Or ask her to come and look."
+"Five days. It have a bump in it now that shouldn't be there. I could see it going wrong, Fen. I don't know what I'm looking at but I could see it going wrong." The voice slowed down, as it had on the first night, when it found something useful. "Ask your doctor what to do. Or ask her to come and look."
 
 Fen looked out at the dark where the town used to be. A few fires burned down there now, tiny, by the harbour. Cookie's drums.
 
@@ -1139,7 +1143,7 @@ Juno looked back at the ship. Her hand at her side opened and closed.
 
 Fen said nothing. He had learned on the first night what it cost him to say the wrong thing on the radio. He was learning now what it cost not to say the right thing off it.
 
-She put her hand on his shoulder, briefly, the way she did, and went back down the ladder. A minute later he heard her voice in the road, louder than he had heard it in a week.
+She put her hand on his shoulder, briefly, and went back down the ladder. A minute later he heard her voice in the road, louder than he had heard it in a week.
 
 "They've seen us. They know we're here. Somebody's coming."
 
@@ -1197,7 +1201,7 @@ The ship, he didn't know. He thought of her hand flat on the page, and her voice
 
 The arm, tonight, at the table, in front of the six. The ship, tomorrow.
 
-He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, the way it had been every night since the first. He had stopped seeing it.
+He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, as it had been every night since the first. He had stopped seeing it.
 
 There was a sound over his head.
 
@@ -1221,7 +1225,7 @@ He was hot all the time, without any of the shivering that came with being sick.
 
 On the sixth morning, the day after the funeral, he was in Granny's kitchen boiling water.
 
-That was his job. Nobody had given it to him; he had just started doing it on the second day and kept going. The ward at the Mosses' went through forty litres of water a day, a teaspoon at a time, and every drop of it had to be boiled and cooled first, because Juno said the tanks were fine for washing and not for putting in a sleeper's mouth. Then there were the bottles. Vee, and the Larks' little boy from the road, and the girl with the baby who had come up to the bend on the first night. Three babies, four bottles each, every day. Every bottle boiled. Every teat boiled. Formula measured with the little scoop, levelled off with a knife, the way the tin said.
+That was his job. Nobody had given it to him; he had just started doing it on the second day and kept going. The ward at the Mosses' went through forty litres of water a day, a teaspoon at a time, and every drop of it had to be boiled and cooled first, because Juno said the tanks were fine for washing and not for putting in a sleeper's mouth. Then there were the bottles. Vee, and the Larks' little boy from the road, and the girl with the baby who had come up to the bend on the first night. Three babies, four bottles each, every day. Every bottle boiled. Every teat boiled. Formula measured with the little scoop, levelled off with a knife, as the tin said.
 
 He had a system. Big pot on the back burner for the ward water, small pot on the front for the bottles. Cool the ward water in the buckets on the floor. Fill the jugs. Bix runs the jugs down to the Mosses' on Olli's old wagon. Repeat.
 
@@ -1237,7 +1241,7 @@ The cylinder under the counter was empty. He knew it before he tipped it; it was
 
 The regulator wouldn't seat.
 
-He had watched Granny do this a hundred times. You pushed the regulator down onto the valve and turned the collar until it clicked. He pushed. He turned. It didn't click. He took it off and put it back on and it still didn't click, and the new cylinder hissed at him through the gap, and he pulled it off before the kitchen filled with gas.
+He had watched Granny do this a hundred times. You pushed the regulator down onto the valve and turned the collar until it clicked. He pushed. He turned. It didn't click. He took it off and put it back on. It still didn't click. The new cylinder hissed at him through the gap, and he pulled it off before the kitchen filled with gas.
 
 In the living room, Vee started to cry.
 
@@ -1303,7 +1307,7 @@ He told everyone it was the fever. He told Juno he didn't want Vee to catch it. 
 
 On the seventh morning there was a ship.
 
-He heard the screaming from the kitchen and ran out onto the balcony, and the whole road was out, and Bix was up on the Hales' tank stand pointing at the sea, and there it was, grey, flat, sitting on the edge of the world. Kids were jumping. Somebody was banging a pot. Sol was crying and laughing. Across the road, Fen was on his roof with the radio, not moving. Then Juno came out into the road, and Tock heard her say *somebody's coming* in a voice he hadn't heard her use since before, and he felt his whole chest go loose.
+He heard the screaming from the kitchen and ran out onto the balcony. The whole road was out. Bix was up on the Hales' tank stand pointing at the sea, and there it was, grey, flat, sitting on the edge of the world. Kids were jumping. Somebody was banging a pot. Sol was crying and laughing. Across the road, Fen was on his roof with the radio, not moving. Then Juno came out into the road, and Tock heard her say *somebody's coming* in a voice he hadn't heard her use since before, and he felt his whole chest go loose.
 
 Somebody's coming. Grown people, with a ship. Somebody to take the babies and the sleepers and the counting off Juno. Somebody to look at his hands and tell him what was wrong with them.
 
@@ -1375,7 +1379,7 @@ He didn't say anything. He couldn't. Something in his throat had closed.
 
 He didn't know.
 
-They found out in Granny's kitchen, with the door shut and the cylinder turned off. He put both hands on the sides of the big pot and Ida stood by the sink with her arms folded and he tried to be angry. He thought about the regulator. He thought about the crib in the Pells' house on the first night, which he had walked past. His hands went hot, too hot. The water went from still to boiling in two seconds and spat and burned his wrists, and he let go and swore, and Ida said "Language," without looking up.
+They found out in Granny's kitchen, with the door shut and the cylinder turned off. He put both hands on the sides of the big pot. Ida stood by the sink with her arms folded. He tried to be angry. He thought about the regulator. He thought about the crib in the Pells' house on the first night, which he had walked past. His hands went hot, too hot. The water went from still to boiling in two seconds and spat and burned his wrists. He let go and swore. Ida said "Language," without looking up.
 
 "Again," she said. "Not angry this time."
 
@@ -1409,7 +1413,7 @@ They were at the Vales' kitchen table at ten that night when Fen came in with th
 
 All of them except Lyra, who was home with their mother. Juno at the head, where Granny used to sit, with the exercise book. Lonny with his chair tipped back against the wall. Sol with her knees up on her chair. Tock at the end, with his hands flat on Granny's table and Vee asleep on a pile of towels in the living room, right next door, where he could hear her breathing through the open door.
 
-Fen didn't sit down. He put the handheld in the middle of the table, between the candle jar and the exercise book, and looked at the ground beside Juno's foot, the way he did.
+Fen didn't sit down. He put the handheld in the middle of the table, between the candle jar and the exercise book, and looked at the ground beside Juno's foot.
 
 "Judge asked for you again," he said.
 
@@ -1421,7 +1425,7 @@ The heat came up in Tock so fast he didn't feel it start. It came from his stoma
 
 He stood up.
 
-He didn't mean to put his hands on the table. They were already there. He stood up and pushed, and the heat went out of him into the wood the way it had gone into the pot, all at once, and the table smoked under his palms.
+He didn't mean to put his hands on the table. They were already there. He stood up and pushed, and the heat went out of him into the wood as it had into the pot, all at once, and the table smoked under his palms.
 
 He snatched his hands back.
 
@@ -1455,11 +1459,11 @@ That was the whole argument. Fen had made it at the kitchen table the night befo
 
 "Six of us. Fine. Hands." She looked round the table. "Who thinks a boy should have a crooked arm for the rest of his life because we're scared of a fish market."
 
-Nobody put a hand up. Lonny said he'd walk her down. Fen said he'd stay on the radio. Tock said nothing, which was worse, and in the morning he was at the bend with Vee on his hip, and he didn't say goodbye, he said, "Come back," and she said, "Obviously," and he didn't smile.
+Nobody put a hand up. Lonny said he'd walk her down. Fen said he'd stay on the radio. Tock said nothing, which was worse. In the morning he was at the bend with Vee on his hip. He didn't say goodbye. He said, "Come back," and she said, "Obviously," and he didn't smile.
 
 The coast road was eleven kilometres. They did it in two hours with Dr. Moss's bag between them and the sun on the backs of their necks.
 
-Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them, and they watched Juno and Lonny go past without a word, and the youngest one raised a hand, and Lonny raised one back, and nobody said anything about the padlock on the pump or the fact that the boy's hand had left a brown mark on the roof where he'd been resting it.
+Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them, watching Juno and Lonny go past without a word. The youngest one raised a hand. Lonny raised one back. Neither of them mentioned the padlock on the pump, or the brown mark the boy's hand had left on the roof where he'd been resting it.
 
 "Rust," Lonny said, when they were past. "That's what they call him. The little one."
 
@@ -1485,7 +1489,7 @@ The *Lady Marisol* was a forty-foot trawler tied up at the end of the dock with 
 
 He stood up.
 
-He was her age, and he was lean the way people are lean when they work, and his shirt was salt-stained and open at the collar, and there was a holster on his belt with something in it that he didn't touch and didn't hide. He had the kind of face that didn't move much. He looked at her for a long time before he spoke, and when he did it was slow.
+He was her age, lean the way people are lean when they work, his shirt salt-stained and open at the collar. There was a holster on his belt with something in it that he didn't touch and didn't hide. He had the kind of face that didn't move much. He looked at her for a long time before he spoke, and when he did it was slow.
 
 "You're shorter than the paper."
 
@@ -1507,7 +1511,7 @@ She didn't answer that. She looked at the man under the tarp.
 
 "They all are."
 
-He nodded like that was what he'd expected to hear and had wanted to hear it from someone else. Then he turned and went up the dock without checking whether she was following, and she followed, and Lonny followed her, and Nell followed Lonny with the clipboard.
+He nodded like that was what he'd expected to hear and had wanted to hear it from someone else. Then he turned and went up the dock without checking whether she was following. She followed. Lonny followed her, and Nell followed Lonny with the clipboard.
 
 The boy with the broken arm was fourteen and had fallen off a warehouse wall on the first night, eight days ago, and the arm was the wrong shape between the elbow and the wrist, and he had been given rum for it, because that was what there was. Juno knelt on the concrete beside him and opened Dr. Moss's bag and took out the book. She opened the book to the page. She had read the page eleven times on the hill and she read it again now, with the boy watching her, and Judge watching her, and fifty kids in a ring watching her, and she thought: *this is the first thing I have ever done that I cannot undo.*
 
@@ -1527,7 +1531,7 @@ The ring of kids made a sound, all of them at once, the sound of a crowd watchin
 
 "Lonny," Juno said. "Harder."
 
-Lonny leaned his whole weight into the boy's shoulders. Juno set her knee against the concrete and pulled the way you pull a car door that has jammed in the heat, steady and then all at once, and something gave under her hands with a soft wet crack she felt in her teeth before she heard it. The arm was straight. It was straighter. It was as straight as she was going to get it, and she knew that while it was happening, and she splinted it the way the picture showed and taped it before she could start wishing she had done it a week ago.
+Lonny leaned his whole weight into the boy's shoulders. Juno set her knee against the concrete and pulled the way you pull a car door that has jammed in the heat, steady and then all at once, and something gave under her hands with a soft wet crack she felt in her teeth before she heard it. The arm was straight. It was straighter. It was as straight as she was going to get it, and she knew that while it was happening, and she splinted it as the picture showed and taped it before she could start wishing she had done it a week ago.
 
 She sat back on her heels with her hands shaking. The boy was crying and saying thank you, thank you, and she didn't know what to do with that, so she said, "Don't climb walls."
 
@@ -1567,7 +1571,7 @@ She didn't answer, because the true answer was *nothing*, and Ria was looking at
 
 ---
 
-He walked her out himself, at four, when the light was going orange and the square had filled with the smell of frying from the oil drums. Nell had given her a list on a page torn from the clipboard, twenty-two names, what was wrong with each of them, in neat small handwriting. Lonny carried the bag. Judge walked on her other side with his hands behind his back, and for a long time he didn't say anything, and she realised he was waiting for her to.
+He walked her out himself, at four, when the light was going orange and the square had filled with the smell of frying from the oil drums. Nell had given her a list on a page torn from the clipboard, twenty-two names, what was wrong with each of them, in neat small handwriting. Lonny carried the bag. Judge walked on her other side with his hands behind his back. For a long time he didn't say anything. He was waiting for her to.
 
 "How are you feeding them?" she said.
 
@@ -1643,6 +1647,6 @@ Tock was waiting a little way up the road with Vee asleep on his shoulder.
 
 She put the box in the Mosses' front room, under the empty coat hangers where the first six had hung. She did not say where it had come from. Nobody asked.
 
-That night she lay awake with the notebook on her chest. She had a secret now, the way Fen did. She had been wrong about how easy it was to keep one.
+That night she lay awake with the notebook on her chest. She had a secret now, like Fen. She had been wrong about how easy it was to keep one.
 
 

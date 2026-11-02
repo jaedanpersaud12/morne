@@ -75,6 +75,21 @@ From the blind read of ch 1 to 8. Each is **PROPOSED**: beat-sheeted so it can b
 
 Tock gets two revelations in one chapter (the pot, then the tile) plus a demonstration (the table). The tile is where Ida enters and must stay. The table is where Juno answers and must stay. The pot is the weakest of the three. **PROPOSED revision:** open ch 7 on the melted handles already on the stove and the handprint already on the counter, Tock scrubbing, the fever three days old. The reader arrives after the first time, the way Ida does. Saves about 600 words and makes the tile the first on-page fire.
 
+### Revision slots in ch 1 to 8 (lines for Jaedan to write)
+
+Added 2026-11-02 after the tic-trim pass. Each is a slot, not prose: where the line goes and what it has to do. Write it in your voice or strike the row.
+
+| Ch | Where | The slot | Why |
+| --- | --- | --- | --- |
+| 3 | The generator scene, after the petrol can | **Fen's dry line**, deadpan about a machine (the generator his father swore at). From Fen, not the narrator. | Rule: one dry line per Fen chapter. Ch 3 has none. |
+| 6 | Siphoning Dr. Moss's Corolla (the valve that stops the hose) | **Fen's dry line** about new cars vs old ones. Lonny can be the straight man. | Same rule; ch 6 is the heaviest chapter tonally. |
+| 7 | Scene 1, before the flame goes yellow, or with Bix and the wagon | **Tock's dry line**, about Lonny (his humour's subject per [19](19-imagery-and-threads.md)). | Ch 7 has Ida's "Language" but nothing from Tock himself. |
+| 4 or 5 | Ch 4 kitchen, by the nine tins; or ch 5 scene 2, the whiteboard | **Food for the awake.** One line: who cooks for thirty kids on the hill, from what, and how many days that is. Lonny's eating can carry it once. | Food for the living is never a problem on the hill; in town it's Judge's whole life. One line closes the gap and starts the count. |
+| 4 | Scene 2, Sol filling pots at the fifth house | **Sol's want, seeded.** One beat looking down at the dark ice plant from the road, or her mother's keys. No decision yet. | Sol's want is still blank on the page ([sol.md](cast/sol.md)). Seed the object before ch 15. |
+| 6 | Any sleeper beat on the roof (Mrs. Quill) | Check ch 6 has its **sleeper-becomes-person** beat; ch 3, 7 and 8 have one (Mrs. Quill's hands, Granny's ring, Judge's father under the tarp). | Once-a-chapter rule from [14](14-writing-rules.md). |
+| 7 | Whole chapter | **Pot stays on the page for now.** The trim pass left scene 1 intact (melted handles, counter handprint, scrubbing, the prayer backstory all hang on it). Revisit only if ch 7 runs long after ch 9 to 12 are drafted. | Moving it off-page cuts the counter handprint that [19](19-imagery-and-threads.md) keeps. |
+| all | Juno's lines | **"Okay. Okay."** now appears once on the page from Juno (ch 4) and once from Lyra imitating her (ch 3). Keep it at that until it pays off. | Tic was showing; Lonny's ch 4 instance changed to "Right. So." |
+
 ### Cost audit for ch 1 to 8 (what each turn cost, and whether the bill has come)
 
 | Ch | Decision | Cost | Bill paid yet? |

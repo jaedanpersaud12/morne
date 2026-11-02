@@ -12,7 +12,7 @@ The sky was the colour of weak tea. Sahara dust had blown in overnight, four tho
 
 "Dust don't read calendar."
 
-Ambrose Wick had driven a taxi for sixteen years, in a shirt pressed every morning, even on a Sunday, with the crease in his trousers ironed sharp, and he washed the car before the sun got hot whether or not anybody was going anywhere. On Sundays he sat in it with the church service on the car radio, because the car was the only thing he owned outright, and a man should sit in what he owns. In sixteen years she had never seen him sleep in it in the day. She let that go, because it was Sunday and the dust was in everyone's head, and went back to the washing.
+Ambrose Wick had driven a taxi for sixteen years, in a shirt pressed every morning, even on a Sunday, with the crease in his trousers ironed sharp. He washed the car before the sun got hot whether or not anybody was going anywhere. On Sundays he sat in it with the church service on the car radio, because the car was the only thing he owned outright, and a man should sit in what he owns. In sixteen years she had never seen him sleep in it in the day. She let that go, because it was Sunday and the dust was in everyone's head, and went back to the washing.
 
 Quarry Trace was nine houses on a road that went up the hill and stopped. Concrete houses, galvanize roofs, burglar-proofing on every window, black water tanks up on stands in every yard, and two of them still had an upstairs half-built, with rebar sticking out of the roof waiting for the money. At the top the road gave up at a rusted chain-link gate, and behind it was the quarry, a bite out of the hill that the trucks had stopped coming for six years ago. From up there you could see the whole south of the island: Morne Bay curved around its harbour, the ferry dock, the two church steeples, and the sea going out flat and blue to nothing.
 
@@ -78,7 +78,7 @@ He stopped by the front step on the way. He didn't look at her, exactly. He look
 
 "I know."
 
-The pickup went round the bend and down toward the junction, six in the tray and Lonny driving too fast, and her father called "Mind the police!" after it the way he always did. But he called it late, when the pickup was already gone. Like he had to think about it.
+The pickup went round the bend and down toward the junction, six in the tray and Lonny driving too fast, and her father called "Mind the police!" after it, as he always did. But he called it late, when the pickup was already gone. Like he had to think about it.
 
 ---
 
@@ -88,7 +88,7 @@ The church service on the car radio kept stopping. The pastor would lose his pla
 
 "Dust," her father said when she told him. "Everybody feeling it."
 
-He was feeling it. She brought him the thermos and he drank all of it and she watched his eyelids anyway. Twice she had to say his name. The second time he laughed at himself, a short embarrassed sound, and got out of the car and did ten squats in the yard in his pressed shirt, which was so unlike him that she laughed too, and for a minute it was almost fine.
+He was feeling it. She brought him the thermos. He drank all of it. She watched his eyelids anyway. Twice she had to say his name. The second time he laughed at himself, a short embarrassed sound, and got out of the car and did ten squats in the yard in his pressed shirt, which was so unlike him that she laughed too, and for a minute it was almost fine.
 
 The pickup came back at two. That was early.
 
@@ -174,7 +174,7 @@ She started running again, and the whole way down she was making a list of what 
 
 The corbeaux had come down.
 
-All day they'd sat on the light pole at the bend, four or five of them, the big black vultures with their wings half open, the way they always did. Now there were a dozen. More. They were on the galvanize of the flat. They were on the roof of the taxi. They were on the yard fence on either side of it, hunched and patient, with their bald red heads turned, every one of them, toward the open door of the car.
+All day they'd sat on the light pole at the bend, four or five of them, the big black vultures with their wings half open. Now there were a dozen. More. They were on the galvanize of the flat. They were on the roof of the taxi. They were on the yard fence on either side of it, hunched and patient, with their bald red heads turned, every one of them, toward the open door of the car.
 
 Toward her father, on the ground beside it.
 
