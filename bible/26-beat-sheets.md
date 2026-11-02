@@ -201,3 +201,170 @@ Lonny knows about the ship (overheard). Lyra knows Lonny went down the road; Jun
 - His interior is simple and concrete: food, weight, what's in front of him. No metaphors he wouldn't use.
 - His humour once, early, before the wheelbarrow ("I'm eating *near* it" territory). None after dawn.
 - Juno is never the villain on the page. She's tired, counting, and right about the carers.
+
+---
+
+# Movements 3 to 5: chapters 12 to 30
+
+Sheets from here are leaner than 9 to 11: where they start, three scenes (two for interludes), what must land, what they pay and plant, and who knows what afterwards. The checks from ch 9 to 11 apply to every chapter (three scenes, "said" only, ration the tics, no glow and no magic language, nobody is the villain on the page). Everything here is **PROPOSED** until you write it; the chapters stay canon over the sheet.
+
+### The calendar (PROPOSED, derived from the bible)
+
+Day zero is a Sunday in November ([11](11-timeline.md)), so the months line up with Trinidad's seasons, and the outline already fits them:
+
+| Book month | Real month | Season | Chapters |
+| --- | --- | --- | --- |
+| 1 | November–December | Tail of the wet season | 1–11 |
+| 2–3 | January–February | Dry season starts. No rain until May ([13](13-resources-and-roles.md)) | 12–13 |
+| 4–6 | March–May | Deep dry. The water crisis | 14–20 |
+| 7–8 | June–July | Rains come back | 21–23 |
+| 9–10 | August–September | Wet season. **Wet roads for Sol in the siege** | 24–27 |
+| 11–12 | October–November | The anniversary of the Sleep | 28–30 |
+
+The siege falling in the rains is why Sol's frozen road works. Juno's birthday at the end of the book lands near the first anniversary of the Sleep; keep it a few days either side so the two never share a page.
+
+## Movement 3: the pressure (ch 12–20, months 2–6)
+
+## Chapter 12 — Tock — working title "Handprint"
+
+**When:** month 2, one night and the two days after. **Length:** about 3,000 words.
+**What it does:** the Trace's first fight, and it's ugly and short. Tock burns a person. It pays the bill from ch 7 ("how hot can you get it?"): Juno made him a resource, and tonight the resource is used on a boy.
+**Where Tock is:** Vee is his. The heat comes calm when he thinks of her and hot when he's angry. Nobody but Ida has told him it isn't a sin. Lonny is on the road at night more than anyone knows. Juno and Kit still don't speak.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The cars at the bend (night) | Tock awake with Vee at two. Engines without lights on the road below. The Junction crew (the Harker brothers and four more) climbing over the cars the Trace pulled across the bend in week one. Shouting; the twelve road houses already emptied, now the hill. Kit on the gallery, the key in her fist. She looks up the hill at the Vales' house, at Juno, and runs for the box anyway. | The barricade exists because of the Harkers ([07](07-powers-in-practice.md#how-crews-touch-the-factions)). Kit and Juno don't speak, but in a crisis they still look at each other first. |
+| 2. The handprint | Cutlasses, a cricket bat, a car bonnet as a shield. Lonny throws a boy over a car. A Harker swings at Tock's head and Tock catches his forearm. The heat goes to rage before Tock can think of Vee. The smell. The boy's scream. Kit, behind them, racks the shotgun and doesn't fire, and the sound of that does more than the gun. The crew goes. One of them is holding his arm and crying. Rust, the younger Harker, last over the cars, looks back at Tock and nobody else. | Tock's first scorch on a person ([07](07-powers-in-practice.md#the-four-fights-of-book-one)). The shotgun out of the box, unfired. Plant Rust as a face. |
+| 3. Two days without speaking | Tock stops talking. He feeds Vee, works, sits on the tank stand. Juno tries three times; the third time she just sits next to him. Ida says the thing nobody else will: "You did what it's for. It's not for that." On the second evening the road says "the Trace has a boy who burns you," and Olli repeats it proudly at the table, and Tock leaves the room. He speaks again to Vee first. | The Trace is now a place people are afraid of. The cost of the power lands on the one who has it. |
+
+**Must land:** the smell. Kit racking the gun without firing. Tock's first word in two days, said to a baby.
+**Pays:** "how hot can you get it?" (ch 7), the cars at the bend (ch 2), the steel box (ch 9, ch 10). **Plants:** Rust; the barricade isn't enough (the wall, ch 24); Ida and Tock ([09](09-relationships.md#tock-and-ida)); the Trace's reputation.
+**Who knows:** the whole road, the Junction and, by tomorrow, the Harbour (Ears) know about the burning boy. Kit knows Juno looked at her first.
+
+## Chapter 13 — Juno — working title "Price"
+
+**When:** month 3, dry season, about a week. **Length:** about 3,000 words.
+**What it does:** water and medicine become prices. The twelve bags turn out to be on Judge's books, and Juno has to say where they came from. The Nettle girl's power shows first.
+**Where Juno is:** Granny worse than Mr. Hale was when he died, with a bag in her (the cost-audit fix, [17](17-book-one-outline.md#cost-audit-for-ch-1-to-8-what-each-turn-cost-and-whether-the-bill-has-come)). Cass and the road blame her for his mother. The tanks are going down.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The tanks | Juno climbs the tank stand with a stick and a string: a thumb's width a day. She does the arithmetic out loud: nineteen days. Washing stops. The ward gets sponge baths from one basin. Kids walk to the Hills streams with buckets and drums; it takes a morning. | The dry season is the first real crisis ([13](13-resources-and-roles.md)). Counting is the horror. |
+| 2. The yard | The Nettle girl, twelve, standing very still in an empty yard on the road. She points at the ground and says "there." Nobody believes her. Juno, tired, says dig, because a hole costs less than a morning's walk. At six feet it's damp. At eight there's water. | Water, and it belongs to a child ([supporting](cast/supporting.md#inside-the-trace-additions)). **Fix:** move her awakening from "month five" to here (month 3); she "finds water" properly through months 3–6 ([11](11-timeline.md)). |
+| 3. Nell at the gate | Nell with a handcart of fish and a ledger. The trade: antibiotics for fish, a price per course of tablets, set for a year. At the bottom of the page: *12 x IV fluid, 1L. Owed.* Juno says "That was a gift." Nell: "He said you'd say that." In the kitchen that night Juno tells everyone where the bags came from. Lonny says nothing. Cass says it for him: "So who else knew?" | The secret breaks when the gift comes with a price ([19](19-imagery-and-threads.md)). Judge never lied; it was always on the books. Price of medicine set for a year ([17](17-book-one-outline.md)). |
+
+**Must land:** nineteen days, measured with a stick and a string. Nell's "He said you'd say that." Juno telling the kitchen the truth, again, the way she did with the six bags in ch 2.
+**Pays:** the twelve bags (ch 8), Juno's ch 2 habit of telling the truth, Cass's grievance (ch 11). **Plants:** the Nettle girl's well, the year-long price, Nell rising, Lonny as the one who knew and kept it.
+**Who knows:** everyone knows about the bags now. Lonny is resented a little for keeping it.
+
+## Chapter 14 — Lyra — working title "Brakes"
+
+**When:** month 4, one day. **Length:** about 3,000 words.
+**What it does:** Lyra's first chapter. She runs because she can't stand still, and today she can't stop. The water doesn't come.
+**Where Lyra is:** she took the little ones in ch 11 and runs them like a loud, happy school. She has Cass now, tentatively. Her mother is in a bed at home; Fen has a secret about her sats Lyra doesn't know. She saw Lonny go down the road alone and didn't tell.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The run | The water run to the Hills streams: Lonny, Lyra, two drums on the pickup's last fuel. Lyra talks the whole way; Lonny lets her. She asks him about the road at night. He says "you saw me," and she says "I see everything," and it's a joke, and it's true. | Her want is somebody answering. Lonny's secret has a witness, and they make a quiet deal. |
+| 2. Costume pieces | On the Hills road, a log across it and the Mas Camp in chest plates, headdress wire and feathers, not a joke when you're looking at it. Lonny throws a boy into a ditch. Lyra runs. She's faster than she's ever been, three of them behind her, then none, and she can't stop. Through a fence. The wrist. Through the fence wire, a feather on the ground and a girl in a sequinned bra-top watching: Sleepy, though nobody names her. | The ambush ([07](07-powers-in-practice.md#the-four-fights-of-book-one)). The Rush shows first as a crash: alone, she can't brake ([cast/lyra](cast/lyra.md)). Plant Sleepy. |
+| 3. Home | Lonny carries her the whole way back, the drums lost. Juno sets the wrist on the kitchen table, the way she set the boy's arm at the Harbour. The water doesn't come that day. That night Lyra lies in the dark in the little ones' room, all of them asleep around her, and for the first time in her life she can't make a noise, and it's bearable. | Lyra's need: to stand the quiet. She gets thirty seconds of it. |
+
+**Must land:** the costume pieces as real armour. Lyra not being able to stop. The quiet at the end, bearable.
+**Pays:** Lonny's road secret (ch 11), Lyra and the little ones (ch 11). **Plants:** the Rush, Sleepy, two drums of water lost (the dry season tightens), Lonny and Lyra as each other's keepers.
+**Who knows:** Lyra knows something happened to her speed and thinks it was fear. Lonny saw it and thinks it was fear too.
+
+## Chapter 15 — Sol — working title "Hold"
+
+**When:** month 4–5, three days. **Length:** about 3,000 words.
+**What it does:** Sol's ice becomes the Trace's trade, she gets close to Lux, and when the Trace accuses her of leaking to the Harbour she takes the accusation rather than tell the truth.
+**Where Sol is:** gay and out to nobody. A door in town she's never knocked on. The Harbour knows about her ice through Ears, which she doesn't know. Her want (PROPOSED): the ice plant running again.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The fish hold | Judge's new terms after ch 13: ice for the fish hold, a hold a week, and the fish price drops. Juno sends Sol because there's no one else. On the *Lady Marisol* Sol freezes a hold of seawater with her hands for an hour. Afterwards she's shaking and thirsty, and a Harbour girl hands her water without asking: Lux. Lux's family worked the ice plant. "You're doing my father's job." | Ice for the fish hold ([17](17-book-one-outline.md)). The cost of the ice (ache, shaking, thirst) shown at work scale. |
+| 2. The ice plant | On the second trip Lux shows her the dark ice plant: the compressors, the brine tanks, her father's chair. Sol tells her the plan out loud, the way her mother liked a plan said out loud: the plant could run on Harbour diesel with the right part. Lux laughs at her, kindly. They stand too close at the brine tank. Nothing happens, and Sol walks home in the dark the long way. | Her want as an object. Lux is the door she's never knocked on. Keep it unsaid. |
+| 3. The accusation | Nell at the gate knows where the Trace's new well is and what it gives, a thing nobody outside the Trace should know. Cass, at the table: "Who's been going down to the Harbour three times a week?" Everyone looks at Sol. The truth (she went to be near Lux) would out her. She says nothing. She takes it. Juno, who has never asked Sol a question before she was ready, doesn't ask now either, and that's the worst thing. Only the reader knows it was Ears. | She takes the accusation over the truth ([17](17-book-one-outline.md)). Juno's patience, tested and failed by kindness. The group's acceptance has to cost them ([14](14-writing-rules.md#writing-sols-story)). |
+
+**Must land:** "You're doing my father's job." The brine tank. Sol not answering Cass.
+**Pays:** Judge wanted the ice (ch 8), Juno never asks Sol (ch 4), Ears (ch 6, ch 8). **Plants:** Lux, the ice plant, Sol under suspicion, Cass hunting for blame, Sol's ice as currency.
+**Who knows:** the Trace thinks Sol leaked. Juno half-believes it and hates herself for it. Sol knows she didn't, and doesn't know how the Harbour knew.
+
+## Chapter 16 — Fen — working title "Rush"
+
+**When:** month 5, a week. **Length:** about 3,000 words.
+**What it does:** the twins' power arrives together and the road watches them fight. Fen's body remembers dancing. Every secret about Fen (Kit, himself, the radio) starts coming out.
+**Where Fen is:** he and Juno mended badly after ch 11; she's polite to him. He hears more on the channel than he says. Cass is with Lyra and hardening. His mother's sats still hold at 94.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. Cass | Fen watches Cass on the gate. A cutlass skids off Cass's forearm in practice and leaves a white line, not blood. Cass smiles at it. Lyra calls it lucky. Fen sees Cass stop flinching at things, all things, and doesn't like it. | Cass awakens and hardens ([17](17-book-one-outline.md)). Fen notices; Lyra loves him. |
+| 2. The engine block | In the Quills' garage, Fen and Lyra pulling an engine for the generator's parts. The chain slips. Lyra, under it, wrist still splinted. Fen is next to her before he's moved and they catch it together, four hundred pounds, and it isn't heavy. Then they're both laughing and can't stop, because it feels like the year before the hospital. | The twins awaken together ([cast/fen](cast/fen.md)). Fen's surprise: delight. |
+| 3. The road houses | Four Mas Camp kids with cutlasses at the road houses where Lonny goes at night. Fen and Lyra walk out together. It's the dance: hit one and the other hits back harder. No scratch. The whole road watches from the gallery steps. Kit, at the bend, watches Fen; everyone watches Kit watching Fen. By nightfall the channel at nine has Judge on it: "Heard your sister can fly." | The third fight ([07](07-powers-in-practice.md#the-four-fights-of-book-one)). The secret is over: Fen is seen, Kit is seen, and Judge knows by nightfall. |
+
+**Must land:** the laugh in the garage. Kit watching, and being watched watching.
+**Pays:** Fen stopped dancing the day of the surgery (cast), Lyra crashes alone (ch 14), the road houses Lonny tends (ch 11), the glance rule ([19](19-imagery-and-threads.md): "by chapter 10 one glance has cost somebody").
+**Plants:** the twins as the Trace's deterrent, Cass's hardness, Judge's interest in the twins, Kit and Fen in public.
+**Who knows:** the whole island, within a day, knows the Trace has the twins.
+
+## Chapter 17 — Kit — working title "Rows"
+
+**When:** month 5, a few days. **Length:** about 3,000 words.
+**What it does:** Lonny leaves for the road. Kit and Fen out in the open. Kit goes to the Hills and sees what rooting becomes when a whole village does it.
+**Where Kit is:** Ambrose in the yard, rooted, stable, his skin cool and firm, threads to the elbow. The whispers louder. Not speaking to Juno since ch 10. Fen's, in front of everyone now.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. Lonny goes | Kitchen, morning. Juno: the Trace can't send water to the road, not one bucket. Lonny argues with Juno for the first time in his life. It's short and he's bad at it. Then he takes his share of water in a drum and says he'll eat on the road. Bix shouts at him. He goes. Kit watches from the door, the only one not in the kitchen and not on a side. The group routes around the hole by lunch, and Kit notices how fast. | Lonny's need: to argue. The hole in the group. |
+| 2. Nell, and the flat | Nell's cart at the gate. In passing, the way she says everything: a woman asleep in a flat on the coast road, a Wick on the mailbox. "Yours?" Kit says she doesn't know. She doesn't go. Fen, who knows, doesn't push. | Kit's mother ([cast/kit](cast/kit.md#family)): a book-two thread, opened and left. |
+| 3. Mother Hesper's | Moth takes Kit to the Hills. A church yard, the whole village's sleepers rooted in rows, a tarp over them for the sun. Kids sitting among them like a family on a Sunday. The rooted have their eyes moving under the lids. Mother Hesper's kids say they're dreaming, together. Kit hears it here, not a tap but a congregation, and it says her name, and she's frightened at how much she wants to sit down. | The rooted, dreaming ([04](04-sleepers.md#what-rooted-sleepers-become-slow-reveal)). The comfort that scares her. The Hills' faith. |
+
+**Must land:** how fast the group routes around Lonny. "Yours?" The wanting to sit down.
+**Pays:** Lonny's road (ch 11), Moth's offer (ch 9), Kit's mother (ch 1). **Plants:** the Hills as temptation, rooted sleepers changing, Kit's mother in town.
+**Who knows:** Kit and Fen know about the flat. Nobody else asks.
+
+## Chapter 18 — Fen — working title "Garden"
+
+**When:** month 6, one night. **Length:** about 2,500 words; shorter on purpose.
+**What it does:** the twins carry their mother to the ground. Not to save her: to let her go back to the earth. The quietest chapter in the book.
+**Where Fen is:** four years of his mother's cancer, then the Sleep, and her sats holding at 94 on room air, better than before the Sleep. He has told no one.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The number | Fen finally tells Lyra: 94, every morning, for six months. Lyra doesn't shout. She says "So she's not dying." Fen: "She's not anything." They sit on the floor of the studio, which is where Lyra goes when the house is quiet. | The secret ends ([19](19-imagery-and-threads.md)). The clue: nobody else's sleeper improves ([16](16-open-questions.md)). |
+| 2. Carrying | Night. The twins carry their mother down the garden on her own sheet, the way Kit did. It's easy, with the power, and they hate that it's easy, and they go slowly on purpose. Lyra talks to her the whole way. Fen doesn't. At the bottom of the garden Kit has already turned the soil. Nobody asked her; she knew. | The twins let their mother go ([11](11-timeline.md)). Kit's act of love, unspoken. |
+| 3. The balcony | When it's done, Fen looks up at the Vales'. Juno is on the gallery, watching, and doesn't come down. He doesn't wave. Back in the hall his father is still in his bed, the sleeper nobody decides about, and Fen pulls the blanket up, the way he did for Miss Tilda on night one. | Juno watches from the balcony and doesn't come down ([17](17-book-one-outline.md)). Mr. Quill, never decided. |
+
+**Must land:** "She's not anything." The slowness. Juno not coming down.
+**Pays:** the sats at 94 (ch 6), Lyra's hand on her mother's (ch 3), the blanket (ch 3). **Plants:** Mr. Quill (the sleeper fought over in ch 23), Juno's isolation, Kit as the Trace's quiet gardener.
+**Who knows:** Lyra knows about the 94. The whole Trace knows the Quills rooted their mother, and Juno didn't stop them.
+
+## Chapter 19 — Juno — working title "Tax"
+
+**When:** month 6, end of the dry season. **Length:** about 3,000 words.
+**What it does:** the first tax, and the first time Juno and Judge sit across a table. Fen hears the outside world talking about the island's kids as "carriers," and keeps it. Juno's age line becomes a thing she can see.
+**Where Juno is:** the bags gone, the antibiotics trade running, a ward that loses one family at a time to the ground. Granny's pauses longer. Her birthday months away and the oldest kids on the island starting to look ill.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The voice | Nine o'clock, Fen's roof. Fen has been listening to a new voice on the quarantine channel: a woman, a scientist, talking to someone else. He tells Juno he's heard it. He doesn't tell her what it said. She notices the gap and, for once, doesn't push. | The voice ([supporting](cast/supporting.md#offshore)). Fen's habit, smaller this time, and Juno choosing to trust it. |
+| 2. The table | Juno goes down to the Harbour for the tax: a share of the Trace's medicine, fortnightly, "for the island." Judge's office in the fish market's back room. He and Juno do the numbers across the table, flat, without hoping. It's the best conversation either has had in months. Big Hob carries a crate past the door and has to stop halfway. Judge sees her see it. "Eighteen," he says. Neither of them says what that means for her. | Judge's first tax; numbers across a table, the thing neither will act on ([17](17-book-one-outline.md)). Big Hob is the age line from outside ([17](17-book-one-outline.md#side-arcs-under-the-main-plot)). |
+| 3. The mirror | Home, the bathroom, the tap, the mirror. Thirty seconds. She looks at her own hands and counts the months to her birthday. Then she goes in to Granny and does the turn, and during the turn she says out loud, to nobody, "I'm not tired." | Juno's fear shown, not told. The secret rule (thirty seconds) under new pressure. |
+
+**Must land:** the numbers across the table. "Eighteen." "I'm not tired."
+**Pays:** Judge never lies, he tells her the number (ch 8); the thirty seconds (ch 2). **Plants:** the voice and "carriers" (ch 22), the tax that becomes the pharmacy demand (ch 24), Juno's birthday clock, Juno and Judge.
+**Who knows:** Fen knows the scientist said "carriers." Nobody else.
+
+## Chapter 20 — Interlude: Moth — working title "Seed"
+
+**When:** month 6. **Length:** about 1,500 words, two scenes.
+**What it does:** the reader's first look at the Hills from inside, and the first sight of the boy who will be the Gardener.
+**Where Moth is:** his grandfather rooted since week one. The Hills root their dead raiders. He hears the network and thinks it answers.
+
+| Scene | Beats | Why |
+| --- | --- | --- |
+| 1. The raider | The Mas Camp hit the farms in the dry season; a raider died in a cane field. The farm kids root him because that's what you do now. Moth sits with the body that isn't a body. Its fingers twitch. | The first rooted raider ([17](17-book-one-outline.md)). The Hills' response to the crews ([07](07-powers-in-practice.md#how-crews-touch-the-factions)). |
+| 2. The walking boy | At dusk, a boy walks out of the trees barefoot, with threads at his hairline and wrists, a Hills boy who went into the ground alive saving his grandmother. The kids stop saying his old name. He talks with his grandmother's voice, and then with his own, which is soft. He asks Moth about the girl at the Trace who hears it. He calls her by her name. | A boy who went to seed and kept walking. A name ([cast/gardener](cast/gardener.md)). **Open:** his name ([16](16-open-questions.md)); this is the chapter that needs it. |
+
+**Must land:** the twitch. The grandmother's voice out of a boy's mouth. Kit's name.
+**Pays:** Moth (ch 9). **Plants:** the Gardener, his interest in Kit, Moth's doubt ("Moth and the Gardener disagree, quietly", [17](17-book-one-outline.md#parallel-stories-the-world-off-page)).
+**Who knows:** the reader. None of the six.
