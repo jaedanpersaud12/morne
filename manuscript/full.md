@@ -1,6 +1,6 @@
 # Morne Bay (working title)
 
-_Built 2026-11-02 12:52. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
+_Built 2026-11-02 15:44. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
 
 
 # Chapter 1 — Dust
@@ -51,7 +51,7 @@ A lot of voices at once, nobody waiting for anybody to finish, and then the Pell
 
 All of them went. Not laughed, went. Somebody bent in half. Somebody had to put a cooler down. Juno hit her brother in the arm and laughed harder than any of them, head back.
 
-Kit stood on the step with a clothes peg in her hand. She had no idea what the goat was.
+Kit stood on the step with a clothes peg in her hand.
 
 She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi, and in eight months nobody had ever told her what the goat was. It wasn't meanness. They had been a group since before they could talk, and a group that old doesn't notice who is outside it.
 
@@ -123,7 +123,7 @@ She shook him, slapped his face, not hard and then hard, and when that did nothi
 
 His skin was cool.
 
-That was the thing that turned her stomach over. It was ninety degrees in that car with both doors open, and her father, who sweated through his shirt by noon every day of his life, was cool to the touch.
+That was the thing that turned her stomach over. It was thirty-four degrees in that car with both doors open, and her father, who sweated through his shirt by noon every day of his life, was cool to the touch.
 
 She took out her phone and dialled 999. It rang a long time. Then it stopped ringing and nothing happened, no voice, no click, just an open line with nobody on it.
 
@@ -243,10 +243,6 @@ Fen and Lyra didn't come. Lyra called, and Juno put her on speaker on the table 
 
 "I don't know."
 
-"You always know."
-
-"I don't know this."
-
 A pause. Then Fen, from the other side of the room: "Tank's fine. She's breathing eleven."
 
 "Twelve here," Juno said. "Everybody's twelve, or near it. Kit's father, Granny, all of them."
@@ -295,7 +291,7 @@ The Pells had a baby. Eight months old. Juno had held her in September at the ch
 
 He was already moving. The door hit the wall behind him.
 
-Nobody said anything. Sol was crying without making a sound. Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
+Sol was crying without making a sound. Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
 
 *Two. Babies. Small kids. Who's alone.*
 
@@ -503,7 +499,7 @@ The answer was in his mouth before he'd decided to give it.
 
 The channel went to hiss.
 
-Fen sat with the handheld in his lap and the cold came up through him slowly, from the stomach out. Two hundred kids at the fish market. A boy with a broken arm. And he had said Juno's name over an open channel that any boat on the island could hear, to a stranger who had asked a question, because Fen had had an answer and having an answer had felt, for one second, like being useful.
+Fen sat with the handheld in his lap and the cold came up through him slowly, from the stomach out. Two hundred kids at the fish market. A boy with a broken arm. And Juno's name, out on an open channel, to a stranger who had asked.
 
 He could call her. Tell her what he'd done, let her decide what it meant. Or he could sit here and hope it meant nothing, and find out in the morning.
 
@@ -599,7 +595,7 @@ Lonny woke up, looked at the Nettle girl on his arm, looked at the ceiling, and 
 
 "I'm hungry *now*. It's a different thing."
 
-Sol looked at the clock on the stove, which still worked, because it ran on a battery. Ten to five on a Monday. Arsenal and Everton kicked off at four this afternoon, and whoever won it would win it in a stadium full of people who were awake, and nobody on this island would ever know the score. She had been going to watch it on her phone under the desk in last period. It was the first thing she had thought of when she woke up, before her parents, and she was ashamed of that, and she thought about it anyway.
+Sol looked at the clock on the stove, which still worked, because it ran on a battery. Her phone had said *No Service* since three. Ten to five on a Monday. Arsenal and Everton kicked off at four this afternoon, and whoever won it would win it in a stadium full of people who were awake, and nobody on this island would ever know the score. She had been going to watch it on her phone under the desk in last period. It was the first thing she had thought of when she woke up, before her parents, and she was ashamed of that, and she thought about it anyway.
 
 The baby made a sound. Everyone stopped. Tock's whole body went still in the way a person goes still when they are holding something they are afraid of, and the baby sighed and went back to sleep, and he let his breath out through his teeth.
 
@@ -727,7 +723,7 @@ She put her forehead on his chest, with the boy between them, and Lonny put one 
 
 "Yeah," Lonny said. "Of course."
 
-Sol didn't say anything. It wasn't hers to say. It wasn't his either, and he knew it, and he'd said it anyway, and she filed that away with the cold in her hands and the dead fly in Miss Orla's glass as things that were going to matter later.
+Sol didn't say anything. It wasn't hers to say. It wasn't his either, and he knew it, and he'd said it anyway.
 
 ---
 
@@ -931,7 +927,7 @@ The gap came and didn't end. She counted to sixty. She put two fingers on the si
 
 Ida came and knelt on the other side of him and folded her hands. She said a prayer Juno knew. Granny said it every night in the room next to Juno's, through the wall, in exactly that rhythm. Juno knew every word. She couldn't make her mouth do any of them.
 
-It was Tock who said it, out on the porch, with Vee asleep on his shoulder and the sun coming up over the sea.
+It was Tock who said it, out on the porch, with Vee asleep on his shoulder and the sun coming up over the sea. The corbeaux were already on the roof of number nine, hunched against the light. He didn't look at them.
 
 "We can't keep him in there."
 
@@ -1038,6 +1034,8 @@ Fen's hand closed on the radio.
 He hadn't told anyone on the channel. Nobody up here had. The grave was behind number nine, on the slope facing the sea, under a lime tree, eleven kilometres from the dock.
 
 "I have a boy here," Judge said, "who could hear a pin drop on that hill. Don't vex. Is just how it is. Who was it?"
+
+Eleven kilometres, over water. No aerial on the island did that. Fen let it sit, because the alternative was asking.
 
 "An old man. Ninety."
 
@@ -1153,7 +1151,7 @@ Fen sat on the roof with the handheld in his lap and the volume at zero.
 
 The ship didn't move all day.
 
-The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Fen carried the paint tins. He held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
+The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Twenty-four was Juno's number. It was in the book under Day 7, with thirteen and twenty and twenty-two crossed out above it. Fen carried the paint tins. He held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
 
 At nine the handheld clicked.
 
@@ -1191,19 +1189,13 @@ Hiss.
 
 Fen put the handheld down on the roof beside him and sat with his elbows on his knees.
 
-Two things now. The boy's arm, which was Judge's, and which Judge would come up the hill for if Fen didn't carry it down to the Vales' kitchen tonight. And the ship, which was his. Which nobody had asked him to keep and he had kept anyway.
+Two things now. The boy's arm, which was Judge's, and which Judge would come up the hill for if Fen didn't carry it to the Vales' kitchen tonight. And the ship, which was his. Nobody had asked him to keep it.
 
-If he told her about the arm, she would go down the hill tomorrow into Judge's town, because she was Juno and a boy's arm was setting wrong and she was the only person on the island who knew how to set it. He couldn't stop that. He wasn't sure he should.
+The arm she would go down the hill for. He couldn't stop that and wasn't sure he should.
 
-If he told her about the ship, he didn't know what she would do.
+The ship, he didn't know. He thought of her hand flat on the page, and her voice in the road this morning, louder than it had been all week because she had something to hold. *Somebody's coming.* It wasn't true. It was holding her up. He knew about one more day. At the worst of it, in this house, that had been the whole plan, and it had been enough, more than once, until it wasn't needed.
 
-He thought about her hand flat on the page of the exercise book, and how still she had been. He thought about her voice in the road this morning, louder than it had been all week, because she had something to hold onto. *Somebody's coming.* It wasn't true. It was holding her up.
-
-He knew about being held up by things that weren't true yet. He knew about one more day. At the worst of it, in this house, that had been the whole plan, one more day and then see, and one more day had been enough, more than once, until it wasn't needed any more.
-
-The arm, tonight, at the table, in front of all of them. Six of them. That was the rule; let the six decide.
-
-The ship, tomorrow. One more day.
+The arm, tonight, at the table, in front of the six. The ship, tomorrow.
 
 He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, the way it had been every night since the first. He had stopped seeing it.
 
@@ -1397,7 +1389,7 @@ The heat went down his arms slowly this time. It didn't explode. It came out of 
 
 He held it there for a minute. Then he took his hands away, and the water slowed, and stopped.
 
-His legs went. Ida got a chair under him somehow. He was dizzier than he had been after the fete at fourteen, after the bottle that had cut his eyebrow. His mouth was dry as paper. He drank three glasses of water and ate a whole tin of sardines out of the tin with his fingers while Ida watched with her arms folded and didn't say anything about manners.
+His legs went. Ida got a chair under him somehow. He was dizzier than he had been after the fete at fourteen. His mouth was dry as paper. He drank three glasses of water and ate a whole tin of sardines out of the tin with his fingers while Ida watched with her arms folded and didn't say anything about manners.
 
 "That's one pot," she said.
 
@@ -1409,13 +1401,13 @@ His legs went. Ida got a chair under him somehow. He was dizzier than he had bee
 
 That evening, after dark, he went down the road to Sol's and held out his arms for the baby.
 
-Sol looked at him, and at his hands, and gave her over without a word. Vee grabbed his T-shirt in one fist and his eyebrow in the other, right on the scar, and pulled. His hands were cool against her back. He stood in Sol's doorway and didn't move for a long time.
+Sol looked at him, and at his hands, and gave her over without a word. Vee grabbed his T-shirt in one fist and his eyebrow in the other, right on the old scar from the fete, and pulled. His hands were cool against her back. He stood in Sol's doorway and didn't move for a long time.
 
 ---
 
 They were at the Vales' kitchen table at ten that night when Fen came in with the radio.
 
-All of them except Lyra, who was home with their mother. Juno at the head, where Granny used to sit, with the exercise book. Lonny eating cold rice out of a pot. Sol with her knees up on her chair. Tock at the end, with his hands flat on Granny's table and Vee asleep on a pile of towels in the living room, right next door, where he could hear her breathing through the open door.
+All of them except Lyra, who was home with their mother. Juno at the head, where Granny used to sit, with the exercise book. Lonny with his chair tipped back against the wall. Sol with her knees up on her chair. Tock at the end, with his hands flat on Granny's table and Vee asleep on a pile of towels in the living room, right next door, where he could hear her breathing through the open door.
 
 Fen didn't sit down. He put the handheld in the middle of the table, between the candle jar and the exercise book, and looked at the ground beside Juno's foot, the way he did.
 
@@ -1425,9 +1417,7 @@ Juno put her pen down.
 
 "The boy's arm. It's setting wrong. He asked two nights ago too." Fen stopped, and Tock watched him decide whether to say the next part. "I didn't tell you. I should have. He wants you at the fish market tomorrow. He said if you don't come down, he'll send somebody up the hill to ask you nice."
 
-Nobody said anything for a second.
-
-Then the heat came up in Tock so fast he didn't feel it start. It came from his stomach, from the place where it lived. It came from the word *nice* in the mouth of somebody he had never met who had two hundred kids and a radio and a harbour full of fellas who did what he said, and who wanted his sister, and who thought he could send somebody up this hill and get her.
+The heat came up in Tock so fast he didn't feel it start. It came from his stomach, from the place where it lived. It came from the word *nice* in the mouth of somebody he had never met who had two hundred kids and a radio and a harbour full of fellas who did what he said, and who wanted his sister, and who thought he could send somebody up this hill and get her.
 
 He stood up.
 
@@ -1437,7 +1427,7 @@ He snatched his hands back.
 
 Two black handprints on Granny's mahogany table, side by side, with thin smoke coming up off them in the candlelight. Burned down into the grain.
 
-Lonny stopped chewing. Sol's knees came down off the chair. Fen took one step back from the table, the only step he took all night. In the next room, Vee sighed in her sleep and didn't wake.
+Lonny's chair came down. Sol's knees came down off the chair. Fen took one step back from the table, the only step he took all night. In the next room, Vee sighed in her sleep and didn't wake.
 
 Tock stood with his hands held up and out, the way you'd hold them if somebody had a gun on you. He waited for Juno to say it. *What's wrong with you. What did you do. Get away from the baby.* Or the other thing, the thing Ida had said, the thing he hadn't known he needed until he heard it. *It isn't a sin.*
 
@@ -1641,6 +1631,18 @@ Twelve.
 
 She stood at the edge of Morne Bay with twelve bags of the thing she'd done division over eight nights ago in a sleeping doctor's study, and Lonny picked up the box without a word, and she knew exactly what a gift from Cole Mayers was, and she took it anyway.
 
-She carried the knowing up the hill. At the bend Kit lifted a hand to them from the gallery without a word, and Juno looked past her through the open door of the flat, at the bedroom where the steel box was, and kept walking. Tock was waiting a little way up the road with Vee asleep on his shoulder, and he said, "Well?", and she said, "A broken arm. I set it. There's a list," and she put the box in the Mosses' front room under the empty coat hangers where the first six had hung, and she did not tell anyone where it had come from, and she lay awake that night with the notebook on her chest and understood that she had a secret now, the way Fen did, and that she had been wrong about how easy it was to keep one.
+She carried the knowing up the hill.
+
+At the bend Kit lifted a hand from the gallery. Juno looked past her, through the open door of the flat, at the bedroom where the steel box was, and kept walking.
+
+Tock was waiting a little way up the road with Vee asleep on his shoulder.
+
+"Well?"
+
+"A broken arm. I set it. There's a list."
+
+She put the box in the Mosses' front room, under the empty coat hangers where the first six had hung. She did not say where it had come from. Nobody asked.
+
+That night she lay awake with the notebook on her chest. She had a secret now, the way Fen did. She had been wrong about how easy it was to keep one.
 
 

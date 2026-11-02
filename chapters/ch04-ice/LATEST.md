@@ -34,7 +34,7 @@ Lonny woke up, looked at the Nettle girl on his arm, looked at the ceiling, and 
 
 "I'm hungry *now*. It's a different thing."
 
-Sol looked at the clock on the stove, which still worked, because it ran on a battery. Ten to five on a Monday. Arsenal and Everton kicked off at four this afternoon, and whoever won it would win it in a stadium full of people who were awake, and nobody on this island would ever know the score. She had been going to watch it on her phone under the desk in last period. It was the first thing she had thought of when she woke up, before her parents, and she was ashamed of that, and she thought about it anyway.
+Sol looked at the clock on the stove, which still worked, because it ran on a battery. Her phone had said *No Service* since three. Ten to five on a Monday. Arsenal and Everton kicked off at four this afternoon, and whoever won it would win it in a stadium full of people who were awake, and nobody on this island would ever know the score. She had been going to watch it on her phone under the desk in last period. It was the first thing she had thought of when she woke up, before her parents, and she was ashamed of that, and she thought about it anyway.
 
 The baby made a sound. Everyone stopped. Tock's whole body went still in the way a person goes still when they are holding something they are afraid of, and the baby sighed and went back to sleep, and he let his breath out through his teeth.
 
@@ -162,7 +162,7 @@ She put her forehead on his chest, with the boy between them, and Lonny put one 
 
 "Yeah," Lonny said. "Of course."
 
-Sol didn't say anything. It wasn't hers to say. It wasn't his either, and he knew it, and he'd said it anyway, and she filed that away with the cold in her hands and the dead fly in Miss Orla's glass as things that were going to matter later.
+Sol didn't say anything. It wasn't hers to say. It wasn't his either, and he knew it, and he'd said it anyway.
 
 ---
 

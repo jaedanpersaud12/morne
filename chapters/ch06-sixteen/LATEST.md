@@ -32,6 +32,8 @@ He hadn't told anyone on the channel. Nobody up here had. The grave was behind n
 
 "I have a boy here," Judge said, "who could hear a pin drop on that hill. Don't vex. Is just how it is. Who was it?"
 
+Eleven kilometres, over water. No aerial on the island did that. Fen let it sit, because the alternative was asking.
+
 "An old man. Ninety."
 
 "Sorry to hear." It sounded like he meant it. It sounded like he meant everything, which was the problem. "We lose three. Two old people and a lady with sugar. We put them in the churchyard by the market. Is a lot of digging for little fellas."
@@ -146,7 +148,7 @@ Fen sat on the roof with the handheld in his lap and the volume at zero.
 
 The ship didn't move all day.
 
-The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Fen carried the paint tins. He held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
+The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Twenty-four was Juno's number. It was in the book under Day 7, with thirteen and twenty and twenty-two crossed out above it. Fen carried the paint tins. He held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
 
 At nine the handheld clicked.
 
@@ -184,19 +186,13 @@ Hiss.
 
 Fen put the handheld down on the roof beside him and sat with his elbows on his knees.
 
-Two things now. The boy's arm, which was Judge's, and which Judge would come up the hill for if Fen didn't carry it down to the Vales' kitchen tonight. And the ship, which was his. Which nobody had asked him to keep and he had kept anyway.
+Two things now. The boy's arm, which was Judge's, and which Judge would come up the hill for if Fen didn't carry it to the Vales' kitchen tonight. And the ship, which was his. Nobody had asked him to keep it.
 
-If he told her about the arm, she would go down the hill tomorrow into Judge's town, because she was Juno and a boy's arm was setting wrong and she was the only person on the island who knew how to set it. He couldn't stop that. He wasn't sure he should.
+The arm she would go down the hill for. He couldn't stop that and wasn't sure he should.
 
-If he told her about the ship, he didn't know what she would do.
+The ship, he didn't know. He thought of her hand flat on the page, and her voice in the road this morning, louder than it had been all week because she had something to hold. *Somebody's coming.* It wasn't true. It was holding her up. He knew about one more day. At the worst of it, in this house, that had been the whole plan, and it had been enough, more than once, until it wasn't needed.
 
-He thought about her hand flat on the page of the exercise book, and how still she had been. He thought about her voice in the road this morning, louder than it had been all week, because she had something to hold onto. *Somebody's coming.* It wasn't true. It was holding her up.
-
-He knew about being held up by things that weren't true yet. He knew about one more day. At the worst of it, in this house, that had been the whole plan, one more day and then see, and one more day had been enough, more than once, until it wasn't needed any more.
-
-The arm, tonight, at the table, in front of all of them. Six of them. That was the rule; let the six decide.
-
-The ship, tomorrow. One more day.
+The arm, tonight, at the table, in front of the six. The ship, tomorrow.
 
 He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, the way it had been every night since the first. He had stopped seeing it.
 

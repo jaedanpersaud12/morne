@@ -8,3 +8,4 @@
 - v005 (20261102-0253): Setting rewrite: Quarry Trace (9 ordinary houses, no wall), Kit's father a taxi driver who moved in 8 months ago, counts 16 adults / 13 kids
 - v006 (20261102-1252): before tap-water temperature fix
 - 20261102-1252: tap water is normally cool, not warm; Sol's power turns it fridge-cold
+- v007 (20261102-1544): Review pass: cut 'things that were going to matter later' (author's hand); phone no-service line closes the cell gap

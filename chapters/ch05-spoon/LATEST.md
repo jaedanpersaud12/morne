@@ -124,7 +124,7 @@ The gap came and didn't end. She counted to sixty. She put two fingers on the si
 
 Ida came and knelt on the other side of him and folded her hands. She said a prayer Juno knew. Granny said it every night in the room next to Juno's, through the wall, in exactly that rhythm. Juno knew every word. She couldn't make her mouth do any of them.
 
-It was Tock who said it, out on the porch, with Vee asleep on his shoulder and the sun coming up over the sea.
+It was Tock who said it, out on the porch, with Vee asleep on his shoulder and the sun coming up over the sea. The corbeaux were already on the roof of number nine, hunched against the light. He didn't look at them.
 
 "We can't keep him in there."
 

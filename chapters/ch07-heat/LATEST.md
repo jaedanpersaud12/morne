@@ -174,7 +174,7 @@ The heat went down his arms slowly this time. It didn't explode. It came out of 
 
 He held it there for a minute. Then he took his hands away, and the water slowed, and stopped.
 
-His legs went. Ida got a chair under him somehow. He was dizzier than he had been after the fete at fourteen, after the bottle that had cut his eyebrow. His mouth was dry as paper. He drank three glasses of water and ate a whole tin of sardines out of the tin with his fingers while Ida watched with her arms folded and didn't say anything about manners.
+His legs went. Ida got a chair under him somehow. He was dizzier than he had been after the fete at fourteen. His mouth was dry as paper. He drank three glasses of water and ate a whole tin of sardines out of the tin with his fingers while Ida watched with her arms folded and didn't say anything about manners.
 
 "That's one pot," she said.
 
@@ -186,13 +186,13 @@ His legs went. Ida got a chair under him somehow. He was dizzier than he had bee
 
 That evening, after dark, he went down the road to Sol's and held out his arms for the baby.
 
-Sol looked at him, and at his hands, and gave her over without a word. Vee grabbed his T-shirt in one fist and his eyebrow in the other, right on the scar, and pulled. His hands were cool against her back. He stood in Sol's doorway and didn't move for a long time.
+Sol looked at him, and at his hands, and gave her over without a word. Vee grabbed his T-shirt in one fist and his eyebrow in the other, right on the old scar from the fete, and pulled. His hands were cool against her back. He stood in Sol's doorway and didn't move for a long time.
 
 ---
 
 They were at the Vales' kitchen table at ten that night when Fen came in with the radio.
 
-All of them except Lyra, who was home with their mother. Juno at the head, where Granny used to sit, with the exercise book. Lonny eating cold rice out of a pot. Sol with her knees up on her chair. Tock at the end, with his hands flat on Granny's table and Vee asleep on a pile of towels in the living room, right next door, where he could hear her breathing through the open door.
+All of them except Lyra, who was home with their mother. Juno at the head, where Granny used to sit, with the exercise book. Lonny with his chair tipped back against the wall. Sol with her knees up on her chair. Tock at the end, with his hands flat on Granny's table and Vee asleep on a pile of towels in the living room, right next door, where he could hear her breathing through the open door.
 
 Fen didn't sit down. He put the handheld in the middle of the table, between the candle jar and the exercise book, and looked at the ground beside Juno's foot, the way he did.
 
@@ -202,9 +202,7 @@ Juno put her pen down.
 
 "The boy's arm. It's setting wrong. He asked two nights ago too." Fen stopped, and Tock watched him decide whether to say the next part. "I didn't tell you. I should have. He wants you at the fish market tomorrow. He said if you don't come down, he'll send somebody up the hill to ask you nice."
 
-Nobody said anything for a second.
-
-Then the heat came up in Tock so fast he didn't feel it start. It came from his stomach, from the place where it lived. It came from the word *nice* in the mouth of somebody he had never met who had two hundred kids and a radio and a harbour full of fellas who did what he said, and who wanted his sister, and who thought he could send somebody up this hill and get her.
+The heat came up in Tock so fast he didn't feel it start. It came from his stomach, from the place where it lived. It came from the word *nice* in the mouth of somebody he had never met who had two hundred kids and a radio and a harbour full of fellas who did what he said, and who wanted his sister, and who thought he could send somebody up this hill and get her.
 
 He stood up.
 
@@ -214,7 +212,7 @@ He snatched his hands back.
 
 Two black handprints on Granny's mahogany table, side by side, with thin smoke coming up off them in the candlelight. Burned down into the grain.
 
-Lonny stopped chewing. Sol's knees came down off the chair. Fen took one step back from the table, the only step he took all night. In the next room, Vee sighed in her sleep and didn't wake.
+Lonny's chair came down. Sol's knees came down off the chair. Fen took one step back from the table, the only step he took all night. In the next room, Vee sighed in her sleep and didn't wake.
 
 Tock stood with his hands held up and out, the way you'd hold them if somebody had a gun on you. He waited for Juno to say it. *What's wrong with you. What did you do. Get away from the baby.* Or the other thing, the thing Ida had said, the thing he hadn't known he needed until he heard it. *It isn't a sin.*
 

@@ -116,7 +116,7 @@ The answer was in his mouth before he'd decided to give it.
 
 The channel went to hiss.
 
-Fen sat with the handheld in his lap and the cold came up through him slowly, from the stomach out. Two hundred kids at the fish market. A boy with a broken arm. And he had said Juno's name over an open channel that any boat on the island could hear, to a stranger who had asked a question, because Fen had had an answer and having an answer had felt, for one second, like being useful.
+Fen sat with the handheld in his lap and the cold came up through him slowly, from the stomach out. Two hundred kids at the fish market. A boy with a broken arm. And Juno's name, out on an open channel, to a stranger who had asked.
 
 He could call her. Tell her what he'd done, let her decide what it meant. Or he could sit here and hope it meant nothing, and find out in the morning.
 

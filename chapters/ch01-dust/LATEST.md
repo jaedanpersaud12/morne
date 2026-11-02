@@ -46,7 +46,7 @@ A lot of voices at once, nobody waiting for anybody to finish, and then the Pell
 
 All of them went. Not laughed, went. Somebody bent in half. Somebody had to put a cooler down. Juno hit her brother in the arm and laughed harder than any of them, head back.
 
-Kit stood on the step with a clothes peg in her hand. She had no idea what the goat was.
+Kit stood on the step with a clothes peg in her hand.
 
 She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi, and in eight months nobody had ever told her what the goat was. It wasn't meanness. They had been a group since before they could talk, and a group that old doesn't notice who is outside it.
 
@@ -118,7 +118,7 @@ She shook him, slapped his face, not hard and then hard, and when that did nothi
 
 His skin was cool.
 
-That was the thing that turned her stomach over. It was ninety degrees in that car with both doors open, and her father, who sweated through his shirt by noon every day of his life, was cool to the touch.
+That was the thing that turned her stomach over. It was thirty-four degrees in that car with both doors open, and her father, who sweated through his shirt by noon every day of his life, was cool to the touch.
 
 She took out her phone and dialled 999. It rang a long time. Then it stopped ringing and nothing happened, no voice, no click, just an open line with nobody on it.
 

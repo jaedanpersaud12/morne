@@ -54,10 +54,6 @@ Fen and Lyra didn't come. Lyra called, and Juno put her on speaker on the table 
 
 "I don't know."
 
-"You always know."
-
-"I don't know this."
-
 A pause. Then Fen, from the other side of the room: "Tank's fine. She's breathing eleven."
 
 "Twelve here," Juno said. "Everybody's twelve, or near it. Kit's father, Granny, all of them."
@@ -106,7 +102,7 @@ The Pells had a baby. Eight months old. Juno had held her in September at the ch
 
 He was already moving. The door hit the wall behind him.
 
-Nobody said anything. Sol was crying without making a sound. Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
+Sol was crying without making a sound. Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
 
 *Two. Babies. Small kids. Who's alone.*
 

@@ -188,4 +188,16 @@ Twelve.
 
 She stood at the edge of Morne Bay with twelve bags of the thing she'd done division over eight nights ago in a sleeping doctor's study, and Lonny picked up the box without a word, and she knew exactly what a gift from Cole Mayers was, and she took it anyway.
 
-She carried the knowing up the hill. At the bend Kit lifted a hand to them from the gallery without a word, and Juno looked past her through the open door of the flat, at the bedroom where the steel box was, and kept walking. Tock was waiting a little way up the road with Vee asleep on his shoulder, and he said, "Well?", and she said, "A broken arm. I set it. There's a list," and she put the box in the Mosses' front room under the empty coat hangers where the first six had hung, and she did not tell anyone where it had come from, and she lay awake that night with the notebook on her chest and understood that she had a secret now, the way Fen did, and that she had been wrong about how easy it was to keep one.
+She carried the knowing up the hill.
+
+At the bend Kit lifted a hand from the gallery. Juno looked past her, through the open door of the flat, at the bedroom where the steel box was, and kept walking.
+
+Tock was waiting a little way up the road with Vee asleep on his shoulder.
+
+"Well?"
+
+"A broken arm. I set it. There's a list."
+
+She put the box in the Mosses' front room, under the empty coat hangers where the first six had hung. She did not say where it had come from. Nobody asked.
+
+That night she lay awake with the notebook on her chest. She had a secret now, the way Fen did. She had been wrong about how easy it was to keep one.
