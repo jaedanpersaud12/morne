@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": "nmvzq1eyhpjtn",
+      "file": "chapters/ch04-ice/LATEST.md",
+      "quote": "when Sol stopped pretending to sleep",
+      "line": 7,
+      "body": "🤖 Changed from \"when Sol shut her eyes at one\": line 3 says Sol \"had not slept\", so shutting her eyes read like sleep. Also drops the counter/counter/counter repeat. Undo from the Claude feed or History if you prefer the old line.",
+      "resolved": false,
+      "created": "2026-11-02T20:38:34.745Z",
+      "machine": "jaedan"
+    }
+  ]
+}
