@@ -152,7 +152,7 @@ They had reached the edge of the square. The coast road went off into the orange
 
 She'd known it was coming and it still landed. "No."
 
-"Twenty-two names on that list. Three hundred kids. You set a bone today in front of fifty of them and they going to talk about it for a month. Up there you have fifteen sleepers and a doctor's cupboard. Down here—"
+"Twenty-two names on that list. Three hundred kids. You set a bone today in front of fifty of them and they going to talk about it for a month. Up there you have sixteen sleepers and a doctor's cupboard. Down here—"
 
 "I have a grandmother up there."
 
