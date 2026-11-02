@@ -34,7 +34,7 @@ Everyone who isn't a main character or an antagonist. A line or two each until t
 - **Marsh, 16.** Water. Pulls fresh water out of seawater through her hands. The Harbour's water problem, solved, slowly, at the cost of her own kidneys. By year two she is grey. Judge rations her the way he rations fish.
 - **Big Hob, 18.** Earth. The dock's strongman, Lonny's counterpart, borderline age. He is fading, the slow sickness of the 16-to-19s, and everyone can see it, and he keeps lifting. The Harbour's walking clock.
 - **Cookie, 14.** Fire. Runs the fish market kitchen with heat in her hands. Feeds two hundred kids a day. Never fights. The most loved person in the Harbour, and the one whose loss would end Judge.
-- **Ears, 13.** Air. The lookout. Air carries sound to him across the whole harbour. He hears the Trace's generator from the dock. He heard Fen's first transmission before Judge did.
+- **Ears, 13.** Air. The lookout. Air carries sound to him across the whole harbour. He hears the Trace's generator from the dock. He heard Fen's first transmission before Judge did. By ch 8 he has told Judge about the grave, the ice and Ambrose's gun. **Rule (2026-11-02):** the reader must clock Ears as a *power*, not a nickname, in ch 6, when Judge says "a boy who could hear a pin drop on that hill." Fen should think it; Juno should miss it. A thirteen-year-old who can hear eleven kilometres is the first powered Harbour kid the Trace meets, and they don't know they've met him.
 - **No healers.** Nobody at the Harbour has Life/decay. That is why Judge wants Juno, and why the Hills' pain-takers matter.
 
 ## The Hills

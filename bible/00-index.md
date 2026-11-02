@@ -33,6 +33,7 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 - [15 Prose fundamentals](15-prose-fundamentals.md): what the pros do, with the per-chapter checklist
 - [16 Open questions](16-open-questions.md): decisions not yet made
 - [18 Visual style](18-visual-style.md): the locked portrait style and every character's prompt
+- [19 Imagery and threads](19-imagery-and-threads.md): the three clocks (birds, light, counting), Granny as present absence, religion and Sunday, the secrets ledger, decisions marked PROPOSED
 
 ## Locked numbers
 

@@ -55,3 +55,9 @@ Sources: [LibraryThing reader review](https://www.librarything.com/work/book/200
 - [ ] The end-turn lands on information the reader already has
 - [ ] Somebody paid for the fuel, the food, the water, the power
 - [ ] If it sounds like writing, rewrite it
+- [ ] The turn is a decision that costs something the character chose; no out left in the chapter
+- [ ] One sleeper becomes a person for one beat
+- [ ] If anyone dies, the corbeaux came first
+- [ ] Tic counts run and halved (see [14](14-writing-rules.md#tics-to-count-before-saving-a-version))
+- [ ] One dry line from the POV character if it's a Fen or Tock chapter
+- [ ] Somebody on the page holds a wrong theory, or a right one too early

@@ -39,3 +39,13 @@ She makes ice on a tropical island, best when she is in her rhythm, worse in cha
 ## In a fight, and on a Tuesday
 
 She won't, for a long time. When she finally does (the siege), wet ground freezes under the dock boys' feet and they fall. Daily is where she matters: the fish hold, the medicine box, fevers broken with a hand on the forehead, ice for trade, the pool kept from going bad. Her hands are always cold now. See [07](../07-powers-in-practice.md).
+
+## Her want, on the page (added 2026-11-02, PROPOSED)
+
+Being seen is the pillar; it is not a want a reader can watch her chase in chapter 4. The chase needs an object.
+
+**PROPOSED: Sol wants the ice plant running.** Her mother's cold room, dark since night one. Fish rotting in a day at the Harbour because the plant is dead. It is the one place on the island where Sol's gift is not a miracle but a job, and it is her mother's job, and Lux's family's. Every time she makes ice in a bucket she is doing by hand what the plant did by machine, and she knows it. By movement 3 (ch 15, "Ice for the fish hold. Lux.") the want and the fault line are the same thing: the plant is in Judge's town.
+
+What this gives the page now: in ch 4 she already thinks about the cold room to make the ice. From ch 9 she can say it: "If I could get the plant going." Nobody takes it seriously. Judge does.
+
+The cost that comes with it: the plant needs power, power needs Fen's fuel maths, and the Harbour has the fuel. Sol's want is the first thing that pulls the Trace toward Judge's table willingly.

@@ -30,3 +30,9 @@ Every cruel thing he does, he can justify with a number of kids fed. He is right
 
 - Nell, 16, no power: runs the books, counts the fish, rises inside the Harbour. See [supporting](supporting.md#the-harbour).
 - Dax, 15, Lightning: his enforcer. The first kid we see corrupted by what the power rewards.
+
+## Ears and the gift (added 2026-11-02)
+
+Judge's intelligence is Ears. Everything he knows about the Trace before ch 8 (the generator, the grave, the ice, the gun) came through a thirteen-year-old's hearing. He never hides it ("Don't vex. Is just how it is.") and he never explains it, which is why Juno files it as a nickname. The reader should not.
+
+The twelve bags are the first gift. Rule: every Judge gift is correct, useful, and arrives before the price is named. The second gift comes with the price attached. The third is refused, and that refusal is the first thing the Trace does that Judge takes personally.

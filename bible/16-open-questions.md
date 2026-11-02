@@ -22,3 +22,10 @@ Decisions not yet made. Decide here, then update the file the decision belongs t
 - [ ] Where Rust ends up (the Trace would be the most interesting answer and the hardest to earn)
 - [ ] Whether Sleepy ever touches one of the six
 - [ ] The third powered kid in the Trace beyond the eight, if the second bloom adds one
+
+- [ ] Sunday: clue or cause? (PROPOSED in [19](19-imagery-and-threads.md#religion-and-sunday-one-thread-not-six-touches): clue; the kids read meaning into it and the book never confirms)
+- [ ] Mrs. Quill holding 94% on room air: Fen noticed in ch 6. Decide when he tells Lyra (proposed ch 18) and whether anyone else's sleeper improves (proposed: nobody's, which is the clue)
+- [ ] Sol's want as an object (PROPOSED: the ice plant; see [sol.md](cast/sol.md#her-want-on-the-page-added-2026-11-02-proposed))
+- [ ] Where Lonny's chapter sits in movement 2 (PROPOSED: ch 11 slot; see [17](17-book-one-outline.md#proposed-insertions-2026-11-02))
+- [ ] Who voices the first wrong theory of the Sleep, and when (PROPOSED: Ida, "it's Sunday", ch 9; Juno answers with the plasticity reading from the nursing book in ch 10 and is half right)
+- [ ] Title: *Morne Bay* names the place, not the pressure. Keep as working title; shortlist alternatives once movement 2 is drafted

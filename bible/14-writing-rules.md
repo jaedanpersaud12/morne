@@ -72,3 +72,32 @@ The fear of being cut off is real and specific to where she grew up. Let the rea
 - Injuries last weeks and go to Juno. A fight in chapter twelve is a wound in chapter fifteen.
 - The first time a kid kills with a power, something goes quiet in them for days. The network noticed.
 - Crews are weather. The protagonists see smoke, a price, a face at the gate. They rarely see the cause.
+
+## Added 2026-11-02 (from the blind read of ch 1 to 8)
+
+### Decisions cost
+- Every chapter's turn is a decision that **costs the POV character something they chose over something else**, and the book makes them pay for it on the page within three chapters. "Chose Granny over Mr. Hale, but he coughed less" is cover, not cost. "Took Judge's twelve bags knowing what a gift from him means" is cost. If the chapter gives the character an out, cut the out.
+- Fen's one-more-day (ch 6) is the model: a kind decision with a real bill. The bill arrives (Juno hears about the ship from Judge, not Fen) before the kindness has time to feel like wisdom.
+
+### Sleepers become people, once a chapter
+- One beat per chapter where a sleeper is briefly a person again: a cough that sounds like any morning, hands that open, a first name off a bill. No explanation, then back to the rows. See [19](19-imagery-and-threads.md#granny-dot-the-present-absence).
+
+### The corbeaux attend every death
+- Before anyone dies, the birds come down. Nobody remarks on it. See [19](19-imagery-and-threads.md#three-imagery-systems-keep-all-three-alive).
+
+### Dialect is class
+- The Trace kids speak lighter dialect than the Harbour. That is deliberate and it is a fault line (Judge: "You're shorter than the paper"). Ambrose and Tock carry the most dialect on the hill; Juno the least, because she's been correcting herself for a scholarship since Form One. Never flatten it by accident; when a Trace kid drops into heavier dialect, something is wrong with them.
+
+### Titles
+- One word, a concrete noun the chapter can be held by (Dust, Spoon, Market). Numbers only when the number is the object (Sixteen). Element words (Ice, Heat) tell the reader the structure; don't give every powered kid an element title. Lonny's chapter is not "Earth." Kit's is not "Rot."
+
+### Tics to count before saving a version
+Run these on LATEST.md and halve whatever is over:
+- `and ... and ... and` chains in quiet paragraphs (keep them for panic only)
+- "the way X did" / "the way Y would have" (one per scene at most)
+- "Nobody said anything." / "Nobody moved." (one per chapter)
+- Section endings that land on a one-line punch (let one section per chapter just stop)
+- Clinical terms the POV circles without naming (one per chapter; three in a row is a mannerism)
+- A character narrating their own mistake right after the reader has felt it ("he had said her name... because having an answer had felt like being useful"). Trust the reader once.
+- Juno's glasses (pushed up, smudged, in her hair): one per chapter. Give her face another anchor.
+- Lonny eating: he eats, and it matters, and the seed is loud. A third fewer mentions until the kitchen chapter where someone says it out loud.

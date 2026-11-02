@@ -46,7 +46,7 @@ What [Fen](cast/fen.md) hears on the radio, over months: the outside world knows
 
 | System | Fails | Why |
 | --- | --- | --- |
-| Phones (cell) | Day 2 to 3 | Towers run on grid power with battery backup of hours; nobody refuels the backup generators |
+| Phones (cell) | Day 2 to 3 | Towers run on grid power with battery backup of hours; nobody refuels the backup generators. **On the page:** ch 1 and 2 use phones; the grid dies 12:14 night one; by ch 4 nobody mentions a phone. One line in ch 4 (Sol's phone, no signal since three) closes the gap. |
 | Grid power | Night one, 12:14 a.m. | Nobody at the power station; a load trip with nobody to reset it |
 | Water mains | Day 3 to 7 | Pumps need power. Gravity-fed tanks last until they empty. |
 | Landlines | Day 1 | The exchange is dead within hours |

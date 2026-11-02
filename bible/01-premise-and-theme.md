@@ -43,3 +43,7 @@ The analogy for the whole book: a forge. Steel is not born strong or brittle; he
 ## Tone words
 
 Grounded. Humid. Close. Funny in the way real friends are funny. Frightening in the way a quiet house is frightening. Never cosy, never nihilistic.
+
+## The thesis as it shows up on the page (added 2026-11-02)
+
+The Sleep took the **permission** out of the world, not the knowledge. Every protagonist is doing an adult's job with a child's authority, and every antagonist is too. "Now you have to keep it" (Granny, August) and "You're what we got" (Judge, ch 8) are the same line. The forge metaphor above is the same idea: nobody handed them the hammer; they picked it up because it was on the floor. Full note in [19](19-imagery-and-threads.md#the-thesis-on-the-page).

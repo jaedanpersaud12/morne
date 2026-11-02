@@ -32,3 +32,11 @@ The carrier. Water up the hill from the Hills streams. Bodies moved. The wall bu
 ## In a fight, and on a Tuesday
 
 Throws a person. Throws a car door. Hits don't move him; bullets would. Daily: two drums of water from the Hills at a time, cars into the wall, the generator lifted, graves dug. Month four he carries Lyra home from the ambush instead of the water. See [07](../07-powers-in-practice.md).
+
+## The seed and the chapter (added 2026-11-02)
+
+The hunger is seeded in every scene he's in through chapter 8 (cereal from the box, four tins of corned beef, cold rice from a pot). It is loud enough that a reader already expects his power to be about strength or hunger. Dial it back a third until the kitchen scene where someone says it out loud, so the reveal lands as confirmation, not fulfilment.
+
+**He has no POV chapter in the first eight and needs one in movement 2.** He has carried fifteen adults, dug a grave for a man with his surname, and brought his girlfriend and her brother up a hill without asking the six. Nobody has been inside his head. See [17](17-book-one-outline.md#proposed-insertions-2026-11-02) for the proposed chapter.
+
+What's inside: the hunger he never told them about, the La-Z-Boy shape of his father that Sol decided not to mention, and the fact that he has said "yes" to Wren on the Trace's behalf and nobody has called it. The "and then?" he asks Juno is not simplicity. It is a boy who learned early that the next meal is the only question worth asking.
