@@ -102,9 +102,7 @@ That is her lie made literal. The girl who believes she only matters if she is u
 ## Open questions
 
 - Who knows about the attempt? Option A: only Fen, who recognised it and never asked. Option B: Sol knows too, from the year Juno sat on her bed, and has never said so.
-- Ch 2 says she found the nursing book "two years ago" (she'd have been 15); ch 5 says she read it "at fourteen". Which is canon: change ch 5 to fifteen, or ch 2 to "three years ago"?
 - When does Juno first say the twelve bags came from Judge? Option A: only when the second gift arrives with a price (current ledger). Option B: Lonny lets it slip first, and she has to explain why she kept it.
 - Does she call Toronto again? Option A: never in book one; the father's voicemail stays unanswered until the scientist says his name in ch 22. Option B: once, when the network is dead, and she says the thing she didn't have words for on night one to a phone that can't carry it.
 - Her face needs a second physical anchor (rule: glasses once per chapter). Option A: the hand flat on the page. Option B: the pen she holds and doesn't write with.
-- [09](../09-relationships.md#juno-and-kit-the-argument) says Juno said Kit's name first "for fifteen years"; ch 1 has Kit on the road for eight months. The chapters win: should 09 be corrected to eight months?
 - Her birthday date (see [16](../16-open-questions.md)).

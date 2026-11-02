@@ -110,7 +110,6 @@ Alone: absorbs anything that isn't a bullet, one stored shove, then he fills up 
 
 ## Open questions
 
-- How long was their mother ill? This page says "a year of it" and "she suffered for years"; Fen quit dance at twelve on the day of the first surgery, which is four years ago. Option A: diagnosed at twelve, years of treatment, the last year in the hospital bed (fits ch 3's "a whole year" and "in eight months"). Option B: Fen quit later than twelve.
 - Who does Fen explain himself to? This page says nobody but his mother; [09](../09-relationships.md#juno-and-fen-the-edge) says Juno is the one person he explains himself to; ch 3 says Lyra is the only person he can give a real answer to. Option A: Lyra on family, Juno on the edge. Option B: nobody, until ch 22.
 - Where does the guilt about the relief first reach the page? Option A: ch 11 or 16, when another kid's parent dies in a bed and Fen catches himself thinking his mother is lucky. Option B: ch 18, in the garden, said once to Lyra.
 - Does Lyra know how close he came last year? Option A: no, and the power link in ch 16 is how she finds out. Option B: she knew, and they have never said it.

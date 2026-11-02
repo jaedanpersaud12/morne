@@ -100,10 +100,7 @@ Rot, if she touches and means it, and she hates it. She wears the key to Ambrose
 
 ## Open questions
 
-- **"Stopped asking why at about ten."** Her mother left last year, when Kit was fourteen. What was she asking about at ten? Option: the marriage was going wrong for years before the leaving, and "why" was about that; or change "ten" to the month after her mother left.
-- **The whispers on night one.** This page says she heard them first in the road with the corbeaux; ch 1 doesn't show it. Option: add one deniable line to ch 1 at the corbeaux; or move the first sign to the proposed "Box" scene / ch 9 ([17](../17-book-one-outline.md#6-or-the-first-scene-of-9--kit--box)) and update the Power line.
 - **How the comfort first shows.** Option: the whispers are loudest when she sits alone with Ambrose and she sits longer because of it; or she catches herself missing them on a night they are quiet. Either way, whose voices? Option: never her father's, so the Gardener's offer in ch 28 lands as the one thing they haven't given her; or faintly his, which she tells no one.
 - **Where the rage at her mother comes out.** Option: at the phone, redialling a number she knows will ring out; or sideways at Juno, who is doing a mother's job for everyone else on the road.
 - **Why the gallery and not the ward (ch 5)?** The page shows the choice with no reason. Outline 17 proposes one (the ward is the road's, and she isn't); that is a proposal, not yet approved.
-- **"For fifteen years."** [09](../09-relationships.md#juno-and-kit-the-argument) says Juno said Kit's name first "for fifteen years," but Kit has lived on the Trace eight months. Option: fix 09 to "for eight months"; or decide Juno and Kit knew each other from town before the move.
 - **Does Kit learn that Juno knows about the key?** Option: in ch 12, when the gun comes out and Juno already knows where it is; or never, and Juno's knowing is one more kept thing between them.

@@ -110,7 +110,6 @@ The cost that comes with it: the plant needs power, power needs Fen's fuel maths
 - **Out to nobody, or one person, at the start?** (Still [open](../16-open-questions.md).) Ch 4 reads as nobody. Option: keep it nobody through book one; or make the one person Juno, who knows and has never asked.
 - **The door in town** ([ch 4](../../chapters/ch04-ice/LATEST.md), line 141). Whose? Option: Lux's, which would place Lux in town rather than the Harbour proper; or a door she has thought about knocking on for some other reason, left unexplained until ch 15.
 - **Form Two.** What happened that Juno sat through without a word? Option: the year Sol first knew, or nearly got found out; or something not about her sexuality at all, so not every silence points one way.
-- **Five or nine?** Ch 4 has Juno finding her at five; this page says the group absorbed her around nine. Option: both, Juno first and the others four years later; or change "nine" to five.
 - **Did Juno notice the glass on night one?** Ch 4 never says. Option: Juno noticed and said nothing (keeps the trust line in Relationships); or Juno didn't, and the "noticed and said nothing" line moves to the bucket.
 - **Her parents on her being gay.** Not on the page. Option: leave it unknowable while they sleep, so she can't find out; or let one remembered remark from her mother carry the risk the reader sits in.
 - **When does Sol learn the Harbour knows about the ice?** Option: ch 15, as part of the doubt; or earlier, from Juno, which would make Juno complicit in the secrets ledger.

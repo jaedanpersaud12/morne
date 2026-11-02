@@ -27,7 +27,7 @@ Juno, Fen and Kit carry the book. The other four get a chapter only when somethi
 | [Fen Quill](fen.md) | 16 | Air (Stillness) | The quiet tech one who used to dance | Mother (cancer, home hospital bed) and father asleep; night nurse asleep |
 | [Lyra Quill](lyra.md) | 16 | Air (Rush) | His twin, all motion and noise | Same |
 | [Sol Finch](sol.md) | 16 | Water (ice) | Autistic, football fan, gay, the Trace's most valuable gift | Only child; both parents asleep |
-| [Lonny Hale](lonny.md) | 17 | Earth | Tall, handsome, always hungry, girlfriend below the bend | Both parents asleep; brother Bix (11) awake |
+| [Lonny Hale](lonny.md) | 17 | Earth | Tall, handsome, always hungry; girlfriend Wren, up the Trace since ch 4 | Both parents asleep; brother Bix (11) awake |
 | [Kit Wick](kit.md) | 15 | Life / decay | The new girl at the bend; the outsider the island chose | Father Ambrose asleep in his taxi in the yard; mother in town, status unknown |
 
 ## The fault-line map

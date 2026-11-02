@@ -70,7 +70,7 @@ Slow when he's thinking. Careful when he's found something useful. "The fellas c
 - **[Tock](tock.md).** They haven't met. Tock hates him on the strength of one word, *nice*, and two burned handprints. When Judge demands the pharmacy (ch 24), Tock welds the gate.
 - **[Kit](kit.md).** He knows she holds the key to Ambrose's shotgun and says he isn't coming for it. Her mother may be asleep in his town; in movement 3 Nell mentions a flat on the coast road with Kit's surname on the mailbox.
 - **His father.** The man on the deck of the *Lady Marisol*. The water his father worked is where Judge's power comes from. Judge spoons him himself and nods at "They all are" like a thing he wanted to hear from someone else.
-- **Nell, 16, no power.** Runs the books, counts the fish (and every bowl), trades with the Trace, rises inside the Harbour. She meets Juno at the square ("Vale. I'm Nell. He's on the boat. Come.") and writes the twenty-two names. The Harbour runs on her by movement 3; after the siege she questions him for the first time. See [supporting](supporting.md#the-harbour).
+- **Nell, 17, no power.** Runs the books, counts the fish (and every bowl), trades with the Trace, rises inside the Harbour. She meets Juno at the square ("Vale. I'm Nell. He's on the boat. Come.") and writes the twenty-two names. The Harbour runs on her by movement 3; after the siege she questions him for the first time. See [supporting](supporting.md#the-harbour).
 - **Dax, 15, Lightning.** His enforcer, and the first kid we see corrupted by what the power rewards. Under Judge he stops a heart for the first time (movement 3) and puts lightning on the Trace's wire in the siege. Not on the page yet.
 - **Ears, 13, Air.** His intelligence. See below.
 - **Cookie, 14, Fire.** Runs the market kitchen; her oil-drum fires are the lights Fen sees from the roof. The most loved person in the Harbour, and the one whose loss would end Judge.
@@ -107,6 +107,4 @@ The twelve bags are the first gift. Rule: every Judge gift is correct, useful, a
 - **The age line.** He is seventeen, same as Juno. When is his birthday, and does Big Hob fading make him count it?
 - **When does his power first show on the page?** Option: a boat that should have been lost comes back on flat water (Fen sees it through the binoculars); or Juno notices the water still around the *Lady Marisol* in ch 19.
 - **Which chapter is the number wrong?** Marsh going grey, or the rows at the fish market?
-- **"That's for the sixteen" (ch 8).** The Trace had fifteen sleepers by then, and Ears told him about the grave. Deliberate (he keeps Fen's night-one count) or a slip to fix?
 - **Timing.** This page and [11](../11-timeline.md) put the Gardener deal and the rows in year two; [17](../17-book-one-outline.md) has the walk north in ch 27 and rows by movement 5. Does book one end with the meeting or the first rows?
-- **Nell's age.** Ch 8 calls her "Juno's age" (17); [supporting](supporting.md#the-harbour) says 16.

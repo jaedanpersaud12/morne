@@ -23,7 +23,7 @@ Everyone who isn't a main character or an antagonist. A line or two each until t
 ## The Harbour
 
 - **[Judge](judge.md).**
-- **Nell, 16, no power.** Judge's second. Counts the fish, keeps the books, trades with the Trace. The quiet administrator of a strongman's regime. Every time we meet her she has risen.
+- **Nell, 17, no power.** Judge's second. Counts the fish, keeps the books, trades with the Trace. The quiet administrator of a strongman's regime. Every time we meet her she has risen.
 - **Dax, 15, Lightning.** Judge's enforcer. A kid who got a power and no sense of what to do with it.
 - **Lux, 16.** Sol's crush. Her family worked the ice plant; Sol's power now does the job Lux's family used to. Where she stands on Sol being gay is one of the book's quiet, high-stakes questions.
 - **The two garage apprentices.** The only mechanics on the island. Nobility. See [13](../13-resources-and-roles.md#cars-and-machines).
