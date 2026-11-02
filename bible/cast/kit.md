@@ -70,7 +70,7 @@ Always "the new girl", "the taxi man's daughter." Welcome, never belonging. Watc
 
 ## Power
 
-The rarest element. Plants lean toward her, scraps rot into compost overnight, she can feel living things nearby, and she can hear the network, like whispers under the ground. She heard it first on night one, standing in the road with the corbeaux on the taxi, and didn't know what it was (not yet on the page; ch 1 ends with her in the road, and the whispers are not named). She is the Trace's bridge to the Hills and to Moth. See [03](../03-power-system.md) and [05](../05-network-and-gardener.md). In ch 9 she thinks the whispers are grief ([17](../17-book-one-outline.md#movement-2-the-scramble-ch-511-weeks-16)).
+The rarest element. Plants lean toward her, scraps rot into compost overnight, she can feel living things nearby, and she can hear the network, like whispers under the ground. She heard it first on night one, standing in the road with the corbeaux on the taxi, and didn't know what it was. **PROPOSED for ch 1:** one deniable line at the corbeaux (a sound under the road she takes for the dust, or her own blood), never named; until that line is written, the first sign on the page is ch 9. She is the Trace's bridge to the Hills and to Moth. See [03](../03-power-system.md) and [05](../05-network-and-gardener.md). In ch 9 she thinks the whispers are grief ([17](../17-book-one-outline.md#movement-2-the-scramble-ch-511-weeks-16)).
 
 **Cost:** the whispers don't stop. They are the island's dead, and some of them know her name.
 
