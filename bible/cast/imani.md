@@ -10,7 +10,7 @@ She is funny because she is funny. Not because of anything.
 
 ## The weight
 
-Oldest of three, raised by a strict, devout grandmother ([Pearl](supporting.md#palmyra-gardens)) after their mother died and their father went to Canada. Imani does the most, tries the hardest, and is still Granny's least favourite. Nothing is ever enough. "So. That's done. Now you have to keep it."
+Oldest of three, raised by a strict, devout grandmother ([Pearl](supporting.md#quarry-trace)) after their mother died and their father went to Canada. Imani does the most, tries the hardest, and is still Granny's least favourite. Nothing is ever enough. "So. That's done. Now you have to keep it."
 
 A year or two ago that weight brought her to a suicide attempt. She has lived with depression since, quietly, while still being the funniest person in the room. Both are true at once. She has rules for herself (thirty seconds, then up, then the tap, then the mirror) that she learned the hard way.
 
@@ -18,7 +18,7 @@ Writing rule: never method, never a twist, never a cure. See [14](../14-writing-
 
 ## In the story
 
-The Sleep erases the future she worked her whole life for. Granny is asleep, so the approval she chased can never come now. She takes over the sleepers' care, studying her textbooks by candlelight, and becomes the Compound's medic. Not its leader: nobody is. The six run the Compound by domain (see [08](../08-factions-and-politics.md#leadership-inside-the-compound)), and hers is the sleepers. But everyone outside treats her as the one in charge, and she keeps trying to carry it, because being enough is the only way she knows how to be loved. And she is the oldest, so she is first to approach the Sleep age: the future doctor racing a disease nobody understands, in her own body.
+The Sleep erases the future she worked her whole life for. Granny is asleep, so the approval she chased can never come now. She takes over the sleepers' care, studying her textbooks by candlelight, and becomes the Trace's medic. Not its leader: nobody is. The six run the Trace by domain (see [08](../08-factions-and-politics.md#leadership-inside-the-Trace)), and hers is the sleepers. But everyone outside treats her as the one in charge, and she keeps trying to carry it, because being enough is the only way she knows how to be loved. And she is the oldest, so she is first to approach the Sleep age: the future doctor racing a disease nobody understands, in her own body.
 
 ## Arc
 
@@ -26,7 +26,7 @@ The Sleep erases the future she worked her whole life for. Granny is asleep, so 
 
 **Lie:** she only matters if she is useful, and she has to do it alone. Granny taught her the first half; she taught herself the second.
 
-**Pressure:** Judge, Troy, the kids at the gate, all of them treat her as the leader. She is not. The friends keep refusing to let her be. That refusal is the book's spine: the ecosystem versus the one girl trying to be the whole forest.
+**Pressure:** Judge, Troy, the kids at the bend, all of them treat her as the leader. She is not. The friends keep refusing to let her be. That refusal is the book's spine: the ecosystem versus the one girl trying to be the whole forest.
 
 **End of book one:** she carries Granny to the garden, and she can't do it alone, and she lets Danny take the other end. Letting herself be carried, once, by the people who were always going to carry her.
 
@@ -35,7 +35,7 @@ The Sleep erases the future she worked her whole life for. Granny is asleep, so 
 - [Danny](danny.md): her brother. She hits him in the arm and laughs harder than anyone. She is the only person who can talk him down.
 - [Micah](micah.md): half a mother to him. He believes anything she says in the bored voice.
 - [Kai](kai.md): both have been to the edge. They recognise it in each other without saying it. The quietest, deepest bond in the book.
-- [Nia](nia.md): the only one who ever said Nia's name first. Their fight over the sleepers is the Compound's central argument.
+- [Nia](nia.md): the only one who ever said Nia's name first. Their fight over the sleepers is the Trace's central argument.
 - [Judge](judge.md): wants her. The doctor from the paper. First as an asset, then as a rival, then as something harder to name.
 - [The Gardener](gardener.md): offers her Granny's voice. The book's worst temptation.
 
@@ -45,7 +45,7 @@ Close third. Lists. Counting. Arithmetic as a way to keep her hands still. When 
 
 ## Her power (locked)
 
-**None in book one.** She is the most valuable person in the Compound and she has no power. That is the theme in one fact, and the age clock is terrifying because of it.
+**None in book one.** She is the most valuable person in the Trace and she has no power. That is the theme in one fact, and the age clock is terrifying because of it.
 
 **At the age line, she awakens instead of sleeping.** The roots follow the deepest groove, and her deepest groove is the night she tried to die. What grows there is Life/decay with the standard cost: her own lifespan. She can keep anyone alive by spending herself.
 

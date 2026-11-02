@@ -1,6 +1,6 @@
 # Morne Bay (working title)
 
-A YA survival thriller. One night every adult on a small Caribbean island falls into a sleep nobody can wake them from, and some of the kids start waking up with powers. Six lifelong friends from a gated compound have to keep their sleeping families alive, build a society, and work out what the island wants from them.
+A YA survival thriller. One night every adult on a small Caribbean island falls into a sleep nobody can wake them from, and some of the kids start waking up with powers. Six lifelong friends from one dead-end road on a hill have to keep their sleeping families alive, build a society, and work out what the island wants from them.
 
 **Theme:** *We are what survives the fire.* Nobody is born a monster. Experience shapes us, power magnifies what grew, and nobody is purely one thing.
 

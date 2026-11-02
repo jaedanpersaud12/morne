@@ -36,7 +36,7 @@ These are the rules every chapter follows, so we never rewrite the book to fix t
 - The collapse lands as shock first: real panic, real freezing, somebody being sick. Nobody is calm about it. Imani's calm is a performance she pays for in private.
 - Then drive, immediately. The characters think ahead on the first night, not in chapter twenty: water for the sleepers, babies in cribs nobody is feeding, the hospital, old people alone, the little ones. They act on it the same night.
 - The story rewards thinking ahead and punishes not doing it. When someone forgets a crib, we see what that costs.
-- The Compound thinks about the whole island because that is what the theme says a community is. Looking only after your own street is the thing the Compound will later be tempted into, not where it starts.
+- The Trace thinks about the whole island because that is what the theme says a community is. Looking only after your own street is the thing the Trace will later be tempted into, not where it starts.
 - Denial is real. People say "they'll wake up" and "someone will come by morning." Imani lets them, and plans anyway.
 
 ## Grounded
@@ -68,7 +68,7 @@ The fear of being cut off is real and specific to where she grew up. Let the rea
 - Powers on the page do work before they do damage. If a chapter has Danny burn someone, it also has him weld something that morning.
 - A power is thirty seconds. Fights are short. Anything longer is cutlasses and bats and running.
 - Nobody is a superhero. No fireballs, no flight, no force fields. The twins are the only pair who look like a movie, and only together.
-- Guns end arguments. The Harbour has them. Write every Compound fight as a fight they are trying not to have.
+- Guns end arguments. The Harbour has them. Write every Trace fight as a fight they are trying not to have.
 - Injuries last weeks and go to Imani. A fight in chapter twelve is a wound in chapter fifteen.
 - The first time a kid kills with a power, something goes quiet in them for days. The network noticed.
 - Crews are weather. The protagonists see smoke, a price, a face at the gate. They rarely see the cause.

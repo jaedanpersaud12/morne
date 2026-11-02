@@ -12,7 +12,7 @@ He is not "the tech guy." The tech is what he does with his hands while the rest
 
 Their mother's long illness (cancer, a year of it, a hospital bed where the dining table used to be, a night nurse on Sundays). Their mum put both twins in a dance company as little kids. Asha stayed and competed. Kai quit at twelve, the day she came home from the first surgery, and buried it under screens and headphones. Nobody in the group has seen him dance in years.
 
-During the worst of it he felt cornered, with no way out, and thought about ending his life. What pulled him back was love: [Nia](nia.md), and late-night talks at the gatehouse where nobody in the Compound was watching. It is why she is half inside the group.
+During the worst of it he felt cornered, with no way out, and thought about ending his life. What pulled him back was love: [Nia](nia.md), and late-night talks in her father's parked taxi at the bend where nobody in the Trace was watching. It is why she is half inside the group.
 
 He learned the sound of every machine in his mother's room without meaning to, the way you learn the stairs in your own house in the dark.
 
@@ -36,7 +36,7 @@ When the power comes, his body remembers how to dance.
 ## Relationships
 
 - [Asha](asha.md): his twin and his other half, literally. No privacy when they're linked.
-- [Nia](nia.md): the gatehouse. Neither of them has told anyone.
+- [Nia](nia.md): the taxi at night. Neither of them has told anyone.
 - [Imani](imani.md): the edge they both know.
 - [Judge](judge.md): the voice on the handheld. A relationship conducted entirely by radio for most of a year.
 
@@ -46,4 +46,4 @@ Machines, sounds, counts. Short declaratives when he's working. He talks to his 
 
 ## In a fight, and on a Tuesday
 
-Alone: absorbs anything that isn't a bullet, one stored shove, then he fills up and has to stop. With Asha: the loop, the best fighters on the island. Daily: catches what falls, steadies the generator, holds a wall section while Danny welds. The road houses fight in month five is the first time anyone sees them together, and the secret ends there. He is also the Compound's only mechanic, learning from the Harbour's apprentices and paying in ice. See [07](../07-powers-in-practice.md).
+Alone: absorbs anything that isn't a bullet, one stored shove, then he fills up and has to stop. With Asha: the loop, the best fighters on the island. Daily: catches what falls, steadies the generator, holds a wall section while Danny welds. The road houses fight in month five is the first time anyone sees them together, and the secret ends there. He is also the Trace's only mechanic, learning from the Harbour's apprentices and paying in ice. See [07](../07-powers-in-practice.md).

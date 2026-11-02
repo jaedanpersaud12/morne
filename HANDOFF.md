@@ -10,7 +10,8 @@ Read this first in a new session, then `bible/00-index.md`.
 - Git not yet initialised. Run: `git init && git add -A && git commit -m "Story bible and chapters 1-3"`.
 
 ## Big decisions locked
-- Nobody leads the Compound; six domains argued in a kitchen. Imani is the medic, not the leader; everyone outside treats her as one, and that is her lie.
+- **Setting rewrite (2026-11-01):** no gated compound. The six grew up on Quarry Trace, a dead-end road of 9 ordinary houses climbing to an old quarry (the network's wound). 16 adults, 13 kids on day zero; about 30 kids by week one as the road comes up. No wall at first: the taxi across the bend in week one, cars in month two, a built wall months 4 to 6, Danny's welded gate later. Nia's father Winston is a taxi driver who moved to the flat at the bend eight months ago; the shotgun is in a steel box under his bed. Faction name: the Trace. See 06.
+- Nobody leads the Trace; six domains argued in a kitchen. Imani is the medic, not the leader; everyone outside treats her as one, and that is her lie.
 - Imani has no power in book one; awakens Life/decay at the age line (her lifespan as the cost). No hint before the siege.
 - Kai and Asha agree on letting their mother go. That bond never breaks.
 - Imani's want is Granny. Book one ends with her carrying Granny to the garden and letting Danny take the other end.

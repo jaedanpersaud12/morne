@@ -2,7 +2,7 @@
 
 ## The pitch
 
-A small Caribbean island. One night every adult falls into a sleep nobody can wake them from, and some of the kids start waking up with powers. Six lifelong friends from a gated compound have to keep their sleeping families alive, feed themselves, and build a society from scratch, while the rest of the island's kids do the same and the outside world watches from ships on the horizon and refuses to land. The story runs two to three years.
+A small Caribbean island. One night every adult falls into a sleep nobody can wake them from, and some of the kids start waking up with powers. Six lifelong friends from a dead-end road on a hill have to keep their sleeping families alive, feed themselves, and build a society from scratch, while the rest of the island's kids do the same and the outside world watches from ships on the horizon and refuses to land. The story runs two to three years.
 
 ## The core question
 
@@ -22,7 +22,7 @@ The analogy for the whole book: a forge. Steel is not born strong or brittle; he
 
 | Pillar | What we take | What we leave |
 | --- | --- | --- |
-| *Lord of the Flies* | Kids alone, order collapsing, the pressure cooker of isolation, the gate as the conch | Nature over nurture; the ending where adults arrive |
+| *Lord of the Flies* | Kids alone, order collapsing, the pressure cooker of isolation, the barricade at the bend as the conch | Nature over nurture; the ending where adults arrive |
 | *Gone* (Michael Grant) | Adults gone, powers appearing, a boundary nobody can cross, a world that keeps moving around the leads, POV rotation | Vanishing adults, the dome, the hard birthday cutoff, nineteen POVs, the calm after the collapse |
 | The circle of life | The island recycles everything, including the sleepers. Endings are soil. | Rebirth as a reset. Here, you come back with scars. |
 | Morally grey | The strongman feeds hundreds. The healer can kill without a mark. The saint wants everyone in the ground. | Villains who are only villains |

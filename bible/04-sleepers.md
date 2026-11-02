@@ -16,18 +16,18 @@ Real low-resource methods exist, and [Imani](cast/imani.md) finds them in Dr. Al
 | Subcutaneous fluids | Fluid under the skin of the thigh or belly with a needle and a bag, absorbed over hours | Needs bags, needles, tubing. Dr. Ali had six bags. |
 | Turning | Every two to three hours, side to side | Bedsores otherwise, infected within a week in this heat |
 | Mouth care, eye care | Wet cloth, taped eyelids | Nobody thinks of it until an eye is damaged |
-| Catheter or pads | Towels, sheets, rinsed in the pool | The smell of a house with a sleeper in it is a thing readers should never forget |
+| Catheter or pads | Towels, sheets, rinsed in tank water | The smell of a house with a sleeper in it is a thing readers should never forget |
 | Feeding | Not possible without a tube | Sleepers waste. Weeks, not months. |
 
-**Access becomes power.** The Compound has a doctor's kit, a pharmacy run, pools of water, and a medic. Outside the gate, sleepers start dying within days. Who gets medical supplies is the island's first political fight. See [08](08-factions-and-politics.md).
+**Access becomes power.** The Trace has a doctor's kit, a pharmacy run, full water tanks, and a medic. Below the bend, sleepers start dying within days. Who gets medical supplies is the island's first political fight. See [08](08-factions-and-politics.md).
 
 ## 3. The twist: the island feeds its sleepers
 
-Someone outside the gate, out of options, lays their mother on bare earth. The fungal roots grow into her and she stabilises. The Hills kids were first (Ezra, with his grandfather). Within the compound, [Nia](cast/nia.md) is first, with her father, at the gate.
+Someone in town, out of options, lays their mother on bare earth. The fungal roots grow into her and she stabilises. The Hills kids were first (Ezra, with his grandfather). Within the Trace, [Nia](cast/nia.md) is first, with her father, at the gate.
 
 What rooting looks like: the sleeper is laid on turned soil, not a lawn. Within a day, fine white threads at the skin. Within three, the skin where it touches the ground is cool and firm and the sleeper has stopped losing weight. They do not wake. They do not waste. They are, as far as anyone can tell, fine.
 
-**The irony:** rich families keep sleepers in clean beds and watch them waste away; poor families give theirs to the ground and they live.
+**The irony:** families with beds and a doctor keep sleepers in clean sheets and watch them waste away; families with nothing give theirs to the ground and they live.
 
 **The moral question:** is a sleeper rooted into the island still your mother, or is she becoming part of something else? Some kids refuse (Farah, on religious grounds). Some do it in secret. [Kai](cast/kai.md) and [Asha](cast/asha.md) may root their mother, not to save her but to let her return to the earth.
 
@@ -42,5 +42,5 @@ What rooting looks like: the sleeper is laid on turned soil, not a lawn. Within 
 ## Long-term threads
 
 - The Sleep has frozen Kai and Asha's mother's cancer. Waking the adults could mean losing her. The twins have already made their peace with letting her go.
-- Bed deaths in the first weeks are the cost of not rooting. Every family that loses one blames someone, and inside the compound that someone is Imani.
+- Bed deaths in the first weeks are the cost of not rooting. Every family that loses one blames someone, and inside the Trace that someone is Imani.
 - If the adults ever wake, what comes back? Not necessarily the people who left.

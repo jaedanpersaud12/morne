@@ -1,12 +1,12 @@
 # Chapter 4 — Ice
 
-Tori Achong had not slept, because things had changed, and she never slept when things changed.
+Sol Finch had not slept, because things had changed, and she never slept when things changed.
 
-It was ten to five. The Clarkes' kitchen was grey and full of breathing. The Lall girl was asleep against Lonny with her thumb in her mouth and Lonny was asleep against the cupboards with his head back and his mouth open, the same shape as his father in the La-Z-Boy, which Tori decided not to tell him. Micah was under the table. Asha had come up at three with news that the generator worked and had fallen asleep mid-sentence on the stairs. Danny was in the armchair with the Ramkissoon baby on his chest, and he was not asleep, and he had not moved in four hours.
+It was ten to five. The Vales' kitchen was grey and full of breathing. The Nettle girl was asleep against Lonny with her thumb in her mouth and Lonny was asleep against the cupboards with his head back and his mouth open, the same shape as his father in the La-Z-Boy, which Sol decided not to tell him. Olli was under the table. Lyra had come up at three with news that the generator worked and had fallen asleep mid-sentence on the stairs. Tock was in the armchair with the Pell baby on his chest, and he was not asleep, and he had not moved in four hours.
 
-Imani was at the counter with the notebook. She had been at the counter when Tori shut her eyes at one and she was at the counter now.
+Juno was at the counter with the notebook. She had been at the counter when Sol shut her eyes at one and she was at the counter now.
 
-"You can sit," Tori said.
+"You can sit," Sol said. She had put a slice of bread on the counter an hour ago, by the notebook, and it was still there. "You can also eat."
 
 "I'm fine."
 
@@ -14,11 +14,11 @@ Imani was at the counter with the notebook. She had been at the counter when Tor
 
 "Somebody has to count tins."
 
-There were nine tins of formula on the counter, from four houses, and Imani had counted them three times. Tori had watched her do it. Nine tins. Three babies, counting the Charles baby from the gate last night, who was asleep in the Alis' front room with her brothers because Imani had put them there. Tori didn't know how long nine tins lasted. From Imani's face, not long.
+There were nine tins of formula on the counter, from four houses, and Juno had counted them three times. Sol had watched her do it. Nine tins. Three babies, counting the Lark baby from the bend last night, who was asleep in the Mosses' front room with her brothers because Juno had put them there. Sol didn't know how long nine tins lasted. From Juno's face, not long.
 
-Lonny woke up, looked at the Lall girl on his arm, looked at the ceiling, and reached up onto the counter without getting up. His hand came back with a box of cereal. He ate from it, dry, in handfuls, with his eyes closed.
+Lonny woke up, looked at the Nettle girl on his arm, looked at the ceiling, and reached up onto the counter without getting up. His hand came back with a box of cereal. He ate from it, dry, in handfuls, with his eyes closed.
 
-"That's not formula," Imani said.
+"That's not formula," Juno said.
 
 "I know what formula is."
 
@@ -26,7 +26,7 @@ Lonny woke up, looked at the Lall girl on his arm, looked at the ceiling, and re
 
 "I'm eating near it."
 
-"He's eating *at* it," Danny said, from the chair, not opening his eyes. "He's doing it at the formula."
+"He's eating *at* it," Tock said, from the chair, not opening his eyes. "He's doing it at the formula."
 
 "I'm hungry."
 
@@ -34,19 +34,21 @@ Lonny woke up, looked at the Lall girl on his arm, looked at the ceiling, and re
 
 "I'm hungry *now*. It's a different thing."
 
-The baby made a sound. Everyone stopped. Danny's whole body went still in the way a person goes still when they are holding something they are afraid of, and the baby sighed and went back to sleep, and he let his breath out through his teeth.
+Sol looked at the clock on the stove, which still worked, because it ran on a battery. Ten to five on a Monday. Arsenal and Everton kicked off at four this afternoon, and whoever won it would win it in a stadium full of people who were awake, and nobody on this island would ever know the score. She had been going to watch it on her phone under the desk in last period. It was the first thing she had thought of when she woke up, before her parents, and she was ashamed of that, and she thought about it anyway.
 
-"Does she have a name?" Tori said.
+The baby made a sound. Everyone stopped. Tock's whole body went still in the way a person goes still when they are holding something they are afraid of, and the baby sighed and went back to sleep, and he let his breath out through his teeth.
+
+"Does she have a name?" Sol said.
 
 Silence.
 
-"I've been calling her Ramkissoon," Asha said from the stairs, without lifting her head. "Like a footballer."
+"I've been calling her Pell," Lyra said from the stairs, without lifting her head. "Like a footballer."
 
 "You can't call a baby by her surname."
 
-"She's the only Ramkissoon who's awake. She's earned it."
+"She's the only Pell who's awake. She's earned it."
 
-"Her name is probably something nice," Imani said. "Mrs. Ramkissoon had a whole list. She told Granny. It was something with a V."
+"Her name is probably something nice," Juno said. "Mrs. Pell had a whole list. She told Granny. It was something with a V."
 
 "Vanessa," Lonny said.
 
@@ -56,15 +58,15 @@ Silence.
 
 "Lonny."
 
-"Vee," Danny said, very quietly, and that was that. Nobody argued. The baby was Vee from then on, and it would be weeks before anyone found the birth certificate in a kitchen drawer two doors down and learned that she had been Vashti the whole time, and by then it didn't matter, because she answered to Vee.
+"Vee," Tock said, very quietly, and that was that. Nobody argued. The baby was Vee from then on, and it would be weeks before anyone found the birth certificate in a kitchen drawer two doors down and learned that she had been Velora the whole time, and by then it didn't matter, because she answered to Vee.
 
-Danny shifted her an inch and winced. "Imani. My arm's dead."
+Tock shifted her an inch and winced. "Juno. My arm's dead."
 
-"Give her to Tori."
+"Give her to Sol."
 
 "No."
 
-"Danny."
+"Tock."
 
 "She's fine. She likes it here." He looked down at the top of the baby's head. "I walked past her door."
 
@@ -72,33 +74,33 @@ Danny shifted her an inch and winced. "Imani. My arm's dead."
 
 "I walked *past*."
 
-"Danny," Imani said, "the goat."
+"Tock," Juno said, "the goat."
 
-It was so unexpected that Lonny choked on cereal. Danny opened his eyes. He looked at his sister across the grey kitchen, with a baby on his chest and his arm dead and his grandmother on the floor of the next room, and something in his face gave way.
+It was so unexpected that Lonny choked on cereal. Tock opened his eyes. He looked at his sister across the grey kitchen, with a baby on his chest and his arm dead and his grandmother on the floor of the next room, and something in his face gave way.
 
 "It's not even a goat," he said.
 
-Tori laughed first. She always did. She couldn't help it; it came up out of her like a hiccup, and then Lonny was going, silently, shaking, trying not to wake the Lall girl, and Asha on the stairs said "oh my God" into her arms, and Micah under the table said "what's the goat" for the hundredth time in his life and nobody told him. Imani didn't laugh. She put the pen down and pressed the heels of her hands into her eyes and said, "I hate all of you," which was the opposite of what she meant.
+Sol laughed first. She always did. She couldn't help it; it came up out of her like a hiccup, and then Lonny was going, silently, shaking, trying not to wake the Nettle girl, and Lyra on the stairs said "oh my God" into her arms, and Olli under the table said "what's the goat" for the hundredth time in his life and nobody told him. Juno didn't laugh. She put the pen down and pressed the heels of her hands into her eyes and said, "I hate all of you," which was the opposite of what she meant.
 
-Tori wiped her face. Her hands were cold. She had noticed it at one and again at three and she noticed it now, and she rubbed them together under the table, and they didn't warm up.
+Sol wiped her face. Her hands were cold. She had noticed it at one and again at three and she noticed it now, and she rubbed them together under the table, and they didn't warm up.
 
 ---
 
-They went out the gate at first light, Tori and Lonny, because Danny wouldn't put the baby down and Kai was on the roof and Imani was Imani.
+They went down past the bend at first light, Sol and Lonny, because Tock wouldn't put the baby down and Fen was on the roof and Juno was Juno.
 
-"Twelve houses," Imani said at the gate, with the notebook. "You knock. If nobody answers you go in. Adults on their side, something under the head, window open. Kids come back with you if they want to. Babies come back whether they want to or not. You don't go past the junction. You're back by eight."
+"Twelve houses," Juno said at the bend, with the notebook. "You knock. If nobody answers you go in. Adults on their side, something under the head, window open. Kids come back with you if they want to. Babies come back whether they want to or not. You don't go past the junction. You're back by eight."
 
 "Yes, Mummy," Lonny said.
 
 "Lonny."
 
-"Yes, Imani."
+"Yes, Juno."
 
-Nia was in the booth. Her father was on the floor of it, on his side, with a cushion under his head, and she sat in his chair with her feet on the rung and watched them through the glass the way she had watched everyone through the glass her whole life. She raised the arm without being asked. The corbeaux on the wall shifted and settled.
+Kit was on the gallery of the flat at the bend. Her father was on a mattress she had dragged out there into the shade, on his side, with a cushion under his head, and she sat beside him with her knees up and watched them go past the way she had watched everyone go past since March. She lifted a hand without being asked. The corbeaux on the taxi roof shifted and settled.
 
-Outside the gate was the road. Tori had been on it a thousand times in the back of a car. She had never once walked it.
+Below the bend was the road. Sol had been on it a thousand times in the back of a car. She had never once walked it.
 
-Twelve houses, smaller than the ones inside, closer together, with yards instead of lawns and dogs instead of pools. The dogs were quiet. That was the first thing. Every yard on the road had a dog, and every dog was lying by its gate with its head on its paws, watching them pass, and none of them barked.
+Twelve houses, older than the ones on the Trace and closer together, some concrete, some board, with a dog in every yard. The dogs were quiet. That was the first thing. Every yard on the road had a dog, and every dog was lying by its gate with its head on its paws, watching them pass, and none of them barked.
 
 "They know," Lonny said.
 
@@ -106,11 +108,11 @@ Twelve houses, smaller than the ones inside, closer together, with yards instead
 
 "I don't know. Something."
 
-Miss Pauline's house was first. The door was open. The bed was stripped. There was a note on the kitchen table in a child's handwriting, *gone by the hospital with granny, Devon*, and a glass of water next to it with a dead fly in it. Tori stood in the kitchen and did the sum. The hospital didn't answer. Devon was nine.
+Miss Orla's house was first. The door was open. The bed was stripped. There was a note on the kitchen table in a child's handwriting, *gone by the hospital with granny, Tam*, and a glass of water next to it with a dead fly in it. Sol stood in the kitchen and did the sum. The hospital didn't answer. Tam was nine.
 
 "She's not here," Lonny said from the bedroom. "He took her. Somehow. He must have, he's, how does a nine-year-old—"
 
-"The wheelbarrow's gone," Tori said. "From the yard. There's a track."
+"The wheelbarrow's gone," Sol said. "From the yard. There's a track."
 
 They stood in the doorway and looked at the track in the dust, a wheel and two small feet, going down the road toward town.
 
@@ -122,11 +124,21 @@ They stood in the doorway and looked at the track in the dust, a wheel and two s
 
 He said it like it was good news and bad news at the same time, and it was.
 
-The Charles house was empty because the Charles kids were in the Alis' front room with their baby. The next two were empty because the people in them had been at church in town on Sunday and had never come home, and Tori didn't want to think about where they were asleep. The fifth house had a man in the bath. Lonny lifted him out and laid him on the bathroom floor and put a towel under his head and Tori ran the tap to make sure the water still ran, and it did, and she filled every pot in the kitchen without discussing it.
+The Lark house was empty because the Lark kids were in the Mosses' front room with their baby. The next two were empty because the people in them had been at church in town on Sunday and had never come home, and Sol didn't want to think about where they were asleep. Her own were on the couch at number five, up the Trace, with the cricket still on. She had sat with them before she came to Juno's, an hour, her mother's hand in both of hers, and told her mother what she was going to do, because her mother liked a plan and liked it said out loud. Her mother ran the ice plant with a clipboard and a voice that made grown fishermen say yes ma'am, and had never once in sixteen years let Sol leave the house without knowing where she was going and when she'd be back. Strict, people said. Sol had never understood what they meant by it as a complaint. The fifth house had a man in the bath. Lonny lifted him out and laid him on the bathroom floor and put a towel under his head and Sol ran the tap to make sure the water still ran, and it did, and she filled every pot in the kitchen without discussing it, because that was what her mother would have done, and would have done an hour ago.
 
-The sixth house was the one Lonny had been walking toward since the gate.
+The water came out of the tap the way it always did, cool on the skin, the kind of cool you stopped noticing before you were old enough to reach the sink.
 
-He didn't knock. He stood on the step with his hands at his sides and didn't knock, and Tori understood, because she had a door like that too, in town, and had never knocked on it.
+She held the first pot under it. By the time it was full, the water against her fingers had gone colder than tap-cool. Fridge-cold, colder than anything that had ever come out of a pipe on this island. It ran over her hands and her hands ached with it, and when she lifted the pot off the counter its sides were wet on the outside, sweating, the way a glass sweats. She stood with the pot against her chest and looked at it.
+
+"Sol," Lonny said from the hall. "Pots."
+
+"Coming."
+
+She didn't say anything about it. She carried the pots out and the water in them was back to ordinary by the time they reached the road, and she told herself it had been the pipes.
+
+The sixth house was the one Lonny had been walking toward since the bend.
+
+He didn't knock. He stood on the step with his hands at his sides and didn't knock, and Sol understood, because she had a door like that too, in town, and had never knocked on it.
 
 "Lonny."
 
@@ -134,7 +146,7 @@ He didn't knock. He stood on the step with his hands at his sides and didn't kno
 
 The door opened before he got one.
 
-Janelle was seventeen, and short, and had been crying, and had stopped, and was holding a five-year-old boy on her hip who was too big to be held and was being held anyway. She looked at Lonny. She looked past him at Tori, and then at the road, and then back at him.
+Wren was seventeen, and short, and had been crying, and had stopped, and was holding a five-year-old boy on her hip who was too big to be held and was being held anyway. She looked at Lonny. She looked past him at Sol, and then at the road, and then back at him.
 
 "Mummy's in the bed," she said. "I turned her. I put a towel. I didn't know what else." Her voice went up and she brought it back down. "You came."
 
@@ -144,82 +156,84 @@ Janelle was seventeen, and short, and had been crying, and had stopped, and was 
 
 "I came."
 
-She put her forehead on his chest, with the boy between them, and Lonny put one hand on the back of her head and the other on the boy's back and stood there on the step, and Tori looked at the road. The dogs were watching. Somewhere down toward the junction a door banged, and a boy's voice shouted something, and another one laughed.
+She put her forehead on his chest, with the boy between them, and Lonny put one hand on the back of her head and the other on the boy's back and stood there on the step, and Sol looked at the road. The dogs were watching. Somewhere down toward the junction a door banged, and a boy's voice shouted something, and another one laughed.
 
-"Can we come up," Janelle said into his shirt. "To the compound. Me and Jaden. Can we."
+"Can we come up," Wren said into his shirt. "Up the Trace. Me and Pip. Can we."
 
 "Yeah," Lonny said. "Of course."
 
-Tori didn't say anything. It wasn't hers to say. It wasn't his either, and he knew it, and he'd said it anyway, and she filed that away with the cold in her hands and the dead fly in Miss Pauline's glass as things that were going to matter later.
+Sol didn't say anything. It wasn't hers to say. It wasn't his either, and he knew it, and he'd said it anyway, and she filed that away with the cold in her hands and the dead fly in Miss Orla's glass as things that were going to matter later.
 
 ---
 
-They were back by eight with Janelle and her brother and a man's worth of filled pots and no babies, and the first thing Imani said was, "Vee has a fever."
+They were back by eight with Wren and her brother and a man's worth of filled pots and no babies, and the first thing Juno said was, "Vee has a fever."
 
-She said it at the gate. She had come down to meet them. The notebook was under her arm and her glasses were pushed up into her hair and she had the face from the kitchen floor, the calm one, with the eyes that weren't.
+She said it at the bend. She had come down to meet them. The notebook was under her arm and her glasses were pushed up into her hair and she had her steadiest face on, which on Juno only ever meant something was badly wrong.
 
 "How high?"
 
-"I don't have a thermometer that works. She's hot. She's not drinking." She looked at Janelle and the boy and did not ask who they were, because she knew, and did not say anything about it, because that was for later. "Lonny, the pots go to the Alis'. Tori, come with me."
+"I don't have a thermometer that works. She's hot. She's not drinking." She looked at Wren and the boy and did not ask who they were, because she knew, and did not say anything about it, because that was for later. "Lonny, the pots go to the Mosses'. Sol, come with me."
 
-The Ramkissoon baby was on the Clarkes' couch on a towel with Danny on the floor beside her, and she was red, and she was breathing fast, and she was not crying, which was worse than crying. Danny looked up at Imani with a face Tori had never seen on him.
+The Pell baby was on the Vales' couch on a towel with Tock on the floor beside her, and she was red, and she was breathing fast, and she was not crying, which was worse than crying. Tock looked up at Juno with a face Sol had never seen on him.
 
 "Fix it."
 
 "I'm trying."
 
-"Fix it, Imani."
+"Fix it, Juno."
 
-"I need to get her temperature down and I don't have anything cold." Imani said it to the room. "The fridge is dead. The generator's at the Mohans'. Kai says it'll run a fridge but it's running the oxygen and I'm not asking Asha to choose. I need cold water. The pool's warm. The tanks are warm. Everything on this island is warm."
+"I need to get her temperature down and I don't have anything cold." Juno said it to the room. "The fridge is dead. The generator's at the Quills'. Fen says it'll run a fridge but it's running the oxygen and I'm not asking Lyra to choose. I need cold water. Proper cold. The tap's only cool, the tanks are only cool, and cool isn't going to touch a fever like this."
 
-Tori looked at her hands.
+Sol looked at her hands.
 
-She didn't decide anything. Later she would try to remember deciding and there was nothing there. She just went out the back door to the pool and came back with a bucket of water, and put it down on the kitchen floor, and knelt beside it, and put her hands in.
+The pot. The tap in the fifth house, and the water that went cold in her hands, and the sides sweating against her chest.
 
-"Tori," Imani said.
+She didn't decide anything. Later she would try to remember deciding and there was nothing there, only the pot, and a question. She just went out the back door to the tank stand and came back with a bucket of water, and put it down on the kitchen floor, and knelt beside it, and put her hands in.
+
+"Sol," Juno said.
 
 "Wait."
 
-The water was warm. It had been warm all night, warm all year, the way water was here. She closed her eyes and thought about the cold room at the plant, the one at the back, where the ice came out in blocks and the air hurt your teeth and nobody talked because talking let the cold in. The room she went to when the world was too loud. She thought about the door shutting and the sound going away.
+The water was cool, the way tap water always was here, and nothing more. She closed her eyes and thought about the cold room at the plant, the one at the back, where the ice came out in blocks and the air hurt your teeth and nobody talked because talking let the cold in. The room she went to when the world was too loud. She thought about the door shutting and the sound going away.
 
 Her hands ached. Then they didn't.
 
-"Oh," Imani said, very quietly.
+"Oh," Juno said, very quietly.
 
-Tori opened her eyes.
+Sol opened her eyes.
 
 The water was going still. Not freezing, not yet, just going still, from the edges in, the way a pond goes still when the wind drops. Then the edges went white. A thin skin of frost climbed the inside of the bucket in a ring and the ring closed inward, and the water underneath it turned cloudy and then clear and then hard, and there was a sound, a small ticking crack, as the ice found the shape of the bucket and settled into it.
 
-Her breath came out white. In the Clarkes' kitchen, in November, at eight in the morning, with the sun already hot on the window, Tori Achong breathed and the breath hung in the air in front of her like it was Christmas somewhere else.
+Her breath came out white. In the Vales' kitchen, in November, at eight in the morning, with the sun already hot on the window, Sol Finch breathed and the breath hung in the air in front of her like it was Christmas somewhere else.
 
 Nobody moved.
 
-Then Imani did. She had a cloth in her hand before Tori had pulled her hands out of the bucket. She cracked the ice with the back of a spoon, wrapped the pieces, and was on the couch with the cloth on the baby's neck and the baby's wrists in four seconds flat, talking to her the whole time in the bored voice, *there you go, there you go, Vee, that's cold, I know, I know,* and the baby cried, finally, the thin furious sound from the night before, and Danny put his face in his hands.
+Then Juno did. She had a cloth in her hand before Sol had pulled her hands out of the bucket. She cracked the ice with the back of a spoon, wrapped the pieces, and was on the couch with the cloth on the baby's neck and the baby's wrists in four seconds flat, talking to her the whole time in the bored voice, *there you go, there you go, Vee, that's cold, I know, I know,* and the baby cried, finally, the thin furious sound from the night before, and Tock put his face in his hands.
 
-Tori sat back on the floor.
+Sol sat back on the floor.
 
-Her hands were burning. Not cold. Burning, the way skin burns when it comes in from snow, which she had never seen, except on television. She was shaking. She was thirstier than she had ever been in her life. Lonny put a glass of water in her hand without a word and she drank it and he filled it and she drank that too, and the third one, and her teeth were chattering in a kitchen where the air was thirty degrees.
+Her hands were burning, the way skin burns when it comes in from snow, which she had never seen, except on television. She was shaking. She was thirstier than she had ever been in her life. Lonny put a glass of water in her hand without a word and she drank it and he filled it and she drank that too, and the third one, and her teeth were chattering in a kitchen where the air was thirty degrees.
 
-"How long have you been able to do that?" Imani said, from the couch, not looking up.
+"How long have you been able to do that?" Juno said, from the couch, not looking up.
 
 "I don't know."
 
-"Tori."
+"Sol."
 
-"Last night. Micah's glass. I didn't do it. I didn't know I did it." The words came out between the chattering. "I didn't know I *could* do it. I was just thinking about the plant."
+"Last night. Olli's glass. I didn't do it. I didn't know I did it." The words came out between the chattering. "I didn't know I *could* do it. I was just thinking about the plant."
 
-Imani looked at her then. A long look, the adding-up look, and Tori thought: she's going to ask what else I can do. And she didn't know, and she was afraid of the answer, and she was afraid of the question more.
+Juno looked at her then. A long look, the adding-up look, and Sol thought: she's going to ask what else I can do. And she didn't know, and she was afraid of the answer, and she was afraid of the question more.
 
-Imani didn't ask it.
+Juno didn't ask it. Of course she didn't. Eleven years, since they were five and Juno had walked across the Finches' yard and asked if Sol wanted to see a frog, and Juno had never once asked Sol a question before Sol was ready for it, had waited out every silence, had sat on the end of Sol's bed through the whole of Form Two without saying a word about anything, and Sol had loved her for it then and loved her for it now, with her teeth chattering on a kitchen floor.
 
-"Drink," she said. "Keep drinking. Lonny, watch her. Danny, she's cooling, look at her, she's cooling." And then, so low it was almost to herself: "Okay. Okay. That's one thing."
+"Drink," she said. "Keep drinking. Lonny, watch her. Tock, she's cooling, look at her, she's cooling." And then, so low it was almost to herself: "Okay. Okay. That's one thing."
 
-The baby's crying wound down to hiccups. Danny's shoulders came down from around his ears. Lonny filled the glass a fourth time. On the floor, the bucket sat with its ring of frost going grey as the kitchen warmed it, and a thread of cold air moved across the tiles and touched Tori's ankle and was gone.
+The baby's crying wound down to hiccups. Tock's shoulders came down from around his ears. Lonny filled the glass a fourth time. On the floor, the bucket sat with its ring of frost going grey as the kitchen warmed it, and a thread of cold air moved across the tiles and touched Sol's ankle and was gone.
 
-From the gate, Nia's voice, carrying up the hill the way it never had before, because there was no other sound on the island to cover it.
+From the bend, Kit's voice, carrying up the hill the way it never had before, because there was no other sound on the island to cover it.
 
-"Imani! There's somebody at the gate. He's got a wheelbarrow."
+"Juno! There's somebody at the bend. He's got a wheelbarrow."
 
-Lonny was at the window first. Tori saw his face change before she saw what he was looking at.
+Lonny was at the window first. Sol saw his face change before she saw what he was looking at.
 
-A boy of nine, at the bottom of the hill, with a wheelbarrow, and his grandmother in it, and the hospital eleven kilometres behind him, where nobody had answered the door.
+A boy of nine, at the bottom of the hill, with a wheelbarrow, and his grandmother in it.

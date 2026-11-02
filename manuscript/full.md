@@ -1,81 +1,81 @@
 # Morne Bay (working title)
 
-_Built 2026-11-01 23:01. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
+_Built 2026-11-02 12:52. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
 
 
 # Chapter 1 — Dust
 
-Nia's father fell asleep three times before lunch, and the first time, she laughed.
+Kit's father fell asleep three times before lunch, and the first time, she laughed.
 
-He was in the guard booth at the gate of Palmyra Gardens with his chin on his chest and his mouth open, snoring over the logbook. She knocked on the glass. He jumped so hard the pen went off the desk.
+He was in the driver's seat of the taxi in the yard, with both front doors open for the breeze and his chin on his chest and his mouth open, snoring over the little book where he wrote his fares. She knocked on the roof. He jumped so hard the pen went down between the seats.
 
 "Dust," he said, and pointed up.
 
 The sky was the colour of weak tea. Sahara dust had blown in overnight, four thousand miles of it, the way it did a few times a year, and it turned the sun into a dull orange coin you could look straight at. It got in your eyes. It got in your throat. Everyone on the island blamed it for everything: headaches, bad moods, dogs that wouldn't eat.
 
-"It's November," Nia said. "Dust comes in June."
+"It's November," Kit said. "Dust comes in June."
 
 "Dust don't read calendar."
 
-Winston Pierre had worked this gate for sixteen years, in a pale blue shirt pressed every morning and navy trousers with the crease ironed sharp, and most days he didn't sit down at all. He stood in the booth like he was holding it up. In sixteen years she had never seen him asleep on the job. She let that go, because it was Sunday and the dust was in everyone's head, and went back to the washing.
+Ambrose Wick had driven a taxi for sixteen years, in a shirt pressed every morning, even on a Sunday, with the crease in his trousers ironed sharp, and he washed the car before the sun got hot whether or not anybody was going anywhere. On Sundays he sat in it with the church service on the car radio, because the car was the only thing he owned outright, and a man should sit in what he owns. In sixteen years she had never seen him sleep in it in the day. She let that go, because it was Sunday and the dust was in everyone's head, and went back to the washing.
 
-Palmyra Gardens was fourteen houses on a hill with a wall around them, big white houses with red roofs and a road that curved up between them in a lazy S, past two pools and a tennis court nobody used. From the top of the hill you could see the whole south of the island: Morne Bay curved around its harbour, the ferry dock, the two church steeples, and the sea going out flat and blue to nothing.
+Quarry Trace was nine houses on a road that went up the hill and stopped. Concrete houses, galvanize roofs, burglar-proofing on every window, black water tanks up on stands in every yard, and two of them still had an upstairs half-built, with rebar sticking out of the roof waiting for the money. At the top the road gave up at a rusted chain-link gate, and behind it was the quarry, a bite out of the hill that the trucks had stopped coming for six years ago. From up there you could see the whole south of the island: Morne Bay curved around its harbour, the ferry dock, the two church steeples, and the sea going out flat and blue to nothing.
 
-From the annex you saw the wall.
+From the bottom you saw the bend.
 
-The annex was two concrete rooms stuck to the back of the gatehouse, a bedroom, a front room with a hotplate, and a bathroom with a window that didn't close. It was the two of them in it, her and Winston, and had been for as long as she could remember.
+The flat was two concrete rooms under somebody else's empty upstairs, the first house on the road, a bedroom, a front room with a hotplate, and a bathroom with a window that didn't close. It was the two of them in it, her and Ambrose, and had been for eight months, since her mother stayed in town and the rent in town got to be too much for one.
 
-The second time was around ten o'clock. She was pegging a sheet when she looked over and his head was down again, and this time nothing in her wanted to laugh. She went into the booth and shook his shoulder.
+The second time was around ten o'clock. She was pegging a sheet when she looked over and his head was down again, and this time nothing in her wanted to laugh. She went over to the car and shook his shoulder.
 
 He woke up slow. His eyes opened and took a second to find her.
 
-"Daddy. Go lie down. I'll watch the gate."
+"Daddy. Go inside and lie down."
 
-"On a Sunday?" He rubbed his whole face with both hands. "Nobody coming on a Sunday. Is the dust."
+"In the day?" He rubbed his whole face with both hands. "I not sick. Is the dust."
 
 "You said that."
 
 "Because is true."
 
-She didn't go back to the washing. She sat on the annex step, where she could see him through the side window of the booth, and she didn't take her eyes off him.
+She didn't go back to the washing. She sat on the front step, where she could see him through the open door of the car, and she didn't take her eyes off him.
 
 ---
 
 The others came down the hill the way they always did, as a noise first.
 
-A lot of voices at once, nobody waiting for anybody to finish, and then the bend by the Ramkissoons' hibiscus and there they were: six of them, and the little one, Micah, who was seven and counted himself.
+A lot of voices at once, nobody waiting for anybody to finish, and then the Pells' hibiscus and there they were, coming round to the bend: six of them, and the little one, Olli, who was seven and counted himself.
 
-"No," Imani Clarke said. "Danny. No."
+"No," Juno Vale said. "Tock. No."
 
 "The goat," her brother said.
 
-All of them went. Not laughed, went. Somebody bent in half. Somebody had to put a cooler down. Imani hit her brother in the arm and laughed harder than any of them, head back.
+All of them went. Not laughed, went. Somebody bent in half. Somebody had to put a cooler down. Juno hit her brother in the arm and laughed harder than any of them, head back.
 
-Nia stood on the step with a clothes peg in her hand. She had no idea what the goat was.
+Kit stood on the step with a clothes peg in her hand. She had no idea what the goat was.
 
-She had known these people her whole life. They had grown up in the big white houses and she had grown up in two rooms by the gate, and in fifteen years nobody had ever told her what the goat was. It wasn't meanness. They had been a group since before they could talk, and a group that old doesn't notice who is outside it.
+She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi, and in eight months nobody had ever told her what the goat was. It wasn't meanness. They had been a group since before they could talk, and a group that old doesn't notice who is outside it.
 
-Imani noticed. Imani always noticed.
+Juno noticed. Juno always noticed.
 
-"Morning, Nia."
+"Morning, Kit."
 
-She was tall, with her hair up in a puff and wire glasses she pushed up with one finger. She had been top of her class every year Nia could remember and last year top of the whole island, and there had been a picture in the paper, and nobody on the hill had been surprised. She was going to be a doctor. That was settled.
+She was tall, with her hair up in a puff and wire glasses she pushed up with one finger. She had been top of the whole island last year, and there had been a picture in the paper, which Kit had seen in a barbershop in town before she ever knew Juno's face, and nobody on the hill had been surprised. She was going to be a doctor. That was settled.
 
 "Morning."
 
 "We going down the beach. You want to come?"
 
-She asked every time and meant it every time, and every time Nia said the same thing, because being asked wasn't the same as being there.
+She asked every time and meant it every time, and every time Kit said the same thing, because being asked wasn't the same as being there.
 
 "I have to help my father."
 
-"Okay." No hurt in it. "Mr. Pierre! Good morning!"
+"Okay." No hurt in it. "Mr. Wick! Good morning!"
 
-"Morning, Miss Clarke." Her father raised the arm for the truck that had come up for them. His hand was steady on the switch and his voice was his own voice, and something in Nia's chest that had been clenched since ten o'clock let go a little.
+"Morning, Miss Vale." Her father leaned out of the car as Lonny brought the Hales' pickup down the hill behind them. His voice was his own voice, and he had his hand up, steady, and something in Kit's chest that had been clenched since ten o'clock let go a little.
 
-Kai was last to the truck. He always was.
+Fen was last into the tray of the pickup. He always was.
 
-He stopped by the annex step. He didn't look at her, exactly. He looked at the ground beside her left foot, which was his version, and pulled one earphone out.
+He stopped by the front step on the way. He didn't look at her, exactly. He looked at the ground beside her left foot, which was his version, and pulled one earphone out.
 
 "It's not even a goat," he said. "I'll tell you later."
 
@@ -83,35 +83,35 @@ He stopped by the annex step. He didn't look at her, exactly. He looked at the g
 
 "I know."
 
-The truck pulled out, the arm dropped behind it, and her father wrote *Baptiste vehicle, 7 pax, out* in the book in the same neat capitals as always. But he took a long time over the *out*. Like he had to think about it.
+The pickup went round the bend and down toward the junction, six in the tray and Lonny driving too fast, and her father called "Mind the police!" after it the way he always did. But he called it late, when the pickup was already gone. Like he had to think about it.
 
 ---
 
 The island was heavy all day.
 
-The church service on the booth radio kept stopping. The pastor would lose his place in a verse and go quiet, then start the verse again. Mrs. Ali at number four was asleep in her verandah chair at half past nine with her Bible open on her chest, and Mrs. Ali was a woman who caught other people doing that. The yellow dog at the Ramkissoons' didn't bark at the gas truck. The gas truck came late, and the driver sat in his cab for a long minute after he parked, hands on the wheel, before he shook himself and got down.
+The church service on the car radio kept stopping. The pastor would lose his place in a verse and go quiet, then start the verse again. Mrs. Moss at number four was asleep in her verandah chair at half past nine with her Bible open on her chest, and Mrs. Moss was a woman who caught other people doing that. The yellow dog at the Pells' didn't bark at the gas truck. The gas truck came late, and the driver sat in his cab for a long minute after he parked, hands on the wheel, before he shook himself and got down.
 
 "Dust," her father said when she told him. "Everybody feeling it."
 
-He was feeling it. She brought him the thermos and he drank all of it and she watched his eyelids anyway. Twice she had to say his name. The second time he laughed at himself, a short embarrassed sound, and stood up and did ten squats in his pressed uniform, which was so unlike him that she laughed too, and for a minute it was almost fine.
+He was feeling it. She brought him the thermos and he drank all of it and she watched his eyelids anyway. Twice she had to say his name. The second time he laughed at himself, a short embarrassed sound, and got out of the car and did ten squats in the yard in his pressed shirt, which was so unlike him that she laughed too, and for a minute it was almost fine.
 
-The truck came back at two. That was early.
+The pickup came back at two. That was early.
 
-Nobody in it was talking. The cooler was still heavy. Imani got out last and came straight to the booth window, not to Nia, to the booth, and looked in at Nia's father for a second too long before she turned.
+Nobody in it was talking. The cooler was still heavy. Juno jumped down out of the tray at the bend and came straight to the car, not to Kit, to the car, and looked in at Kit's father for a second too long before she turned.
 
 "Lifeguard was asleep on his tower," she said. "We thought he was dead. Lonny climbed up. He wasn't dead, he was asleep, and we couldn't wake him. And the doubles lady by the car park, her pot was burning with her sitting right next to it. So we came back." Fast and steady, the voice she used when she was in charge of something. Then, quieter: "Your father okay?"
 
 "He keeps falling asleep."
 
-Imani looked at him again through the glass. Her mouth did something small.
+Juno looked at him again through the windscreen. Her mouth did something small.
 
 "Keep him awake," she said. "I don't know why. Just do it."
 
 They went up the hill, quieter than they'd come down.
 
-Nia kept him awake. She talked to him. She made him stand, made him walk to the wall and back, which he did, grumbling, and then he sat down heavily and told her she was worse than her mother, and then said sorry, and then said it again.
+Kit kept him awake. She talked to him. She made him stand, made him walk up to the Pells' gate and back, which he did, grumbling, and then he sat down heavily and told her she was worse than her mother, and then said sorry, and then said it again.
 
-At a quarter to five, with her standing right there, he put the pen down in the middle of a word.
+At a quarter to five, back in the driver's seat with her standing right there at the door, he put the pen down in the middle of a word.
 
 "Daddy."
 
@@ -123,41 +123,41 @@ She shook him, slapped his face, not hard and then hard, and when that did nothi
 
 His skin was cool.
 
-That was the thing that turned her stomach over. It was ninety degrees in that booth with the fan going, and her father, who sweated through his shirt by noon every day of his life, was cool to the touch.
+That was the thing that turned her stomach over. It was ninety degrees in that car with both doors open, and her father, who sweated through his shirt by noon every day of his life, was cool to the touch.
 
-She picked up the booth phone and dialled 999. It rang a long time. Then it stopped ringing and nothing happened, no voice, no click, just an open line with nobody on it.
+She took out her phone and dialled 999. It rang a long time. Then it stopped ringing and nothing happened, no voice, no click, just an open line with nobody on it.
 
 She hung up. Her hands were shaking now. She dialled the other number, the one she knew by heart and had never once used.
 
 It rang and rang, somewhere down in Morne Bay, and nobody picked up. She didn't let herself think about whether that was the dust or just her mother.
 
-She stood in the booth with the phone in her hand. For a few seconds there was nothing in her head at all, only the fan and the radio and the sound of him breathing, and she let it be nothing, because the alternative was screaming and screaming wouldn't move a man off a chair.
+She stood at the car door with the phone in her hand. For a few seconds there was nothing in her head at all, only the radio and the sound of him breathing, and she let it be nothing, because the alternative was screaming and screaming wouldn't move a man off a chair.
 
 Then she thought it through, the way he would have.
 
 On his side, so he wouldn't choke. Something under his head. Then help.
 
-He weighed more than two of her, but she got her arms hooked under his and tipped the chair until he slid out of it and hit the floor. She rolled him onto his side and pushed the chair cushion under his head, and through all of it he breathed, in and out, like nothing in the world was happening to him.
+He weighed more than two of her, but she got her arms hooked under his and pulled until he slid out of the seat and down onto the concrete of the yard, in the car's shade. She rolled him onto his side and pushed the folded towel he kept on the seat under his head, and through all of it he breathed, in and out, like nothing in the world was happening to him.
 
 Then she ran.
 
 Up the hill in her slippers on the hot road, past the hibiscus, toward the only house on the road where anybody had ever said her name first.
 
-The Clarkes' front door was open. It was never open.
+The Vales' front door was open. It was never open.
 
-Granny Clarke was on the kitchen floor with her white Sunday headtie still perfect. She hadn't fallen. She was flat on her back with her hands at her sides, the way you'd lie down on purpose. Micah was wedged between the fridge and the wall with his knees up.
+Granny Vale was on the kitchen floor with her white Sunday headtie still perfect. She hadn't fallen. She was flat on her back with her hands at her sides, the way you'd lie down on purpose. Olli was wedged between the fridge and the wall with his knees up.
 
-Imani was kneeling beside her grandmother with two fingers on the old woman's wrist, lips moving, counting. She looked up. Her face was calm. Her eyes were not.
+Juno was kneeling beside her grandmother with two fingers on the old woman's wrist, lips moving, counting. She looked up. Her face was calm. Her eyes were not.
 
 "Your father?"
 
-Nia nodded.
+Kit nodded.
 
 "Breathing? Slow?"
 
 "Twelve." She hadn't known she'd counted. "Twelve in a minute."
 
-Imani stared at her. Then down at her grandmother. Then back.
+Juno stared at her. Then down at her grandmother. Then back.
 
 "Her too," she said, and stood up fast. "Is he on his side?"
 
@@ -167,31 +167,31 @@ Imani stared at her. Then down at her grandmother. Then back.
 
 "Yes."
 
-"Good. Good, Nia." She already had her phone out, already had Micah by the arm. "Go back down and stay with him. Nobody through that gate, in or out, till I say. I'm sending Danny to every house. Go."
+"Good. Good, Kit." She already had her phone out, already had Olli by the arm. "Go back down and stay with him. Nobody comes up past the bend, in or out, till I say. I'm sending Tock to every house. Go."
 
-Nia went.
+Kit went.
 
-Halfway down the hill she slowed, because her legs had gone strange, and because of what Imani's face had done when she said *her too*. It wasn't fear. Nia knew what fear looked like on Imani; she'd seen it the day Micah went under in the Baptistes' pool. This was something flatter. This was a girl adding something up.
+Halfway down the hill she slowed, because her legs had gone strange, and because of what Juno's face had done when she said *her too*. It wasn't fear. Kit knew what fear looked like on Juno; she'd seen it in August, the day Olli fell off the Hales' tank stand. This was something flatter. This was a girl adding something up.
 
 Two houses. Two grown people. Same breathing.
 
-She started running again, and the whole way down she was making a list of what else she should have done, water, a wet cloth, the fan turned to face him, and she came around the bend at the Ramkissoons' and stopped dead.
+She started running again, and the whole way down she was making a list of what else she should have done, water, a wet cloth, the fan turned to face him, and she came past the Pells' hibiscus to the top of the bend and stopped dead.
 
 The corbeaux had come down.
 
-All day they'd sat on the light pole outside the wall, four or five of them, the big black vultures with their wings half open, the way they always did. Now there were a dozen. More. They were on the gate. They were on the roof of the booth. They were on the wall on either side of it, hunched and patient, with their bald red heads turned, every one of them, toward the glass.
+All day they'd sat on the light pole at the bend, four or five of them, the big black vultures with their wings half open, the way they always did. Now there were a dozen. More. They were on the galvanize of the flat. They were on the roof of the taxi. They were on the yard fence on either side of it, hunched and patient, with their bald red heads turned, every one of them, toward the open door of the car.
 
-Toward her father.
+Toward her father, on the ground beside it.
 
-Nia stood in the road with the dust in her throat. The birds thought he was dead. And the birds were never wrong about that.
+Kit stood in the road with the dust in her throat. The birds thought he was dead. And the birds were never wrong about that.
 
 
 
 # Chapter 2 — Count
 
-Imani gave it thirty seconds.
+Juno gave it thirty seconds.
 
-She had sent Nia back down the hill. She had sent Danny out with his phone to every house on the road. She had put Micah on the couch with the TV on and told him Granny was sleeping hard, in the most bored voice she could find, and he had believed her, because he always did. Then she had walked into the downstairs bathroom, shut the door, sat on the edge of the tub, and shaken so hard her teeth clicked.
+She had sent Kit back down the hill. She had sent Tock out with his phone to every house on the road. She had put Olli on the couch with the TV on and told him Granny was sleeping hard, in the most bored voice she could find, and he had believed her, because he always did. Then she had walked into the downstairs bathroom, shut the door, sat on the edge of the tub, and shaken so hard her teeth clicked.
 
 She let it happen. She counted it. Thirty seconds was what it got, because two years ago, in the worst stretch of a bad year, she had learned that if you let the shaking have as long as it wanted, it took everything.
 
@@ -201,15 +201,15 @@ Then she went back to the kitchen floor and did it properly.
 
 Two years ago, hiding in the school library from a lunch period she couldn't face, she had found a nursing textbook nobody had checked out since 1998 and read it cover to cover, because reading still worked when nothing else did. The chapter on coma had a table: breathing, pulse, pupils, response to pain. She had learned the table the way she learned every table, without deciding to.
 
-Granny was breathing twelve times a minute. Pulse fifty-two. Pupils small, and they didn't care about the kitchen light. When Imani pressed a knuckle hard into the bone in the middle of her grandmother's chest, the way the book said to, Granny didn't flinch.
+Granny was breathing twelve times a minute. Pulse fifty-two. Pupils small, and they didn't care about the kitchen light. When Juno pressed a knuckle hard into the bone in the middle of her grandmother's chest, the way the book said to, Granny didn't flinch.
 
 Deep coma. That was what the table called it.
 
-Pearl Clarke was seventy-four years old and five feet tall, and in Imani's whole life she had never gone an hour without an opinion. She had raised three grandchildren in this house after their mother died and their father went to Canada. She wore a headtie every day, a different colour for each day of the week, white on Sundays. In August, when the scholarship letter came, she had read it twice at this table with her glasses on and said, "So. That's done. Now you have to keep it."
+Dot Vale was seventy-four years old and five feet tall, and in Juno's whole life she had never gone an hour without an opinion. She had raised three grandchildren in this house after their mother died and their father went to Canada. She wore a headtie every day, a different colour for each day of the week, white on Sundays. In August, when the scholarship letter came, she had read it twice at this table with her glasses on and said, "So. That's done. Now you have to keep it."
 
 That was Granny. On the floor now, with the white headtie still perfect and nothing to say.
 
-Imani picked up the house phone and dialled 999. It rang for a long time and then stopped ringing and did nothing else, no voice, no click, an open line with nobody on it. She listened to the nothing for ten seconds. Then she put it down.
+Juno picked up the house phone and dialled 999. It rang for a long time and then stopped ringing and did nothing else, no voice, no click, an open line with nobody on it. She listened to the nothing for ten seconds. Then she put it down.
 
 She tried the hospital in Morne Bay. Same.
 
@@ -219,27 +219,27 @@ She tried her father in Toronto, which was stupid, because what was he going to 
 
 They came in pieces over the next half hour, and every one of them brought the same news.
 
-Lonny first. His father was down in the La-Z-Boy. His mother was down on the bathroom floor, and that was where he'd found her, and he had carried her to the bed before he thought about whether he should. His little brother Jaylen was eleven and awake and had refused to leave, so Lonny had locked the front door with Jaylen inside and come anyway. He said it like a confession.
+Lonny first. His father was down in the La-Z-Boy. His mother was down on the bathroom floor, and that was where he'd found her, and he had carried her to the bed before he thought about whether he should. His little brother Bix was eleven and awake and had refused to leave, so Lonny had locked the front door with Bix inside and come anyway. He said it like a confession.
 
-Tori came holding her phone in both hands. Both her parents, on the couch in front of the cricket, with the volume still up. She had turned the TV off, and then turned it back on, because the quiet was worse.
+Sol came holding her phone in both hands. Both her parents, on the couch in front of the cricket, with the volume still up. She had turned the TV off, and then turned it back on, because the quiet was worse.
 
-Danny came last, and he came angry, which was how Danny came to everything that scared him. He had stopped at four houses on the way: the Ramkissoons, the Alis, the Lalls, where the little girl was crying too hard to talk, and old Mr. Baptiste at the top of the road, who was ninety and lived alone and had been face down in a puddle of soup.
+Tock came last, and he came angry, which was how Tock came to everything that scared him. He had stopped at every house on the road: the Pells, the Mosses, the Nettles, where the little girl was crying too hard to talk, and old Mr. Hale at the top of the road, who was ninety and lived alone and had been face down in a puddle of soup.
 
-"All of them," Danny said. "Every grown person. Every one I checked."
+"All of them," Tock said. "Every grown person. Every one I checked."
 
 "The kids?"
 
-"Kids are fine. Lall girl's crying, I told her lock the door, I'll come back." He kicked the leg of the table. Not hard. Then harder. "Why are the kids fine?"
+"Kids are fine. Nettle girl's crying, I told her lock the door, I'll come back." He kicked the leg of the table. Not hard. Then harder. "Why are the kids fine?"
 
 Nobody answered that.
 
-Kai and Asha didn't come. Asha called, and Imani put her on speaker on the table so she wouldn't have to say it twice.
+Fen and Lyra didn't come. Lyra called, and Juno put her on speaker on the table so she wouldn't have to say it twice.
 
-"We're not leaving her." Asha's voice was flat, and in sixteen years Imani had never once heard Asha be flat about anything. "The night nurse is here. She's asleep too, in the chair. Daddy's on the floor in the hall. Mummy's the same, she looks the same as always. Kai's checking the oxygen. We're staying."
+"We're not leaving her." Lyra's voice was flat, and in sixteen years Juno had never once heard Lyra be flat about anything. "The night nurse is here. She's asleep too, in the chair. Daddy's on the floor in the hall. Mummy's the same, she looks the same as always. Fen's checking the oxygen. We're staying."
 
 "Okay."
 
-"Imani. What is this."
+"Juno. What is this."
 
 "I don't know."
 
@@ -247,11 +247,11 @@ Kai and Asha didn't come. Asha called, and Imani put her on speaker on the table
 
 "I don't know this."
 
-A pause. Then Kai, from the other side of the room: "Tank's fine. She's breathing eleven."
+A pause. Then Fen, from the other side of the room: "Tank's fine. She's breathing eleven."
 
-"Twelve here," Imani said. "Everybody's twelve, or near it. Nia's father, Granny, all of them."
+"Twelve here," Juno said. "Everybody's twelve, or near it. Kit's father, Granny, all of them."
 
-"Then it's one thing," Kai said, and hung up, because Kai didn't do goodbyes.
+"Then it's one thing," Fen said, and hung up, because Fen didn't do goodbyes.
 
 The radio on the counter had been playing the same song for twenty minutes. Some old Machel tune from before they were born, start to finish, two seconds of dead air, then the same song. Somebody at the station had put it on and put their head down.
 
@@ -267,57 +267,57 @@ She turned it off.
 
 "Nobody. There's nobody. It's us."
 
-"For now," Danny said. "They'll wake up. People wake up."
+"For now," Tock said. "They'll wake up. People wake up."
 
-"Coast guard will come," Tori said, to the table. "Or the government. Somebody. By morning somebody's going to come."
+"Coast guard will come," Sol said, to the table. "Or the government. Somebody. By morning somebody's going to come."
 
-Imani let them have it. Half of her believed it too, and the half that didn't wasn't going to help anyone tonight.
+Juno let them have it. Half of her believed it too, and the half that didn't wasn't going to help anyone tonight.
 
 "Probably," she said. "But we don't do nothing till then."
 
-Tori put her phone face down on the table, very carefully. Lonny sat on the floor with his back against the cupboards. Danny didn't move at all, which for Danny was the worst sign.
+Sol put her phone face down on the table, very carefully. Lonny sat on the floor with his back against the cupboards. Tock didn't move at all, which for Tock was the worst sign.
 
-Imani found a school exercise book in the drawer by the stove, half of it used for Micah's spelling. She tore those pages out. She wrote at the top of a clean one and said it out loud as she wrote, because saying it kept the shaking out of her hands.
+Juno found a school exercise book in the drawer by the stove, half of it used for Olli's spelling. She tore those pages out. She wrote at the top of a clean one and said it out loud as she wrote, because saying it kept the shaking out of her hands.
 
 "One. The sleepers. They can't drink. Three days without water, that's the number, less in this heat, less if they're old. So that's first. Two—"
 
 She stopped. Her stomach dropped before the thought finished.
 
-"Danny. The Ramkissoons. Did you check the crib?"
+"Tock. The Pells. Did you check the crib?"
 
-Danny looked at her.
+Tock looked at her.
 
-The Ramkissoons had a baby. Eight months old. Imani had held her in September at the thing by the pool, and the baby had grabbed her glasses.
+The Pells had a baby. Eight months old. Juno had held her in September at the christening lime in the Finches' yard, and the baby had grabbed her glasses.
 
-"I checked them," Danny said. "They were in the bed, both of them, I rolled them, I—"
+"I checked them," Tock said. "They were in the bed, both of them, I rolled them, I—"
 
-"The crib, Danny."
+"The crib, Tock."
 
 He was already moving. The door hit the wall behind him.
 
-Nobody said anything. Tori was crying without making a sound. Lonny had his head between his knees. Imani stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
+Nobody said anything. Sol was crying without making a sound. Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
 
 *Two. Babies. Small kids. Who's alone.*
 
-*Three. Mr. Baptiste, ninety. Who else old.*
+*Three. Mr. Hale, ninety. Who else old.*
 
 *Four. Town.*
 
 She looked at the word. Morne Bay had fifteen thousand people, maybe. Say a third of them kids. Most of the little ones would be fine, because that was how the island worked: a twelve-year-old with a baby sister would feed the baby, a cousin would take a cousin, a neighbour would hear crying through a wall. But there were houses where the oldest child was four. There were flats where nobody knew the people next door. Nobody had a list of those. Nobody could.
 
-Danny's feet on the road, coming back. Faster.
+Tock's feet on the road, coming back. Faster.
 
-He came through the door with the baby against his chest. She was screaming, a thin furious sound, red-faced and soaked through her sleepsuit. Danny kept saying "it's okay, it's okay" in a voice that wasn't. Imani had never in her life been so glad to hear anything scream.
+He came through the door with the baby against his chest. She was screaming, a thin furious sound, red-faced and soaked through her sleepsuit. Tock kept saying "it's okay, it's okay" in a voice that wasn't. Juno had never in her life been so glad to hear anything scream.
 
-"Alive," Danny said. "She was just in there. In the dark. I walked right past the door." His hands were shaking. He wouldn't give her over. "I walked right past."
+"Alive," Tock said. "She was just in there. In the dark. I walked right past the door." His hands were shaking. He wouldn't give her over. "I walked right past."
 
-"You went back." Imani's voice came out steadier than she was. "Tori, warm water, there's bottles in their kitchen. Lonny, go with Danny to every house again, every room this time. Every crib, every cot, every bathroom. Anybody under five comes here."
+"You went back." Juno's voice came out steadier than she was. "Sol, warm water, there's bottles in their kitchen. Lonny, go with Tock to every house again, every room this time. Every crib, every cot, every bathroom. Anybody under five comes here."
 
 "And then?" Lonny said.
 
 She looked at the list. At the word.
 
-"Then at first light, two of us go out the gate. Not town. The road. The twelve houses between here and the junction, the ones we know. Miss Pauline. The Charles family. Lonny, your girlfriend's street." His head came up. "We knock, we check, we come back. That's what we can do."
+"Then at first light, two of us go down past the bend. Not town. The road. The twelve houses between here and the junction, the ones we know. Miss Orla. The Lark family. Lonny, your girlfriend's street." His head came up. "We knock, we check, we come back. That's what we can do."
 
 "And the rest of town?"
 
@@ -329,7 +329,7 @@ Nobody argued. She wished someone would. She wrote *road at first light* under t
 
 She went to number four by herself, because somebody had to and everybody else had a job.
 
-Dr. Ali kept things at home. Granny had sent her over for antibiotics once at nine at night, and he had unlocked a cupboard in his study and handed her a box without writing anything down. The spare key was under the frog on the step, where everybody on the road kept their spare. Dr. Ali was on the hall floor where Danny had put him, on his side, with his reading glasses still on their chain around his neck. Imani stepped over him and said "Sorry, doctor," out loud. It felt wrong not to.
+Dr. Moss kept things at home. Granny had sent her over for antibiotics once at nine at night, and he had unlocked a cupboard in his study and handed her a box without writing anything down. The spare key was under the frog on the step, where everybody on the road kept their spare. Dr. Moss was on the hall floor where Tock had put him, on his side, with his reading glasses still on their chain around his neck. Juno stepped over him and said "Sorry, doctor," out loud. It felt wrong not to.
 
 The cupboard key was in his desk, second drawer. People weren't creative about keys.
 
@@ -339,7 +339,7 @@ She counted them. She counted again.
 
 Six.
 
-Thirty-one sleepers. Two litres a day each, at least, in this heat. She did the division standing in Dr. Ali's study with his sleeping body in the hall, and the answer was so small it was almost funny. Less than a day. For six of them. For the rest, nothing.
+Sixteen sleepers. Two litres a day each, at least, in this heat. She did the division standing in Dr. Moss's study with his sleeping body in the hall, and the answer was so small it was almost funny. Less than a day. For six of them. For the rest, nothing.
 
 She took it all anyway.
 
@@ -347,37 +347,37 @@ From the balcony at the top of the house, with the carton at her feet, she could
 
 Nothing moved. No cars. No music from the bars by the harbour, where there was always music. Just dogs, hundreds of them, all across the island, barking at the quiet.
 
-Her phone buzzed. Danny.
+Her phone buzzed. Tock.
 
-*14 houses. 31 adults. 38 kids counting us. 3 under five incl baby. all adults down. all kids ok. everybody coming to yours*
+*9 houses. 16 adults. 13 kids counting us. 1 baby. all adults down. all kids ok. everybody coming to yours*
 
 She read it twice. Then she put the phone down on the railing and held onto the railing with both hands, because for a second the balcony had tilted.
 
-Thirty-one people who couldn't drink. Six bags. Three days. Granny was seventy-four and Mr. Baptiste was ninety and the arithmetic didn't care about either of them.
+Sixteen people who couldn't drink. Six bags. Three days. Granny was seventy-four and Mr. Hale was ninety and the arithmetic didn't care about either of them.
 
-She could lie about the bags. Tell them there were enough and ration in secret, and nobody would know until somebody's mother didn't wake up. Or she could put the carton on the kitchen table and tell thirty-seven kids the truth and watch what it did to them.
+She could lie about the bags. Tell them there were enough and ration in secret, and nobody would know until somebody's mother didn't wake up. Or she could put the carton on the kitchen table and tell twelve kids the truth and watch what it did to them.
 
 She stood there until she'd chosen. Then she picked up the carton and went down.
 
-The kitchen was full now, kids on every chair and along the walls, the Lall girl asleep against Lonny with her thumb in her mouth. The baby had stopped screaming and was asleep on Danny's shoulder, and Danny hadn't moved in twenty minutes in case she woke.
+The kitchen was full now, kids on every chair and along the walls, the Nettle girl asleep against Lonny with her thumb in her mouth. The baby had stopped screaming and was asleep on Tock's shoulder, and Tock hadn't moved in twenty minutes in case she woke.
 
-Imani put the carton on the table where everyone could see it. She opened the notebook and wrote *Day 0* at the top of the list. She had almost written *Day 1* and crossed it out. She wanted to count from the beginning. She had a feeling she'd be counting a long time.
+Juno put the carton on the table where everyone could see it. She opened the notebook and wrote *Day 0* at the top of the list. She had almost written *Day 1* and crossed it out. She wanted to count from the beginning. She had a feeling she'd be counting a long time.
 
-Her phone rang. Not a buzz. A call. Nia, from the booth.
+Her phone rang, a real call this time. Kit, from the bottom of the road.
 
-"There's people at the gate."
+"There's people at the bend."
 
-Imani stood up. The kitchen went quiet around her.
+Juno stood up. The kitchen went quiet around her.
 
 "Who?"
 
-"Kids. From the road. Four of them, I think. There's a girl with a baby." Nia's voice dropped. "She's asking for the doctor. She said the Clarke girl, up at Palmyra, she's going to be a doctor. Somebody told her."
+"Kids. From the road. Four of them, I think. There's a girl with a baby." Kit's voice dropped. "She's asking for the doctor. She said the Vale girl, up the Trace, she's going to be a doctor. Somebody told her."
 
-Imani looked at the carton. Six bags. She looked at Dr. Ali's leather bag beside it, which she had carried up the hill and not yet opened, because opening it meant finding out what she didn't know how to use.
+Juno looked at the carton. Six bags. She looked at Dr. Moss's leather bag beside it, which she had carried up the hill and not yet opened, because opening it meant finding out what she didn't know how to use.
 
-Thirty-one sleepers inside the wall. Thirty-eight kids. Three under five. One list.
+Sixteen sleepers on one road. Thirteen kids. One baby. One list.
 
-And now four more on the other side of the gate, in the dark, with a baby, asking for a doctor.
+And now four more at the bottom of the road, in the dark, with a baby, asking for a doctor.
 
 "Tell them I'm coming," she said.
 
@@ -387,21 +387,21 @@ She picked up the bag. She was not a doctor. She went down the hill anyway.
 
 # Chapter 3 — Signal
 
-Kai Mohan knew the sound of every machine in his mother's room.
+Fen Quill knew the sound of every machine in his mother's room.
 
 The oxygen concentrator was the low one, a hum with a click in it every four seconds. The mattress pump was higher and came on every twenty minutes. The monitor didn't make a sound unless something was wrong, and in eight months it had made a sound three times. He could tell from his bed upstairs which machine was running. He had not meant to learn any of this. It had happened the way you learn the stairs in your own house, without trying, in the dark.
 
 Tonight the hum was normal, the click was normal, and nothing in the room was wrong except everything.
 
-His mother lay in the hospital bed where the dining table used to be, on her back, with the cannula in her nose and her hands on the blanket. Eleven breaths a minute. He had counted four times. Miss Yvonne, the night nurse, was asleep in the armchair by the window with her shoes off and her mouth open. His father was on the hall floor, on his side, where Kai had put him two hours ago.
+His mother lay in the hospital bed where the dining table used to be, on her back, with the cannula in her nose and her hands on the blanket. Eleven breaths a minute. He had counted four times. Miss Tilda, the night nurse, was asleep in the armchair by the window with her shoes off and her mouth open. His father was on the hall floor, on his side, where Fen had put him two hours ago.
 
-Asha was on the other side of the bed with her phone in her lap and her thumb moving without stopping.
+Lyra was on the other side of the bed with her phone in her lap and her thumb moving without stopping.
 
 "Nobody's answering," she said. "Nobody. I messaged everybody."
 
 "Everybody we know is sixteen."
 
-"I messaged Auntie Sunita. I messaged the church group. I messaged Mummy's oncologist, Kai, I have his number from the thing in July."
+"I messaged Auntie Prue. I messaged the church group. I messaged Mummy's oncologist, Fen, I have his number from the thing in July."
 
 "They're all asleep."
 
@@ -409,9 +409,9 @@ Asha was on the other side of the bed with her phone in her lap and her thumb mo
 
 He didn't answer. He looked at the concentrator's little green light.
 
-Asha put the phone down and reached over to straighten the blanket where it didn't need straightening. Their mother's face was turned a little toward her, the way it had been for weeks, because the pillow was shaped that way. Her skin had the yellow look it had had since August. None of it was new.
+Lyra put the phone down and reached over to straighten the blanket where it didn't need straightening. Their mother's face was turned a little toward her, the way it had been for weeks, because the pillow was shaped that way. Her skin had the yellow look it had had since August. None of it was new.
 
-"She looks the same," Asha said.
+"She looks the same," Lyra said.
 
 "Yeah."
 
@@ -419,19 +419,19 @@ Asha put the phone down and reached over to straighten the blanket where it didn
 
 "Yeah."
 
-"Kai."
+"Fen."
 
 He looked up.
 
-"Is it bad," Asha said, "that she looks better?"
+"Is it bad," Lyra said, "that she looks better?"
 
 Something in his chest went tight and then loose, because she had said it first and he hadn't had to. He wanted to give her a real answer. She was the only person in the world he could give one to.
 
 "She's not in pain," he said. "Look at her hands."
 
-Asha looked. Their mother's hands were open on the blanket. For months they had been curled, the fingers closed on nothing, even in sleep, even with the morphine. Now they were open.
+Lyra looked. Their mother's hands were open on the blanket. For months they had been curled, the fingers closed on nothing, even in sleep, even with the morphine. Now they were open.
 
-"Oh," Asha said.
+"Oh," Lyra said.
 
 "So no. I don't think it's bad."
 
@@ -441,7 +441,7 @@ She didn't cry. She put her hand over their mother's open one and left it there.
 
 "I don't want her to wake up into that."
 
-"I know," Kai said. "Me neither."
+"I know," Fen said. "Me neither."
 
 It was the first time either of them had said it out loud. It didn't feel like a terrible thing to say. It felt like putting something heavy down.
 
@@ -449,9 +449,9 @@ It was the first time either of them had said it out loud. It didn't feel like a
 
 At ten he went up to the roof.
 
-The Mohan house had a flat roof with a water tank and a satellite dish, and a plastic chair Kai had carried up there two years ago and never brought down. He brought the laptop. He brought the dongle, a black thing the size of a lighter that his father had called a waste of money, and that Kai had bought with birthday money anyway, because with it and a length of wire you could hear anything in the air. Taxis. Aircraft. Fishing boats talking at four in the morning. He had spent a lot of nights up here listening to people who didn't know they were being listened to.
+The Quill house had a flat roof with a water tank and a satellite dish, and a plastic chair Fen had carried up there two years ago and never brought down. He brought the laptop. He brought the dongle, a black thing the size of a lighter that his father had called a waste of money, and that Fen had bought with birthday money anyway, because with it and a length of wire you could hear anything in the air. Taxis. Aircraft. Fishing boats talking at four in the morning. He had spent a lot of nights up here listening to people who didn't know they were being listened to.
 
-The dust had thinned enough to show stars. Below the wall the town was lit the way it was every night and silent the way it never was.
+The dust had thinned enough to show stars. Below the hill the town was lit the way it was every night and silent the way it never was.
 
 He started on FM. The station was still playing the one song. He went through the whole band and it was the one song or nothing.
 
@@ -463,7 +463,7 @@ It was on a channel the fishing boats used for weather, so faint he had to put h
 
 "—anybody. This is the *Lady Marisol* at the fish dock. Anybody with a radio. All the big people sleeping. If you can hear me press the button and talk. Anybody."
 
-Kai looked at the dongle. It couldn't transmit. It could only hear.
+Fen looked at the dongle. It couldn't transmit. It could only hear.
 
 He was down the ladder before he'd finished the thought, through the house, past his father in the hall, into the garage. His father's boat radio was on the shelf above the workbench, the handheld they used on Sundays when they took the little boat out, before. It hadn't been charged in a year. He found the charger and plugged it in and stood in the dark garage watching the light go red, then nothing, then red, for four minutes, until the screen came on.
 
@@ -471,57 +471,57 @@ Back on the roof. The weather channel. The boy was still going.
 
 "—press the button and talk. Anybody."
 
-Kai pressed the button.
+Fen pressed the button.
 
-"I hear you." It came out too quiet and he said it again. "I hear you. I'm up at Palmyra Gardens. The compound on the hill."
+"I hear you." It came out too quiet and he said it again. "I hear you. I'm up Quarry Trace. The road to the old quarry, on the south hill."
 
 Silence, long enough that he thought the handheld didn't have the range.
 
-Then: "Palmyra. Yeah. I see allyuh lights." A breath. "Is only children up there too?"
+Then: "The quarry road. Yeah. I see allyuh lights." A breath. "Is only children up there too?"
 
 "Yeah. Every adult. Same here."
 
 "How many allyuh?"
 
-"Thirty-eight. Kids. Thirty-one adults asleep."
+"Thirteen. Kids. Sixteen adults asleep."
 
-"Thirty-eight." The boy laughed, a short sound with no fun in it. "I have two hundred at the fish market. More coming. I have babies. I have a boy with a broke arm from falling off a wall. I have a girl who swallow something. I have one radio and it belong to a man sleeping on the deck right behind me." A pause. "You have a doctor up there?"
+"Thirteen." The boy laughed, a short sound with no fun in it. "I have two hundred at the fish market. More coming. I have babies. I have a boy with a broke arm from falling off a wall. I have a girl who swallow something. I have one radio and it belong to a man sleeping on the deck right behind me." A pause. "You have a doctor up there?"
 
 The answer was in his mouth before he'd decided to give it.
 
-"Imani Clarke," he said. "She's going to be a doctor. She has Dr. Ali's bag. She reads everything. She knows what to do."
+"Juno Vale," he said. "She's going to be a doctor. She has Dr. Moss's bag. She reads everything. She knows what to do."
 
-"The Clarke girl. From the paper."
+"The Vale girl. From the paper."
 
 "Yeah."
 
 "Okay." The boy's voice changed. It got slower. It got careful. "Okay. That's good. That's something. What's your name?"
 
-"Kai."
+"Fen."
 
-"Kai. I'm Jerome. The fellas call me Judge." Another breath, the sound of the deck under him, and somewhere behind him a child crying. "Keep this channel on, Kai from Palmyra. I'm going to need to talk to you again."
+"Fen. I'm Cole. The fellas call me Judge." Another breath, the sound of the deck under him, and somewhere behind him a child crying. "Keep this channel on, Fen from the Trace. I'm going to need to talk to you again."
 
 The channel went to hiss.
 
-Kai sat with the handheld in his lap and the cold came up through him slowly, from the stomach out. Two hundred kids at the fish market. A boy with a broken arm. And he had said Imani's name over an open channel that any boat on the island could hear, to a stranger who had asked a question, because Kai had had an answer and having an answer had felt, for one second, like being useful.
+Fen sat with the handheld in his lap and the cold came up through him slowly, from the stomach out. Two hundred kids at the fish market. A boy with a broken arm. And he had said Juno's name over an open channel that any boat on the island could hear, to a stranger who had asked a question, because Fen had had an answer and having an answer had felt, for one second, like being useful.
 
 He could call her. Tell her what he'd done, let her decide what it meant. Or he could sit here and hope it meant nothing, and find out in the morning.
 
-He got up. He took the handheld down with him, because whatever happened next, the boy on the dock was going to call again, and Kai was going to be the one who answered.
+He got up. He took the handheld down with him, because whatever happened next, the boy on the dock was going to call again, and Fen was going to be the one who answered.
 
 ---
 
-Asha was asleep when he came down, folded across the foot of the bed with her head on her arms and one hand still reaching for their mother's. He put the handheld on the shelf by the door where he could hear it. He pulled Miss Yvonne's blanket up over Miss Yvonne. He checked his father's breathing in the hall. Twelve.
+Lyra was asleep when he came down, folded across the foot of the bed with her head on her arms and one hand still reaching for their mother's. He put the handheld on the shelf by the door where he could hear it. He pulled Miss Tilda's blanket up over Miss Tilda. He checked his father's breathing in the hall. Twelve.
 
-Then he sat down in Asha's chair and looked at his mother.
+Then he sat down in Lyra's chair and looked at his mother.
 
 He hadn't talked to her in months. Not properly. By the end you couldn't; she was too tired, or too far inside the morphine, or in too much pain to want words. He had sat with her instead and learned the machines and told himself that was the same thing.
 
-"Asha wants to call everybody," he said, quiet, so he wouldn't wake his sister. "She's got a list. She was going to call the man from the church."
+"Lyra wants to call everybody," he said, quiet, so he wouldn't wake his sister. "She's got a list. She was going to call the man from the church."
 
 The concentrator hummed. The click came.
 
-"I messed up tonight. I told somebody something I shouldn't have. I don't know yet if it's bad." He looked at her open hands. "You'd say it's done, so stop. You'd say what's next. So. What's next is I keep the radio on. I figure out the generator. I don't tell Asha about the generator until I know it works, because she'll want to try it, and she'll flood it."
+"I messed up tonight. I told somebody something I shouldn't have. I don't know yet if it's bad." He looked at her open hands. "You'd say it's done, so stop. You'd say what's next. So. What's next is I keep the radio on. I figure out the generator. I don't tell Lyra about the generator until I know it works, because she'll want to try it, and she'll flood it."
 
 He almost smiled.
 
@@ -535,13 +535,13 @@ He sat with her after that without saying anything else. At some point he was co
 
 At 12:14 the lights went out.
 
-All of them, at once, with no flicker. The lamp, the hall light, the concentrator's green eye. The hum stopped. In the silence it left, the mattress pump wound down to nothing, and then the only sounds in the house were three people breathing slow and one breathing fast, because Asha was awake now, sitting up, saying his name.
+All of them, at once, with no flicker. The lamp, the hall light, the concentrator's green eye. The hum stopped. In the silence it left, the mattress pump wound down to nothing, and then the only sounds in the house were three people breathing slow and one breathing fast, because Lyra was awake now, sitting up, saying his name.
 
 His whole body had gone cold before he'd moved. Then he was standing.
 
 "The grid," he said. "Nobody's at the power station. Something tripped. Stay with her."
 
-"Kai, the oxygen—"
+"Fen, the oxygen—"
 
 "I know. Stay with her. Count."
 
@@ -549,29 +549,29 @@ The garage was pitch black. He found the generator by memory, the yellow one on 
 
 He threw the transfer switch.
 
-The garage light came on. Then the hall. From the dining room the concentrator hummed and clicked, and Asha said, "Okay. Okay. Okay," the way Imani said it.
+The garage light came on. Then the hall. From the dining room the concentrator hummed and clicked, and Lyra said, "Okay. Okay. Okay," the way Juno said it.
 
 He went out the side door into the yard to breathe.
 
-The hill was dark. Every house on the road, dark. Palmyra Gardens, with its two pools and its wall and its generators nobody had started yet, was fourteen black shapes under a sky full of stars.
+The hill was dark. Every house on the road, dark. Quarry Trace, with its water tanks on their stands and the quarry black above it, was nine dark shapes under a sky full of stars.
 
-Below the wall, Morne Bay was gone. The coast road, the churches, the gas station, the ferry dock. All of it black. The whole island, from the harbour to the hills, as dark as the sea.
+Below the hill, Morne Bay was gone. The coast road, the churches, the gas station, the ferry dock. All of it black. The whole island, from the harbour to the hills, as dark as the sea.
 
-Except the Mohan house. Every window lit. Yellow light pouring out of the glass onto the lawn and the wall and the road, and up into the dark, where anyone on the island who looked toward the hill would see it, one bright square in all that black, and know exactly where it was.
+Except the Quill house. Every window lit. Yellow light pouring out of the glass onto the yard and the tank stand and the road, and up into the dark, where anyone on the island who looked toward the hill would see it, one bright square in all that black, and know exactly where it was.
 
-Kai stood in the yard and looked at his house. He had done it again.
+Fen stood in the yard and looked at his house. He had done it again.
 
 
 
 # Chapter 4 — Ice
 
-Tori Achong had not slept, because things had changed, and she never slept when things changed.
+Sol Finch had not slept, because things had changed, and she never slept when things changed.
 
-It was ten to five. The Clarkes' kitchen was grey and full of breathing. The Lall girl was asleep against Lonny with her thumb in her mouth and Lonny was asleep against the cupboards with his head back and his mouth open, the same shape as his father in the La-Z-Boy, which Tori decided not to tell him. Micah was under the table. Asha had come up at three with news that the generator worked and had fallen asleep mid-sentence on the stairs. Danny was in the armchair with the Ramkissoon baby on his chest, and he was not asleep, and he had not moved in four hours.
+It was ten to five. The Vales' kitchen was grey and full of breathing. The Nettle girl was asleep against Lonny with her thumb in her mouth and Lonny was asleep against the cupboards with his head back and his mouth open, the same shape as his father in the La-Z-Boy, which Sol decided not to tell him. Olli was under the table. Lyra had come up at three with news that the generator worked and had fallen asleep mid-sentence on the stairs. Tock was in the armchair with the Pell baby on his chest, and he was not asleep, and he had not moved in four hours.
 
-Imani was at the counter with the notebook. She had been at the counter when Tori shut her eyes at one and she was at the counter now.
+Juno was at the counter with the notebook. She had been at the counter when Sol shut her eyes at one and she was at the counter now.
 
-"You can sit," Tori said.
+"You can sit," Sol said. She had put a slice of bread on the counter an hour ago, by the notebook, and it was still there. "You can also eat."
 
 "I'm fine."
 
@@ -579,11 +579,11 @@ Imani was at the counter with the notebook. She had been at the counter when Tor
 
 "Somebody has to count tins."
 
-There were nine tins of formula on the counter, from four houses, and Imani had counted them three times. Tori had watched her do it. Nine tins. Three babies, counting the Charles baby from the gate last night, who was asleep in the Alis' front room with her brothers because Imani had put them there. Tori didn't know how long nine tins lasted. From Imani's face, not long.
+There were nine tins of formula on the counter, from four houses, and Juno had counted them three times. Sol had watched her do it. Nine tins. Three babies, counting the Lark baby from the bend last night, who was asleep in the Mosses' front room with her brothers because Juno had put them there. Sol didn't know how long nine tins lasted. From Juno's face, not long.
 
-Lonny woke up, looked at the Lall girl on his arm, looked at the ceiling, and reached up onto the counter without getting up. His hand came back with a box of cereal. He ate from it, dry, in handfuls, with his eyes closed.
+Lonny woke up, looked at the Nettle girl on his arm, looked at the ceiling, and reached up onto the counter without getting up. His hand came back with a box of cereal. He ate from it, dry, in handfuls, with his eyes closed.
 
-"That's not formula," Imani said.
+"That's not formula," Juno said.
 
 "I know what formula is."
 
@@ -591,7 +591,7 @@ Lonny woke up, looked at the Lall girl on his arm, looked at the ceiling, and re
 
 "I'm eating near it."
 
-"He's eating *at* it," Danny said, from the chair, not opening his eyes. "He's doing it at the formula."
+"He's eating *at* it," Tock said, from the chair, not opening his eyes. "He's doing it at the formula."
 
 "I'm hungry."
 
@@ -599,19 +599,21 @@ Lonny woke up, looked at the Lall girl on his arm, looked at the ceiling, and re
 
 "I'm hungry *now*. It's a different thing."
 
-The baby made a sound. Everyone stopped. Danny's whole body went still in the way a person goes still when they are holding something they are afraid of, and the baby sighed and went back to sleep, and he let his breath out through his teeth.
+Sol looked at the clock on the stove, which still worked, because it ran on a battery. Ten to five on a Monday. Arsenal and Everton kicked off at four this afternoon, and whoever won it would win it in a stadium full of people who were awake, and nobody on this island would ever know the score. She had been going to watch it on her phone under the desk in last period. It was the first thing she had thought of when she woke up, before her parents, and she was ashamed of that, and she thought about it anyway.
 
-"Does she have a name?" Tori said.
+The baby made a sound. Everyone stopped. Tock's whole body went still in the way a person goes still when they are holding something they are afraid of, and the baby sighed and went back to sleep, and he let his breath out through his teeth.
+
+"Does she have a name?" Sol said.
 
 Silence.
 
-"I've been calling her Ramkissoon," Asha said from the stairs, without lifting her head. "Like a footballer."
+"I've been calling her Pell," Lyra said from the stairs, without lifting her head. "Like a footballer."
 
 "You can't call a baby by her surname."
 
-"She's the only Ramkissoon who's awake. She's earned it."
+"She's the only Pell who's awake. She's earned it."
 
-"Her name is probably something nice," Imani said. "Mrs. Ramkissoon had a whole list. She told Granny. It was something with a V."
+"Her name is probably something nice," Juno said. "Mrs. Pell had a whole list. She told Granny. It was something with a V."
 
 "Vanessa," Lonny said.
 
@@ -621,15 +623,15 @@ Silence.
 
 "Lonny."
 
-"Vee," Danny said, very quietly, and that was that. Nobody argued. The baby was Vee from then on, and it would be weeks before anyone found the birth certificate in a kitchen drawer two doors down and learned that she had been Vashti the whole time, and by then it didn't matter, because she answered to Vee.
+"Vee," Tock said, very quietly, and that was that. Nobody argued. The baby was Vee from then on, and it would be weeks before anyone found the birth certificate in a kitchen drawer two doors down and learned that she had been Velora the whole time, and by then it didn't matter, because she answered to Vee.
 
-Danny shifted her an inch and winced. "Imani. My arm's dead."
+Tock shifted her an inch and winced. "Juno. My arm's dead."
 
-"Give her to Tori."
+"Give her to Sol."
 
 "No."
 
-"Danny."
+"Tock."
 
 "She's fine. She likes it here." He looked down at the top of the baby's head. "I walked past her door."
 
@@ -637,33 +639,33 @@ Danny shifted her an inch and winced. "Imani. My arm's dead."
 
 "I walked *past*."
 
-"Danny," Imani said, "the goat."
+"Tock," Juno said, "the goat."
 
-It was so unexpected that Lonny choked on cereal. Danny opened his eyes. He looked at his sister across the grey kitchen, with a baby on his chest and his arm dead and his grandmother on the floor of the next room, and something in his face gave way.
+It was so unexpected that Lonny choked on cereal. Tock opened his eyes. He looked at his sister across the grey kitchen, with a baby on his chest and his arm dead and his grandmother on the floor of the next room, and something in his face gave way.
 
 "It's not even a goat," he said.
 
-Tori laughed first. She always did. She couldn't help it; it came up out of her like a hiccup, and then Lonny was going, silently, shaking, trying not to wake the Lall girl, and Asha on the stairs said "oh my God" into her arms, and Micah under the table said "what's the goat" for the hundredth time in his life and nobody told him. Imani didn't laugh. She put the pen down and pressed the heels of her hands into her eyes and said, "I hate all of you," which was the opposite of what she meant.
+Sol laughed first. She always did. She couldn't help it; it came up out of her like a hiccup, and then Lonny was going, silently, shaking, trying not to wake the Nettle girl, and Lyra on the stairs said "oh my God" into her arms, and Olli under the table said "what's the goat" for the hundredth time in his life and nobody told him. Juno didn't laugh. She put the pen down and pressed the heels of her hands into her eyes and said, "I hate all of you," which was the opposite of what she meant.
 
-Tori wiped her face. Her hands were cold. She had noticed it at one and again at three and she noticed it now, and she rubbed them together under the table, and they didn't warm up.
+Sol wiped her face. Her hands were cold. She had noticed it at one and again at three and she noticed it now, and she rubbed them together under the table, and they didn't warm up.
 
 ---
 
-They went out the gate at first light, Tori and Lonny, because Danny wouldn't put the baby down and Kai was on the roof and Imani was Imani.
+They went down past the bend at first light, Sol and Lonny, because Tock wouldn't put the baby down and Fen was on the roof and Juno was Juno.
 
-"Twelve houses," Imani said at the gate, with the notebook. "You knock. If nobody answers you go in. Adults on their side, something under the head, window open. Kids come back with you if they want to. Babies come back whether they want to or not. You don't go past the junction. You're back by eight."
+"Twelve houses," Juno said at the bend, with the notebook. "You knock. If nobody answers you go in. Adults on their side, something under the head, window open. Kids come back with you if they want to. Babies come back whether they want to or not. You don't go past the junction. You're back by eight."
 
 "Yes, Mummy," Lonny said.
 
 "Lonny."
 
-"Yes, Imani."
+"Yes, Juno."
 
-Nia was in the booth. Her father was on the floor of it, on his side, with a cushion under his head, and she sat in his chair with her feet on the rung and watched them through the glass the way she had watched everyone through the glass her whole life. She raised the arm without being asked. The corbeaux on the wall shifted and settled.
+Kit was on the gallery of the flat at the bend. Her father was on a mattress she had dragged out there into the shade, on his side, with a cushion under his head, and she sat beside him with her knees up and watched them go past the way she had watched everyone go past since March. She lifted a hand without being asked. The corbeaux on the taxi roof shifted and settled.
 
-Outside the gate was the road. Tori had been on it a thousand times in the back of a car. She had never once walked it.
+Below the bend was the road. Sol had been on it a thousand times in the back of a car. She had never once walked it.
 
-Twelve houses, smaller than the ones inside, closer together, with yards instead of lawns and dogs instead of pools. The dogs were quiet. That was the first thing. Every yard on the road had a dog, and every dog was lying by its gate with its head on its paws, watching them pass, and none of them barked.
+Twelve houses, older than the ones on the Trace and closer together, some concrete, some board, with a dog in every yard. The dogs were quiet. That was the first thing. Every yard on the road had a dog, and every dog was lying by its gate with its head on its paws, watching them pass, and none of them barked.
 
 "They know," Lonny said.
 
@@ -671,11 +673,11 @@ Twelve houses, smaller than the ones inside, closer together, with yards instead
 
 "I don't know. Something."
 
-Miss Pauline's house was first. The door was open. The bed was stripped. There was a note on the kitchen table in a child's handwriting, *gone by the hospital with granny, Devon*, and a glass of water next to it with a dead fly in it. Tori stood in the kitchen and did the sum. The hospital didn't answer. Devon was nine.
+Miss Orla's house was first. The door was open. The bed was stripped. There was a note on the kitchen table in a child's handwriting, *gone by the hospital with granny, Tam*, and a glass of water next to it with a dead fly in it. Sol stood in the kitchen and did the sum. The hospital didn't answer. Tam was nine.
 
 "She's not here," Lonny said from the bedroom. "He took her. Somehow. He must have, he's, how does a nine-year-old—"
 
-"The wheelbarrow's gone," Tori said. "From the yard. There's a track."
+"The wheelbarrow's gone," Sol said. "From the yard. There's a track."
 
 They stood in the doorway and looked at the track in the dust, a wheel and two small feet, going down the road toward town.
 
@@ -687,11 +689,21 @@ They stood in the doorway and looked at the track in the dust, a wheel and two s
 
 He said it like it was good news and bad news at the same time, and it was.
 
-The Charles house was empty because the Charles kids were in the Alis' front room with their baby. The next two were empty because the people in them had been at church in town on Sunday and had never come home, and Tori didn't want to think about where they were asleep. The fifth house had a man in the bath. Lonny lifted him out and laid him on the bathroom floor and put a towel under his head and Tori ran the tap to make sure the water still ran, and it did, and she filled every pot in the kitchen without discussing it.
+The Lark house was empty because the Lark kids were in the Mosses' front room with their baby. The next two were empty because the people in them had been at church in town on Sunday and had never come home, and Sol didn't want to think about where they were asleep. Her own were on the couch at number five, up the Trace, with the cricket still on. She had sat with them before she came to Juno's, an hour, her mother's hand in both of hers, and told her mother what she was going to do, because her mother liked a plan and liked it said out loud. Her mother ran the ice plant with a clipboard and a voice that made grown fishermen say yes ma'am, and had never once in sixteen years let Sol leave the house without knowing where she was going and when she'd be back. Strict, people said. Sol had never understood what they meant by it as a complaint. The fifth house had a man in the bath. Lonny lifted him out and laid him on the bathroom floor and put a towel under his head and Sol ran the tap to make sure the water still ran, and it did, and she filled every pot in the kitchen without discussing it, because that was what her mother would have done, and would have done an hour ago.
 
-The sixth house was the one Lonny had been walking toward since the gate.
+The water came out of the tap the way it always did, cool on the skin, the kind of cool you stopped noticing before you were old enough to reach the sink.
 
-He didn't knock. He stood on the step with his hands at his sides and didn't knock, and Tori understood, because she had a door like that too, in town, and had never knocked on it.
+She held the first pot under it. By the time it was full, the water against her fingers had gone colder than tap-cool. Fridge-cold, colder than anything that had ever come out of a pipe on this island. It ran over her hands and her hands ached with it, and when she lifted the pot off the counter its sides were wet on the outside, sweating, the way a glass sweats. She stood with the pot against her chest and looked at it.
+
+"Sol," Lonny said from the hall. "Pots."
+
+"Coming."
+
+She didn't say anything about it. She carried the pots out and the water in them was back to ordinary by the time they reached the road, and she told herself it had been the pipes.
+
+The sixth house was the one Lonny had been walking toward since the bend.
+
+He didn't knock. He stood on the step with his hands at his sides and didn't knock, and Sol understood, because she had a door like that too, in town, and had never knocked on it.
 
 "Lonny."
 
@@ -699,7 +711,7 @@ He didn't knock. He stood on the step with his hands at his sides and didn't kno
 
 The door opened before he got one.
 
-Janelle was seventeen, and short, and had been crying, and had stopped, and was holding a five-year-old boy on her hip who was too big to be held and was being held anyway. She looked at Lonny. She looked past him at Tori, and then at the road, and then back at him.
+Wren was seventeen, and short, and had been crying, and had stopped, and was holding a five-year-old boy on her hip who was too big to be held and was being held anyway. She looked at Lonny. She looked past him at Sol, and then at the road, and then back at him.
 
 "Mummy's in the bed," she said. "I turned her. I put a towel. I didn't know what else." Her voice went up and she brought it back down. "You came."
 
@@ -709,129 +721,777 @@ Janelle was seventeen, and short, and had been crying, and had stopped, and was 
 
 "I came."
 
-She put her forehead on his chest, with the boy between them, and Lonny put one hand on the back of her head and the other on the boy's back and stood there on the step, and Tori looked at the road. The dogs were watching. Somewhere down toward the junction a door banged, and a boy's voice shouted something, and another one laughed.
+She put her forehead on his chest, with the boy between them, and Lonny put one hand on the back of her head and the other on the boy's back and stood there on the step, and Sol looked at the road. The dogs were watching. Somewhere down toward the junction a door banged, and a boy's voice shouted something, and another one laughed.
 
-"Can we come up," Janelle said into his shirt. "To the compound. Me and Jaden. Can we."
+"Can we come up," Wren said into his shirt. "Up the Trace. Me and Pip. Can we."
 
 "Yeah," Lonny said. "Of course."
 
-Tori didn't say anything. It wasn't hers to say. It wasn't his either, and he knew it, and he'd said it anyway, and she filed that away with the cold in her hands and the dead fly in Miss Pauline's glass as things that were going to matter later.
+Sol didn't say anything. It wasn't hers to say. It wasn't his either, and he knew it, and he'd said it anyway, and she filed that away with the cold in her hands and the dead fly in Miss Orla's glass as things that were going to matter later.
 
 ---
 
-They were back by eight with Janelle and her brother and a man's worth of filled pots and no babies, and the first thing Imani said was, "Vee has a fever."
+They were back by eight with Wren and her brother and a man's worth of filled pots and no babies, and the first thing Juno said was, "Vee has a fever."
 
-She said it at the gate. She had come down to meet them. The notebook was under her arm and her glasses were pushed up into her hair and she had the face from the kitchen floor, the calm one, with the eyes that weren't.
+She said it at the bend. She had come down to meet them. The notebook was under her arm and her glasses were pushed up into her hair and she had her steadiest face on, which on Juno only ever meant something was badly wrong.
 
 "How high?"
 
-"I don't have a thermometer that works. She's hot. She's not drinking." She looked at Janelle and the boy and did not ask who they were, because she knew, and did not say anything about it, because that was for later. "Lonny, the pots go to the Alis'. Tori, come with me."
+"I don't have a thermometer that works. She's hot. She's not drinking." She looked at Wren and the boy and did not ask who they were, because she knew, and did not say anything about it, because that was for later. "Lonny, the pots go to the Mosses'. Sol, come with me."
 
-The Ramkissoon baby was on the Clarkes' couch on a towel with Danny on the floor beside her, and she was red, and she was breathing fast, and she was not crying, which was worse than crying. Danny looked up at Imani with a face Tori had never seen on him.
+The Pell baby was on the Vales' couch on a towel with Tock on the floor beside her, and she was red, and she was breathing fast, and she was not crying, which was worse than crying. Tock looked up at Juno with a face Sol had never seen on him.
 
 "Fix it."
 
 "I'm trying."
 
-"Fix it, Imani."
+"Fix it, Juno."
 
-"I need to get her temperature down and I don't have anything cold." Imani said it to the room. "The fridge is dead. The generator's at the Mohans'. Kai says it'll run a fridge but it's running the oxygen and I'm not asking Asha to choose. I need cold water. The pool's warm. The tanks are warm. Everything on this island is warm."
+"I need to get her temperature down and I don't have anything cold." Juno said it to the room. "The fridge is dead. The generator's at the Quills'. Fen says it'll run a fridge but it's running the oxygen and I'm not asking Lyra to choose. I need cold water. Proper cold. The tap's only cool, the tanks are only cool, and cool isn't going to touch a fever like this."
 
-Tori looked at her hands.
+Sol looked at her hands.
 
-She didn't decide anything. Later she would try to remember deciding and there was nothing there. She just went out the back door to the pool and came back with a bucket of water, and put it down on the kitchen floor, and knelt beside it, and put her hands in.
+The pot. The tap in the fifth house, and the water that went cold in her hands, and the sides sweating against her chest.
 
-"Tori," Imani said.
+She didn't decide anything. Later she would try to remember deciding and there was nothing there, only the pot, and a question. She just went out the back door to the tank stand and came back with a bucket of water, and put it down on the kitchen floor, and knelt beside it, and put her hands in.
+
+"Sol," Juno said.
 
 "Wait."
 
-The water was warm. It had been warm all night, warm all year, the way water was here. She closed her eyes and thought about the cold room at the plant, the one at the back, where the ice came out in blocks and the air hurt your teeth and nobody talked because talking let the cold in. The room she went to when the world was too loud. She thought about the door shutting and the sound going away.
+The water was cool, the way tap water always was here, and nothing more. She closed her eyes and thought about the cold room at the plant, the one at the back, where the ice came out in blocks and the air hurt your teeth and nobody talked because talking let the cold in. The room she went to when the world was too loud. She thought about the door shutting and the sound going away.
 
 Her hands ached. Then they didn't.
 
-"Oh," Imani said, very quietly.
+"Oh," Juno said, very quietly.
 
-Tori opened her eyes.
+Sol opened her eyes.
 
 The water was going still. Not freezing, not yet, just going still, from the edges in, the way a pond goes still when the wind drops. Then the edges went white. A thin skin of frost climbed the inside of the bucket in a ring and the ring closed inward, and the water underneath it turned cloudy and then clear and then hard, and there was a sound, a small ticking crack, as the ice found the shape of the bucket and settled into it.
 
-Her breath came out white. In the Clarkes' kitchen, in November, at eight in the morning, with the sun already hot on the window, Tori Achong breathed and the breath hung in the air in front of her like it was Christmas somewhere else.
+Her breath came out white. In the Vales' kitchen, in November, at eight in the morning, with the sun already hot on the window, Sol Finch breathed and the breath hung in the air in front of her like it was Christmas somewhere else.
 
 Nobody moved.
 
-Then Imani did. She had a cloth in her hand before Tori had pulled her hands out of the bucket. She cracked the ice with the back of a spoon, wrapped the pieces, and was on the couch with the cloth on the baby's neck and the baby's wrists in four seconds flat, talking to her the whole time in the bored voice, *there you go, there you go, Vee, that's cold, I know, I know,* and the baby cried, finally, the thin furious sound from the night before, and Danny put his face in his hands.
+Then Juno did. She had a cloth in her hand before Sol had pulled her hands out of the bucket. She cracked the ice with the back of a spoon, wrapped the pieces, and was on the couch with the cloth on the baby's neck and the baby's wrists in four seconds flat, talking to her the whole time in the bored voice, *there you go, there you go, Vee, that's cold, I know, I know,* and the baby cried, finally, the thin furious sound from the night before, and Tock put his face in his hands.
 
-Tori sat back on the floor.
+Sol sat back on the floor.
 
-Her hands were burning. Not cold. Burning, the way skin burns when it comes in from snow, which she had never seen, except on television. She was shaking. She was thirstier than she had ever been in her life. Lonny put a glass of water in her hand without a word and she drank it and he filled it and she drank that too, and the third one, and her teeth were chattering in a kitchen where the air was thirty degrees.
+Her hands were burning, the way skin burns when it comes in from snow, which she had never seen, except on television. She was shaking. She was thirstier than she had ever been in her life. Lonny put a glass of water in her hand without a word and she drank it and he filled it and she drank that too, and the third one, and her teeth were chattering in a kitchen where the air was thirty degrees.
 
-"How long have you been able to do that?" Imani said, from the couch, not looking up.
+"How long have you been able to do that?" Juno said, from the couch, not looking up.
 
 "I don't know."
 
-"Tori."
+"Sol."
 
-"Last night. Micah's glass. I didn't do it. I didn't know I did it." The words came out between the chattering. "I didn't know I *could* do it. I was just thinking about the plant."
+"Last night. Olli's glass. I didn't do it. I didn't know I did it." The words came out between the chattering. "I didn't know I *could* do it. I was just thinking about the plant."
 
-Imani looked at her then. A long look, the adding-up look, and Tori thought: she's going to ask what else I can do. And she didn't know, and she was afraid of the answer, and she was afraid of the question more.
+Juno looked at her then. A long look, the adding-up look, and Sol thought: she's going to ask what else I can do. And she didn't know, and she was afraid of the answer, and she was afraid of the question more.
 
-Imani didn't ask it.
+Juno didn't ask it. Of course she didn't. Eleven years, since they were five and Juno had walked across the Finches' yard and asked if Sol wanted to see a frog, and Juno had never once asked Sol a question before Sol was ready for it, had waited out every silence, had sat on the end of Sol's bed through the whole of Form Two without saying a word about anything, and Sol had loved her for it then and loved her for it now, with her teeth chattering on a kitchen floor.
 
-"Drink," she said. "Keep drinking. Lonny, watch her. Danny, she's cooling, look at her, she's cooling." And then, so low it was almost to herself: "Okay. Okay. That's one thing."
+"Drink," she said. "Keep drinking. Lonny, watch her. Tock, she's cooling, look at her, she's cooling." And then, so low it was almost to herself: "Okay. Okay. That's one thing."
 
-The baby's crying wound down to hiccups. Danny's shoulders came down from around his ears. Lonny filled the glass a fourth time. On the floor, the bucket sat with its ring of frost going grey as the kitchen warmed it, and a thread of cold air moved across the tiles and touched Tori's ankle and was gone.
+The baby's crying wound down to hiccups. Tock's shoulders came down from around his ears. Lonny filled the glass a fourth time. On the floor, the bucket sat with its ring of frost going grey as the kitchen warmed it, and a thread of cold air moved across the tiles and touched Sol's ankle and was gone.
 
-From the gate, Nia's voice, carrying up the hill the way it never had before, because there was no other sound on the island to cover it.
+From the bend, Kit's voice, carrying up the hill the way it never had before, because there was no other sound on the island to cover it.
 
-"Imani! There's somebody at the gate. He's got a wheelbarrow."
+"Juno! There's somebody at the bend. He's got a wheelbarrow."
 
-Lonny was at the window first. Tori saw his face change before she saw what he was looking at.
+Lonny was at the window first. Sol saw his face change before she saw what he was looking at.
 
-A boy of nine, at the bottom of the hill, with a wheelbarrow, and his grandmother in it, and the hospital eleven kilometres behind him, where nobody had answered the door.
+A boy of nine, at the bottom of the hill, with a wheelbarrow, and his grandmother in it.
+
+
+
+# Chapter 5 — Spoon
+
+Juno tested them with a teaspoon.
+
+It was the first night after the wheelbarrow, and the Mosses' front room had stopped being a front room. Lonny had carried the sleepers in all afternoon, one at a time, up the drive and through the double doors, and laid them on mattresses dragged from every bedroom on the road. Dr. Moss lay beside his own bookcase. Mrs. Moss lay under the window, where her verandah chair would have been if anyone had thought to bring it in. The Pells, the Nettles, Sol's mother and father, the boy's grandmother from the wheelbarrow, still in the church dress she'd fallen asleep in. Fifteen of them, in rows, on the floor of a house where Juno had once been made to take her shoes off at the door.
+
+Not everyone. Lyra had said no in a voice nobody argued with, so Mrs. Quill stayed in her hospital bed at number six with the oxygen hissing beside her; Mr. Quill and Miss Tilda came up the hill with the rest. Kit hadn't said anything. She had just kept her father on the gallery of the flat at the bend, and Juno had been too tired to walk down and ask why.
+
+Fifteen. Juno had a pot of boiled water gone cool, a teaspoon, a towel over her shoulder, and Dr. Moss's reading lamp plugged into nothing, because the power had died with the grid and the generator was at the Quills'. Lonny held a torch. She went down the rows on her knees.
+
+The book said: turn the head to the side. Tip the chin. A little water into the pocket of the cheek, never toward the back of the throat. Wait. Watch the throat. If it moves, they swallowed. If they cough, stop.
+
+Most of them swallowed. She hadn't expected that. The throat rose and fell on its own, the body doing a job nobody had asked it to do, and every time it happened something in her chest let go a little. She didn't stop for it. There were fifteen.
+
+Seven coughed.
+
+Mrs. Pell coughed, and the water came back out of the corner of her mouth, and Juno sat her up against her own knees and rubbed her back until the breathing settled to eleven. Mr. Finch coughed. The grandmother from the wheelbarrow coughed so hard her whole body jerked, and Juno held her and said *sorry, sorry, sorry* to a woman whose name she didn't know.
+
+Granny coughed on the first spoon and on the second. It was the same dry, hard bark Juno had heard through the bedroom wall every morning of her life, and for one second, with the old woman's weight against her shoulder, it was any morning and Granny was about to tell her to get up.
+
+Then the breathing came back to twelve, and it wasn't any morning.
+
+Mr. Hale was last. Ninety, small, his skin loose over the bones of his hands. On the first spoon he coughed. On the second his throat moved, and then he coughed, weaker, and some of it came back.
+
+Seven.
+
+She sat back on her heels. Lonny moved the torch off the old man's face, because the light had been on it too long and that felt rude, even now.
+
+The carton was on Dr. Moss's dining table where she'd left it. Six bags.
+
+"You're going to put them in the ones that coughed," Lonny said.
+
+"Under the skin. In the leg. It goes in slow, over hours, and the body takes it up. You don't have to swallow." She heard herself explaining it the way the book explained it, flat and in order. "It's for people who can't drink."
+
+"And seven can't."
+
+"Seven can't."
+
+Lonny looked at the table, then at the rows. He had eaten four tins of corned beef that afternoon and carried fifteen adults, and his arms hung at his sides like they belonged to someone else.
+
+"And then?"
+
+She did the arithmetic out loud, because it kept her hands still. Mrs. Pell was thirty-four and the baby needed her. Mrs. Nettle had two kids in the next room who had stopped crying an hour ago and were worse now that they had. Mr. Finch was forty and strong, and Sol had not asked for anything, which was a reason too, and if anyone woke up, he was the kind who would. The boy had pushed his grandmother two hours up the hill in a wheelbarrow, and Juno could not walk out to the porch where he was sleeping and tell him no. Mr. Pell was the fifth, because Vee was going to need both of them. That left one bag.
+
+Granny was seventy-four. Mr. Hale was ninety. Granny had coughed twice. Mr. Hale had coughed once, and swallowed some.
+
+By the book, he was the better swallower. By the book, the bag went to the one who couldn't drink. It was a good rule. She had read it at fourteen in a library and it was still a good rule, and it gave her the answer she wanted, and kneeling on Dr. Moss's floor she couldn't tell which of those things she was obeying.
+
+"Granny," she said.
+
+Lonny nodded. He didn't ask anything else. She wished he would.
+
+She did Mrs. Pell first, because her hands needed practice on somebody who wasn't Granny. Pinch the skin of the thigh into a tent. Needle in at an angle, shallow, the bevel up. Tape it. The tubing to the bag, the bag on a wire coat hanger hooked over the curtain rail. Open the little wheel until it dripped, slow, one drop and then another. It took her eleven minutes the first time. By Granny it took four.
+
+Granny's skin was cool under her fingers. Juno taped the needle down and smoothed the tape twice more than it needed.
+
+Then she wrote in the exercise book, under the six names, a line. Under the line: *Mr. Hale. Spoon every hour. Me.*
+
+She put herself on him because she was the one who had decided. At two in the morning, by torchlight, she turned his head and tipped his chin and gave him a teaspoon of water, and his throat moved, and she said, "Good. That's good," in the bored voice. She had never used it on anyone older than Olli.
+
+Across the room, the bag over Granny dripped.
+
+---
+
+By the fourth day the house had a smell, and nobody talked about it.
+
+It got into everything. It was urine, mostly, sharp enough to make your eyes water when you came in from outside, and sweat, and under both of those something sweeter that Juno knew from the ward where Granny had her gallbladder out and had hoped never to smell again. Towels went under every sleeper. Towels came out wet. They were rinsed in buckets from the green rainwater pond on the quarry floor and hung along the quarry's chain-link fence, forty of them in a row, and nobody looked at the pond any more if they could help it. Tock had tied a T-shirt over his nose and mouth on the first morning, and nobody had laughed, which was how Juno knew how bad it was.
+
+She had a whiteboard from Ida's bedroom propped on the dining table, with a grid on it in green marker. Every sleeper, every two hours, turned: left side, back, right side, back. You set the alarm on the kitchen clock and when it went off you went down the rows in pairs, one at the shoulders and one at the hips, and you rolled. If you didn't, the skin where they lay went red, then purple, then opened. The book had pictures. Juno had made everyone look at the pictures.
+
+Between turns, the spoon. A person to every two sleepers, round the clock, a teaspoon at a time into the cheek. It took an hour to get a cup into somebody. They needed eight cups a day in this heat, and they weren't getting four. There weren't enough hands. There would never be enough hands.
+
+The Nettle girl was twelve and the best of them. She was patient in a way nobody had known she was, and she talked to every sleeper while she worked, telling them what was for breakfast and what the dog was doing. She did her own mother last, every round, because she wanted to save the best for last. Ida Moss moved through the room at night with a plastic basin and a cloth and her lips moving. Juno let her. It was Ida's house and Ida's father, and the praying didn't slow anything down.
+
+Olli wanted a job. She gave him eyes.
+
+"Their eyes don't shut all the way," she said. "See? If they dry out, they get damaged. So you wet the cloth, you wipe, gentle, then the tape, like this. Just over the lid."
+
+He did it like it was surgery. He went down a row with his tongue between his teeth, wiping and taping, and when he got to Granny he stopped and looked at her for a while.
+
+"Is Granny going to die?"
+
+"No," Juno said, without looking up. "She's too rude to die. God doesn't want her."
+
+Olli laughed, a real one, surprised out of him, and Ida looked up from across the room, and Juno felt bad for about a second and then didn't.
+
+Granny's bag had run dry on the second day. They all had. Now the six were on syringes, a plastic one with the needle off, a few drops at a time into the cheek, because a syringe was slower than a spoon and slow was the only way they didn't cough. It was the slowest water in the house.
+
+Mr. Hale was getting the most. Juno had seen to that. Four days, every hour she wasn't turning or sleeping, she had sat with him with the teaspoon. She had given him water she should have spent sleeping. She had given him water she should have given Granny.
+
+On the fourth evening she pinched the skin on the back of his hand. It stayed up.
+
+A ridge, standing on its own, slowly sinking. The book had a word for that too. His lips were cracked, though she put Vaseline on them every hour. His eyes had sunk back in his face so far that Olli's tape didn't touch the lids any more. She counted his breathing, and it was eleven, and she wrote it down. She counted his pulse, and it was faster than it had been, and she wrote that down too, and didn't like it.
+
+"He's getting more than any of them," Tock said, behind her. He had the baby on his hip. Vee went everywhere with Tock now; nobody had decided that either. "You're giving him more than anybody."
+
+"I know."
+
+"So why's he worse?"
+
+"Because he's ninety." She capped the Vaseline. "Because a cup every two hours isn't what a body needs. It's what we've got."
+
+Tock looked at the rows. "And the rest?"
+
+She didn't answer, and he didn't ask again. He went to turn row three, because the clock had gone off.
+
+At two in the morning, with the torch propped on a book, she was spooning Mr. Hale when his breathing changed.
+
+It went quick and shallow. Then deeper, deeper, his thin chest rising high under the sheet, then shallower again, tapering off. Then nothing.
+
+She counted. Five seconds. Ten. Fifteen.
+
+At twenty-one he breathed again. Quick and shallow, then deeper, building.
+
+The table in the nursing book had a name for this pattern. It had a line underneath the name, in small type, that she had read at fourteen and never needed to know. She knew it now. She knew it with the spoon in her hand and water on her fingers. She sat beside him and counted the gaps, and they got longer.
+
+---
+
+He died at twelve minutes past five, with the windows going grey.
+
+The gap came and didn't end. She counted to sixty. She put two fingers on the side of his neck where the book said, and waited, and moved them, and waited again. Then she looked at the kitchen clock through the doorway and wrote the time in the exercise book, because in hospitals somebody always wrote down the time, and she couldn't think what else to do with her hands.
+
+*Mr. Hale. 5:12 a.m. Day 5.*
+
+Ida came and knelt on the other side of him and folded her hands. She said a prayer Juno knew. Granny said it every night in the room next to Juno's, through the wall, in exactly that rhythm. Juno knew every word. She couldn't make her mouth do any of them.
+
+It was Tock who said it, out on the porch, with Vee asleep on his shoulder and the sun coming up over the sea.
+
+"We can't keep him in there."
+
+"I know."
+
+"It's going to be thirty-one degrees by ten."
+
+"I know, Tock."
+
+"The cemetery's in town."
+
+"I know."
+
+Lonny was sitting on the porch step. He'd been asleep there, or close to it. He stood up.
+
+"I'll dig him."
+
+Juno looked at him.
+
+"Same name as me," Lonny said. "We're not family. Never were. Everybody on the road used to make the joke." He shrugged, and it came out wrong, too big. "Somebody with the name should do it."
+
+They chose the slope behind number nine, Mr. Hale's own house, under the lime tree at the bottom of his garden where the land fell away toward the sea. Lonny got a pickaxe and a spade from the Finches' garage. The first foot was easy, dark topsoil and roots. Under it the island was clay and stone, packed hard. He swung the pickaxe for three hours with his shirt off and his hands wrapped in a dish towel, and the little kids brought him water in relays and stood at the edge of the hole and watched, because nobody had told them not to.
+
+Halfway down the soil changed. It went darker and cooler, and every spadeful came up threaded with something white and fine, like hair. Lonny knocked it off the blade against his boot without a word and kept digging.
+
+At four feet he hit rock and couldn't go further.
+
+"It's enough," Juno said.
+
+"It's supposed to be six."
+
+"It's enough, Lonny."
+
+They wrapped Mr. Hale in the sheet from his own bed. Olli found an electricity bill on the counter at number nine and came running down the garden holding it up. *Mr. Barnaby Hale.* Ninety years, and the whole road had called him Mr. Hale, and nobody standing at the hole had known his first name until a seven-year-old sounded it out off a bill.
+
+Lonny climbed down into the grave. Tock and Juno lowered the sheet to him, and he took it, and laid the old man on the cool white-threaded floor of the hole as gently as he'd carried every one of them up the drive.
+
+Ida said the prayer again. This time a few of the little ones said it with her.
+
+Nobody knew what to say after that. They stood. Then Tock cleared his throat.
+
+"He used to shout at us," he said. "When the cricket ball went in his yard."
+
+"Every time," Lonny said.
+
+"He gave it back every time, though."
+
+"He kept the good one," Juno said. "The red one. Remember? Form One. He kept it for a year."
+
+Tock laughed. It was a short, shocked sound, and it set off Lonny, and then a couple of the little kids who didn't know why it was funny, and for a few seconds the three of them laughed at the edge of a grave about a cricket ball. Then they stopped, and Lonny climbed out, and picked up the spade.
+
+Juno stayed after.
+
+The others went back to the house, because the clock would go off in forty minutes and row two needed turning. Lonny had filled the hole and stamped the earth down and gone to sit under the tap of the Hales' water tank with his clothes on and let it run over his head. Juno sat under the lime tree with the exercise book on her knees.
+
+She had given him the most water of anyone. Four days of her own hands, every hour she had. It hadn't been enough.
+
+Granny had had one bag, four days ago. Since then she'd had a syringe, a few drops at a time, the slowest water in the house. She had had less than Mr. Hale. All six of them had.
+
+She opened the book to the grid. She did what she always did. She made the numbers do what they did. Cups per day. Days. Age. The skin on the back of a hand that stayed up when you pinched it. The table from the nursing book, which she knew the way she knew her own phone number.
+
+Then she turned to a clean page and wrote the next names, in the order the numbers gave them to her.
+
+The first one was Granny's.
+
+She looked at it for a long time. Then she looked down the slope, past the bend and the road and the junction, to where the coast road curved into Morne Bay. The hospital sat white on the hill above the harbour.
+
+There was a store room in that hospital with more bags in it than Dr. Moss had ever kept in a cupboard. Every nurse on the island knew where it was. Every nurse on the island was asleep.
+
+The hospital was eleven kilometres away, at the bottom of the hill, in a town where people already knew her name.
+
+
+
+# Chapter 6 — Sixteen
+
+Fen Quill had talked to Judge every night for five nights, and every night Judge called at nine.
+
+Not around nine. Nine. Fen had started to believe there was a clock on the deck of the *Lady Marisol* that Judge watched the way Fen watched the generator's fuel gauge, because at the top of the hour the handheld on the roof beside him would click, and hiss, and the voice would come up out of it slow, like somebody walking in from far away.
+
+"Trace. You there?"
+
+On the fifth night Fen was there, because he was always there. He had been on the roof since the funeral. He had watched them carry Mr. Hale down the garden in his own sheet, and watched Lonny climb into the hole, and then he had come up the ladder with the laptop and stayed, because up here there was nobody to look at him and the machines made sense.
+
+The generator ran from seven at night to seven in the morning now. Twelve hours, eighteen litres, enough to keep his mother's oxygen going through the dark and the fridge cold for Juno's antibiotics. In the day he ran the concentrator off a car battery and the inverter from his father's boat, which gave him four hours. For the rest of the day his mother breathed room air, and nothing happened. Her breathing stayed at eleven. The oximeter on her finger stayed at ninety-four. He had noticed that on the third day. He was trying not to think about what it meant.
+
+That afternoon he and Lonny had siphoned Mr. Finch's Pajero, which was old and gave up forty litres without a fight, and Dr. Moss's Corolla, which was new and had a valve in the neck of the tank that stopped the hose. Fen had sucked on the hose anyway, because he hadn't known about the valve, and got a mouthful of petrol that had nothing to do with the car. He had spat in the Mosses' drain for ten minutes. He could still taste it.
+
+Fifty-eight litres in the cans now. Three nights. Then the next car.
+
+He pressed the button. "I'm here."
+
+"Fen from the Trace." Judge always said the whole thing, like a call sign. "How allyuh going up there?"
+
+"Same."
+
+"How's your doctor?"
+
+"Busy."
+
+"Mm." A pause, with the deck creaking under it and a child laughing somewhere far behind. "I hear allyuh dig today."
+
+Fen's hand closed on the radio.
+
+He hadn't told anyone on the channel. Nobody up here had. The grave was behind number nine, on the slope facing the sea, under a lime tree, eleven kilometres from the dock.
+
+"I have a boy here," Judge said, "who could hear a pin drop on that hill. Don't vex. Is just how it is. Who was it?"
+
+"An old man. Ninety."
+
+"Sorry to hear." It sounded like he meant it. It sounded like he meant everything, which was the problem. "We lose three. Two old people and a lady with sugar. We put them in the churchyard by the market. Is a lot of digging for little fellas."
+
+"Yeah."
+
+"Cookie feed two hundred and twelve tonight. Fish broth. Nell count every bowl, she writing it in a book. Eleven boats went out this morning and ten came back. One engine dead, we tow it." He said it plainly, the way Fen would read out a fuel gauge. "My boy's arm, though. You remember the boy's arm."
+
+"I remember."
+
+"Five days. It have a bump in it now that shouldn't be there. I could see it going wrong, Fen. I don't know what I'm looking at but I could see it going wrong." The voice slowed down, the way it had on the first night, when it found something useful. "Ask your doctor what to do. Or ask her to come and look."
+
+Fen looked out at the dark where the town used to be. A few fires burned down there now, tiny, by the harbour. Cookie's drums.
+
+"I'll ask her," he said.
+
+"Thank you, Fen. Keep the channel on."
+
+Hiss.
+
+He went down the ladder and out the front and across the road to the Vales'. The kitchen light was a candle in a jar. Through the window he could see Juno at the table with the exercise book open in front of her and a pen in her hand, not writing. She was sitting very still with her other hand flat on the page.
+
+Fen knew that stillness. He had sat that way himself, last year, at the worst of it, at a desk in his room with the door locked and a screen on that he wasn't watching.
+
+He stood in the road for a minute. Then he walked back to his house without knocking. He told himself he would ask her in the morning. It was the first time he had ever told himself that about Juno.
+
+Halfway up the ladder he stopped and looked down at the hill below the bend, at the dark between the Trace and the harbour, and thought about a boy who could hear a pin drop.
+
+---
+
+On the seventh morning he was on the roof at ten to six, checking the aerial, when he saw the boats.
+
+His father's binoculars were the heavy black ones from the boat, with a cracked strap. Fen had been using them every dawn. From the roof he could see straight down the coast road to the harbour, the warehouses, the fish market roof, and the dock with the *Lady Marisol* at the end of it.
+
+The boats were going out. Twelve, in a line, small pirogues and two bigger ones, each with a white wake behind it, spreading. A kid on the end of the dock waved them out one by one with something red. Smoke went up from four oil drums in the market square. Tiny figures crossed the square with buckets. It looked like a town. It was the only thing on the island that did.
+
+He swung the binoculars out past the boats, to see how far they went.
+
+There was a ship on the horizon.
+
+Grey. Low. Too long and too flat for a tanker, too angular for a cruise ship, with a mast full of shapes on top and something at the front that he didn't want to name yet. It wasn't moving. It sat exactly on the line between the sea and the sky, and the morning light came up behind it.
+
+He put the binoculars down and opened the laptop. The dongle could pick up AIS, the signal every big ship sent out with its name and speed and where it was going. He had spent whole nights watching cargo ships crawl across the screen toward Panama. He pulled up the map.
+
+Nothing. The fishing boats showed up, a few of them, the ones with transponders. Out on the horizon, where the grey ship sat, the map was empty.
+
+A ship with no name.
+
+He picked up the handheld and turned it to channel sixteen, the one every boat kept open, the one that had been hiss for seven days.
+
+It wasn't hiss.
+
+"—*sécurité, sécurité, sécurité*. All stations, all stations, all stations. This is a naval vessel enforcing a public health quarantine of this island and its territorial waters. All vessels are to remain in port. No vessel is to approach within twelve nautical miles of this ship. Vessels that fail to comply will be stopped. Remain ashore. Remain indoors where possible. Assistance is being coordinated. This message will repeat."
+
+A pause. A click. A man's voice, flat, with an accent from somewhere a long way from here.
+
+"*Sécurité, sécurité, sécurité*. All stations—"
+
+He listened to it three times. On the third he typed it into the laptop word for word, because his hands needed something to do.
+
+*Will be stopped.* Not *helped*. Not *rescued*. *Stopped*.
+
+*Assistance is being coordinated.* For who? It didn't say children. It didn't say who was on the island at all. It talked to the boats, as if the boats were the problem.
+
+Below him, somebody screamed.
+
+Bix, up on the Hales' tank stand, pointing at the sea. "*Ship!* There's a *ship*!"
+
+In about a minute the road was full. Kids came out of every house, still in what they'd slept in, the Nettle girl jumping up and down with her brother, Olli on somebody's shoulders, little ones who didn't know what they were cheering for cheering anyway. On the Vales' balcony Sol stood with both hands over her mouth. Somebody started banging a pot.
+
+"Fen?" Lyra, from the bottom of the ladder, with her face turned up. "Fen, is it for us?"
+
+"It's the navy," he said.
+
+She was gone before he could say anything else. He heard her inside telling their mother. He hadn't said anything else.
+
+The ladder creaked. It was Juno.
+
+She came up onto the roof in the same T-shirt she'd worn to the grave, two days ago. Her glasses were smudged and she didn't push them up. She stood beside his chair and looked at the ship for a long time without asking for the binoculars.
+
+"Did they say anything?" she said.
+
+He didn't answer at once.
+
+"On the radio. You've been listening. You're always listening." She turned and looked at him. "Did they say anything?"
+
+The handheld was in his lap. The loop was still running, low, *all stations, all stations*. He put his thumb on the volume knob and turned it down until there was nothing.
+
+"They're not talking to us," he said.
+
+It was true. He hated it for being true.
+
+"But they've seen us."
+
+"They've seen the island."
+
+Juno looked back at the ship. Her hand at her side opened and closed.
+
+"Okay," she said. "Okay. That's okay." She breathed out. "If they've seen us, they'll send something. Even one boat. One doctor. Bags." Her voice caught on the last word and kept going. "They'd have bags on a ship like that. They'd have everything."
+
+Fen said nothing. He had learned on the first night what it cost him to say the wrong thing on the radio. He was learning now what it cost not to say the right thing off it.
+
+She put her hand on his shoulder, briefly, the way she did, and went back down the ladder. A minute later he heard her voice in the road, louder than he had heard it in a week.
+
+"They've seen us. They know we're here. Somebody's coming."
+
+The road cheered. Somebody banged the pot again.
+
+Fen sat on the roof with the handheld in his lap and the volume at zero.
+
+---
+
+The ship didn't move all day.
+
+The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Fen carried the paint tins. He held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
+
+At nine the handheld clicked.
+
+"Trace."
+
+"I'm here."
+
+"You hear the ship," Judge said.
+
+It wasn't a question. Fen didn't make it into one.
+
+"Every boat with a radio hear it, Fen. Every fisherman's son on this island know what *will be stopped* mean. It mean what it say." The deck creaked. "I stand up on a fish box in the market this morning and I tell them. Two hundred and thirty now. I tell them straight. Nobody coming. The ship is not for us. The ship is to keep us here."
+
+Fen looked up at the quarry. In the starlight the sheet was a pale square, the letters black on it.
+
+"You tell yours?" Judge said.
+
+The silence went on too long. Fen knew it was too long while it was happening.
+
+"No," Judge said. "I didn't think so. The doctor girl don't know."
+
+"You don't know that."
+
+"I know it." The voice was gentle. "Because if she knew, she would have come down here already. When nobody coming, you go where the work is. Is what I would do. Is what she would do. I read about her in the paper."
+
+Fen didn't say anything.
+
+"Eight days tomorrow. The boy's arm setting crooked. Every day it set a little more and every day it's harder to fix." The slowness came into the voice. "So ask her tonight, Fen. Not *I'll ask her*. Ask her. Or I send somebody up the hill to ask her nice. I have fellas who are good at asking nice."
+
+"I'll ask her."
+
+"Good man. Keep the channel on."
+
+Hiss.
+
+Fen put the handheld down on the roof beside him and sat with his elbows on his knees.
+
+Two things now. The boy's arm, which was Judge's, and which Judge would come up the hill for if Fen didn't carry it down to the Vales' kitchen tonight. And the ship, which was his. Which nobody had asked him to keep and he had kept anyway.
+
+If he told her about the arm, she would go down the hill tomorrow into Judge's town, because she was Juno and a boy's arm was setting wrong and she was the only person on the island who knew how to set it. He couldn't stop that. He wasn't sure he should.
+
+If he told her about the ship, he didn't know what she would do.
+
+He thought about her hand flat on the page of the exercise book, and how still she had been. He thought about her voice in the road this morning, louder than it had been all week, because she had something to hold onto. *Somebody's coming.* It wasn't true. It was holding her up.
+
+He knew about being held up by things that weren't true yet. He knew about one more day. At the worst of it, in this house, that had been the whole plan, one more day and then see, and one more day had been enough, more than once, until it wasn't needed any more.
+
+The arm, tonight, at the table, in front of all of them. Six of them. That was the rule; let the six decide.
+
+The ship, tomorrow. One more day.
+
+He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, the way it had been every night since the first. He had stopped seeing it.
+
+There was a sound over his head.
+
+He knew the generator's sound, every note of it, and this wasn't the generator. It was higher, thinner, a whine like a mosquito that didn't come and go. He looked up.
+
+Thirty feet above the roof, black against the stars, was a small cross with a light on its belly. Red. It didn't blink. It hung there without moving, the way nothing that flew should be able to, perfectly level, perfectly still.
+
+A drone. Pointing down.
+
+Fen stood on his roof with the radio in his hand in the only lit house on a black island and looked up at it. It looked back.
+
+It held there for a long time. Then it tilted, unhurried, and slid away over the bend and down the hill and out over the dark water, toward the ship on the horizon.
+
+
+
+# Chapter 7 — Heat
+
+Tock Vale had been running a fever for three days, and he hadn't told anybody, because if Juno found out she would take the baby away from him.
+
+He was hot all the time, without any of the shivering that came with being sick. He was hot the way the road was hot at two in the afternoon, from the inside out, and it didn't break. He woke up in a sheet so wet he had to hang it on the balcony rail. He drank water until his stomach sloshed and he was still thirsty. When he held Vee against his chest she went pink and sweaty in five minutes and squirmed off him like he was a radiator, and he told himself it was the weather. It was November. It was thirty-one degrees. Everybody was hot.
+
+On the sixth morning, the day after the funeral, he was in Granny's kitchen boiling water.
+
+That was his job. Nobody had given it to him; he had just started doing it on the second day and kept going. The ward at the Mosses' went through forty litres of water a day, a teaspoon at a time, and every drop of it had to be boiled and cooled first, because Juno said the tanks were fine for washing and not for putting in a sleeper's mouth. Then there were the bottles. Vee, and the Larks' little boy from the road, and the girl with the baby who had come up to the bend on the first night. Three babies, four bottles each, every day. Every bottle boiled. Every teat boiled. Formula measured with the little scoop, levelled off with a knife, the way the tin said.
+
+He had a system. Big pot on the back burner for the ward water, small pot on the front for the bottles. Cool the ward water in the buckets on the floor. Fill the jugs. Bix runs the jugs down to the Mosses' on Olli's old wagon. Repeat.
+
+Bix was eleven and hadn't left his side in five days. He was in the living room now with Vee on a towel on the floor, singing her something off the radio, badly, which she liked.
+
+The big pot was halfway to boiling when the flame went yellow.
+
+Tock looked at it. The ring of blue under the pot shrank, flickered orange at the edges, and went out with a small pop. The smell of gas hung in the air for a second and was gone.
+
+"No," he said. "No, no, no."
+
+The cylinder under the counter was empty. He knew it before he tipped it; it was too light, it rocked like a drum. There were thirteen more cylinders in thirteen more kitchens on the road, and Juno had a list of them in the exercise book, one a day, and the next one on the list was the Pells'. He went two doors down and came back with it on his shoulder and got down on the kitchen floor to change it.
+
+The regulator wouldn't seat.
+
+He had watched Granny do this a hundred times. You pushed the regulator down onto the valve and turned the collar until it clicked. He pushed. He turned. It didn't click. He took it off and put it back on and it still didn't click, and the new cylinder hissed at him through the gap, and he pulled it off before the kitchen filled with gas.
+
+In the living room, Vee started to cry.
+
+The real cry this time, the thin furious one, building. Bix's singing stopped.
+
+"Tock, she won't stop."
+
+"Pick her up."
+
+"I did, she won't—"
+
+"*Pick her up*, Bix."
+
+He tried the regulator again. His hands were slippery with sweat and the collar slid under his fingers. The big pot sat on the dead burner with the water in it gone still and barely warm, and the jugs at the Mosses' would be empty by ten, and Juno would be standing in that room with the teaspoon and nothing to put in it. Vee screamed. Bix said his name again. The regulator wouldn't click.
+
+He stood up and grabbed the pot with both hands, to get it off the stove, to do something, and the heat went out of him.
+
+It went down his arms. He felt it go, the way you feel a cold drink go down, except backwards and the wrong temperature. It went into his palms and out of them, and the steel of the pot ticked under his hands, sharp, three times. The water inside shivered. Then it rolled. Big lazy bubbles came up from the bottom, then fast ones, then the whole pot was at a boil, spitting at his wrists, steam coming up into his face.
+
+He let go.
+
+The pot rocked on the stove. It went on boiling for a few seconds by itself and then it calmed down and sat there, steaming.
+
+The black plastic handles had melted. Both of them. There were dents in them shaped like his fingers.
+
+He looked at his hands. They were red across the palms, like he'd been clapping too hard. They didn't hurt. That was the worst part. They didn't hurt at all.
+
+He put one hand flat on the counter to hold himself up.
+
+When he lifted it, there was a mark.
+
+A handprint, on Granny's wooden counter, in black. Every finger. The lines of the palm, even. Smoke came up off it in a thin thread and the kitchen smelled like the time the toast caught.
+
+In the living room, Vee was still screaming. He had been about to go in there and pick her up.
+
+"Bix," he said, and his voice came out strange. "Keep her. Keep her in there. Don't bring her in here."
+
+"What's burning?"
+
+"*Keep her in there.*"
+
+He stood in the kitchen with his hands held out in front of him, away from everything, away from his own body, and didn't move.
+
+---
+
+He scrubbed the counter for an hour.
+
+Granny's scouring powder, the green tin under the sink. Granny's brush. Granny's counter, which she had wiped down every single night of his life before she went to bed, in a circle, left to right, and then hung the cloth over the tap to dry. The black came off the top in a grey paste. Under it the wood was burned. The handprint went down into the grain. He scrubbed until his arms ached and it was still there, paler, a ghost of a hand, five fingers and a palm on the place where Granny used to cut bread.
+
+He was twelve the last time he'd put his hand on something in this kitchen in anger. It had been the bathroom door, hollow, cheap, and his fist had gone straight through it after a fight with Juno about nothing he could remember now. Granny had come out of her room in her headtie and looked at the hole and then at him. She had made him kneel on these tiles, right here by the stove.
+
+"That temper is a fire," she'd said, standing over him. "And fire belongs to the devil. You pray it out of you, Tobias. Or one day it will burn this house down with you inside."
+
+He had prayed. He had knelt on the tile till his knees went numb and asked God to take it out. It hadn't gone anywhere. He had learned to put it somewhere else instead. Kick the leg of the table. Not hard. Then harder. Take it out on things that couldn't feel it.
+
+He hung the cloth over the tap to dry.
+
+For the rest of the day he didn't touch the baby.
+
+He boiled water on the new cylinder once Lonny got the regulator on, in thirty seconds, without even looking. He made the bottles with Granny's oven gloves on, the thick quilted ones with the chillies printed on them, and Bix laughed at him until Tock looked at him, and then he stopped. When Vee cried he sent Bix. When Bix couldn't settle her he sent her down the road to Sol, who held her too carefully and talked to her about Arsenal. He could hear her from the kitchen, going on and on, and every time she did, his hands got hot again and he put them under the cold tap and held them there until the water ran warm.
+
+He told everyone it was the fever. He told Juno he didn't want Vee to catch it. Juno, who hadn't slept in a bed since the first night, looked at him for half a second longer than usual and then said, "Fine. Drink water," and went back down to the ward. She didn't have room in her head for anything else. He had counted on that.
+
+On the seventh morning there was a ship.
+
+He heard the screaming from the kitchen and ran out onto the balcony, and the whole road was out, and Bix was up on the Hales' tank stand pointing at the sea, and there it was, grey, flat, sitting on the edge of the world. Kids were jumping. Somebody was banging a pot. Sol was crying and laughing. Across the road, Fen was on his roof with the radio, not moving. Then Juno came out into the road, and Tock heard her say *somebody's coming* in a voice he hadn't heard her use since before, and he felt his whole chest go loose.
+
+Somebody's coming. Grown people, with a ship. Somebody to take the babies and the sleepers and the counting off Juno. Somebody to look at his hands and tell him what was wrong with them.
+
+He went to tell Granny.
+
+The ward was empty except for the sleepers and the smell. Everyone who could walk was up on the road looking at the sea. The windows were open and the curtains moved. Fourteen people on mattresses, breathing slow. Mr. Hale's place by the wall had a clean sheet on it now, folded, and nobody had moved anyone into it.
+
+Granny was by the window. Olli's tape was over her eyes. Somebody had tied her white headtie back on, crooked. Tock knelt down beside her mattress and fixed it.
+
+"There's a ship," he said. "Navy. They're coming. You're going to be okay."
+
+She breathed. Twelve.
+
+He looked at her hands on the sheet. Small, the knuckles big, a gold ring she had never once taken off.
+
+"You were right, though," he said. His voice went low. "About me. You were right."
+
+He didn't decide to kneel properly. He just found himself doing it, sitting back on his heels, with his hands pressed flat on the tile floor of Dr. Moss's front room, because that was how you did it. You knelt and you put your hands down and you asked. *Take it out of me.* He shut his eyes. *Take it out. I'll do anything. Take it out before I touch her.*
+
+The floor got warm under his palms.
+
+He knew it was happening and couldn't stop it. The more he asked, the hotter it got. The prayer was the same thing as the fear and the fear was the same thing as the heat, and it all went down his arms into the floor.
+
+The tile cracked.
+
+A sharp pop, loud in the quiet room, like a stone hitting a windscreen. A line shot out from under his right hand, across the tile and into the next one.
+
+He opened his eyes.
+
+Ida Moss was standing in the doorway with a plastic basin in her arms, looking at him.
+
+---
+
+He thought she would scream, or pray, or run and get Juno. She did none of those things. She came in and put the basin down on the dining table, carefully, like it was full, though it was empty. Then she came over and stood looking down at the floor beside Granny's mattress, at the crack, and the two pale patches on the tile where his hands had been, and the faint smell of hot stone.
+
+Ida was sixteen, the same as him. She'd been in his year at school since Form One and he had never liked her. She went to church three times a week. She told people when they were cursing. She talked the way Granny talked, every sentence finished properly, like she was reading it off a card.
+
+"How long?" she said.
+
+"Since yesterday." He was still on his knees. "The day before, maybe. The fever."
+
+"Did you burn anybody?"
+
+"No."
+
+"Did you want to?"
+
+He looked up at her. "No."
+
+"Then sit up," Ida said. "You'll ruin your knees."
+
+He sat. She knelt down on the other side of the crack, smoothing her skirt under her, and looked at his hands, which he was holding in his lap with the palms up, away from his body.
+
+"My father is a doctor," she said. "He used to say that a fever is the body fighting for you. Not against you. People think the fever is the sickness. It isn't. It's what the body does about the sickness." She looked at his face. "You're not sick, Tock. You've been hot for three days. Everybody's noticed."
+
+"Granny said—"
+
+"I know what Granny Dot said. I know exactly what she said. She said it about half the road. She said it about my mother once, for wearing red to a funeral." Ida's mouth went tight. "Your grandmother is a good woman, and she was wrong about some things. People can be both. My mother is the same."
+
+"It's fire," he said. "It came out of me. Out of my *hands*. You don't—" He stopped. "What else is it, if it's not that?"
+
+Ida looked at the window. On the road outside, they were still cheering.
+
+"You boiled water," she said. "Juno told me the jugs were full this morning before six. Forty litres. For people who can't drink." She turned back to him. "I don't know what it is. I don't think anybody knows what any of this is. But I know the devil doesn't boil water for sleepers. If you burn somebody on purpose, Tock Vale, then you come and find me and we'll talk about sin. Until then you have a job."
+
+He didn't say anything. He couldn't. Something in his throat had closed.
+
+"The gas," Ida said. "Juno has thirteen cylinders on her list. She's been doing the sums. They won't last to Christmas. Not with the ward and the bottles and the cooking." She stood up and brushed off her skirt. "So. Can you do it on purpose? Or only when you're angry?"
+
+He didn't know.
+
+They found out in Granny's kitchen, with the door shut and the cylinder turned off. He put both hands on the sides of the big pot and Ida stood by the sink with her arms folded and he tried to be angry. He thought about the regulator. He thought about the crib in the Pells' house on the first night, which he had walked past. His hands went hot, too hot. The water went from still to boiling in two seconds and spat and burned his wrists, and he let go and swore, and Ida said "Language," without looking up.
+
+"Again," she said. "Not angry this time."
+
+"How else?"
+
+"I don't know. You're the one with the hands."
+
+He stood with his palms on the pot. He tried to think of nothing, and that didn't work. Then, because it was the thing he thought about most anyway, he thought about Vee. Asleep on his chest in the armchair on the first night with her fist in his T-shirt. The weight of her. How he hadn't moved for four hours and didn't want to.
+
+The heat went down his arms slowly this time. It didn't explode. It came out of his palms like water out of a hose turned halfway, steady. The steel warmed. Small bubbles came up at the edges. Then a simmer. Then a boil, a calm one, the water rolling over and over without spitting.
+
+He held it there for a minute. Then he took his hands away, and the water slowed, and stopped.
+
+His legs went. Ida got a chair under him somehow. He was dizzier than he had been after the fete at fourteen, after the bottle that had cut his eyebrow. His mouth was dry as paper. He drank three glasses of water and ate a whole tin of sardines out of the tin with his fingers while Ida watched with her arms folded and didn't say anything about manners.
+
+"That's one pot," she said.
+
+"Yeah."
+
+"The ward needs eight a day."
+
+"Yeah," Tock said. "I know."
+
+That evening, after dark, he went down the road to Sol's and held out his arms for the baby.
+
+Sol looked at him, and at his hands, and gave her over without a word. Vee grabbed his T-shirt in one fist and his eyebrow in the other, right on the scar, and pulled. His hands were cool against her back. He stood in Sol's doorway and didn't move for a long time.
+
+---
+
+They were at the Vales' kitchen table at ten that night when Fen came in with the radio.
+
+All of them except Lyra, who was home with their mother. Juno at the head, where Granny used to sit, with the exercise book. Lonny eating cold rice out of a pot. Sol with her knees up on her chair. Tock at the end, with his hands flat on Granny's table and Vee asleep on a pile of towels in the living room, right next door, where he could hear her breathing through the open door.
+
+Fen didn't sit down. He put the handheld in the middle of the table, between the candle jar and the exercise book, and looked at the ground beside Juno's foot, the way he did.
+
+"Judge asked for you again," he said.
+
+Juno put her pen down.
+
+"The boy's arm. It's setting wrong. He asked two nights ago too." Fen stopped, and Tock watched him decide whether to say the next part. "I didn't tell you. I should have. He wants you at the fish market tomorrow. He said if you don't come down, he'll send somebody up the hill to ask you nice."
+
+Nobody said anything for a second.
+
+Then the heat came up in Tock so fast he didn't feel it start. It came from his stomach, from the place where it lived. It came from the word *nice* in the mouth of somebody he had never met who had two hundred kids and a radio and a harbour full of fellas who did what he said, and who wanted his sister, and who thought he could send somebody up this hill and get her.
+
+He stood up.
+
+He didn't mean to put his hands on the table. They were already there. He stood up and pushed, and the heat went out of him into the wood the way it had gone into the pot, all at once, and the table smoked under his palms.
+
+He snatched his hands back.
+
+Two black handprints on Granny's mahogany table, side by side, with thin smoke coming up off them in the candlelight. Burned down into the grain.
+
+Lonny stopped chewing. Sol's knees came down off the chair. Fen took one step back from the table, the only step he took all night. In the next room, Vee sighed in her sleep and didn't wake.
+
+Tock stood with his hands held up and out, the way you'd hold them if somebody had a gun on you. He waited for Juno to say it. *What's wrong with you. What did you do. Get away from the baby.* Or the other thing, the thing Ida had said, the thing he hadn't known he needed until he heard it. *It isn't a sin.*
+
+Juno didn't say either one.
+
+She looked at the handprints for a long time. Then she looked past him, at the stove, at the gas cylinder under the counter, one of thirteen on her list. Then at the pot on the back burner, still half full of tomorrow's water.
+
+He watched her do the sum. He had watched her do it his whole life.
+
+"How hot," Juno said, "can you get it?"
 
 
 
 # Chapter 8 — Market
 
-Imani went down the hill on the ninth day because a boy had a broken arm and she was the only person on the island who had read how to set one.
+Juno went down the hill on the eighth day because a boy had a broken arm and she was the only person on the island who had read how to set one.
 
-That was the whole argument. Kai had made it at the kitchen table the night before, in the fewest words possible, with the handheld radio between them like evidence. Judge had a boy with a broken arm and a girl who had swallowed something and two hundred kids at the fish market and nobody who knew what to do. He had asked, twice, for the Clarke girl. He had been polite about it. He had been polite about it in a way that made Danny stand up.
+That was the whole argument. Fen had made it at the kitchen table the night before, in the fewest words possible, with the handheld radio between them like evidence. Judge had a boy with a broken arm and a girl who had swallowed something and two hundred kids at the fish market and nobody who knew what to do. He had asked, twice, for the Vale girl. He had been polite about it. He had been polite about it in a way that made Tock stand up.
 
-"No," Danny said.
+"No," Tock said.
 
-"It's not your call," Imani said.
+"It's not your call," Juno said.
 
 "It's not yours either. Six of us. That's what you said."
 
 "Six of us. Fine. Hands." She looked round the table. "Who thinks a boy should have a crooked arm for the rest of his life because we're scared of a fish market."
 
-Nobody put a hand up. Lonny said he'd walk her down. Kai said he'd stay on the radio. Danny said nothing, which was worse, and in the morning he was at the gate with Vee on his hip, and he didn't say goodbye, he said, "Come back," and she said, "Obviously," and he didn't smile.
+Nobody put a hand up. Lonny said he'd walk her down. Fen said he'd stay on the radio. Tock said nothing, which was worse, and in the morning he was at the bend with Vee on his hip, and he didn't say goodbye, he said, "Come back," and she said, "Obviously," and he didn't smile.
 
-The coast road was eleven kilometres. They did it in two hours with Dr. Ali's bag between them and the sun on the backs of their necks.
+The coast road was eleven kilometres. They did it in two hours with Dr. Moss's bag between them and the sun on the backs of their necks.
 
-Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Mohammed boys were sitting on the roof of the gas station with their legs hanging down, three of them, and they watched Imani and Lonny go past without a word, and the youngest one raised a hand, and Lonny raised one back, and nobody said anything about the padlock on the pump or the fact that the boy's hand had left a brown mark on the roof where he'd been resting it.
+Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them, and they watched Juno and Lonny go past without a word, and the youngest one raised a hand, and Lonny raised one back, and nobody said anything about the padlock on the pump or the fact that the boy's hand had left a brown mark on the roof where he'd been resting it.
 
 "Rust," Lonny said, when they were past. "That's what they call him. The little one."
 
 "Why."
 
-"Don't know. Kai heard it."
+"Don't know. Fen heard it."
 
-"Kai hears everything."
+"Fen hears everything."
 
-"Yeah," Lonny said. "That's the thing about Kai."
+"Yeah," Lonny said. "That's the thing about Fen."
 
-Morne Bay started as a smell. Fish, and smoke, and under it something sweeter that Imani's stomach knew before her head did, and she made herself keep walking at the same pace. The coast road became the main road and the main road became the market square, and the market square was full of children.
+Morne Bay started as a smell. Fish, and smoke, and under it something sweeter that Juno's stomach knew before her head did, and she made herself keep walking at the same pace. The coast road became the main road and the main road became the market square, and the market square was full of children.
 
-Two hundred, Kai had said. It was more. They were on the steps of the fish market and in the stalls and sleeping in the shade of the warehouse with their backs against the wall. They were cooking on oil drums. They were carrying water in buckets from a standpipe that didn't work, to a tank that somebody had put a tap on. There were kids of six and kids of sixteen, and every one of them looked up when Imani and Lonny came into the square, and every one of them looked at the bag.
+Two hundred, Fen had said. It was more. They were on the steps of the fish market and in the stalls and sleeping in the shade of the warehouse with their backs against the wall. They were cooking on oil drums. They were carrying water in buckets from a standpipe that didn't work, to a tank that somebody had put a tap on. There were kids of six and kids of sixteen, and every one of them looked up when Juno and Lonny came into the square, and every one of them looked at the bag.
 
-A girl with a clipboard came out of the warehouse. She was Imani's age, with her hair tied up in a scarf and a pencil behind her ear and the face of somebody who had slept less than Imani, which Imani would not have thought possible.
+A girl with a clipboard came out of the warehouse. She was Juno's age, with her hair tied up in a scarf and a pencil behind her ear and the face of somebody who had slept less than Juno, which Juno would not have thought possible.
 
-"Clarke," she said. "I'm Keisha. He's on the boat. Come."
+"Vale," she said. "I'm Nell. He's on the boat. Come."
 
 ---
 
-The *Lady Marisol* was a forty-foot trawler tied up at the end of the dock with its engine cover off and a sleeping man on the deck under a tarpaulin. That was the first thing Imani saw. A man, a fisherman, in his fifties, on his side with a cushion under his head, breathing twelve times a minute under a blue tarp, and a boy sitting on an upturned crate beside him with a radio in his hand.
+The *Lady Marisol* was a forty-foot trawler tied up at the end of the dock with its engine cover off and a sleeping man on the deck under a tarpaulin. That was the first thing Juno saw. A man, a fisherman, in his fifties, on his side with a cushion under his head, breathing twelve times a minute under a blue tarp, and a boy sitting on an upturned crate beside him with a radio in his hand.
 
 He stood up.
 
@@ -841,15 +1501,15 @@ He was her age, and he was lean the way people are lean when they work, and his 
 
 "The paper was a photo."
 
-"Still." He put the radio in his pocket. "Jerome. They call me Judge."
+"Still." He put the radio in his pocket. "Cole Mayers. They call me Judge."
 
-"I know. Kai said."
+"I know. Fen said."
 
-"Kai." Something crossed his face and was gone. "Yeah. Kai's a good boy. Talks too much on an open channel, but a good boy."
+"Fen." Something crossed his face and was gone. "Yeah. Fen's a good boy. Talks too much on an open channel, but a good boy."
 
 She didn't answer that. She looked at the man under the tarp.
 
-"My father," Judge said. "Nine days. I turn him. I give him water with a spoon. Keisha say that's right."
+"My father," Judge said. "Eight days. I turn him. I give him water with a spoon. Nell say that's right."
 
 "It's right."
 
@@ -857,9 +1517,9 @@ She didn't answer that. She looked at the man under the tarp.
 
 "They all are."
 
-He nodded like that was what he'd expected to hear and had wanted to hear it from someone else. Then he turned and went up the dock without checking whether she was following, and she followed, and Lonny followed her, and Keisha followed Lonny with the clipboard.
+He nodded like that was what he'd expected to hear and had wanted to hear it from someone else. Then he turned and went up the dock without checking whether she was following, and she followed, and Lonny followed her, and Nell followed Lonny with the clipboard.
 
-The boy with the broken arm was fourteen and had fallen off a warehouse wall three days ago, and the arm was the wrong shape between the elbow and the wrist, and he had been given rum for it, because that was what there was. Imani knelt on the concrete beside him and opened Dr. Ali's bag and took out the book. She opened the book to the page. She had read the page eleven times on the hill and she read it again now, with the boy watching her, and Judge watching her, and fifty kids in a ring watching her, and she thought: *this is the first thing I have ever done that I cannot undo.*
+The boy with the broken arm was fourteen and had fallen off a warehouse wall on the first night, eight days ago, and the arm was the wrong shape between the elbow and the wrist, and he had been given rum for it, because that was what there was. Juno knelt on the concrete beside him and opened Dr. Moss's bag and took out the book. She opened the book to the page. She had read the page eleven times on the hill and she read it again now, with the boy watching her, and Judge watching her, and fifty kids in a ring watching her, and she thought: *this is the first thing I have ever done that I cannot undo.*
 
 "It's going to hurt," she said to the boy.
 
@@ -869,15 +1529,25 @@ The boy with the broken arm was fourteen and had fallen off a warehouse wall thr
 
 He didn't send someone. He went himself, and came back with two slats off a fish crate and a roll of electrical tape, and knelt on the other side of the boy, and held the boy's good hand, and said, "Look at me. Not at her. At me."
 
-She pulled. The boy screamed. The bone went where the book said it would go, and she felt it go through her hands and up her arms and into her teeth, and she splinted it the way the picture showed, and taped it, and sat back on her heels with her hands shaking, and the boy was crying and saying thank you, thank you, and she didn't know what to do with that so she said, "Don't climb walls."
+She put her hands where the picture put them, one above the break and one below, and felt the bump under her fingers. Eight days. The book didn't have a page for eight days. The book assumed you got there the same afternoon, and somewhere under that skin the bone had already started deciding for itself how it was going to heal.
+
+She pulled. The boy screamed. Nothing moved.
+
+The ring of kids made a sound, all of them at once, the sound of a crowd watching a penalty go wide. Judge didn't look up. He kept his eyes on the boy's eyes and said, "She going to do it again. Look at me," as if they had agreed it beforehand.
+
+"Lonny," Juno said. "Harder."
+
+Lonny leaned his whole weight into the boy's shoulders. Juno set her knee against the concrete and pulled the way you pull a car door that has jammed in the heat, steady and then all at once, and something gave under her hands with a soft wet crack she felt in her teeth before she heard it. The arm was straight. It was straighter. It was as straight as she was going to get it, and she knew that while it was happening, and she splinted it the way the picture showed and taped it before she could start wishing she had done it a week ago.
+
+She sat back on her heels with her hands shaking. The boy was crying and saying thank you, thank you, and she didn't know what to do with that, so she said, "Don't climb walls."
 
 The girl who had swallowed something was worse, because there was nothing in the book for her.
 
-She was seven. She had swallowed a watch battery on the first night, from a toy, and she had been sick twice and then stopped being sick, and now she lay on a mat in the children's house with her hand on her stomach and looked at Imani with huge eyes and did not say anything at all.
+She was seven. She had swallowed a watch battery on the first night, from a toy, and she had been sick twice and then stopped being sick, and now she lay on a mat in the children's house with her hand on her stomach and looked at Juno with huge eyes and did not say anything at all.
 
 "You can't do nothing," Judge said. It wasn't a question.
 
-"I can't do anything." Imani stood up. "A battery burns. Inside. It needs to come out, and I can't take it out, and the hospital—"
+"I can't do anything." Juno stood up. "A battery burns. Inside. It needs to come out, and I can't take it out, and the hospital—"
 
 "Hospital's dead. We went. Nobody there can wake up."
 
@@ -889,9 +1559,25 @@ She was seven. She had swallowed a watch battery on the first night, from a toy,
 
 "You're what we got," he said. Not unkind. Just a fact, set down between them like a crate.
 
+Juno knelt down again, because standing over the girl felt like leaving already.
+
+"What's your name?"
+
+"Ria." It came out in a whisper.
+
+"Okay, Ria. Does it hurt when you swallow?"
+
+A small nod.
+
+"Then you eat soft things. Porridge. Soup. Nothing hard, nothing hot, nothing with bones." She looked up at Nell, who was already writing. "If she throws up blood, or her poo goes black like tar, or she gets a fever, you send for me. That night. Not in the morning."
+
+"And then what you going to do?" Judge said.
+
+She didn't answer, because the true answer was *nothing*, and Ria was looking at her. She held the girl's hand until the girl closed her eyes, and wrote the name on the inside of her own wrist in Nell's pencil so she would have to look at it later.
+
 ---
 
-He walked her out himself, at four, when the light was going orange and the square had filled with the smell of frying from the oil drums. Keisha had given her a list on a page torn from the clipboard, twenty-two names, what was wrong with each of them, in neat small handwriting. Lonny carried the bag. Judge walked on her other side with his hands behind his back, and for a long time he didn't say anything, and she realised he was waiting for her to.
+He walked her out himself, at four, when the light was going orange and the square had filled with the smell of frying from the oil drums. Nell had given her a list on a page torn from the clipboard, twenty-two names, what was wrong with each of them, in neat small handwriting. Lonny carried the bag. Judge walked on her other side with his hands behind his back, and for a long time he didn't say anything, and she realised he was waiting for her to.
 
 "How are you feeding them?" she said.
 
@@ -899,11 +1585,11 @@ He walked her out himself, at four, when the light was going orange and the squa
 
 "Two hundred kids. On fish."
 
-"Three hundred and ten, this morning. Eleven boats, four crews that know what they doing, the rest learning. Ice plant's dead, so what we catch we eat the same day or it rot. So we catch every day." He said the numbers like Imani said numbers, flat, without hoping. "Rice from the warehouse, maybe five weeks. Flour, less. Cooking gas, we have the truck, so a while. Water is the standpipe at the church, it still running, nobody know why, when it stop we have a problem."
+"Three hundred and ten, this morning. Eleven boats, four crews that know what they doing, the rest learning. Ice plant's dead, so what we catch we eat the same day or it rot. So we catch every day." He said the numbers like Juno said numbers, flat, without hoping. "Rice from the warehouse, maybe five weeks. Flour, less. Cooking gas, we have the truck, so a while. Water is the standpipe at the church, it still running, nobody know why, when it stop we have a problem."
 
 "Fuel?"
 
-"Pumps don't work without power. We pulling it up by hand from the tank. That's mine." He glanced at her. "The gas station at the junction is theirs. Mohammed boys. I let them keep it. For now."
+"Pumps don't work without power. We pulling it up by hand from the tank. That's mine." He glanced at her. "The gas station at the junction is theirs. Harker boys. I let them keep it. For now."
 
 She looked at the holster. He saw her look.
 
@@ -911,15 +1597,15 @@ She looked at the holster. He saw her look.
 
 "And now?"
 
-"Now they in a room with a lock and I have the key." A pause. "You have one, up there. Winston's. Nia Pierre has the key." He let that sit. "Ears hears everything. Don't look like that. I'm not coming for it."
+"Now they in a room with a lock and I have the key." A pause. "You have one, up there. Ambrose's. Kit Wick has the key." He let that sit. "Ears hears everything. Don't look like that. I'm not coming for it."
 
-They had reached the edge of the square. The coast road went off into the orange light with the cars sitting on it. At the far end of it, eleven kilometres up, was a hill with a wall around it, and from here, with the sun behind it, it looked very small.
+They had reached the edge of the square. The coast road went off into the orange light with the cars sitting on it. At the far end of it, eleven kilometres up, was a hill with one road up it, and from here, with the sun behind it, it looked very small.
 
 "Stay," Judge said.
 
 She'd known it was coming and it still landed. "No."
 
-"Twenty-two names on that list. Three hundred kids. You set a bone today in front of fifty of them and they going to talk about it for a month. Up there you have thirty-one sleepers and a doctor's cupboard. Down here—"
+"Twenty-two names on that list. Three hundred kids. You set a bone today in front of fifty of them and they going to talk about it for a month. Up there you have sixteen sleepers and a doctor's cupboard. Down here—"
 
 "I have a grandmother up there."
 
@@ -935,7 +1621,7 @@ He looked at her for a while. Then he nodded, once, like a man agreeing a price.
 
 "And the ice."
 
-It took her a second. Then the cold went through her stomach, and she understood what Kai talking too much on an open channel had meant.
+It took her a second. Then the cold went through her stomach, and she understood what Fen talking too much on an open channel had meant.
 
 "I don't know what you mean."
 
@@ -943,18 +1629,18 @@ It took her a second. Then the cold went through her stomach, and she understood
 
 "She's not for sale."
 
-"I didn't say sale." He turned to go, and stopped, and turned back. "Keisha."
+"I didn't say sale." He turned to go, and stopped, and turned back. "Nell."
 
-Keisha came out of the warehouse with a cardboard box in both arms and put it down on the ground between them. It was heavy, from the way she set it down. Imani looked at it. She didn't want to open it. She opened it.
+Nell came out of the warehouse with a cardboard box in both arms and put it down on the ground between them. It was heavy, from the way she set it down. Juno looked at it. She didn't want to open it. She opened it.
 
 IV fluid. Clear bags, a litre each. She counted without meaning to.
 
 Twelve.
 
-"From the hospital store," Judge said. "There's more. Nobody up there could find it; I could. That's for the thirty-one." He was already walking back into the square. "Gift."
+"From the hospital store," Judge said. "There's more. Nobody up there could find it; I could. That's for the sixteen." He was already walking back into the square. "Gift."
 
-She stood at the edge of Morne Bay with twelve bags of the thing she'd done division over nine nights ago in a sleeping doctor's study, and Lonny picked up the box without a word, and she knew exactly what a gift from Jerome Mayers was, and she took it anyway.
+She stood at the edge of Morne Bay with twelve bags of the thing she'd done division over eight nights ago in a sleeping doctor's study, and Lonny picked up the box without a word, and she knew exactly what a gift from Cole Mayers was, and she took it anyway.
 
-She carried the knowing up the hill. At the gate Danny was waiting with Vee asleep on his shoulder, and he said, "Well?", and she said, "A broken arm. I set it. There's a list," and she put the box in the Alis' front room beside the six that were left, and she did not tell anyone where it had come from, and she lay awake that night with the notebook on her chest and understood that she had a secret now, the way Kai did, and that she had been wrong about how easy it was to keep one.
+She carried the knowing up the hill. At the bend Kit lifted a hand to them from the gallery without a word, and Juno looked past her through the open door of the flat, at the bedroom where the steel box was, and kept walking. Tock was waiting a little way up the road with Vee asleep on his shoulder, and he said, "Well?", and she said, "A broken arm. I set it. There's a list," and she put the box in the Mosses' front room under the empty coat hangers where the first six had hung, and she did not tell anyone where it had come from, and she lay awake that night with the notebook on her chest and understood that she had a secret now, the way Fen did, and that she had been wrong about how easy it was to keep one.
 
 

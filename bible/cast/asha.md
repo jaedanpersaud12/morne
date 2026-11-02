@@ -30,7 +30,7 @@ Together, every hit aimed at one is absorbed and passed to the other, who releas
 
 ## In the story
 
-She becomes, without planning to, the one who looks after the little ones in the Compound. Loud, patient, impossible to ignore, which is exactly what a four-year-old needs. See [12](../12-little-ones.md).
+She becomes, without planning to, the one who looks after the little ones in the Trace. Loud, patient, impossible to ignore, which is exactly what a four-year-old needs. See [12](../12-little-ones.md).
 
 ## Relationships
 

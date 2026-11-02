@@ -5,7 +5,7 @@ How the people pull on each other, and how the world pulls on that. The world ch
 ## Rules
 
 - **Nobody is "the love interest."** Everyone who is loved is also a person with a job, a fault line and a family in the ground.
-- **Romance costs something.** Every relationship that crosses a wall (compound and town, Compound and Harbour, living and rooted) makes somebody's life harder. If it doesn't, cut it.
+- **Romance costs something.** Every relationship that crosses a wall (Trace and town, Trace and Harbour, living and rooted) makes somebody's life harder. If it doesn't, cut it.
 - **No triangle for its own sake.** Two people who want the same person is only on the page if the world made it matter.
 - **The world gets in the way, always.** A kiss in year one is interrupted by a water run. That is the genre.
 - **Friendships break for reasons, not for drama.** Every break has a cause in the ledger: a death, a secret, a resource, a conversion.
@@ -21,20 +21,20 @@ How the people pull on each other, and how the world pulls on that. The world ch
             │     \                       Micah
            Kai ─── twins (unbreakable) ─── Asha
             │
-     the gatehouse (secret)
+     the taxi at night (secret)
             │
            Nia ─── (outside the circle) ─── everyone else
 
    Tori ── neighbours ── Lonny ── brother ── Jaylen
      │                     │
-   Renee (Harbour)     girlfriend (the road, outside the gate)
+   Renee (Harbour)     girlfriend (the road below the bend)
 ```
 
 ## The core relationships and where they go
 
-### Kai and Nia: the gatehouse
+### Kai and Nia: the taxi
 
-**Day zero:** already real, and secret. Late nights at the booth where nobody in the compound was watching. He is the reason she is half in the group. She is part of why he is still alive, and he has never said so to anyone, including her.
+**Day zero:** already real, and secret. Late nights in Winston's parked taxi at the bend, radio low, where nobody on the Trace was watching. Eight months, which is long enough. He is the reason she is half in the group. She is part of why he is still alive, and he has never said so to anyone, including her.
 
 | Phase | What the world does | What it does to them |
 | --- | --- | --- |
@@ -62,7 +62,7 @@ The enemies-to-lovers slot, and it has to be earned over two books or it's a cli
 | Night one | A name on a radio. "The Clarke girl. From the paper." |
 | Month one | She goes down the hill to treat his kids because somebody has to. He watches her work. He is the first person in her life who needs what she knows and says so. |
 | Months 3 to 12 | Trade. He rations, taxes, bargains for Tori. She hates what he does and understands why. He is the only person on the island who runs numbers the way she does. |
-| Year two | The deal with the Gardener. She can't forgive the rows of rooted sleepers at the fish market. He can't forgive that the Compound's forty eat while his two hundred ration. The attraction is real and neither will act on it, because acting on it would be choosing a side. |
+| Year two | The deal with the Gardener. She can't forgive the rows of rooted sleepers at the fish market. He can't forgive that the Trace's thirty eat while his two hundred ration. The attraction is real and neither will act on it, because acting on it would be choosing a side. |
 | Year three | Open. The honest ending is that it never becomes what readers want, and both of them know what it could have been. |
 
 **Rule:** he never lies to her. That is the whole basis of it. Everyone else manages her; Judge tells her the number.
@@ -72,30 +72,30 @@ The enemies-to-lovers slot, and it has to be earned over two books or it's a cli
 Tori is gay and out to no one ([tori.md](cast/tori.md)). Renee is a Harbour girl whose family worked the ice plant that Tori's family owned. Tori's power now does the job Renee's family used to do.
 
 - **Year one:** Tori has reasons to go to the Harbour (ice for the fish hold, trade), and one real reason. The group thinks she is being loyal, or being used. Danny thinks she's passing information. She is not.
-- **The doubt beat:** when the Harbour knows something it shouldn't, the Compound looks at Tori. She can't explain why she was there without telling them who she is. She chooses the accusation over the truth. That is the chapter.
+- **The doubt beat:** when the Harbour knows something it shouldn't, the Trace looks at Tori. She can't explain why she was there without telling them who she is. She chooses the accusation over the truth. That is the chapter.
 - **Renee's answer:** open, and it should not be a clean yes. Renee has a family in a strongman's town and a faith of her own. The world gets in the way.
 - **The group's answer:** the thing that costs. Who says the wrong thing (Danny, probably, and he means it as a joke). Who says the right thing first (Micah, who doesn't know it's a thing). Who takes longest (open).
 
 ### Lonny and the girl on the road
 
-Her name is open ([16](16-open-questions.md)). She lives on the twelve-house road outside the gate, which means she is outside the gate.
+Her name is open ([16](16-open-questions.md)). She lives on the road below the bend, which means she is outside whatever the Trace decides "inside" means.
 
 - **Day one:** he is the one who asks for the road to be checked. She is alive, with a sleeping mother and a small brother.
-- **Month one:** the gate question. The Compound does not take her in. Lonny takes food out. The ledger notices.
+- **Month one:** the gate question. The Trace does not take her in. Lonny takes food out. The ledger notices.
 - **Months 3 to 6:** he leaves. Goes to live on the road, or in town. The friend who walks out. Danny does his runs alone and it nearly kills him.
-- **Months 6 to 12:** he comes back, or she comes in, or neither. The strongest kid on the island choosing a person over a wall is the Compound's lesson about what walls are for.
+- **Months 6 to 12:** he comes back, or she comes in, or neither. The strongest kid on the island choosing a person over a wall is the Trace's lesson about what walls are for.
 
 ### Asha and the convert
 
-Asha dates someone in the compound. Troy, the older boy who resents Imani. It starts as Asha being Asha, with everyone, loudly. It becomes serious at the wrong time. When Troy loses his mother to a bed death, he blames Imani, converts to the Gardener's way, and carries sleepers out through the gate at night. Asha finds out because she feels it through Kai, who saw. She has to choose between her boyfriend and her twin, and the choice is not close, and it still breaks her.
+Asha dates someone in the Trace. Troy, the older boy who resents Imani. It starts as Asha being Asha, with everyone, loudly. It becomes serious at the wrong time. When Troy loses his mother to a bed death, he blames Imani, converts to the Gardener's way, and carries sleepers out through the gate at night. Asha finds out because she feels it through Kai, who saw. She has to choose between her boyfriend and her twin, and the choice is not close, and it still breaks her.
 
 ### Danny and the baby
 
-Not a romance. The Ramkissoon baby he walked past and went back for. He raises her. Nobody decides this; it happens. It is the relationship that keeps him from becoming what his anger could make him. When the baby gets sick in the dry season, the whole Compound sees what Danny is capable of, and some of them are afraid.
+Not a romance. The Ramkissoon baby he walked past and went back for. He raises her. Nobody decides this; it happens. It is the relationship that keeps him from becoming what his anger could make him. When the baby gets sick in the dry season, the whole Trace sees what Danny is capable of, and some of them are afraid.
 
 ### Danny and Farah
 
-Friction, not romance, at least in book one. Farah refuses to root her father on religious grounds and is the loudest voice against Nia. Danny's grandmother called his anger sinful; Farah talks the way Granny talked. He hates her and listens to her, and she is the only person in the compound who tells him his power is not a sin.
+Friction, not romance, at least in book one. Farah refuses to root her father on religious grounds and is the loudest voice against Nia. Danny's grandmother called his anger sinful; Farah talks the way Granny talked. He hates her and listens to her, and she is the only person in the Trace who tells him his power is not a sin.
 
 ### Imani and Nia: the argument
 
@@ -120,7 +120,7 @@ The bond that holds. They agree on their mother. They feel each other when linke
 | Kai | He talks to Judge on the radio every night | He is managing the most dangerous person on the island and telling no one, because telling them means explaining night one |
 | Tori | She keeps going to the Harbour | Renee |
 | Nia | She hears things. She rooted her father. She talks to Ezra. | She is becoming what the island needs, and she is still Nia, and both are true |
-| Lonny | He takes food out the gate | He is in love with someone the Compound won't let in |
+| Lonny | He takes food down past the barricade | He is in love with someone the Trace won't let in |
 | Troy | He is angry at Imani | He is right about some of it, and the Gardener got to him first |
 | Imani | She decides who gets water | She is right, and being right is expensive |
 
@@ -137,17 +137,17 @@ The bond that holds. They agree on their mother. They feel each other when linke
 | The twins awaken | Kai/Nia secret ends; the group sees Kai dance |
 | Judge's deal with the Gardener | Imani/Judge can never happen |
 | The Gardener asks for Nia | Kai wants the gate shut; first time he and Nia want opposite things |
-| The pull | Tori and Nia drift; the Compound empties from inside |
+| The pull | Tori and Nia drift; the Trace empties from inside |
 
 ## How relationships move the world
 
-- Kai's love for Nia is why she is half in the group, which is why the Compound has a bridge to the Hills.
+- Kai's love for Nia is why she is half in the group, which is why the Trace has a bridge to the Hills.
 - Kai saying Imani's name on night one is why Judge comes to the hill.
-- Tori's crush opens the only honest channel between the Compound and the Harbour.
+- Tori's crush opens the only honest channel between the Trace and the Harbour.
 - Lonny's girlfriend is why the gate question is never settled.
 - Imani and Judge understanding each other is why the trade works for a year, and why the siege, when it comes, is personal.
 - Asha and Troy is how the Gardener gets inside the walls.
 
 ## The group's language as a barometer
 
-When the six are joking, the Compound is fine. When the goat stops being funny, something has broken. When a joke dies with someone, nobody makes it again until the day someone does, and that is the day the group starts to heal. See [14](14-writing-rules.md#the-groups-private-language).
+When the six are joking, the Trace is fine. When the goat stops being funny, something has broken. When a joke dies with someone, nobody makes it again until the day someone does, and that is the day the group starts to heal. See [14](14-writing-rules.md#the-groups-private-language).

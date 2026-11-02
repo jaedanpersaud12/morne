@@ -1,6 +1,6 @@
 # Cast overview
 
-Six friends raised on the same street in [Palmyra Gardens](../06-island.md#palmyra-gardens-house-by-house), plus the guard's daughter who was never quite one of them. Two have no power at the start.
+Six friends raised on the same street in [Quarry Trace](../06-island.md#quarry-trace-house-by-house), plus the taxi driver's daughter who moved in eight months ago and was never quite one of them. Two have no power at the start.
 
 ## Depth tiers (locked)
 
@@ -26,9 +26,9 @@ Imani, Kai and Nia carry the book. The other four get a chapter only when someth
 | [Micah Clarke](micah.md) | 7 | None | The little brother; a reason on hard days | Same |
 | [Kai Mohan](kai.md) | 16 | Air (Stillness) | The quiet tech one who used to dance | Mother (cancer, home hospital bed) and father asleep; night nurse asleep |
 | [Asha Mohan](asha.md) | 16 | Air (Rush) | His twin, all motion and noise | Same |
-| [Tori Achong](tori.md) | 16 | Water (ice) | Autistic, football fan, gay, the Compound's most valuable gift | Only child; both parents asleep |
-| [Lonny Baptiste](lonny.md) | 17 | Earth | Tall, handsome, always hungry, girlfriend outside the gate | Both parents asleep; brother Jaylen (11) awake |
-| [Nia Pierre](nia.md) | 15 | Life / decay | The guard's daughter; the outsider the island chose | Father Winston asleep at the gate; mother in town, status unknown |
+| [Tori Achong](tori.md) | 16 | Water (ice) | Autistic, football fan, gay, the Trace's most valuable gift | Only child; both parents asleep |
+| [Lonny Baptiste](lonny.md) | 17 | Earth | Tall, handsome, always hungry, girlfriend below the bend | Both parents asleep; brother Jaylen (11) awake |
+| [Nia Pierre](nia.md) | 15 | Life / decay | The new girl at the bend; the outsider the island chose | Father Winston asleep in his taxi in the yard; mother in town, status unknown |
 
 ## The fault-line map
 
@@ -36,7 +36,7 @@ Every fault line inside the group maps onto an island-wide question. When the fr
 
 ```
 Imani ──(medicine vs the island)── Nia
-the six ──(who leads)── Troy and the other thirty-four; outsiders keep handing it to Imani
+the six ──(who leads)── Troy and the other twenty-four; outsiders keep handing it to Imani
 Lonny ──(close the gates)── the wall, his girlfriend outside
 Kai + Asha ──(letting go)── everyone fighting to save sleepers
 Tori ──(being seen)── the group she loves

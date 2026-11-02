@@ -1,6 +1,6 @@
 # 06. The island
 
-A fictional Caribbean island, Trinidad in flavour (heat, rainy season, hills, coastline, class divides, soca on every radio, "allyuh" and "is the dust") but much smaller, smaller than Antigua. About 20,000 people before the Sleep, which leaves a few thousand kids. Enough for factions, small enough that everyone has heard of everyone. **Island name: open.** Town: Morne Bay. Compound: Palmyra Gardens.
+A fictional Caribbean island, Trinidad in flavour (heat, rainy season, hills, coastline, class divides, soca on every radio, "allyuh" and "is the dust") but much smaller, smaller than Antigua. About 20,000 people before the Sleep, which leaves a few thousand kids. Enough for factions, small enough that everyone has heard of everyone. **Island name: open.** Town: Morne Bay. The six's road: Quarry Trace ("the Trace").
 
 ## Geography
 
@@ -13,44 +13,47 @@ A fictional Caribbean island, Trinidad in flavour (heat, rainy season, hills, co
    Morne Bay town, port,
    fish market, ice plant
                     \          /
-              PALMYRA GARDENS (south hill)
-              the Compound, on the blasted hilltop
+              QUARRY TRACE (south hill)
+              a dead-end road up to the old quarry
 
    ~ ~ ~ ~ ~ ~ ~ quarantine line: navy ships, drones ~ ~ ~ ~ ~ ~ ~
 ```
 
 | Place | What it is | What it has | Who holds it |
 | --- | --- | --- | --- |
-| Palmyra Gardens (south) | Gated community on a hilltop the developer blasted flat 20 years ago. 14 big white houses with red roofs, a road in a lazy S, two pools, a tennis court nobody uses, an 8-foot wall with glass in the top, one gate, one booth, the staff annex behind it. | Medicine (Dr. Ali's cupboard), clean water (tanks and pools), walls, a few generators, a medic, a view of everything | [The six](cast/_overview.md) |
+| Quarry Trace (south) | A dead-end road climbing the south hill to the old quarry, blasted twenty years ago and shut for six. Nine ordinary houses: concrete, galvanize roofs, burglar-proofing, black water tanks on stands, a couple with an upstairs still half-built and rebar sticking out of the roof. Bush and a ravine on both sides. One way in: the bend at the bottom. No wall, no gate. | Medicine (Dr. Ali's cupboard), water (every house's tanks, and the rainwater pond on the quarry floor), one generator, a medic, a view of everything, and a road you can only come up one way | [The six](cast/_overview.md) |
 | Morne Bay (west) | The port town. 15,000 people. Coast road, two churches, gas station, ferry dock, fish market, warehouses, the ice plant, the clinic, the hospital, the police station, the mas camp warehouse. | Food (fish), boats, fuel, numbers, the hospital's stores, the police station's guns (12), four Lightning kids | [Judge](cast/judge.md) |
 | The Hills (north) | Villages up the valleys. Farms, standpipes, churches, forest. The deepest roots of the network. | Crops, land knowledge, the truth | Rooted village kids, Ezra |
 | The Shore (east) | Beach hotels, fishing shacks, wrecks, the lighthouse. | Salvage, boats, rumours from the ships | Nobody. Shak, the little ones |
 | The quarantine line | Navy ships on the horizon, drones overhead, a helicopter sometimes. | The outside world's eyes | The outside world |
 
-## Palmyra Gardens, house by house
+## Quarry Trace, house by house
 
-Fourteen houses. The ones that matter so far:
+Nine houses, bottom to top. Working and middle-class families: a GP, a nurse's household, a small ice-plant business, drivers, a teacher's pension. Nobody here is rich. Some houses are paid off, some are rented, one is still being built a block at a time. **16 adults and 13 kids on day zero**, one of them a baby.
 
 | No. | Family | Notes |
 | --- | --- | --- |
-| Gate | Pierre (annex) | Winston, the guard, 16 years. [Nia](cast/nia.md). Two concrete rooms behind the booth. A licensed shotgun and 11 shells in the booth locker; Nia knows where the key is. The Compound's only gun. |
+| 1 (the bend) | Pierre | Winston, a taxi driver (PH car, then a licensed H-car), and [Nia](cast/nia.md). Rented a two-room flat under the landlord's empty upstairs eight months ago, after Nia's mother left. The taxi lives in the yard. A licensed shotgun he bought after a robbery on a night fare, 11 shells, in a steel box under his bed; Nia wears the key on a cord. The Trace's only gun. First house anyone sees coming up. |
 | 2 | Ramkissoon | Yellow dog that barks at the gas truck. The baby, 8 months. |
-| 4 | Ali | Dr. H. Ali, GP, clinic in town. Mrs. Ali, verandah chair, Bible. Daughter Farah, 16. The cupboard: 6 bags of IV fluid. |
-| 6 | Mohan | [Kai](cast/kai.md), [Asha](cast/asha.md). Mother in a hospital bed in the dining room. Flat roof, satellite dish, a generator in the garage, a boat radio. |
-| 7 | Lall | Two kids, 12 and 9. The girl who cried too hard to talk. |
-| 9 | Achong | [Tori](cast/tori.md). Family runs the ice plant for the fishermen. Both parents on the couch in front of the cricket. |
-| 11 | Baptiste | [Lonny](cast/lonny.md), Jaylen (11). The big pool. Old Mr. Baptiste (90) lives alone at the top of the road in 14. |
-| 12 | Clarke | [Imani](cast/imani.md), [Danny](cast/danny.md), [Micah](cast/micah.md), Granny Pearl. The balcony with the view. Door never open. |
+| 3 | Lall | Two kids, 12 and 9. The girl who cried too hard to talk. |
+| 4 | Ali | Dr. H. Ali, GP, clinic in town; the biggest house on the road and still an ordinary one. Mrs. Ali, verandah chair, Bible. Daughter Farah, 16. The cupboard: 6 bags of IV fluid. The downstairs front room becomes the ward. |
+| 5 | Achong | [Tori](cast/tori.md). Her parents run the small ice plant for the fishermen. Both on the couch in front of the cricket. |
+| 6 | Mohan | [Kai](cast/kai.md), [Asha](cast/asha.md). Mother in a hospital bed in the dining room, a night nurse on Sundays. Flat roof, satellite dish, a small hurricane-season generator in the garage, his father's boat radio. |
+| 7 | Baptiste | [Lonny](cast/lonny.md), Jaylen (11), their parents. The pickup. |
+| 8 | Clarke | [Imani](cast/imani.md), [Danny](cast/danny.md), [Micah](cast/micah.md), Granny Pearl. The balcony with the view. Door never open. |
+| 9 (the top) | Old Mr. Baptiste | 90, alone, by the old quarry gate. No relation to Lonny's family, which the whole road jokes about. |
 
-## The Compound over time
+## The Trace over time
 
-It turns from a neighbourhood into a fort. Cars become barricades, pools become water reserves, the tennis court becomes a garden, the guardhouse becomes a watchtower, Danny welds the gates. The danger is that "protect what we have" slowly becomes "keep everyone else out."
+It starts open: a road anyone can walk up. That is the point. Week one, the kids put Winston's taxi across the bend. Month two, after the Junction crew comes up at night, more cars. Months four to six, a wall: cars, galvanize off the half-built houses, tank stands, the quarry's old chain-link, and finally the quarry's steel gate, which Danny cuts and welds across the bend. The guard is whoever sits on the Pierre gallery. Gardens go in on the quarry floor. The rainwater pond becomes the reserve.
 
-**The gate is the book's Lord of the Flies.** Inside: walls, medicine, water. Outside: kids with much less. The first big question is whether to open the gates, and it is grounded in real class divides. See [10](10-conflicts.md).
+Nobody is born with a wall. They build it, one panel at a time, and every panel is a decision. The danger is that "protect what we have" slowly becomes "keep everyone else out."
 
-## The road outside the gate
+**The barricade is the book's Lord of the Flies.** Inside: medicine, water, a generator. Outside: kids with less, and not by much. The Trace is not rich; it is lucky, organised and on a hill, and to a kid from town that looks the same. See [10](10-conflicts.md).
 
-Twelve houses between the gate and the junction. The junction has the small gas station the Mohammed brothers' family ran; their crew holds it from month two ([07](07-powers-in-practice.md#named-crews-book-one)). The road is contested from then on. Miss Pauline. The Charles family. Lonny's girlfriend's street. These are the kids who come to the gate on night one. Not town; the road. The Compound's first responsibility beyond its wall, and the first place it fails someone.
+## The road below the bend
+
+Twelve houses between the bend and the junction. The junction has the small gas station the Mohammed brothers' family ran; their crew holds it from month two ([07](07-powers-in-practice.md#named-crews-book-one)). The road is contested from then on. Miss Pauline. The Charles family. Lonny's girlfriend's street. These are the kids who come to the bend on night one. Not town; the road. The Trace's first responsibility beyond itself, and the first place it fails someone. Several of them, Troy among them, come up and stay.
 
 ## Seasons
 
@@ -64,4 +67,4 @@ The island runs on the theme. Dry season fires burn things back; the rains bring
 
 ## Sounds and smells (for the prose)
 
-Dogs barking at the quiet. Corbeaux on the wall. The generator at the Mohan house, the only engine on the island. A house with a sleeper in it. Soca from one radio, the same song, until the batteries die. The sea, which never stops.
+Dogs barking at the quiet. Corbeaux on the taxi roof. The generator at the Mohan house, the only engine on the island. A house with a sleeper in it. Soca from one radio, the same song, until the batteries die. The sea, which never stops.

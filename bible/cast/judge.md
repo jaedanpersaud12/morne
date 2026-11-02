@@ -10,7 +10,7 @@ By the end of the first week he had organised the boats, the warehouses, the gas
 
 ## How he talks
 
-Slow when he's thinking. Careful when he's found something useful. "The fellas call me Judge." "Keep this channel on, Kai from Palmyra."
+Slow when he's thinking. Careful when he's found something useful. "The fellas call me Judge." "Keep this channel on, Kai from the Trace."
 
 ## Power
 
@@ -22,7 +22,7 @@ Every cruel thing he does, he can justify with a number of kids fed. He is right
 
 ## Arc
 
-1. **Year one:** the island's only government. Admired. Wants Imani (the doctor) and Tori (the ice). Trades with the Compound, then taxes it.
+1. **Year one:** the island's only government. Admired. Wants Imani (the doctor) and Tori (the ice). Trades with the Trace, then taxes it.
 2. **Year two:** cuts a deal with [the Gardener](gardener.md). Roots the Harbour's sleepers in what look like mass graves to free water and labour, and gains the island's holy man blessing his regime. The strongman and the saint.
 3. **Year three:** open. He is not the final villain. He is the person the final villain uses.
 

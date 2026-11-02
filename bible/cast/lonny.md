@@ -4,7 +4,7 @@
 
 ## Core fact
 
-His family was broke before they moved into the Compound. He remembers going to bed hungry as a small kid. His friends never knew.
+His family was broke before his father got steady work and they moved up the Trace. Nobody on the Trace is rich, but the Baptistes remember being poorer. He remembers going to bed hungry as a small kid. His friends never knew.
 
 ## Who he is
 
@@ -16,11 +16,11 @@ Raw strength and density. He can lift a car off someone. **Cost:** it burns enor
 
 ## Fault line
 
-His girlfriend lives in town, on a street just outside the gate. When the Compound closes its doors, she is on the other side. Whether she gets inside, and what Lonny does if she doesn't, is a year-one arc. Her name is [open](../16-open-questions.md).
+His girlfriend lives in town, on the road below the bend. When the Trace blocks its road, she is on the other side. Whether she gets inside, and what Lonny does if she doesn't, is a year-one arc. Her name is [open](../16-open-questions.md).
 
 ## Role
 
-The carrier. Water up the hill from the Hills streams. Bodies moved. The wall built. With Danny, every run outside the gate.
+The carrier. Water up the hill from the Hills streams. Bodies moved. The wall built. With Danny, every run past the barricade.
 
 ## Relationships
 

@@ -14,11 +14,11 @@ The deep antagonist is not a villain. It is a dying organism trying to live, and
 A dying thing fruits: many fungi only mushroom when stressed or dying, and spores are a last throw. Two wounds, both human.
 
 - **The sea is rising.** Salt is creeping into the groundwater and slowly poisoning the volcanic soil it lives in. It has been losing ground for decades.
-- **Someone cut into its core.** Twenty years ago a developer blasted the top off the south hill to build a gated community with a view. Palmyra Gardens sits on the wound. The thing that protected the six friends their whole lives is what woke it.
+- **Someone cut into its core.** Twenty years ago a quarry company started blasting the face off the south hill for road gravel, and kept at it for fourteen years. Quarry Trace climbs to the wound. The road the six grew up on was cut for the trucks that made it.
 
 The biggest bloom in a thousand years is not an attack. It is a drowning organism reaching for a lifeboat.
 
-**Why the Compound awakens at three times the island rate:** it sits on the wound. The roots are densest where the hill was cut. The Hills, over the oldest roots, run high too. Town, on reclaimed harbour fill, runs low. See [07](07-powers-in-practice.md#the-numbers-locked).
+**Why the Trace awakens at three times the island rate:** it sits on the wound. The roots are densest where the hill was cut. The Hills, over the oldest roots, run high too. Town, on reclaimed harbour fill, runs low. See [07](07-powers-in-practice.md#the-numbers-locked).
 
 ## What it wants
 
@@ -42,7 +42,7 @@ A kid from the Hills who went to seed in the first weeks and did not die. Fully 
 **How he antagonises: he never raises a hand.** He is the grey one; the people are the "bad" ones. His threat comes from three places:
 
 1. **He is always right, and it costs them.** The medicine runs out when he said it would. The bedridden die the way he said. The rooted live. You cannot fight someone who keeps being correct.
-2. **People convert, and the converts enforce.** Judge cuts a deal with him. Compound kids who lose a parent to a bed death carry sleepers out through the gate at night. The willing root themselves alive, smiling. No one's hands are dirty.
+2. **People convert, and the converts enforce.** Judge cuts a deal with him. Trace kids who lose a parent to a bed death carry sleepers out through the gate at night. The willing root themselves alive, smiling. No one's hands are dirty.
 3. **The pull.** Not control, a pressure, like homesickness for somewhere you have never been. The Shore feels it first. Eventually [Tori](cast/tori.md) feels it.
 
 **The worst thing he does is an offer.** Late in the story he tells [Imani](cast/imani.md) she can hear Granny. All she has to do is sit in the garden and put her hands in the soil. The book's best villain scene has no violence in it.

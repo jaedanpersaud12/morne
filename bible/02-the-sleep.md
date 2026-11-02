@@ -22,7 +22,7 @@ That is what the kids will believe for most of book one. The deeper truth is in 
 
 Day zero is a Sunday in November with Sahara dust in the air out of season. Adults nod off through the morning, wake slow, blame the dust. By mid-afternoon they stop waking. The last to go are the ones who were kept moving (Winston at the gate lasted until a quarter to five because Nia kept him on his feet). This matters: **activity delays it by hours, not days.** Nobody outran it.
 
-Animals know first. The corbeaux come down off the light poles and sit on the gate.
+Animals know first. The corbeaux come down off the light poles and sit on the roof of Winston's taxi.
 
 ## The age clock
 
@@ -56,7 +56,7 @@ What [Kai](cast/kai.md) hears on the radio, over months: the outside world knows
 
 ## What the kids figure out, and when
 
-- **Night one:** it's only adults; it's the whole compound; it's probably the whole island. 999 and the hospital don't answer.
+- **Night one:** it's only adults; it's the whole Trace; it's probably the whole island. 999 and the hospital don't answer.
 - **Day one:** it's the whole island. Other groups of kids exist (the Harbour, via Kai's radio).
 - **Week one:** sleepers can be kept alive for a while; bedridden ones start dying by week two; the first rooted sleeper lives.
 - **Month one to three:** rooted sleepers survive. The Hills know something.
@@ -65,4 +65,4 @@ What [Kai](cast/kai.md) hears on the radio, over months: the outside world knows
 
 ## How many awaken
 
-About one in ten kids aged 10 to 19 by the end of year one, island-wide. Higher over the deep roots (the Hills, and Palmyra Gardens on the blast wound), lower in town. Numbers and what they mean for firepower are in [07](07-powers-in-practice.md#the-numbers-locked).
+About one in ten kids aged 10 to 19 by the end of year one, island-wide. Higher over the deep roots (the Hills, and Quarry Trace on the quarry wound), lower in town. Numbers and what they mean for firepower are in [07](07-powers-in-practice.md#the-numbers-locked).

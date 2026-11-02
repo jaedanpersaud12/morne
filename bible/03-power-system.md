@@ -43,7 +43,7 @@ The fungal network reads stress hormones (adrenaline, cortisol) and rewires its 
 
 ## How many, and where
 
-One in ten of the island's 10-to-19s by the end of year one. Palmyra Gardens runs at nearly one in three because it sits on the network's blast wound. The Harbour has fifteen times the Compound's powered population in absolute terms. Full numbers, daily uses, combat rules and the unaligned crews are in [07](07-powers-in-practice.md).
+One in ten of the island's 10-to-19s by the end of year one. Quarry Trace runs at nearly one in three because it sits on the network's quarry wound. The Harbour has fifteen times the Trace's powered population in absolute terms. Full numbers, daily uses, combat rules and the unaligned crews are in [07](07-powers-in-practice.md).
 
 ## How powers arrive
 
@@ -52,7 +52,7 @@ Like puberty. Uneven, scary, embarrassing, uncontrolled. Some kids early, some l
 - **First signs are small and deniable.** A glass of water that comes out cold. A boy who doesn't bruise. A girl who stops a fan with her breath and doesn't notice.
 - **Onset over weeks.** The first obvious use is usually an accident under stress.
 - **Control takes months** and is never total.
-- **Awakening order in the compound:** Tori (ice, night one, deniable), Danny (heat, week one), Lonny (strength, week one to two), Nia (she already heard the ground on night one; plants by week two), Kai and Asha (month two to three, and nobody expects the dance), Troy (Earth, month three), the Lall girl (Water, finds water underground, month five).
+- **Awakening order in the Trace:** Tori (ice, night one, deniable), Danny (heat, week one), Lonny (strength, week one to two), Nia (she already heard the ground on night one; plants by week two), Kai and Asha (month two to three, and nobody expects the dance), Troy (Earth, month three), the Lall girl (Water, finds water underground, month five).
 
 ## Rules we can use later
 

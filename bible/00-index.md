@@ -8,7 +8,7 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 - [03 Power system](03-power-system.md): six elements, how they manifest, what they cost
 - [04 Sleepers](04-sleepers.md): keeping the unconscious alive, rooting, what rooted sleepers become
 - [05 The network and the Gardener](05-network-and-gardener.md): what is under the island and what it wants
-- [06 The island](06-island.md): Morne Bay, Palmyra Gardens, the Hills, the Shore, the quarantine line
+- [06 The island](06-island.md): Morne Bay, Quarry Trace, the Hills, the Shore, the quarantine line
 - [07 Powers in practice](07-powers-in-practice.md): how many kids have powers, what they do with them daily, how fights work, the unaligned crews
 
 ## The people
@@ -38,11 +38,11 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 
 | Thing | Value |
 | --- | --- |
-| Palmyra Gardens | 14 houses, 31 adults, 38 kids (incl. the six), 3 under five |
+| Quarry Trace | 9 houses, 16 adults, 13 kids (incl. the six), 1 under five on day zero; about 30 kids by the end of week one as the road comes up |
 | Dr. Ali's cupboard | 6 litres of IV fluid |
 | Sleeper breathing | 11 to 12 breaths a minute, pulse around 50, skin cool |
 | Morne Bay | about 15,000 people before the Sleep |
 | Island | about 20,000 people; about 6,000 kids; about 350 powered by end of year one (1 in 10 of the 10-to-19s) |
-| Compound powered | 8 of 27 aged 10+ by month six (the six, Troy, the Lall girl); 4 real fighters |
-| Guns | about 40 on the island; the Harbour holds 20 to 25; the Compound has Winston's shotgun and 11 shells |
+| Trace powered | 8 of about 22 aged 10+ by month six (the six, Troy, the Lall girl); 4 real fighters |
+| Guns | about 40 on the island; the Harbour holds 20 to 25; the Trace has Winston's shotgun and 11 shells |
 | Day zero | a Sunday in November, Sahara dust season out of season |

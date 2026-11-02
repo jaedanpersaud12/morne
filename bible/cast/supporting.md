@@ -2,28 +2,28 @@
 
 Everyone who isn't a main character or an antagonist. A line or two each until the story earns more. In the real world there are no main characters; these people run their own arcs whether or not our protagonists are watching, and change between appearances.
 
-## Palmyra Gardens
+## Quarry Trace
 
-- **Winston Pierre.** The guard. Nia's father. See [Nia](nia.md).
+- **Winston Pierre.** The taxi driver at the bend. Nia's father. See [Nia](nia.md).
 - **Pearl "Granny" Clarke, 74.** Five feet tall, a headtie every day (white on Sundays), never an hour without an opinion. Raised three grandchildren alone. "So. That's done. Now you have to keep it." Asleep on the kitchen floor with her glasses on.
 - **Dr. H. Ali.** GP, clinic across from the fish market, "Walk-Ins Welcome." Reading glasses on a chain. Keeps things at home. Asleep in his hall.
-- **Mrs. Ali.** Verandah chair, Bible, catches other people napping. First adult in the compound to nod off.
+- **Mrs. Ali.** Verandah chair, Bible, catches other people napping. First adult in the Trace to nod off.
 - **Farah Ali, 16.** Refuses to root a sleeper on religious grounds. The loudest voice against Nia inside the walls. Not wrong, by her lights.
-- **Troy, 17, no power.** Captain of the street's older boys before the Sleep. Resents that the friend group runs things. A rival to Imani's leadership from inside the walls, starting with the first bed death.
+- **Troy, 17, no power.** From the road below the bend; brought his mother up in a wheelbarrow-and-pickup relay on night one because the Trace had the doctor, and stayed. Captain of the road's older boys before the Sleep. Resents that the friend group runs things. A rival to Imani's leadership from inside the walls, starting with the first bed death.
 - **Jaylen Baptiste, 11.** Lonny's brother. Awake, furious at being locked in, attaches to Danny.
 - **The Lalls, 12 and 9.** The girl who cried too hard to talk, asleep against Lonny with her thumb in her mouth. Both parents asleep. They attach to Imani.
 - **The Ramkissoon baby, 8 months.** Danny walked past her crib and went back. Danny's, in a way nobody says.
-- **Old Mr. Baptiste, 90.** Top of the road, alone, face down in soup. Danny dragged him. The first sleeper the Compound will lose.
+- **Old Mr. Baptiste, 90.** Top of the road, alone, face down in soup. Danny dragged him. The first sleeper the Trace will lose.
 - **Miss Yvonne.** The Mohans' Sunday night nurse. Asleep in the armchair with her shoes off. A sleeper who isn't anyone's family, which becomes a question.
 
-## The road outside the gate
+## The road below the bend
 
-- **Miss Pauline.** The Charles family. **Lonny's girlfriend (name open)** and her street. The four kids with a baby who come to the gate on night one asking for the doctor.
+- **Miss Pauline.** The Charles family. **Lonny's girlfriend (name open)** and her street. The four kids with a baby who come up to the bend on night one asking for the doctor.
 
 ## The Harbour
 
 - **[Judge](judge.md).**
-- **Keisha, 16, no power.** Judge's second. Counts the fish, keeps the books, trades with the Compound. The quiet administrator of a strongman's regime. Every time we meet her she has risen.
+- **Keisha, 16, no power.** Judge's second. Counts the fish, keeps the books, trades with the Trace. The quiet administrator of a strongman's regime. Every time we meet her she has risen.
 - **Dev, 15, Lightning.** Judge's enforcer. A kid who got a power and no sense of what to do with it.
 - **Renee, 16.** Tori's crush. Her family worked the ice plant; Tori's power now does the job Renee's family used to. Where she stands on Tori being gay is one of the book's quiet, high-stakes questions.
 - **The two garage apprentices.** The only mechanics on the island. Nobility. See [13](../13-resources-and-roles.md#cars-and-machines).
@@ -34,7 +34,7 @@ Everyone who isn't a main character or an antagonist. A line or two each until t
 - **Marsh, 16.** Water. Pulls fresh water out of seawater through her hands. The Harbour's water problem, solved, slowly, at the cost of her own kidneys. By year two she is grey. Judge rations her the way he rations fish.
 - **Big Shawn, 18.** Earth. The dock's strongman, Lonny's counterpart, borderline age. He is fading, the slow sickness of the 16-to-19s, and everyone can see it, and he keeps lifting. The Harbour's walking clock.
 - **Cookie, 14.** Fire. Runs the fish market kitchen with heat in her hands. Feeds two hundred kids a day. Never fights. The most loved person in the Harbour, and the one whose loss would end Judge.
-- **Ears, 13.** Air. The lookout. Air carries sound to him across the whole harbour. He hears the Compound's generator from the dock. He heard Kai's first transmission before Judge did.
+- **Ears, 13.** Air. The lookout. Air carries sound to him across the whole harbour. He hears the Trace's generator from the dock. He heard Kai's first transmission before Judge did.
 - **No healers.** Nobody at the Harbour has Life/decay. That is why Judge wants Imani, and why the Hills' pain-takers matter.
 
 ## The Hills
@@ -63,7 +63,7 @@ The unaligned. Full detail in [07](../07-powers-in-practice.md#named-crews-book-
 - **The Lighthouse.** Shore kids on the east point. **Jumper** (rooftop thief), and a boy who holds his breath for an hour and dives the wrecks.
 - **Mischief.** The boy who glows. The girl who reads lies in your pulse. The kid who grows plants an inch a day. The boy who rots a room's food and learns to charge not to.
 
-## Inside the Compound, additions
+## Inside the Trace, additions
 
 - **Troy, 17.** Awakens in month three: Earth, a hardening of the skin. Doesn't feel much after that. The Gardener's first convert inside the walls.
 - **The Lall girl, 12.** Awakens in month five: Water. Finds water underground by standing still. The most useful power in the dry season, and it belongs to a child.

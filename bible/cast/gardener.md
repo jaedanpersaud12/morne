@@ -12,7 +12,7 @@ Calm, gentle, absolutely sincere. Bare feet, always; he can't bear shoes between
 
 ## What he wants
 
-**Nobody to lose anyone ever again.** When he went into the ground he got his family back. He hears his rooted grandmother and his dead little sister. From his side, death is solved. He looks at the Compound's thirty-one sleepers wasting in beds and sees cruelty. He looks at grieving kids and sees a problem he can fix.
+**Nobody to lose anyone ever again.** When he went into the ground he got his family back. He hears his rooted grandmother and his dead little sister. From his side, death is solved. He looks at the Trace's thirty-one sleepers wasting in beds and sees cruelty. He looks at grieving kids and sees a problem he can fix.
 
 ## What he does about it
 

@@ -14,7 +14,7 @@ Sources: Provost, *100 Ways to Improve Your Writing* (1985); [Purdue Global on s
 
 The standard model behind most thrillers. A **Scene** is goal, conflict, disaster: the character wants something, something opposes them, and it ends worse than it started. A **Sequel** is reaction, dilemma, decision: the character feels it, weighs the options, picks one, and that decision is the goal of the next Scene. Below that sits the **Motivation-Reaction Unit**: something happens outside the character (motivation), then the character responds, in this order: feeling, reflex action, then speech or deliberate action. Cause always before effect, and never skip the feeling.
 
-*For us:* "set up, complicate, turn" is a Scene. Our first drafts were missing the Sequel: Imani never got a beat to feel the gate kids before the next Scene started. Each POV character gets one short Sequel per chapter, and the chapter's end-turn becomes the next chapter's goal. When something hits a character, write the gut reaction before the dialogue.
+*For us:* "set up, complicate, turn" is a Scene. Our first drafts were missing the Sequel: Imani never got a beat to feel the kids at the bend before the next Scene started. Each POV character gets one short Sequel per chapter, and the chapter's end-turn becomes the next chapter's goal. When something hits a character, write the gut reaction before the dialogue.
 
 Sources: Swain, *Techniques of the Selling Writer* (1965); [Wikipedia: Scene and sequel](https://en.wikipedia.org/wiki/Scene_and_sequel); [Ingermanson on Scene/Sequel](https://advancedfictionwriting.com/?p=349).
 
