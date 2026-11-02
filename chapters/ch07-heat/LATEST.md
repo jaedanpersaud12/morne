@@ -18,7 +18,7 @@ Tock looked at it. The ring of blue under the pot shrank, flickered orange at th
 
 "No," he said. "No, no, no."
 
-The cylinder under the counter was empty. He knew it before he tipped it; it was too light, it rocked like a drum. There were eight more cylinders in eight more kitchens on the road, and Juno had a list of them in the exercise book, one a day, and the next one on the list was the Pells'. He went two doors down and came back with it on his shoulder and got down on the kitchen floor to change it.
+The cylinder under the counter was empty. He knew it before he tipped it; it was too light, it rocked like a drum. There were thirteen more cylinders in the other eight kitchens on the road, and Juno had a list of them in the exercise book, one a day, and the next one on the list was the Pells'. He went two doors down and came back with it on his shoulder and got down on the kitchen floor to change it.
 
 The regulator wouldn't seat.
 
