@@ -4,7 +4,7 @@ Sol Finch had not slept, because things had changed, and she never slept when th
 
 It was ten to five. The Vales' kitchen was grey and full of breathing. The Nettle girl was asleep against Lonny with her thumb in her mouth and Lonny was asleep against the cupboards with his head back and his mouth open, the same shape as his father in the La-Z-Boy, which Sol decided not to tell him. Olli was under the table. Lyra had come up at three with news that the generator worked and had fallen asleep mid-sentence on the stairs. Tock was in the armchair with the Pell baby on his chest, and he was not asleep, and he had not moved in four hours.
 
-Juno was at the counter with the notebook. She had been at the counter when Sol shut her eyes at one and she was at the counter now.
+Juno was at the counter with the notebook. She had been there at one, when Sol stopped pretending to sleep, and she was there now.
 
 "You can sit," Sol said. She had put a slice of bread on the counter an hour ago, by the notebook, and it was still there. "You can also eat."
 
