@@ -18,7 +18,7 @@ Everyone who isn't a main character or an antagonist. A line or two each until t
 
 ## The road below the bend
 
-- **Miss Orla.** The Lark family. **Lonny's girlfriend (name open)** and her street. The four kids with a baby who come up to the bend on night one asking for the doctor.
+- **Miss Orla.** The Lark family. **Wren**, 17, Lonny's girlfriend, and her street; she and her brother Pip (5) come up the Trace in [ch 4](../../chapters/ch04-ice/LATEST.md). The four kids with a baby who come up to the bend on night one asking for the doctor.
 
 ## The Harbour
 
