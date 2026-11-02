@@ -33,6 +33,7 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 ## The book
 - [17 Book one outline](17-book-one-outline.md): five movements, thirty chapters, how every system plays in
 - [20 The story so far](20-story-so-far.md): what the written chapters actually contain, setups waiting for payoff, running counts
+- [25 Revision notes](25-revision-notes.md): every chapter fix found so far, for the revision pass
 
 ## How we write it
 - [21 Style sheet](21-style-sheet.md): spelling, capitals, numbers, names, punctuation, dialect
