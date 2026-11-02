@@ -112,7 +112,7 @@ She counted. Five seconds. Ten. Fifteen.
 
 At twenty-one he breathed again. Quick and shallow, then deeper, building.
 
-The table in the nursing book had a name for this pattern. It had a line underneath the name, in small type, that she had read at fourteen and never needed to know. She knew it now. She knew it with the spoon in her hand and water on her fingers. She sat beside him and counted the gaps, and they got longer.
+The table in the nursing book had a name for this pattern. It had a line underneath the name, in small type, that she had read at fifteen and never needed to know. She knew it now. She knew it with the spoon in her hand and water on her fingers. She sat beside him and counted the gaps, and they got longer.
 
 ---
 
