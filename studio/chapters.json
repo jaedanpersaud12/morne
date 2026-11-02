@@ -1,0 +1,12 @@
+{
+  "chapters": {
+    "ch01-dust":    { "dayStart": 0, "dayEnd": 0, "status": "revised", "endsWorse": true,  "turn": "The corbeaux come down on the taxi. The birds think he is dead." },
+    "ch02-count":   { "dayStart": 0, "dayEnd": 0, "status": "revised", "endsWorse": true,  "turn": "Four kids at the bend with a baby, asking for the doctor. Juno goes down with a bag she can't use." },
+    "ch03-signal":  { "dayStart": 0, "dayEnd": 0, "status": "revised", "endsWorse": true,  "turn": "The grid dies; the Quill house is the only lit house on a black island." },
+    "ch04-ice":     { "dayStart": 1, "dayEnd": 1, "status": "revised", "endsWorse": true,  "turn": "A boy of nine at the bend with his grandmother in a wheelbarrow." },
+    "ch05-spoon":   { "dayStart": 1, "dayEnd": 5, "status": "revised", "endsWorse": true,  "turn": "Juno writes the next names in the order the numbers give; the first is Granny's. The hospital is eleven kilometres down." },
+    "ch06-sixteen": { "dayStart": 5, "dayEnd": 7, "status": "revised", "endsWorse": true,  "turn": "A drone over the only lit house, then back to the ship." },
+    "ch07-heat":    { "dayStart": 6, "dayEnd": 7, "status": "revised", "endsWorse": true,  "turn": "Two handprints on Granny's table. Juno: \"How hot can you get it?\"" },
+    "ch08-market":  { "dayStart": 8, "dayEnd": 8, "status": "revised", "endsWorse": true,  "turn": "Twelve bags, a gift from Judge. Juno has a secret now." }
+  }
+}

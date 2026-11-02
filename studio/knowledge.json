@@ -1,0 +1,12 @@
+{
+  "characters": ["juno", "tock", "fen", "lyra", "sol", "lonny", "kit", "judge", "ida-moss"],
+  "secrets": [
+    { "id": "ship",  "label": "The ship is a quarantine, not a rescue", "keywords": ["quarantine", "will be stopped", "keep us here"], "knows": { "fen": 6, "judge": 6 }, "note": "PROPOSED: Juno hears it from Judge, not Fen, by ch 10" },
+    { "id": "ice",   "label": "Sol makes ice", "keywords": ["makes ice", "frost", "breath came out white"], "knows": { "sol": 4, "juno": 4, "lonny": 4, "tock": 4, "fen": 6, "lyra": 6, "judge": 8 }, "note": "The Harbour knows by ch 8 (Ears). Sol doesn't know the Harbour knows." },
+    { "id": "gun",   "label": "Ambrose's shotgun in the steel box; Kit has the key", "keywords": ["shotgun", "steel box", "shells"], "knows": { "kit": 0, "judge": 8, "juno": 8 }, "note": "Breaks for the six in ch 12" },
+    { "id": "gift",  "label": "The twelve bags were Judge's gift", "keywords": ["twelve bags", "hospital store", "gift"], "knows": { "juno": 8, "lonny": 8, "judge": 8 }, "note": "Juno's first kept secret" },
+    { "id": "sats",  "label": "Mrs. Quill holds 94% on room air", "keywords": ["ninety-four", "room air", "oximeter"], "knows": { "fen": 6 }, "note": "Deliberate. Fen tells Lyra in ch 18" },
+    { "id": "heat",  "label": "Tock's heat", "keywords": ["handprint", "handles had melted", "hands were hot"], "knows": { "tock": 7, "ida-moss": 7, "juno": 7, "sol": 7, "lonny": 7, "fen": 7 }, "note": "The ward kids don't know. Ch 12, the handprint." },
+    { "id": "ears",  "label": "Ears can hear the Trace from the dock", "keywords": ["pin drop", "Ears"], "knows": { "judge": 0, "fen": 6, "juno": 8 }, "note": "Reader should clock it as a power in ch 6" }
+  ]
+}

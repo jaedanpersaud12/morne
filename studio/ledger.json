@@ -1,0 +1,11 @@
+{
+  "resources": [
+    { "id": "iv",       "label": "IV bags",          "unit": "bags",   "entries": [ { "day": 0, "value": 6, "note": "Dr. Moss's cupboard" }, { "day": 1, "value": 0, "note": "all six hung" }, { "day": 8, "value": 12, "note": "Judge's gift from the hospital store" } ] },
+    { "id": "sleepers", "label": "Sleepers on the Trace", "unit": "people", "entries": [ { "day": 0, "value": 16 }, { "day": 1, "value": 16, "note": "+ wheelbarrow grandmother; Mrs. Quill stays home" }, { "day": 5, "value": 15, "note": "Mr. Hale dies 5:12 a.m." } ] },
+    { "id": "kids",     "label": "Kids on the Trace", "unit": "kids",  "entries": [ { "day": 0, "value": 13 }, { "day": 1, "value": 20, "note": "the bend, the Larks, Wren and Pip, Tam" }, { "day": 7, "value": 24, "note": "SEND HELP sheet" } ] },
+    { "id": "fuel",     "label": "Petrol in cans",    "unit": "litres", "entries": [ { "day": 5, "value": 58, "note": "Pajero + Corolla siphoned; 18 L a night" } ] },
+    { "id": "gas",      "label": "Gas cylinders",     "unit": "cylinders", "entries": [ { "day": 6, "value": 13, "note": "Juno's list; one a day; won't last to Christmas" } ] },
+    { "id": "formula",  "label": "Formula tins",      "unit": "tins",   "entries": [ { "day": 1, "value": 9, "note": "four houses; three babies" } ] },
+    { "id": "harbour",  "label": "Fed at the Harbour", "unit": "kids",  "entries": [ { "day": 0, "value": 200 }, { "day": 5, "value": 212, "note": "Cookie's count" }, { "day": 7, "value": 230 }, { "day": 8, "value": 310 } ] }
+  ]
+}
