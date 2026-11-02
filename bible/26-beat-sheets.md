@@ -33,7 +33,7 @@ This replaces the outline's "Box" insertion and keeps the book in order. It runs
 | --- | --- | --- |
 | The ward | Kit walks up to the Mosses' for the first time in days, for water or formula. Ida, over a sleeper, says it was Sunday: everybody who fell was in church or had the service on. "God put them down to listen." The Nettle girl believes it at once. Kit's father had the service on the car radio. She doesn't believe it and can't say why. | The first theory, voiced and wrong ([17](17-book-one-outline.md#9-and-10--the-theory-voiced-and-wrong)). Kit is an outsider in the ward too. Show the rows she has kept Ambrose out of, and let the reader see her reason without her saying it. |
 | Errand | Formula is low. Kit offers to go to the junction, because nobody else wants to and because it gets her off the road. | Domains sorting themselves; Kit takes the edge job. |
-| Moth | At the junction, past the Harkers' padlocked pump, a Hills boy, fourteen, barefoot, sits on the kerb as if he's waiting for her. He asks for "the taxi man's daughter" and then uses her name. He says his grandmother is in the ground and is not dead. He says the ground will take her father too, if she asks it. He says it plainly, the way you'd give directions. | Moth is the only other person who hears it ([supporting](cast/supporting.md#the-hills)). Near him the running-tap sound is louder. |
+| Moth | At the junction, past the Harkers' padlocked pump, a Hills boy, fourteen, barefoot, sits on the kerb as if he's waiting for her. He asks for "the taxi man's daughter" and then uses her name. He says his grandfather (Old Man Tobit) is in the ground and is not dead. He says the ground will take her father too, if she asks it. He says it plainly, the way you'd give directions. | Moth is the only other person who hears it ([supporting](cast/supporting.md#the-hills)). Near him the running-tap sound is louder. |
 | Sequel | She walks back with two tins and doesn't tell anyone about Moth. | The secret grows. |
 
 **Must land:** Moth not selling it. The scariest thing about him is that he's calm. Kit's dry deflation ("You said that last time.") meeting someone it doesn't work on.
@@ -66,3 +66,68 @@ Update Who knows in Studio when it's written: Kit knows that Juno knows about th
 - Three scenes; "said" only; Kit's dialect lighter than Ambrose's and heavier than Juno's ([21](21-style-sheet.md)).
 - Count the tics ([14](14-writing-rules.md#tics-to-count-before-saving-a-version)): counting is Kit's, so ration the other characters' counting in this chapter.
 - No glow and no magic language for the rooting. White threads, cool firm skin, steady breath.
+
+## Chapter 10 — Juno — working title "Turgor"
+
+**POV:** [Juno](cast/juno.md), close third.
+**Days:** 10 (dawn) to the morning of 11.
+**Length:** about 3,000 words, three scenes.
+**What the chapter does:** Juno meets the first thing on the island that works better than her book, and it belongs to Kit. The Trace's central argument starts, nobody wins it, and two girls stop speaking. Granny gets worse. Juno learns about the ship from the wrong person.
+**Sources:** [17](17-book-one-outline.md) row 10 and "the theory, voiced and wrong", [09](09-relationships.md#juno-and-kit-the-argument), [04](04-sleepers.md), [19](19-imagery-and-threads.md) secrets ledger (the ship), cost audit item 6.
+
+### Where Juno is when it opens
+
+Day 10. Twelve bags in the Mosses' front room and a secret about where they came from. Granny first on the list of who dies next. Ria's name on her wrist. She hasn't slept in a bed since night one. She looked at the steel box in Kit's bedroom on day 8 and kept walking; she has said nothing to Kit about it.
+
+### Scene 1 — the yard (day 10, dawn)
+
+| Beat | What happens | Why |
+| --- | --- | --- |
+| Open | Juno coming down the road at first light, the "someone" from the end of ch 9. She's going to bring Ambrose up to the ward, finally, because the turning schedule has a gap in it and she's tired of the gap. | Picks up ch 9's last beat from the other side. Her want is order. |
+| The empty gallery | Mattress, cushion, no Ambrose. A second of pure fear (he's dead, Kit's buried him) before she sees them in the yard. | The worst reading first, the way Juno thinks. |
+| The exam | She kneels and does what she does: the coma table. Breathing twelve. Pulse. Then she pinches the skin on the back of his hand, and it **springs back**. In ch 1 it sank slowly. Nobody in her ward has skin that springs back. | The book's own test turned against her. The single physical fact the chapter turns on. Keep it clinical: no wonder, just the number. |
+| The threads | White threads at the wrist, into the soil. Her book has a word for this: fungal infection. She says it out loud. Kit says, "He's fine." Both are true. | Neither is wrong ([09](09-relationships.md#juno-and-kit-the-argument)). |
+| The argument, quiet | It stays low because it's dawn and they are both tired. Juno: you don't know what it is, you can't take it back. Kit: you don't know what it is either, and yours are dying. Kit's hand is flat on the soil the way Juno's lies flat on the exercise book. | Juno's tell, mirrored in Kit. **PROPOSED envy beat:** Juno sees it and doesn't name what she feels. |
+| Turn | Juno says she has to tell the others. Kit: "Tell them what?" Juno walks back up. Halfway, she realises she checked Ambrose more carefully than she has checked Granny in two days. | The decision and its cost in one turn. |
+
+**Must land:** the skin springing back. Juno's steadiest face, which only ever means something is badly wrong.
+
+### Scene 2 — the table (day 10)
+
+| Beat | What happens | Why |
+| --- | --- | --- |
+| Granny's numbers | First thing back: Granny. Breaths ten, irregular. A pause and then a gasp, the pattern Mr. Hale had the night before he died ([ch 5](../chapters/ch05-spoon/LATEST.md)). Juno writes it down and doesn't let herself read it. | Granny failing, the outline's other half of the chapter. The arithmetic is the horror ([19](19-imagery-and-threads.md)). |
+| Word gets out | Olli was on the gallery and saw Juno's face, so by noon the road knows. Half of them walk down to look at Ambrose. Ida calls it unholy. The Nettle girl asks if her mother can go in the ground today. | The Trace splits along lines it already had. Plants secret rooting ([04](04-sleepers.md): "some do it in secret"). |
+| The theory | At the kitchen table, everyone in. Ida says Sunday again: God put them down to listen. Juno answers with the nursing book: adolescent brains are still wiring until the mid-twenties. "It got into something that's still being built. It couldn't get into something finished." She's half right and says it like it's whole. | The theory, voiced and wrong ([17](17-book-one-outline.md#9-and-10--the-theory-voiced-and-wrong)). Juno gets to be the clever one exactly once in the chapter. |
+| Two listeners | Fen thinks about the ship and says nothing. Tock asks the only good question: "Then what does it do to the finished ones?" Nobody answers. | Fen's silence goes on the bill for scene 3. |
+| The ruling | Juno says nobody puts anybody in the ground until they know what it is. Not a vote this time; she just says it, in the on-duty voice. Kit, at the door: "I didn't ask you." | She breaks her own rule (the six decide by domain, [08](08-factions-and-politics.md)) and acts like the leader she keeps saying she isn't. Cass (ch 11) notices. |
+
+**Must land:** Tock's question, left hanging. Kit's line at the door, said flatly, without a fight in it.
+
+### Scene 3 — the night and the note (night 10 into morning 11)
+
+| Beat | What happens | Why |
+| --- | --- | --- |
+| The spoon | Juno alone with Granny, the spoon, the rhythm of the pauses. She says the prayer under her breath, the one she knows every word of and couldn't say in ch 5. She gets halfway. | Her love is the job. The prayer is the closest she comes to asking for help. |
+| The door | At three, she goes to the gallery and looks down the hill at Kit's yard, the dark square of turned soil. She stands there long enough to count to thirty, twice. She goes back in. | The thirty-seconds rule turned outward: she doesn't let the wanting have as long as it wants. Granny stays in the bed. This is the decision that costs most later. |
+| The note | Dawn. A Harbour kid at the bend gate with a folded page from Judge (Ears is the obvious messenger). One line: *Ask Fen what the ship said.* | Juno learns about the ship from Judge, not Fen, as the ledger requires ([19](19-imagery-and-threads.md)). Judge never lies; he hurts with the truth. |
+| Last beat | She goes down for water past Kit's yard. Kit is on the step. For the first time in eight months, Juno doesn't say "Morning, Kit." Neither of them speaks. The note is in her pocket. Up the hill, Fen's light is still on. | They stop speaking. Pays "Morning, Kit" ([Juno](cast/juno.md)). Hands off to ch 11 (Fen, between them). |
+
+**Must land:** the missing "Morning, Kit". Don't explain it; the reader has heard her say it every time.
+
+### Setups this chapter pays or plants
+
+- **Pays:** "someone coming down the road" (ch 9), the skin tent that sank slowly (ch 1), the coma table and the nursing book (ch 2), Mr. Hale's breathing (ch 5), Fen's ship secret (ch 6; the ledger's "by ch 10 at the latest"), "Morning, Kit" (ch 1 onwards), Juno's glance at the steel box (she still says nothing; Kit still doesn't know she knows).
+- **Plants:** the Nettle girl and secret rooting, Juno's ruling (Cass's "why do six decide for thirty", ch 11), the brain-plasticity theory the kids believe for most of book one, Tock's question, Juno's envy, Granny's pauses (they don't stop until ch 29).
+- **Not yet:** Juno confronting Fen (that's ch 11, from Fen's side); the twelve bags' source; any hint of Juno's power.
+
+### Who knows what after ch 10
+
+Juno knows about the ship from Judge (and knows Fen kept it). The whole road knows Ambrose is rooted. Nobody knows about Moth. Kit still doesn't know Juno knows about the gun.
+
+### Checks before saving
+
+- Three scenes; "said" only; Juno's dialect near-standard on duty, lighter with the friends ([21](21-style-sheet.md)).
+- Her tells, rationed: "okay" in threes once at most, the glasses once, the hand flat on the page once (and once on Kit, in scene 1).
+- Kit gets no interior here. Everything she feels is on her face or in her four words.
+- No villain. If a reader picks a side by the end, the chapter is off.
