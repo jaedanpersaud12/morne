@@ -44,7 +44,7 @@ She did the arithmetic out loud, because it kept her hands still. Mrs. Pell was 
 
 Granny was seventy-four. Mr. Hale was ninety. Granny had coughed twice. Mr. Hale had coughed once, and swallowed some.
 
-By the book, he was the better swallower. By the book, the bag went to the one who couldn't drink. It was a good rule. She had read it at fourteen in a library and it was still a good rule, and it gave her the answer she wanted, and kneeling on Dr. Moss's floor she couldn't tell which of those things she was obeying.
+By the book, he was the better swallower. By the book, the bag went to the one who couldn't drink. It was a good rule. She had read it at fifteen in a library and it was still a good rule, and it gave her the answer she wanted, and kneeling on Dr. Moss's floor she couldn't tell which of those things she was obeying.
 
 "Granny," she said.
 
