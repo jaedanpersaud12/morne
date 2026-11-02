@@ -184,7 +184,7 @@ IV fluid. Clear bags, a litre each. She counted without meaning to.
 
 Twelve.
 
-"From the hospital store," Judge said. "There's more. Nobody up there could find it; I could. That's for the sixteen." He was already walking back into the square. "Gift."
+"From the hospital store," Judge said. "There's more. Nobody up there could find it; I could. That's for the fifteen." He was already walking back into the square. "Gift."
 
 She stood at the edge of Morne Bay with twelve bags of the thing she'd done division over eight nights ago in a sleeping doctor's study, and Lonny picked up the box without a word, and she knew exactly what a gift from Cole Mayers was, and she took it anyway.
 
