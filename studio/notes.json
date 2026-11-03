@@ -24,6 +24,16 @@
         "finding": "Praise, not a problem. The detail matches the bible: tally book, pressed shirt, car on Sundays [bible/cast/kit.md L67]. It also pays off later, since the fare book and pen are in the steel box in ch 9 [ch 9 L43]. One loose end: the pen is lost between the seats [ch 1 L5], but he puts a pen down at 4:45 [ch 1 L109].",
         "at": "2026-11-03T16:45:27.291Z"
       }
+    },
+    {
+      "id": "nmw0xj84grcio",
+      "file": "chapters/ch01-dust/LATEST.md",
+      "quote": "nine houses",
+      "line": 17,
+      "body": "make the Trace eleven houses — update every mention in the chapters and the bible, and fix any counts that depend on it",
+      "resolved": false,
+      "created": "2026-11-03T16:56:09.185Z",
+      "machine": "jaedans-macbook-air-local"
     }
   ]
 }
