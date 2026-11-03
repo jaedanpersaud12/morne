@@ -2,7 +2,7 @@
 
 Juno gave it thirty seconds.
 
-She had sent Kit back down the hill. She had sent Tock out with his phone to every house on the road. She had put Olli on the couch with the TV on and told him Granny was sleeping hard, in the most bored voice she could find, and he had believed her, because he always did. Then she had walked into the downstairs bathroom, shut the door, sat on the edge of the tub, and shaken so hard her teeth clicked.
+She had sent Kit back down the hill and Tock out with his phone to every house on the road. She had put Olli on the couch with the TV on and told him Granny was sleeping hard, in the most bored voice she could find, and he had believed her, because he always did. Then she had walked into the downstairs bathroom, shut the door, sat on the edge of the tub, and shaken so hard her teeth clicked.
 
 She let it happen. She counted it. Thirty seconds was what it got, because two years ago, in the worst stretch of a bad year, she had learned that if you let the shaking have as long as it wanted, it took everything.
 
@@ -20,17 +20,17 @@ Dot Vale was seventy-four years old and five feet tall, and in Juno's whole life
 
 That was Granny. On the floor now, with the white headtie still perfect and nothing to say.
 
-Juno picked up the house phone and dialled 999. It rang for a long time and then stopped ringing and did nothing else, no voice, no click, an open line with nobody on it. She listened to the nothing for ten seconds. Then she put it down.
+Juno picked up the house phone and dialled 999. It rang for a long time before it stopped ringing and did nothing else, no voice, no click, an open line with nobody on it. She listened to the nothing for ten seconds, then put it down.
 
 She tried the hospital in Morne Bay. Same.
 
-She tried her father in Toronto, which was stupid, because what was he going to do from Toronto, and it went to voicemail, and she hung up before the beep. She didn't know what she would have said.
+She tried her father in Toronto, which was stupid, because what was he going to do from Toronto, and when it went to voicemail she hung up before the beep. She didn't know what she would have said.
 
 ---
 
 They came in pieces over the next half hour, and every one of them brought the same news.
 
-Lonny first. His father was down in the La-Z-Boy. His mother was down on the bathroom floor, and that was where he'd found her, and he had carried her to the bed before he thought about whether he should. His little brother Bix was eleven and awake and had refused to leave, so Lonny had locked the front door with Bix inside and come anyway. He said it like a confession.
+Lonny first. His father was down in the La-Z-Boy. His mother had gone down on the bathroom floor, and he had carried her to the bed before he thought about whether he should. His little brother Bix was eleven and awake and had refused to leave, so Lonny had locked the front door with Bix inside and come anyway. He said it like a confession.
 
 Sol came holding her phone in both hands. Both her parents, on the couch in front of the cricket, with the volume still up. She had turned the TV off, and then turned it back on, because the quiet was worse.
 
@@ -82,9 +82,9 @@ Juno let them have it. Half of her believed it too, and the half that didn't was
 
 "Probably," she said. "But we don't do nothing till then."
 
-Sol put her phone face down on the table, very carefully. Lonny sat on the floor with his back against the cupboards. Tock didn't move at all, which for Tock was the worst sign.
+Sol put her phone face down on the table, very carefully. Lonny sat on the floor with his back against the cupboards, and Tock didn't move at all, which for Tock was the worst sign.
 
-Juno found a school exercise book in the drawer by the stove, half of it used for Olli's spelling. She tore those pages out. She wrote at the top of a clean one and said it out loud as she wrote, because saying it kept the shaking out of her hands.
+Juno found a school exercise book in the drawer by the stove, half of it used for Olli's spelling, and tore those pages out. She wrote at the top of a clean one and said it out loud as she wrote, because saying it kept the shaking out of her hands.
 
 "One. The sleepers. They can't drink. Three days without water, that's the number, less in this heat, less if they're old. So that's first. Two—"
 
@@ -102,7 +102,7 @@ The Pells had a baby. Eight months old. Juno had held her in September at the ch
 
 He was already moving. The door hit the wall behind him.
 
-Sol was crying without making a sound. Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
+Sol was crying without making a sound, and Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
 
 *Two. Babies. Small kids. Who's alone.*
 
@@ -116,7 +116,7 @@ Tock's feet on the road, coming back. Faster.
 
 He came through the door with the baby against his chest. She was screaming, a thin furious sound, red-faced and soaked through her sleepsuit. Tock kept saying "it's okay, it's okay" in a voice that wasn't. Juno had never in her life been so glad to hear anything scream.
 
-"Alive," Tock said. "She was just in there. In the dark. I walked right past the door." His hands were shaking. He wouldn't give her over. "I walked right past."
+"Alive," Tock said. "She was just in there. In the dark. I walked right past the door." His hands were shaking, but he wouldn't give her over. "I walked right past."
 
 "You went back." Juno's voice came out steadier than she was. "Sol, warm water, there's bottles in their kitchen. Lonny, go with Tock to every house again, every room this time. Every crib, every cot, every bathroom. Anybody under five comes here."
 
@@ -130,7 +130,7 @@ She looked at the list. At the word.
 
 "Town has to do town." She said it flat, like a decision. "There's a hundred kids like us down there right now doing exactly this. Walking into houses. We're not special. We're just the ones up here."
 
-Nobody argued. She wished someone would. She wrote *road at first light* under the list, and under that, smaller, *town?*, and left the question mark, because she didn't have the right to cross it out and didn't have the means to answer it.
+Nobody argued, though she wished someone would. She wrote *road at first light* under the list, and under that, smaller, *town?*, and left the question mark, because she didn't have the right to cross it out and didn't have the means to answer it.
 
 ---
 
@@ -158,23 +158,23 @@ Her phone buzzed. Tock.
 
 *9 houses. 16 adults. 13 kids counting us. 1 baby. all adults down. all kids ok. everybody coming to yours*
 
-She read it twice. Then she put the phone down on the railing and held onto the railing with both hands, because for a second the balcony had tilted.
+She read it twice before she put the phone down on the railing and held onto the railing with both hands, because for a second the balcony had tilted.
 
 Sixteen people who couldn't drink. Six bags. Three days. Granny was seventy-four and Mr. Hale was ninety and the arithmetic didn't care about either of them.
 
 She could lie about the bags. Tell them there were enough and ration in secret, and nobody would know until somebody's mother didn't wake up. Or she could put the carton on the kitchen table and tell twelve kids the truth and watch what it did to them.
 
-She stood there until she'd chosen. Then she picked up the carton and went down.
+She stood there until she'd chosen, then picked up the carton and went down.
 
 The kitchen was full now, kids on every chair and along the walls, the Nettle girl asleep against Lonny with her thumb in her mouth. The baby had stopped screaming and was asleep on Tock's shoulder, and Tock hadn't moved in twenty minutes in case she woke.
 
-Juno put the carton on the table where everyone could see it. She opened the notebook and wrote *Day 0* at the top of the list. She had almost written *Day 1* and crossed it out. She wanted to count from the beginning. She had a feeling she'd be counting a long time.
+Juno put the carton on the table where everyone could see it, then opened the notebook and wrote *Day 0* at the top of the list. She had almost written *Day 1* and crossed it out, because she wanted to count from the beginning. She had a feeling she'd be counting a long time.
 
 Her phone rang, a real call this time. Kit, from the bottom of the road.
 
 "There's people at the bend."
 
-Juno stood up. The kitchen went quiet around her.
+Juno stood up, and the kitchen went quiet around her.
 
 "Who?"
 

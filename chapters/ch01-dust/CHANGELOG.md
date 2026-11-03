@@ -10,3 +10,4 @@ Earlier drafts (v1 literary, v2 Gone-style short, v3 full-length with trading-ca
 - v005 (20261102-0253): Setting rewrite: Quarry Trace (9 ordinary houses, no wall), Kit's father a taxi driver who moved in 8 months ago, counts 16 adults / 13 kids
 - v006 (20261102-1544): Review pass: Celsius; cut duplicated goat line
 - v007 (20261103-0900): Kit and the group: they tried (Lyra's pelau, Lonny's wave, Sol's charger, the goat explained twice and lost), it's the shared childhood that's hard to get into. L139 now 'the one house where somebody had kept on asking'.
+- v008 (20261103-0930): Flow pass: broke up 'and' chains and choppy runs with conjunctions; dialogue, facts and line numbers unchanged.

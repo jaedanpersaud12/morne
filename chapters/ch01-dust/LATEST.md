@@ -2,11 +2,11 @@
 
 Kit's father fell asleep three times before lunch, and the first time, she laughed.
 
-He was in the driver's seat of the taxi in the yard, with both front doors open for the breeze and his chin on his chest and his mouth open, snoring over the little book where he wrote his fares. She knocked on the roof. He jumped so hard the pen went down between the seats.
+He was in the driver's seat of the taxi in the yard, with both front doors open for the breeze, his chin on his chest and his mouth open, snoring over the little book where he wrote his fares. When she knocked on the roof, he jumped so hard the pen went down between the seats.
 
 "Dust," he said, and pointed up.
 
-The sky was the colour of weak tea. Sahara dust had blown in overnight, four thousand miles of it, the way it did a few times a year, and it turned the sun into a dull orange coin you could look straight at. It got in your eyes. It got in your throat. Everyone on the island blamed it for everything: headaches, bad moods, dogs that wouldn't eat.
+The sky was the colour of weak tea. Sahara dust had blown in overnight, four thousand miles of it, the way it did a few times a year, and it turned the sun into a dull orange coin you could look straight at. It got in your eyes and your throat. Everyone on the island blamed it for everything: headaches, bad moods, dogs that wouldn't eat.
 
 "It's November," Kit said. "Dust comes in June."
 
@@ -20,9 +20,9 @@ From the bottom you saw the bend.
 
 The flat was two concrete rooms under somebody else's empty upstairs, the first house on the road, a bedroom, a front room with a hotplate, and a bathroom with a window that didn't close. It was the two of them in it, her and Ambrose, and had been for eight months, since her mother stayed in town and the rent in town got to be too much for one.
 
-The second time was around ten o'clock. She was pegging a sheet when she looked over and his head was down again, and this time nothing in her wanted to laugh. She went over to the car and shook his shoulder.
+The second time was around ten o'clock. She was pegging a sheet when she looked over and his head was down again. This time nothing in her wanted to laugh, so she went over to the car and shook his shoulder.
 
-He woke up slow. His eyes opened and took a second to find her.
+He woke up slow, and when his eyes opened they took a second to find her.
 
 "Daddy. Go inside and lie down."
 
@@ -54,7 +54,7 @@ Juno noticed. Juno always noticed.
 
 "Morning, Kit."
 
-She was tall, with her hair up in a puff and wire glasses she pushed up with one finger. She had been top of the whole island last year, and there had been a picture in the paper, which Kit had seen in a barbershop in town before she ever knew Juno's face, and nobody on the hill had been surprised. She was going to be a doctor. That was settled.
+She was tall, with her hair up in a puff and wire glasses she pushed up with one finger. She had been top of the whole island last year, with a picture in the paper that Kit had seen in a barbershop in town before she ever knew Juno's face. Nobody on the hill had been surprised. She was going to be a doctor. That was settled.
 
 "Morning."
 
@@ -66,11 +66,11 @@ She asked every time and meant it every time, and every time Kit said the same t
 
 "Okay." No hurt in it. "Mr. Wick! Good morning!"
 
-"Morning, Miss Vale." Her father leaned out of the car as Lonny brought the Hales' pickup down the hill behind them. His voice was his own voice, and he had his hand up, steady, and something in Kit's chest that had been clenched since ten o'clock let go a little.
+"Morning, Miss Vale." Her father leaned out of the car as Lonny brought the Hales' pickup down the hill behind them. His voice was his own voice, his hand up and steady, and something in Kit's chest that had been clenched since ten o'clock let go a little.
 
 Fen was last into the tray of the pickup. He always was.
 
-He stopped by the front step on the way. He didn't look at her, exactly. He looked at the ground beside her left foot, which was his version, and pulled one earphone out.
+He stopped by the front step on the way but didn't look at her, exactly. He looked at the ground beside her left foot, which was his version, and pulled one earphone out.
 
 "It's not even a goat," he said. "I'll tell you later."
 
@@ -84,15 +84,15 @@ The pickup went round the bend and down toward the junction, six in the tray and
 
 The island was heavy all day.
 
-The church service on the car radio kept stopping. The pastor would lose his place in a verse and go quiet, then start the verse again. Mrs. Moss at number four was asleep in her verandah chair at half past nine with her Bible open on her chest, and Mrs. Moss was a woman who caught other people doing that. The yellow dog at the Pells' didn't bark at the gas truck. The gas truck came late, and the driver sat in his cab for a long minute after he parked, hands on the wheel, before he shook himself and got down.
+The church service on the car radio kept stopping. The pastor would lose his place in a verse and go quiet before starting the verse again. Mrs. Moss at number four was asleep in her verandah chair at half past nine with her Bible open on her chest, and Mrs. Moss was a woman who caught other people doing that. The yellow dog at the Pells' didn't bark at the gas truck, which came late, and the driver sat in his cab for a long minute after he parked, hands on the wheel, before he shook himself and got down.
 
 "Dust," her father said when she told him. "Everybody feeling it."
 
-He was feeling it. She brought him the thermos and he drank all of it and she watched his eyelids anyway. Twice she had to say his name. The second time he laughed at himself, a short embarrassed sound, and got out of the car and did ten squats in the yard in his pressed shirt, which was so unlike him that she laughed too, and for a minute it was almost fine.
+He was feeling it. When she brought him the thermos he drank all of it, and she watched his eyelids anyway. Twice she had to say his name. The second time he laughed at himself, a short embarrassed sound, then got out of the car and did ten squats in the yard in his pressed shirt. It was so unlike him that she laughed too, and for a minute it was almost fine.
 
 The pickup came back at two. That was early.
 
-Nobody in it was talking. The cooler was still heavy. Juno jumped down out of the tray at the bend and came straight to the car, not to Kit, to the car, and looked in at Kit's father for a second too long before she turned.
+Nobody in it was talking, and the cooler was still heavy. Juno jumped down out of the tray at the bend and came straight to the car, not to Kit, to the car, and looked in at Kit's father for a second too long before she turned.
 
 "Lifeguard was asleep on his tower," she said. "We thought he was dead. Lonny climbed up. He wasn't dead, he was asleep, and we couldn't wake him. And the doubles lady by the car park, her pot was burning with her sitting right next to it. So we came back." Fast and steady, the voice she used when she was in charge of something. Then, quieter: "Your father okay?"
 
@@ -104,7 +104,7 @@ Juno looked at him again through the windscreen. Her mouth did something small.
 
 They went up the hill, quieter than they'd come down.
 
-Kit kept him awake. She talked to him. She made him stand, made him walk up to the Pells' gate and back, which he did, grumbling, and then he sat down heavily and told her she was worse than her mother, and then said sorry, and then said it again.
+Kit kept him awake. She talked to him and made him stand, made him walk up to the Pells' gate and back, which he did, grumbling. Then he sat down heavily and told her she was worse than her mother, said sorry, and then said it again.
 
 At a quarter to five, back in the driver's seat with her standing right there at the door, he put the pen down in the middle of a word.
 
@@ -120,7 +120,7 @@ His skin was cool.
 
 That was the thing that turned her stomach over. It was thirty-four degrees in that car with both doors open, and her father, who sweated through his shirt by noon every day of his life, was cool to the touch.
 
-She took out her phone and dialled 999. It rang a long time. Then it stopped ringing and nothing happened, no voice, no click, just an open line with nobody on it.
+She took out her phone and dialled 999. It rang a long time before it stopped ringing and nothing happened, no voice, no click, just an open line with nobody on it.
 
 She hung up. Her hands were shaking now. She dialled the other number, the one she knew by heart and had never once used.
 
@@ -142,7 +142,7 @@ The Vales' front door was open. It was never open.
 
 Granny Vale was on the kitchen floor with her white Sunday headtie still perfect. She hadn't fallen. She was flat on her back with her hands at her sides, the way you'd lie down on purpose. Olli was wedged between the fridge and the wall with his knees up.
 
-Juno was kneeling beside her grandmother with two fingers on the old woman's wrist, lips moving, counting. She looked up. Her face was calm. Her eyes were not.
+Juno was kneeling beside her grandmother with two fingers on the old woman's wrist, lips moving, counting. She looked up, and her face was calm. Her eyes were not.
 
 "Your father?"
 
@@ -170,7 +170,7 @@ Halfway down the hill she slowed, because her legs had gone strange, and because
 
 Two houses. Two grown people. Same breathing.
 
-She started running again, and the whole way down she was making a list of what else she should have done, water, a wet cloth, the fan turned to face him, and she came past the Pells' hibiscus to the top of the bend and stopped dead.
+She started running again, and the whole way down she was making a list of what else she should have done, water, a wet cloth, the fan turned to face him, until she came past the Pells' hibiscus to the top of the bend and stopped dead.
 
 The corbeaux had come down.
 

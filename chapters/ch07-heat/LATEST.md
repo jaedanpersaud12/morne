@@ -2,7 +2,7 @@
 
 Tock Vale had been running a fever for three days, and he hadn't told anybody, because if Juno found out she would take the baby away from him.
 
-He was hot all the time, without any of the shivering that came with being sick. He was hot the way the road was hot at two in the afternoon, from the inside out, and it didn't break. He woke up in a sheet so wet he had to hang it on the balcony rail. He drank water until his stomach sloshed and he was still thirsty. When he held Vee against his chest she went pink and sweaty in five minutes and squirmed off him like he was a radiator, and he told himself it was the weather. It was November. It was thirty-one degrees. Everybody was hot.
+He was hot all the time, without any of the shivering that came with being sick. He was hot the way the road was hot at two in the afternoon, from the inside out, and it didn't break. He woke up in a sheet so wet he had to hang it on the balcony rail. He drank water until his stomach sloshed and he was still thirsty. When he held Vee against his chest she went pink and sweaty in five minutes and squirmed off him like he was a radiator, but he told himself it was the weather. It was November. It was thirty-one degrees. Everybody was hot.
 
 On the sixth morning, the day after the funeral, he was in Granny's kitchen boiling water.
 
@@ -18,11 +18,11 @@ Tock looked at it. The ring of blue under the pot shrank, flickered orange at th
 
 "No," he said. "No, no, no."
 
-The cylinder under the counter was empty. He knew it before he tipped it; it was too light, it rocked like a drum. There were thirteen more cylinders in the other eight kitchens on the road, and Juno had a list of them in the exercise book, one a day, and the next one on the list was the Pells'. He went two doors down and came back with it on his shoulder and got down on the kitchen floor to change it.
+The cylinder under the counter was empty. He knew it before he tipped it; it was too light, it rocked like a drum. There were thirteen more cylinders in the other eight kitchens on the road. Juno had a list of them in the exercise book, one a day, and the next one on the list was the Pells'. He went two doors down, came back with it on his shoulder and got down on the kitchen floor to change it.
 
 The regulator wouldn't seat.
 
-He had watched Granny do this a hundred times. You pushed the regulator down onto the valve and turned the collar until it clicked. He pushed. He turned. It didn't click. He took it off and put it back on and it still didn't click, and the new cylinder hissed at him through the gap, and he pulled it off before the kitchen filled with gas.
+He had watched Granny do this a hundred times. You pushed the regulator down onto the valve and turned the collar until it clicked. He pushed. He turned. It didn't click. He took it off and put it back on and it still didn't click. When the new cylinder hissed at him through the gap, he pulled it off before the kitchen filled with gas.
 
 In the living room, Vee started to cry.
 
@@ -44,7 +44,7 @@ It went down his arms. He felt it go, the way you feel a cold drink go down, exc
 
 He let go.
 
-The pot rocked on the stove. It went on boiling for a few seconds by itself and then it calmed down and sat there, steaming.
+The pot rocked on the stove. It went on boiling for a few seconds by itself before it calmed down and sat there, steaming.
 
 The black plastic handles had melted. Both of them. There were dents in them shaped like his fingers.
 
@@ -70,25 +70,25 @@ He stood in the kitchen with his hands held out in front of him, away from every
 
 He scrubbed the counter for an hour.
 
-Granny's scouring powder, the green tin under the sink. Granny's brush. Granny's counter, which she had wiped down every single night of his life before she went to bed, in a circle, left to right, and then hung the cloth over the tap to dry. The black came off the top in a grey paste. Under it the wood was burned. The handprint went down into the grain. He scrubbed until his arms ached and it was still there, paler, a ghost of a hand, five fingers and a palm on the place where Granny used to cut bread.
+Granny's scouring powder, the green tin under the sink. Granny's brush. Granny's counter, which she had wiped down every single night of his life before she went to bed, in a circle, left to right, and then hung the cloth over the tap to dry. The black came off the top in a grey paste, but under it the wood was burned. The handprint went down into the grain. He scrubbed until his arms ached and it was still there, paler, a ghost of a hand, five fingers and a palm on the place where Granny used to cut bread.
 
 He was twelve the last time he'd put his hand on something in this kitchen in anger. It had been the bathroom door, hollow, cheap, and his fist had gone straight through it after a fight with Juno about nothing he could remember now. Granny had come out of her room in her headtie and looked at the hole and then at him. She had made him kneel on these tiles, right here by the stove.
 
 "That temper is a fire," she'd said, standing over him. "And fire belongs to the devil. You pray it out of you, Tobias. Or one day it will burn this house down with you inside."
 
-He had prayed. He had knelt on the tile till his knees went numb and asked God to take it out. It hadn't gone anywhere. He had learned to put it somewhere else instead. Kick the leg of the table. Not hard. Then harder. Take it out on things that couldn't feel it.
+He had prayed. He had knelt on the tile till his knees went numb and asked God to take it out. It hadn't gone anywhere, so he had learned to put it somewhere else instead. Kick the leg of the table. Not hard. Then harder. Take it out on things that couldn't feel it.
 
 He hung the cloth over the tap to dry.
 
 For the rest of the day he didn't touch the baby.
 
-He boiled water on the new cylinder once Lonny got the regulator on, in thirty seconds, without even looking. He made the bottles with Granny's oven gloves on, the thick quilted ones with the chillies printed on them, and Bix laughed at him until Tock looked at him, and then he stopped. When Vee cried he sent Bix. When Bix couldn't settle her he sent her down the road to Sol, who held her too carefully and talked to her about Arsenal. He could hear her from the kitchen, going on and on, and every time she did, his hands got hot again and he put them under the cold tap and held them there until the water ran warm.
+He boiled water on the new cylinder once Lonny got the regulator on, in thirty seconds, without even looking. He made the bottles with Granny's oven gloves on, the thick quilted ones with the chillies printed on them. Bix laughed at him until Tock looked at him, and then he stopped. When Vee cried he sent Bix. When Bix couldn't settle her he sent her down the road to Sol, who held her too carefully and talked to her about Arsenal. He could hear her from the kitchen, going on and on. Every time she did, his hands got hot again, so he put them under the cold tap and held them there until the water ran warm.
 
 He told everyone it was the fever. He told Juno he didn't want Vee to catch it. Juno, who hadn't slept in a bed since the first night, looked at him for half a second longer than usual and then said, "Fine. Drink water," and went back down to the ward. She didn't have room in her head for anything else. He had counted on that.
 
 On the seventh morning there was a ship.
 
-He heard the screaming from the kitchen and ran out onto the balcony, and the whole road was out, and Bix was up on the Hales' tank stand pointing at the sea, and there it was, grey, flat, sitting on the edge of the world. Kids were jumping. Somebody was banging a pot. Sol was crying and laughing. Across the road, Fen was on his roof with the radio, not moving. Then Juno came out into the road, and Tock heard her say *somebody's coming* in a voice he hadn't heard her use since before, and he felt his whole chest go loose.
+He heard the screaming from the kitchen and ran out onto the balcony. The whole road was out, and Bix was up on the Hales' tank stand pointing at the sea, and there it was, grey, flat, sitting on the edge of the world. Kids were jumping. Somebody was banging a pot. Sol was crying and laughing. Across the road, Fen was on his roof with the radio, not moving. When Juno came out into the road, Tock heard her say *somebody's coming* in a voice he hadn't heard her use since before, and he felt his whole chest go loose.
 
 Somebody's coming. Grown people, with a ship. Somebody to take the babies and the sleepers and the counting off Juno. Somebody to look at his hands and tell him what was wrong with them.
 
@@ -96,7 +96,7 @@ He went to tell Granny.
 
 The ward was empty except for the sleepers and the smell. Everyone who could walk was up on the road looking at the sea. The windows were open and the curtains moved. Fourteen people on mattresses, breathing slow. Mr. Hale's place by the wall had a clean sheet on it now, folded, and nobody had moved anyone into it.
 
-Granny was by the window. Olli's tape was over her eyes. Somebody had tied her white headtie back on, crooked. Tock knelt down beside her mattress and fixed it.
+Granny was by the window with Olli's tape over her eyes. Somebody had tied her white headtie back on, crooked. Tock knelt down beside her mattress and fixed it.
 
 "There's a ship," he said. "Navy. They're coming. You're going to be okay."
 
@@ -124,7 +124,7 @@ Ida Moss was standing in the doorway with a plastic basin in her arms, looking a
 
 He thought she would scream, or pray, or run and get Juno. She did none of those things. She came in and put the basin down on the dining table, carefully, like it was full, though it was empty. Then she came over and stood looking down at the floor beside Granny's mattress, at the crack, and the two pale patches on the tile where his hands had been, and the faint smell of hot stone.
 
-Ida was sixteen, the same as him. She'd been in his year at school since Form One and he had never liked her. She went to church three times a week. She told people when they were cursing. She talked the way Granny talked, every sentence finished properly, like she was reading it off a card.
+Ida was sixteen, the same as him. She'd been in his year at school since Form One and he had never liked her. She went to church three times a week and told people when they were cursing. She talked the way Granny talked, every sentence finished properly, like she was reading it off a card.
 
 "How long?" she said.
 
@@ -160,7 +160,7 @@ He didn't say anything. He couldn't. Something in his throat had closed.
 
 He didn't know.
 
-They found out in Granny's kitchen, with the door shut and the cylinder turned off. He put both hands on the sides of the big pot and Ida stood by the sink with her arms folded and he tried to be angry. He thought about the regulator. He thought about the crib in the Pells' house on the first night, which he had walked past. His hands went hot, too hot. The water went from still to boiling in two seconds and spat and burned his wrists, and he let go and swore, and Ida said "Language," without looking up.
+They found out in Granny's kitchen, with the door shut and the cylinder turned off. He put both hands on the sides of the big pot while Ida stood by the sink with her arms folded, and he tried to be angry. He thought about the regulator. He thought about the crib in the Pells' house on the first night, which he had walked past. His hands went hot, too hot. The water went from still to boiling in two seconds and spat and burned his wrists. He let go and swore, and Ida said "Language," without looking up.
 
 "Again," she said. "Not angry this time."
 
@@ -174,7 +174,7 @@ The heat went down his arms slowly this time. It didn't explode. It came out of 
 
 He held it there for a minute. Then he took his hands away, and the water slowed, and stopped.
 
-His legs went. Ida got a chair under him somehow. He was dizzier than he had been after the fete at fourteen. His mouth was dry as paper. He drank three glasses of water and ate a whole tin of sardines out of the tin with his fingers while Ida watched with her arms folded and didn't say anything about manners.
+His legs went. Ida got a chair under him somehow. He was dizzier than he had been after the fete at fourteen, and his mouth was dry as paper. He drank three glasses of water and ate a whole tin of sardines out of the tin with his fingers while Ida watched with her arms folded and didn't say anything about manners.
 
 "That's one pot," she said.
 

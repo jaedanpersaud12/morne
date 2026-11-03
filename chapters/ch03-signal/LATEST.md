@@ -62,13 +62,13 @@ It was the first time either of them had said it out loud. It didn't feel like a
 
 At ten he went up to the roof.
 
-The Quill house had a flat roof with a water tank and a satellite dish, and a plastic chair Fen had carried up there two years ago and never brought down. He brought the laptop. He brought the dongle, a black thing the size of a lighter that his father had called a waste of money, and that Fen had bought with birthday money anyway, because with it and a length of wire you could hear anything in the air. Taxis. Aircraft. Fishing boats talking at four in the morning. He had spent a lot of nights up here listening to people who didn't know they were being listened to.
+The Quill house had a flat roof with a water tank and a satellite dish, and a plastic chair Fen had carried up there two years ago and never brought down. He brought the laptop and the dongle, a black thing the size of a lighter that his father had called a waste of money, and that Fen had bought with birthday money anyway, because with it and a length of wire you could hear anything in the air. Taxis. Aircraft. Fishing boats talking at four in the morning. He had spent a lot of nights up here listening to people who didn't know they were being listened to.
 
 The dust had thinned enough to show stars. Below the hill the town was lit the way it was every night and silent the way it never was.
 
-He started on FM. The station was still playing the one song. He went through the whole band and it was the one song or nothing.
+He started on FM, where the station was still playing the one song. He went through the whole band, and it was the one song or nothing.
 
-Marine channels. Sixteen, the one every boat kept open for emergencies. Hiss. He sat on sixteen for five minutes with the volume up.
+Marine channels. Sixteen, the one every boat kept open for emergencies, was hiss, and he sat on it for five minutes with the volume up.
 
 Then he went looking, and it took twenty minutes.
 
@@ -78,9 +78,9 @@ It was on a channel the fishing boats used for weather, so faint he had to put h
 
 Fen looked at the dongle. It couldn't transmit. It could only hear.
 
-He was down the ladder before he'd finished the thought, through the house, past his father in the hall, into the garage. His father's boat radio was on the shelf above the workbench, the handheld they used on Sundays when they took the little boat out, before. It hadn't been charged in a year. He found the charger and plugged it in and stood in the dark garage watching the light go red, then nothing, then red, for four minutes, until the screen came on.
+He was down the ladder before he'd finished the thought, through the house, past his father in the hall, into the garage. His father's boat radio was on the shelf above the workbench, the handheld they used on Sundays when they took the little boat out, before. It hadn't been charged in a year. He found the charger, plugged it in, and stood in the dark garage watching the light go red, then nothing, then red, for four minutes until the screen came on.
 
-Back on the roof. The weather channel. The boy was still going.
+Back on the roof, on the weather channel, the boy was still going.
 
 "—press the button and talk. Anybody."
 
@@ -120,15 +120,15 @@ Fen sat with the handheld in his lap and the cold came up through him slowly, fr
 
 He could call her. Tell her what he'd done, let her decide what it meant. Or he could sit here and hope it meant nothing, and find out in the morning.
 
-He got up. He took the handheld down with him, because whatever happened next, the boy on the dock was going to call again, and Fen was going to be the one who answered.
+He got up and took the handheld down with him, because whatever happened next, the boy on the dock was going to call again, and Fen was going to be the one who answered.
 
 ---
 
-Lyra was asleep when he came down, folded across the foot of the bed with her head on her arms and one hand still reaching for their mother's. He put the handheld on the shelf by the door where he could hear it. He pulled Miss Tilda's blanket up over Miss Tilda. He checked his father's breathing in the hall. Twelve.
+Lyra was asleep when he came down, folded across the foot of the bed with her head on her arms and one hand still reaching for their mother's. He put the handheld on the shelf by the door where he could hear it, pulled Miss Tilda's blanket up over Miss Tilda, and checked his father's breathing in the hall. Twelve.
 
 Then he sat down in Lyra's chair and looked at his mother.
 
-He hadn't talked to her in months. Not properly. By the end you couldn't; she was too tired, or too far inside the morphine, or in too much pain to want words. He had sat with her instead and learned the machines and told himself that was the same thing.
+He hadn't talked to her in months. Not properly. By the end you couldn't; she was too tired, or too far inside the morphine, or in too much pain to want words. He had sat with her instead, learning the machines and telling himself that was the same thing.
 
 "Lyra wants to call everybody," he said, quiet, so he wouldn't wake his sister. "She's got a list. She was going to call the man from the church."
 
@@ -138,7 +138,7 @@ The concentrator hummed. The click came.
 
 He almost smiled.
 
-"You know the last time I danced? Not with her, she doesn't count." He stopped. The dining room had been the dining room then, and this bed had been a table, and the day he was thinking of had ended at it. "It was the day you came home from the first surgery. I came back from the studio and the car was in the drive and I knew, before I got out, that this was going to be a whole year. And I never went back."
+"You know the last time I danced? Not with her, she doesn't count." He stopped. The dining room had been the dining room then, this bed had been a table, and the day he was thinking of had ended at it. "It was the day you came home from the first surgery. I came back from the studio and the car was in the drive and I knew, before I got out, that this was going to be a whole year. And I never went back."
 
 The click came.
 
@@ -162,7 +162,7 @@ The garage was pitch black. He found the generator by memory, the yellow one on 
 
 He threw the transfer switch.
 
-The garage light came on. Then the hall. From the dining room the concentrator hummed and clicked, and Lyra said, "Okay. Okay. Okay," the way Juno said it.
+The garage light came on, then the hall. From the dining room the concentrator hummed and clicked, and Lyra said, "Okay. Okay. Okay," the way Juno said it.
 
 He went out the side door into the yard to breathe.
 

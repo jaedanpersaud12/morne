@@ -6,9 +6,9 @@ Not around nine. Nine. Fen had started to believe there was a clock on the deck 
 
 "Trace. You there?"
 
-On the fifth night Fen was there, because he was always there. He had been on the roof since the funeral. He had watched them carry Mr. Hale down the garden in his own sheet, and watched Lonny climb into the hole, and then he had come up the ladder with the laptop and stayed, because up here there was nobody to look at him and the machines made sense.
+On the fifth night Fen was there, because he was always there. He had been on the roof since the funeral. He had watched them carry Mr. Hale down the garden in his own sheet and watched Lonny climb into the hole. Then he had come up the ladder with the laptop and stayed, because up here there was nobody to look at him and the machines made sense.
 
-The generator ran from seven at night to seven in the morning now. Twelve hours, eighteen litres, enough to keep his mother's oxygen going through the dark and the fridge cold for Juno's antibiotics. In the day he ran the concentrator off a car battery and the inverter from his father's boat, which gave him four hours. For the rest of the day his mother breathed room air, and nothing happened. Her breathing stayed at eleven. The oximeter on her finger stayed at ninety-four. He had noticed that on the third day. He was trying not to think about what it meant.
+The generator ran from seven at night to seven in the morning now. Twelve hours, eighteen litres, enough to keep his mother's oxygen going through the dark and the fridge cold for Juno's antibiotics. In the day he ran the concentrator off a car battery and the inverter from his father's boat, which gave him four hours. For the rest of the day his mother breathed room air, and nothing happened. Her breathing stayed at eleven, and the oximeter on her finger stayed at ninety-four. He had noticed that on the third day. He was trying not to think about what it meant.
 
 That afternoon he and Lonny had siphoned Mr. Finch's Pajero, which was old and gave up forty litres without a fight, and Dr. Moss's Corolla, which was new and had a valve in the neck of the tank that stopped the hose. Fen had sucked on the hose anyway, because he hadn't known about the valve, and got a mouthful of petrol that had nothing to do with the car. He had spat in the Mosses' drain for ten minutes. He could still taste it.
 
@@ -54,11 +54,11 @@ Fen looked out at the dark where the town used to be. A few fires burned down th
 
 Hiss.
 
-He went down the ladder and out the front and across the road to the Vales'. The kitchen light was a candle in a jar. Through the window he could see Juno at the table with the exercise book open in front of her and a pen in her hand, not writing. She was sitting very still with her other hand flat on the page.
+He went down the ladder, out the front and across the road to the Vales'. The kitchen light was a candle in a jar. Through the window he could see Juno at the table with the exercise book open in front of her and a pen in her hand, not writing. She was sitting very still with her other hand flat on the page.
 
 Fen knew that stillness. He had sat that way himself, last year, at the worst of it, at a desk in his room with the door locked and a screen on that he wasn't watching.
 
-He stood in the road for a minute. Then he walked back to his house without knocking. He told himself he would ask her in the morning. It was the first time he had ever told himself that about Juno.
+He stood in the road for a minute, then walked back to his house without knocking. He told himself he would ask her in the morning. It was the first time he had ever told himself that about Juno.
 
 Halfway up the ladder he stopped and looked down at the hill below the bend, at the dark between the Trace and the harbour, and thought about a boy who could hear a pin drop.
 
@@ -68,7 +68,7 @@ On the seventh morning he was on the roof at ten to six, checking the aerial, wh
 
 His father's binoculars were the heavy black ones from the boat, with a cracked strap. Fen had been using them every dawn. From the roof he could see straight down the coast road to the harbour, the warehouses, the fish market roof, and the dock with the *Lady Marisol* at the end of it.
 
-The boats were going out. Twelve, in a line, small pirogues and two bigger ones, each with a white wake behind it, spreading. A kid on the end of the dock waved them out one by one with something red. Smoke went up from four oil drums in the market square. Tiny figures crossed the square with buckets. It looked like a town. It was the only thing on the island that did.
+The boats were going out. Twelve, in a line, small pirogues and two bigger ones, each with a white wake behind it, spreading. A kid on the end of the dock waved them out one by one with something red. Smoke went up from four oil drums in the market square while tiny figures crossed it with buckets. It looked like a town. It was the only thing on the island that did.
 
 He swung the binoculars out past the boats, to see how far they went.
 
@@ -108,7 +108,7 @@ In about a minute the road was full. Kids came out of every house, still in what
 
 "It's the navy," he said.
 
-She was gone before he could say anything else. He heard her inside telling their mother. He hadn't said anything else.
+She was gone before he could say anything else, and he heard her inside telling their mother. He hadn't said anything else.
 
 The ladder creaked. It was Juno.
 
@@ -120,7 +120,7 @@ He didn't answer at once.
 
 "On the radio. You've been listening. You're always listening." She turned and looked at him. "Did they say anything?"
 
-The handheld was in his lap. The loop was still running, low, *all stations, all stations*. He put his thumb on the volume knob and turned it down until there was nothing.
+The handheld was in his lap, and the loop was still running, low, *all stations, all stations*. He put his thumb on the volume knob and turned it down until there was nothing.
 
 "They're not talking to us," he said.
 
@@ -148,7 +148,7 @@ Fen sat on the roof with the handheld in his lap and the volume at zero.
 
 The ship didn't move all day.
 
-The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Twenty-four was Juno's number. It was in the book under Day 7, with thirteen and twenty and twenty-two crossed out above it. Fen carried the paint tins. He held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
+The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Twenty-four was Juno's number. It was in the book under Day 7, with thirteen and twenty and twenty-two crossed out above it. Fen carried the paint tins and held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
 
 At nine the handheld clicked.
 
@@ -190,7 +190,7 @@ Two things now. The boy's arm, which was Judge's, and which Judge would come up 
 
 The arm she would go down the hill for. He couldn't stop that and wasn't sure he should.
 
-The ship, he didn't know. He thought of her hand flat on the page, and her voice in the road this morning, louder than it had been all week because she had something to hold. *Somebody's coming.* It wasn't true. It was holding her up. He knew about one more day. At the worst of it, in this house, that had been the whole plan, and it had been enough, more than once, until it wasn't needed.
+The ship, he didn't know. He thought of her hand flat on the page, and her voice in the road this morning, louder than it had been all week because she had something to hold. *Somebody's coming.* It wasn't true, but it was holding her up. He knew about one more day. At the worst of it, in this house, that had been the whole plan, and it had been enough, more than once, until it wasn't needed.
 
 The arm, tonight, at the table, in front of the six. The ship, tomorrow.
 

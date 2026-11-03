@@ -7,3 +7,4 @@
 - v004 (20261102-0230): Oz renamed to Lonny
 - v005 (20261102-0253): Setting rewrite: Quarry Trace (9 ordinary houses, no wall), Kit's father a taxi driver who moved in 8 months ago, counts 16 adults / 13 kids
 - v006 (20261102-1544): Review pass: cut Lyra's 'You always know' (on-the-nose); one fewer 'nobody said anything'
+- v007 (20261103-0930): Flow pass: broke up 'and' chains and choppy runs with conjunctions; dialogue, facts and line numbers unchanged.

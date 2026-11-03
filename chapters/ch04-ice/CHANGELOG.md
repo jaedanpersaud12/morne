@@ -9,3 +9,4 @@
 - v006 (20261102-1252): before tap-water temperature fix
 - 20261102-1252: tap water is normally cool, not warm; Sol's power turns it fridge-cold
 - v007 (20261102-1544): Review pass: cut 'things that were going to matter later' (author's hand); phone no-service line closes the cell gap
+- v008 (20261103-0930): Flow pass: broke up 'and' chains and choppy runs with conjunctions; dialogue, facts and line numbers unchanged.
