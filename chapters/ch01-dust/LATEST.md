@@ -136,7 +136,7 @@ He weighed more than two of her, but she got her arms hooked under his and pulle
 
 Then she ran.
 
-Up the hill in her slippers on the hot road, past the hibiscus, toward the one house where somebody had kept on asking, every single time.
+Up the hill in her slippers on the hot road, past the hibiscus, to Juno.
 
 The Vales' front door was open. It was never open.
 
