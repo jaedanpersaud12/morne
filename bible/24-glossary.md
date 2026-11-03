@@ -19,8 +19,8 @@ The rules are in [14](14-writing-rules.md#the-groups-private-language): Kit is t
 | **The red cricket ball** | Mr. Hale shouted every time the ball went in his yard and gave it back every time, except "the good one. The red one", which he kept for a year, in Form One. The first laugh at a grave | [ch 5](../chapters/ch05-spoon/LATEST.md) 169 to 177 | [19](19-imagery-and-threads.md#humour-distribution) | Told in full. Now it belongs to the grave under the lime tree |
 | **Same name, no relation** | "Same name as me. We're not family. Never were. Everybody on the road used to make the joke." Lonny's reason for digging Mr. Hale's grave | [ch 5](../chapters/ch05-spoon/LATEST.md) 147 | The road's running joke ([06](06-island.md#quarry-trace-house-by-house)). "Two graves under the lime tree, both dug by a Hale" ([17](17-book-one-outline.md)) | The joke itself is never quoted. Keep it that way |
 | **Six of us / Hands** | Tock: "Six of us. That's what you said." Juno: "Six of us. Fine. Hands." A show of hands round Granny's table | [ch 8](../chapters/ch08-market/LATEST.md) 11 to 13 | Decisions are made in the Vales' kitchen, by the six, arguing ([08](08-factions-and-politics.md)) | Half explained. *That's what you said* points at an earlier promise from Juno that the page never shows |
-| **"Okay. Okay. Okay."** | Juno says okay in threes when she is not okay. Lyra says it "the way Juno said it" after the generator catches | [ch 3](../chapters/ch03-signal/LATEST.md) 165; [ch 4](../chapters/ch04-ice/LATEST.md) 229; [ch 6](../chapters/ch06-sixteen/LATEST.md) 135 | [Juno](cast/juno.md#voice) | A tell the friends have caught off her. The reader learns it by ch 3 |
-| **The bored voice** | Juno's voice for lies and comfort: Olli is told Granny is "sleeping hard" in it and believes it; it soothes Vee; she has never used it on anyone older than Olli until Mr. Hale | [ch 2](../chapters/ch02-count/LATEST.md) 5; [ch 4](../chapters/ch04-ice/LATEST.md) 211; [ch 5](../chapters/ch05-spoon/LATEST.md) 59 | [Olli](cast/olli.md), [Juno](cast/juno.md) | Named by the narration, not by the kids. Olli doesn't know it is a voice |
+| **"Okay. Okay. Okay."** | Juno says okay in threes when she is not okay. Lyra says it "the way Juno said it" after the generator catches | [ch 3](../chapters/ch03-signal/LATEST.md) 181; [ch 4](../chapters/ch04-ice/LATEST.md) 253; [ch 6](../chapters/ch06-sixteen/LATEST.md) 135 | [Juno](cast/juno.md#voice) | A tell the friends have caught off her. The reader learns it by ch 3 |
+| **The bored voice** | Juno's voice for lies and comfort: Olli is told Granny is "sleeping hard" in it and believes it; it soothes Vee; she has never used it on anyone older than Olli until Mr. Hale | [ch 2](../chapters/ch02-count/LATEST.md) 5; [ch 4](../chapters/ch04-ice/LATEST.md) 235; [ch 5](../chapters/ch05-spoon/LATEST.md) 59 | [Olli](cast/olli.md), [Juno](cast/juno.md) | Named by the narration, not by the kids. Olli doesn't know it is a voice |
 | **The little one** | Olli, "who was seven and counted himself" | [ch 1](../chapters/ch01-dust/LATEST.md) 41 | His want is to stop being "the little one" ([Olli](cast/olli.md)) | The name he wants to shed |
 | **Pell / Vee / Velora** | Lyra calls the baby "Pell. Like a footballer... She's the only Pell who's awake. She's earned it." Lonny guesses Vanessa, Veronica. Tock says "Vee", and that is that. The birth certificate, found weeks later, says Velora | [ch 4](../chapters/ch04-ice/LATEST.md) 41 to 61 | [Tock](cast/tock.md) | Explained. *Vee* is the name in use |
 
@@ -29,13 +29,13 @@ The rules are in [14](14-writing-rules.md#the-groups-private-language): Kit is t
 | Item | What we know | Where | What it means | Status |
 | --- | --- | --- | --- | --- |
 | **"So. That's done. Now you have to keep it."** | Granny, at the kitchen table, after reading Juno's scholarship letter twice in August | [ch 2](../chapters/ch02-count/LATEST.md) 19 | The book's thesis line, paired with Judge's "You're what we got" ([01](01-premise-and-theme.md), [19](19-imagery-and-threads.md#the-thesis-on-the-page)) | Explained. Juno's standard |
-| **"Fire belongs to the devil."** | Granny to Tock at twelve, after his fist went through the bathroom door: kneel and pray it out, "Tobias" | [ch 7](../chapters/ch07-heat/LATEST.md) 75 to 79 | Tock's version of Granny ([19](19-imagery-and-threads.md)). Ida's answer: "the devil doesn't boil water for sleepers" ([ch 7](../chapters/ch07-heat/LATEST.md) 155) | Explained, and answered |
-| **The frog** | At five, Juno walked across the Finches' yard and asked if Sol wanted to see a frog | [ch 4](../chapters/ch04-ice/LATEST.md) 227 | The start of Juno and Sol; "eleven years since the frog" ([Juno](cast/juno.md)) | Explained. Not the same frog as the spare-key frog on Dr. Moss's step ([ch 2](../chapters/ch02-count/LATEST.md) 139) |
-| **Form Two** | Juno sat on the end of Sol's bed "through the whole of Form Two without saying a word about anything" | [ch 4](../chapters/ch04-ice/LATEST.md) 227 | Open in [Sol](cast/sol.md): what happened that year | **Unexplained by design.** The bible warns against making every silence point one way |
-| **The fete at fourteen** | Tock's eyebrow scar is "the old scar from the fete"; he was dizzy after it | [ch 7](../chapters/ch07-heat/LATEST.md) 177, 189 | "a white nick through his left eyebrow from a fete at fourteen" ([Tock](cast/tock.md)) | Story untold |
+| **"Fire belongs to the devil."** | Granny to Tock at twelve, after his fist went through the bathroom door: kneel and pray it out, "Tobias" | [ch 7](../chapters/ch07-heat/LATEST.md) 75 to 79 | Tock's version of Granny ([19](19-imagery-and-threads.md)). Ida's answer: "the devil doesn't boil water for sleepers" ([ch 7](../chapters/ch07-heat/LATEST.md) 165) | Explained, and answered |
+| **The frog** | At five, Juno walked across the Finches' yard and asked if Sol wanted to see a frog | [ch 4](../chapters/ch04-ice/LATEST.md) 251 | The start of Juno and Sol; "eleven years since the frog" ([Juno](cast/juno.md)) | Explained. Not the same frog as the spare-key frog on Dr. Moss's step ([ch 2](../chapters/ch02-count/LATEST.md) 143) |
+| **Form Two** | Juno sat on the end of Sol's bed "through the whole of Form Two without saying a word about anything" | [ch 4](../chapters/ch04-ice/LATEST.md) 251 | Open in [Sol](cast/sol.md): what happened that year | **Unexplained by design.** The bible warns against making every silence point one way |
+| **The fete at fourteen** | Tock's eyebrow scar is "the old scar from the fete"; he was dizzy after it | [ch 7](../chapters/ch07-heat/LATEST.md) 187, 189 | "a white nick through his left eyebrow from a fete at fourteen" ([Tock](cast/tock.md)) | Story untold |
 | **August, the tank stand** | Olli fell off the Hales' tank stand in August, and Kit saw real fear on Juno's face | [ch 1](../chapters/ch01-dust/LATEST.md) 169 | | Untold. August is also the scholarship letter and the month Mrs. Quill went yellow ([ch 3](../chapters/ch03-signal/LATEST.md) 25) |
 | **Tock, for Tobias** | Granny alone calls him Tobias | [ch 7](../chapters/ch07-heat/LATEST.md) 77 | "Tobias Vale, called Tock" ([Tock](cast/tock.md)) | Where *Tock* came from is not on the page or in the bible. Open, not flagged as a planned joke |
-| **The moustache** | Juno drew a moustache on her own newspaper photo and stuck it on the fridge | Bible only: [Juno](cast/juno.md) | The same photo Kit saw in a barbershop ([ch 1](../chapters/ch01-dust/LATEST.md) 57) and Judge read ([ch 3](../chapters/ch03-signal/LATEST.md) 107; "You're shorter than the paper", [ch 8](../chapters/ch08-market/LATEST.md) 47) | Not on the page yet. A good first thing for Kit to be let in on |
+| **The moustache** | Juno drew a moustache on her own newspaper photo and stuck it on the fridge | Bible only: [Juno](cast/juno.md) | The same photo Kit saw in a barbershop ([ch 1](../chapters/ch01-dust/LATEST.md) 57) and Judge read ([ch 3](../chapters/ch03-signal/LATEST.md) 107; "You're shorter than the paper", [ch 8](../chapters/ch08-market/LATEST.md) 73) | Not on the page yet. A good first thing for Kit to be let in on |
 | **The taxi** | Fen and Kit's late-night talks in Ambrose's parked taxi at the bend, which nobody on the Trace has seen | Bible only: [09](09-relationships.md#fen-and-kit-the-taxi), [Fen](cast/fen.md) | Part of why Fen is alive; per [14](14-writing-rules.md#writing-suicide-and-depression), revealed the way a friend would tell it | Secret. Not on the page |
 
 ### What other people call the six
@@ -44,21 +44,21 @@ Names from outside the group. They matter because the Harbour learns the six by 
 
 | Name | For | Used by | Where |
 | --- | --- | --- | --- |
-| the Vale girl | Juno | the girl at the bend (via Kit); Judge | [ch 2](../chapters/ch02-count/LATEST.md) 181; [ch 3](../chapters/ch03-signal/LATEST.md) 107 |
+| the Vale girl | Juno | the girl at the bend (via Kit); Judge | [ch 2](../chapters/ch02-count/LATEST.md) 185; [ch 3](../chapters/ch03-signal/LATEST.md) 107 |
 | your doctor; the doctor girl | Juno | Judge | [ch 6](../chapters/ch06-sixteen/LATEST.md) 23, 171 |
-| Vale | Juno | Nell | [ch 8](../chapters/ch08-market/LATEST.md) 37 |
+| Vale | Juno | Nell | [ch 8](../chapters/ch08-market/LATEST.md) 63 |
 | Miss Vale | Juno | Ambrose, as courtesy | [ch 1](../chapters/ch01-dust/LATEST.md) 69 |
 | Fen from the Trace; Trace | Fen, as a call sign | Judge | [ch 3](../chapters/ch03-signal/LATEST.md) 115; [ch 6](../chapters/ch06-sixteen/LATEST.md) 7, 19 |
-| a girl who makes ice | Sol | Judge, who never says her name | [ch 8](../chapters/ch08-market/LATEST.md) 175 |
-| Kit Wick | Kit, as the keeper of the gun-box key | Judge | [ch 8](../chapters/ch08-market/LATEST.md) 147 |
+| a girl who makes ice | Sol | Judge, who never says her name | [ch 8](../chapters/ch08-market/LATEST.md) 201 |
+| Kit Wick | Kit, as the keeper of the gun-box key | Judge | [ch 8](../chapters/ch08-market/LATEST.md) 173 |
 
 ### Nicknames outside the group
 
 | Name | Who | What we know | Where |
 | --- | --- | --- | --- |
-| Judge | Cole Mayers, 17 | "The fellas call me Judge." Why is open: settling disputes before the Sleep, or deciding who eats after ([Judge](cast/judge.md#open-questions)) | [ch 3](../chapters/ch03-signal/LATEST.md) 115; [ch 8](../chapters/ch08-market/LATEST.md) 51 |
-| Ears | 13, Air, the Harbour's lookout | "a boy here who could hear a pin drop on that hill" ([ch 6](../chapters/ch06-sixteen/LATEST.md) 33); "Ears hears everything" ([ch 8](../chapters/ch08-market/LATEST.md) 147). Juno files it as a nickname; the reader should clock a power ([supporting](cast/supporting.md#the-harbours-powered-kids)) | [ch 6](../chapters/ch06-sixteen/LATEST.md) 33; [ch 8](../chapters/ch08-market/LATEST.md) 147 |
-| Rust | the youngest Harker boy | "That's what they call him." "Don't know. Fen heard it." His resting hand leaves a brown mark on the gas station roof | [ch 8](../chapters/ch08-market/LATEST.md) 19 to 25 |
+| Judge | Cole Mayers, 17 | "The fellas call me Judge." Why is open: settling disputes before the Sleep, or deciding who eats after ([Judge](cast/judge.md#open-questions)) | [ch 3](../chapters/ch03-signal/LATEST.md) 115; [ch 8](../chapters/ch08-market/LATEST.md) 77 |
+| Ears | 13, Air, the Harbour's lookout | "a boy here who could hear a pin drop on that hill" ([ch 6](../chapters/ch06-sixteen/LATEST.md) 33); "Ears hears everything" ([ch 8](../chapters/ch08-market/LATEST.md) 173). Juno files it as a nickname; the reader should clock a power ([supporting](cast/supporting.md#the-harbours-powered-kids)) | [ch 6](../chapters/ch06-sixteen/LATEST.md) 33; [ch 8](../chapters/ch08-market/LATEST.md) 173 |
+| Rust | the youngest Harker boy | "That's what they call him." "Don't know. Fen heard it." His resting hand leaves a brown mark on the gas station roof | [ch 8](../chapters/ch08-market/LATEST.md) 29 to 25 |
 | Cookie | 14, Fire, the fish market kitchen | "Cookie feed two hundred and twelve tonight." The fires by the harbour are "Cookie's drums" | [ch 6](../chapters/ch06-sixteen/LATEST.md) 43, 49 |
 | Bible-only crew names | Zu, Sleepy, Oil, Hush, Jumper, Big Hob | Not on the page yet | [supporting](cast/supporting.md), [07](07-powers-in-practice.md) |
 
@@ -76,15 +76,15 @@ Local words, foods, places and institutions, with a plain meaning and where they
 | don't vex | don't be annoyed | [ch 6](../chapters/ch06-sixteen/LATEST.md) 33 |
 | Is the dust | "it's the dust": what everybody on the island blames for everything | [ch 1](../chapters/ch01-dust/LATEST.md) 29; [06](06-island.md) |
 | sugar | diabetes ("a lady with sugar") | [ch 6](../chapters/ch06-sixteen/LATEST.md) 39 |
-| lime | a casual get-together ("the christening lime in the Finches' yard") | [ch 2](../chapters/ch02-count/LATEST.md) 97 |
-| fete | a party, usually with music | [ch 7](../chapters/ch07-heat/LATEST.md) 177 |
-| by | at or to someone's place ("gone by the hospital") | [ch 4](../chapters/ch04-ice/LATEST.md) 111 |
-| down the beach; up the Trace | going to the beach; going up the road home | [ch 1](../chapters/ch01-dust/LATEST.md) 61; [ch 2](../chapters/ch02-count/LATEST.md) 181 |
+| lime | a casual get-together ("the christening lime in the Finches' yard") | [ch 2](../chapters/ch02-count/LATEST.md) 101 |
+| fete | a party, usually with music | [ch 7](../chapters/ch07-heat/LATEST.md) 187 |
+| by | at or to someone's place ("gone by the hospital") | [ch 4](../chapters/ch04-ice/LATEST.md) 135 |
+| down the beach; up the Trace | going to the beach; going up the road home | [ch 1](../chapters/ch01-dust/LATEST.md) 61; [ch 2](../chapters/ch02-count/LATEST.md) 185 |
 | Mind the police! | a driver's send-off to someone driving off too fast | [ch 1](../chapters/ch01-dust/LATEST.md) 81 |
 | Morning, Miss Vale | an older man's courtesy to a girl: *Miss* and her surname | [ch 1](../chapters/ch01-dust/LATEST.md) 69 |
-| Miss + first name | the respectful name for a woman of the road (Miss Orla, Miss Tilda) | [ch 2](../chapters/ch02-count/LATEST.md) 127; [ch 3](../chapters/ch03-signal/LATEST.md) 9 |
+| Miss + first name | the respectful name for a woman of the road (Miss Orla, Miss Tilda) | [ch 2](../chapters/ch02-count/LATEST.md) 131; [ch 3](../chapters/ch03-signal/LATEST.md) 9 |
 | Auntie | an older woman in the family or close to it (Auntie Prue) | [ch 3](../chapters/ch03-signal/LATEST.md) 17 |
-| Granny; Mummy; Daddy | the family words, used as names | [ch 1](../chapters/ch01-dust/LATEST.md) 143; [ch 2](../chapters/ch02-count/LATEST.md) 49; [ch 1](../chapters/ch01-dust/LATEST.md) 27 |
+| Granny; Mummy; Daddy | the family words, used as names | [ch 1](../chapters/ch01-dust/LATEST.md) 143; [ch 2](../chapters/ch02-count/LATEST.md) 53; [ch 1](../chapters/ch01-dust/LATEST.md) 27 |
 | the paper | the newspaper; the island scholarship winners' photos are printed in it | [ch 1](../chapters/ch01-dust/LATEST.md) 57 |
 
 ### Food and drink
@@ -93,9 +93,9 @@ Local words, foods, places and institutions, with a plain meaning and where they
 | --- | --- | --- |
 | doubles | street breakfast: curried chickpeas between two pieces of fried bread, sold from a pot by "the doubles lady" | [ch 1](../chapters/ch01-dust/LATEST.md) 97 |
 | fish broth | fish boiled in a soup; Cookie feeds the market on it | [ch 6](../chapters/ch06-sixteen/LATEST.md) 43 |
-| corned beef; sardines | tinned meat and fish, the Trace's cupboard food | [ch 5](../chapters/ch05-spoon/LATEST.md) 39; [ch 7](../chapters/ch07-heat/LATEST.md) 177 |
-| rum | given to the boy with the broken arm, "because that was what there was" | [ch 8](../chapters/ch08-market/LATEST.md) 69 |
-| rice; flour | the Harbour's warehouse stores, "maybe five weeks" | [ch 8](../chapters/ch08-market/LATEST.md) 135 |
+| corned beef; sardines | tinned meat and fish, the Trace's cupboard food | [ch 5](../chapters/ch05-spoon/LATEST.md) 39; [ch 7](../chapters/ch07-heat/LATEST.md) 187 |
+| rum | given to the boy with the broken arm, "because that was what there was" | [ch 8](../chapters/ch08-market/LATEST.md) 95 |
+| rice; flour | the Harbour's warehouse stores, "maybe five weeks" | [ch 8](../chapters/ch08-market/LATEST.md) 161 |
 | cassava, plantain, dasheen, breadfruit, mangoes | the Hills' crops | Bible only: [13](13-resources-and-roles.md) |
 | goat's milk | what babies get after formula runs out | Bible only: [12](12-little-ones.md) |
 
@@ -113,8 +113,8 @@ Local words, foods, places and institutions, with a plain meaning and where they
 | headtie | a cloth tied over the hair; Granny's is a different colour each day, white on Sundays | [ch 1](../chapters/ch01-dust/LATEST.md) 143; [ch 2](../chapters/ch02-count/LATEST.md) 19 |
 | slippers | flip-flops | [ch 1](../chapters/ch01-dust/LATEST.md) 139 |
 | the gas truck; cylinder; regulator | cooking gas comes in cylinders delivered by truck; the regulator clips the hose onto the valve | [ch 1](../chapters/ch01-dust/LATEST.md) 87; [ch 7](../chapters/ch07-heat/LATEST.md) 21, 23 |
-| the frog on the step | the ornament where everybody on the road keeps the spare key | [ch 2](../chapters/ch02-count/LATEST.md) 139 |
-| standpipe | a public tap; the one at the church in town "still running, nobody know why" | [ch 8](../chapters/ch08-market/LATEST.md) 33, 135 |
+| the frog on the step | the ornament where everybody on the road keeps the spare key | [ch 2](../chapters/ch02-count/LATEST.md) 143 |
+| standpipe | a public tap; the one at the church in town "still running, nobody know why" | [ch 8](../chapters/ch08-market/LATEST.md) 59, 135 |
 | La-Z-Boy | a recliner armchair; Lonny's father fell asleep in his | [ch 2](../chapters/ch02-count/LATEST.md) 33 |
 | cutlass | a machete; every yard has one | Bible only: [07](07-powers-in-practice.md), [13](13-resources-and-roles.md) |
 
@@ -125,19 +125,19 @@ Local words, foods, places and institutions, with a plain meaning and where they
 | trace | a small side road or lane. Quarry Trace is "nine houses on a road that went up the hill and stopped"; *the Trace* for short | [ch 1](../chapters/ch01-dust/LATEST.md) 17 |
 | Morne Bay | the port town. *Morne* is the old French Creole word for a hill | [ch 1](../chapters/ch01-dust/LATEST.md) 17 |
 | the bend | the bottom of the Trace, where the flat is; the only way in | [ch 1](../chapters/ch01-dust/LATEST.md) 19 |
-| the road | the twelve houses between the bend and the junction | [ch 2](../chapters/ch02-count/LATEST.md) 127 |
-| the junction | where the Trace road meets the main road; the gas station is there | [ch 1](../chapters/ch01-dust/LATEST.md) 81; [ch 8](../chapters/ch08-market/LATEST.md) 19 |
+| the road | the twelve houses between the bend and the junction | [ch 2](../chapters/ch02-count/LATEST.md) 131 |
+| the junction | where the Trace road meets the main road; the gas station is there | [ch 1](../chapters/ch01-dust/LATEST.md) 81; [ch 8](../chapters/ch08-market/LATEST.md) 29 |
 | the quarry | the old quarry at the top, behind a chain-link gate, shut six years; the green rainwater pond on its floor | [ch 1](../chapters/ch01-dust/LATEST.md) 17; [ch 5](../chapters/ch05-spoon/LATEST.md) 67 |
-| the coast road; the main road; the market square | the way into town, in that order | [ch 2](../chapters/ch02-count/LATEST.md) 153; [ch 8](../chapters/ch08-market/LATEST.md) 31 |
+| the coast road; the main road; the market square | the way into town, in that order | [ch 2](../chapters/ch02-count/LATEST.md) 157; [ch 8](../chapters/ch08-market/LATEST.md) 57 |
 | fish market; fish dock | where the Harbour's kids live and eat; the *Lady Marisol* is tied at the end of the dock | [ch 3](../chapters/ch03-signal/LATEST.md) 77, 101 |
-| ice plant | makes ice for the fishermen; the Finches run the small one | [ch 4](../chapters/ch04-ice/LATEST.md) 127 |
+| ice plant | makes ice for the fishermen; the Finches run the small one | [ch 4](../chapters/ch04-ice/LATEST.md) 151 |
 | churchyard by the market | where Judge buries the Harbour's dead | [ch 6](../chapters/ch06-sixteen/LATEST.md) 39 |
-| the clinic; the hospital | Dr. Moss's clinic in town; the hospital sits white on the hill above the harbour | [ch 1](../chapters/ch01-dust/LATEST.md) 117; [ch 5](../chapters/ch05-spoon/LATEST.md) 193 |
-| police station | where Judge took the twelve guns from on the second day | [ch 8](../chapters/ch08-market/LATEST.md) 143 |
+| the clinic; the hospital | Dr. Moss's clinic in town; the hospital sits white on the hill above the harbour | [ch 1](../chapters/ch01-dust/LATEST.md) 117; [ch 5](../chapters/ch05-spoon/LATEST.md) 207 |
+| police station | where Judge took the twelve guns from on the second day | [ch 8](../chapters/ch08-market/LATEST.md) 169 |
 | car park | where the doubles lady sells, by the beach | [ch 1](../chapters/ch01-dust/LATEST.md) 97 |
-| the bars by the harbour | "where there was always music" | [ch 2](../chapters/ch02-count/LATEST.md) 155 |
+| the bars by the harbour | "where there was always music" | [ch 2](../chapters/ch02-count/LATEST.md) 159 |
 | mas camp | the workshop where a Carnival band makes its costumes; the Mas Camp crew raids out of the warehouse | Bible only: [06](06-island.md), [07](07-powers-in-practice.md) |
-| the Harbour; the Hills; the Shore | the bible's names for Judge's town, the inland villages and the east coast. The chapters still write *harbour* and *hills* in lower case | Bible: [06](06-island.md); [ch 1](../chapters/ch01-dust/LATEST.md) 17, [ch 3](../chapters/ch03-signal/LATEST.md) 171 |
+| the Harbour; the Hills; the Shore | the bible's names for Judge's town, the inland villages and the east coast. The chapters still write *harbour* and *hills* in lower case | Bible: [06](06-island.md); [ch 1](../chapters/ch01-dust/LATEST.md) 17, [ch 3](../chapters/ch03-signal/LATEST.md) 187 |
 
 ### Getting about
 
@@ -147,15 +147,15 @@ Local words, foods, places and institutions, with a plain meaning and where they
 | taxi | Ambrose's car, "the only thing he owned outright" | [ch 1](../chapters/ch01-dust/LATEST.md) 5, 15 |
 | pickup; the tray | the Hales' pickup truck; its open back, where the six ride | [ch 1](../chapters/ch01-dust/LATEST.md) 69, 71 |
 | pirogue | an open wooden fishing boat with an outboard engine | [ch 6](../chapters/ch06-sixteen/LATEST.md) 71 |
-| the coast guard | who Sol expects to come by morning | [ch 2](../chapters/ch02-count/LATEST.md) 79 |
+| the coast guard | who Sol expects to come by morning | [ch 2](../chapters/ch02-count/LATEST.md) 83 |
 
 ### School and institutions
 
 | Word | Meaning | First appears |
 | --- | --- | --- |
-| Form One; Form Two | the first and second years of secondary school, at about 11 and 12 | [ch 5](../chapters/ch05-spoon/LATEST.md) 175; [ch 4](../chapters/ch04-ice/LATEST.md) 227 |
+| Form One; Form Two | the first and second years of secondary school, at about 11 and 12 | [ch 5](../chapters/ch05-spoon/LATEST.md) 175; [ch 4](../chapters/ch04-ice/LATEST.md) 251 |
 | scholarship | the island scholarship for the top results; Juno was "top of the whole island" | [ch 1](../chapters/ch01-dust/LATEST.md) 57; [ch 2](../chapters/ch02-count/LATEST.md) 19 |
-| exercise book | a school notebook; Juno's is the Trace's ledger | [ch 2](../chapters/ch02-count/LATEST.md) 87 |
+| exercise book | a school notebook; Juno's is the Trace's ledger | [ch 2](../chapters/ch02-count/LATEST.md) 91 |
 | 999 | the emergency number. It rings, then an open line with nobody on it | [ch 1](../chapters/ch01-dust/LATEST.md) 123 |
 
 ### Weather, plants and animals
@@ -173,7 +173,7 @@ Local words, foods, places and institutions, with a plain meaning and where they
 
 | Word | Meaning | First appears |
 | --- | --- | --- |
-| Machel | Machel Montano, the soca star. "Some old Machel tune from before they were born" plays on a loop after the station's DJ falls asleep | [ch 2](../chapters/ch02-count/LATEST.md) 63 |
+| Machel | Machel Montano, the soca star. "Some old Machel tune from before they were born" plays on a loop after the station's DJ falls asleep | [ch 2](../chapters/ch02-count/LATEST.md) 67 |
 | soca | the island's party music, "on every radio" | Bible only: [06](06-island.md) |
 | Carnival; mas | the festival; *mas* is masquerade, the costumed bands | Bible only: [07](07-powers-in-practice.md) |
 | cricket | the game in Mr. Hale's yard; Sol's parents fell asleep in front of it on TV | [ch 2](../chapters/ch02-count/LATEST.md) 35; [ch 5](../chapters/ch05-spoon/LATEST.md) 169 |
@@ -188,7 +188,7 @@ Local words, foods, places and institutions, with a plain meaning and where they
 | picong `(new)` | teasing banter, giving someone a hard time for fun | The word for what the six do to each other. Kit hears it before she can join in |
 | hard ears `(new)` | stubborn, won't listen | Granny's word for Tock, remembered; or Ida's. Sits next to a boy called Ears without anyone remarking on it |
 | sweet hand `(new)` | someone who cooks well | Said of Cookie at the Harbour; answers [16](16-open-questions.md)'s "who cooks for thirty" when someone on the Trace turns out to have one |
-| pothound `(new)` | a mongrel yard dog | Every yard on the road has one ([ch 4](../chapters/ch04-ice/LATEST.md) 103). The yellow dog at the Pells' is a pothound |
+| pothound `(new)` | a mongrel yard dog | Every yard on the road has one ([ch 4](../chapters/ch04-ice/LATEST.md) 127). The yellow dog at the Pells' is a pothound |
 | steups `(new)` | the sucked-teeth sound of contempt or impatience; also a verb | Ambrose, Judge, Granny remembered. A noise, so it suits the narration ("Judge steupsed") |
 | cut-eye `(new)` | a sharp, scornful sideways look | Ida to Tock when he swears; Nell to anyone who skips the queue at the clipboard |
 | don't study it `(new)` | don't worry about it, forget it | Judge's version of "Don't vex"; or Ambrose, before ch 1, in Kit's memory |
@@ -199,10 +199,10 @@ Local words, foods, places and institutions, with a plain meaning and where they
 | provision `(new)` | root vegetables (cassava, dasheen, sweet potato) as a food group | The Hills' trade goods ([13](13-resources-and-roles.md)): "provision for fish" |
 | parlour `(new)` | a small corner shop | The one at the junction, emptied by the Harker boys before the gas station |
 | maxi `(new)` | a maxi taxi, the minibus that runs a fixed route | Ambrose's competition; a dead one across the coast road |
-| lagniappe `(new)` | a little extra thrown in on top of a deal | The Trace's word for Judge's twelve bags, said bitterly, once Juno admits they weren't free ([ch 8](../chapters/ch08-market/LATEST.md) 187) |
+| lagniappe `(new)` | a little extra thrown in on top of a deal | The Trace's word for Judge's twelve bags, said bitterly, once Juno admits they weren't free ([ch 8](../chapters/ch08-market/LATEST.md) 213) |
 
 ## Conflicts found
 
-- **The Lark baby.** A girl, and the baby brought to the bend on the first night ([ch 4](../chapters/ch04-ice/LATEST.md) 17, [ch 4](../chapters/ch04-ice/LATEST.md) 127, [ch 2](../chapters/ch02-count/LATEST.md) 181); then "the Larks' little boy from the road" and a separate bend baby ([ch 7](../chapters/ch07-heat/LATEST.md) 9). The glossary follows ch 4. Detail and recommendation in [21](21-style-sheet.md#conflicts-found).
-- **The wheelbarrow grandmother.** Tam's note is in Miss Orla's house ([ch 4](../chapters/ch04-ice/LATEST.md) 111), but Juno doesn't know the grandmother's name ([ch 5](../chapters/ch05-spoon/LATEST.md) 17) though she named Miss Orla herself ([ch 2](../chapters/ch02-count/LATEST.md) 127). See [21](21-style-sheet.md#conflicts-found).
-- **Harker boys or brothers.** The chapters say "the Harker boys" ([ch 8](../chapters/ch08-market/LATEST.md) 19, 139); the bible says "Harker brothers" ([06](06-island.md), [supporting](cast/supporting.md)). Not a contradiction of fact; the glossary uses the chapters' word.
+- **The Lark baby.** A girl, and the baby brought to the bend on the first night ([ch 4](../chapters/ch04-ice/LATEST.md) 17, [ch 4](../chapters/ch04-ice/LATEST.md) 151, [ch 2](../chapters/ch02-count/LATEST.md) 185); then "the Larks' little boy from the road" and a separate bend baby ([ch 7](../chapters/ch07-heat/LATEST.md) 9). The glossary follows ch 4. Detail and recommendation in [21](21-style-sheet.md#conflicts-found).
+- **The wheelbarrow grandmother.** Tam's note is in Miss Orla's house ([ch 4](../chapters/ch04-ice/LATEST.md) 135), but Juno doesn't know the grandmother's name ([ch 5](../chapters/ch05-spoon/LATEST.md) 17) though she named Miss Orla herself ([ch 2](../chapters/ch02-count/LATEST.md) 131). See [21](21-style-sheet.md#conflicts-found).
+- **Harker boys or brothers.** The chapters say "the Harker boys" ([ch 8](../chapters/ch08-market/LATEST.md) 29, 139); the bible says "Harker brothers" ([06](06-island.md), [supporting](cast/supporting.md)). Not a contradiction of fact; the glossary uses the chapters' word.

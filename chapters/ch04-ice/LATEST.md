@@ -98,6 +98,30 @@ They went down past the bend at first light, Sol and Lonny, because Tock wouldn'
 
 Kit was on the gallery of the flat at the bend. Her father was on a mattress she had dragged out there into the shade, on his side, with a cushion under his head, and she sat beside him with her knees up and watched them go past the way she had watched everyone go past since March. She lifted a hand without being asked. The corbeaux on the taxi roof shifted and settled.
 
+Sol stopped at the bottom of the steps, because Kit was watching the mattress and not them.
+
+"How many?" Sol said.
+
+"Twelve," Kit said. "Every time."
+
+"Granny's twelve. Mr. Finch was eleven when I left." Sol worked it out. "Everybody's near twelve."
+
+"He was going to listen to the Everton game on the car radio. Today. He had it on the calendar."
+
+"Arsenal," Sol said.
+
+"I know. The whole road hears you when they lose."
+
+"Nobody's ever going to know the score."
+
+Kit thought about that. "He'll ask, when he wakes up."
+
+"Then I'll make one up," Sol said. "Two-one. Everton."
+
+Kit almost laughed. It got as far as her mouth and stopped there, but it got that far.
+
+"Sol," Lonny said, from the road.
+
 Below the bend was the road. Sol had been on it a thousand times in the back of a car. She had never once walked it.
 
 Twelve houses, older than the ones on the Trace and closer together, some concrete, some board, with a dog in every yard. The dogs were quiet. That was the first thing. Every yard on the road had a dog, and every dog was lying by its gate with its head on its paws, watching them pass, and none of them barked.

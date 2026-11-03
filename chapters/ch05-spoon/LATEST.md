@@ -180,6 +180,20 @@ Juno stayed after.
 
 The others went back to the house, because the clock would go off in forty minutes and row two needed turning. After filling the hole and stamping the earth down, Lonny had gone to sit under the tap of the Hales' water tank with his clothes on, letting it run over his head. Juno sat under the lime tree with the exercise book on her knees.
 
+Kit was at the fence at the bottom of the garden. She must have come up while they were digging and stood there the whole time with her arms folded, close enough to hear the prayer and far enough to leave if anybody looked at her.
+
+"He gave me fifty cents once," she said. "For the parlour. My first week. He said the new girl should have a sweetie."
+
+"He never gave us anything," Juno said.
+
+"You lot kicked balls in his yard."
+
+Juno laughed before she could stop it. Kit looked pleased with herself for a second, then looked back down the hill toward the bend, where her father was alone.
+
+"I can't stay." She unfolded her arms. "When this is over, I'm coming to the beach."
+
+She was gone down the road before Juno could answer, and Juno sat with that longer than she meant to.
+
 She had given him the most water of anyone. Four days of her own hands, every hour she had. It hadn't been enough.
 
 Granny had had one bag, four days ago. Since then she'd had a syringe, a few drops at a time, the slowest water in the house. She had had less than Mr. Hale. All six of them had.

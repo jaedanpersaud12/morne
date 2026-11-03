@@ -44,6 +44,10 @@ Tock came last, and he came angry, which was how Tock came to everything that sc
 
 Nobody answered that.
 
+Tock put a steel thermos on the counter. "Kit," he said. "From the bend. She made it for her father." He didn't finish that. "She said you'd be up."
+
+It was coffee, too sweet, the way a taxi man would take it. Juno didn't drink coffee. Near three in the morning she drank all of it standing at the counter.
+
 Fen and Lyra didn't come. Lyra called, and Juno put her on speaker on the table so she wouldn't have to say it twice.
 
 "We're not leaving her." Lyra's voice was flat, and in sixteen years Juno had never once heard Lyra be flat about anything. "The night nurse is here. She's asleep too, in the chair. Daddy's on the floor in the hall. Mummy's the same, she looks the same as always. Fen's checking the oxygen. We're staying."

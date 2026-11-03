@@ -10,7 +10,7 @@ He is not "the tech guy." The tech is what he does with his hands while the rest
 
 ## History
 
-Their mother's long illness (cancer, four years of it since the first surgery when the twins were twelve; the last year a hospital bed where the dining table used to be, a night nurse on Sundays). Their mum put both twins in a dance company as little kids. Lyra stayed and competed. Fen quit at twelve, the day she came home from the first surgery, and buried it under screens and headphones. Nobody in the group has seen him dance in years. In [ch 3](../../chapters/ch03-signal/LATEST.md) (line 141) he tells his sleeping mother when: he came back from the studio, saw the car in the drive, knew "this was going to be a whole year," and never went back. "That's not your fault. I'm just saying, that's when."
+Their mother's long illness (cancer, four years of it since the first surgery when the twins were twelve; the last year a hospital bed where the dining table used to be, a night nurse on Sundays). Their mum put both twins in a dance company as little kids. Lyra stayed and competed. Fen quit at twelve, the day she came home from the first surgery, and buried it under screens and headphones. Nobody in the group has seen him dance in years. In [ch 3](../../chapters/ch03-signal/LATEST.md) (line 157) he tells his sleeping mother when: he came back from the studio, saw the car in the drive, knew "this was going to be a whole year," and never went back. "That's not your fault. I'm just saying, that's when."
 
 During the worst of it he felt cornered, with no way out, and thought about ending his life. What pulled him back was love: [Kit](kit.md), and late-night talks in her father's parked taxi at the bend where nobody in the Trace was watching. It is why she is half inside the group. On the page so far it shows once, sideways: in [ch 6](../../chapters/ch06-sixteen/LATEST.md) (line 59) he recognises Juno's stillness at the table because he sat that way himself "last year, at the worst of it, at a desk in his room with the door locked and a screen on that he wasn't watching." Per [14](../14-writing-rules.md#writing-suicide-and-depression): before and after only, never method, never a twist, and he still has bad days.
 
@@ -30,15 +30,15 @@ Lyra said it first ("Is it bad that she looks better?") and he answered for both
 
 **Need:** To say the true thing to the person it belongs to before they hear it somewhere else. Book one makes him pay for not doing it (the ship) and mends him when he does (the quarantine, told to Juno first, [ch 22 in 17](../17-book-one-outline.md#movement-4-the-turn-ch-2127-months-610)).
 
-**Lie:** That carrying something alone is the kind thing. "One more day" got him through the worst of last year, so he gives Juno one more day of believing in the ship ([ch 6](../../chapters/ch06-sixteen/LATEST.md), line 193). His power is the same lie in a body: he absorbs force, and alone he fills up and it hurts.
+**Lie:** That carrying something alone is the kind thing. "One more day" got him through the worst of last year, so he gives Juno one more day of believing in the ship ([ch 6](../../chapters/ch06-sixteen/LATEST.md), line 195). His power is the same lie in a body: he absorbs force, and alone he fills up and it hurts.
 
-**Fear:** Being the reason someone gets hurt, again. He gives Juno's name to a stranger and then lights the only house on a black island, and his verdict is four words: "He had done it again" ([ch 3](../../chapters/ch03-signal/LATEST.md), line 175).
+**Fear:** Being the reason someone gets hurt, again. He gives Juno's name to a stranger and then lights the only house on a black island, and his verdict is four words: "He had done it again" ([ch 3](../../chapters/ch03-signal/LATEST.md), line 191).
 
 **Wound:** The year of the hospital bed, and the edge he went to inside it. The day of the first surgery is the day he stopped dancing, and the thing he stopped doing is the thing his power will give back.
 
-**How they love:** By doing, never by saying. He pulls Miss Tilda's blanket up over Miss Tilda, checks his father's breathing on the hall floor, carries the paint tins and holds a corner of the sheet he doesn't believe in ([ch 3](../../chapters/ch03-signal/LATEST.md) line 127, [ch 6](../../chapters/ch06-sixteen/LATEST.md) line 151). With Kit, per [09](../09-relationships.md#fen-and-kit-the-taxi), the reader works it out from acts; they never explain their feelings.
+**How they love:** By doing, never by saying. He pulls Miss Tilda's blanket up over Miss Tilda, checks his father's breathing on the hall floor, carries the paint tins and holds a corner of the sheet he doesn't believe in ([ch 3](../../chapters/ch03-signal/LATEST.md) line 143, [ch 6](../../chapters/ch06-sixteen/LATEST.md) line 151). With Kit, per [09](../09-relationships.md#fen-and-kit-the-taxi), the reader works it out from acts; they never explain their feelings.
 
-**How it shows:** He goes up. The roof is where he goes when something hurts, and he stays there after the funeral "because up here there was nobody to look at him and the machines made sense" ([ch 6](../../chapters/ch06-sixteen/LATEST.md), line 9). He looks at the ground beside your foot; he takes one earphone out; he counts breathing; he turns the volume down to nothing rather than lie. When something truly lands he takes one step back and no more ([ch 7](../../chapters/ch07-heat/LATEST.md), line 215).
+**How it shows:** He goes up. The roof is where he goes when something hurts, and he stays there after the funeral "because up here there was nobody to look at him and the machines made sense" ([ch 6](../../chapters/ch06-sixteen/LATEST.md), line 9). He looks at the ground beside your foot; he takes one earphone out; he counts breathing; he turns the volume down to nothing rather than lie. When something truly lands he takes one step back and no more ([ch 7](../../chapters/ch07-heat/LATEST.md), line 225).
 
 **Humour:** Dry, deadpan, about machines and about Lyra, and rare ([19](../19-imagery-and-threads.md#humour-distribution): one dry line per Fen chapter, from him). "I don't tell Lyra about the generator until I know it works, because she'll want to try it, and she'll flood it." "Everybody we know is sixteen."
 
@@ -52,7 +52,7 @@ Lyra said it first ("Is it bad that she looks better?") and he answered for both
 
 ## Emotional palette
 
-**Shows most:** steadiness. "Stay with her. Count." The generator on the third pull with his hands shaking on the cap ([ch 3](../../chapters/ch03-signal/LATEST.md), lines 155-163).
+**Shows most:** steadiness. "Stay with her. Count." The generator on the third pull with his hands shaking on the cap ([ch 3](../../chapters/ch03-signal/LATEST.md), lines 171-179).
 
 **Hides:** relief that his mother is at rest, and guilt about the relief. This is his emotional core, and it is not Juno's depression: Juno's edge is about her own life; Fen's live wire is being glad of something that looks, from outside, like losing her. The relief is on the page ([ch 3](../../chapters/ch03-signal/LATEST.md), lines 41 and 59; the 94% he is "trying not to think about," [ch 6](../../chapters/ch06-sixteen/LATEST.md), line 11). The guilt is approved but not shown yet: **PROPOSED** until a chapter puts it there.
 
@@ -61,12 +61,12 @@ Lyra said it first ("Is it bad that she looks better?") and he answered for both
 ## On the page so far
 
 - [Ch 1](../../chapters/ch01-dust/LATEST.md), Kit's eyes: last into the pickup, as always. Stops at her step, looks at the ground beside her left foot, pulls one earphone out: "It's not even a goat. I'll tell you later." "You said that last time." "I know." (line 75). The only Fen/Kit beat in eight chapters.
-- [Ch 2](../../chapters/ch02-count/LATEST.md), on speaker from the Quill house: "Tank's fine. She's breathing eleven." Then "Then it's one thing," and he hangs up, because Fen doesn't do goodbyes (line 61).
+- [Ch 2](../../chapters/ch02-count/LATEST.md), on speaker from the Quill house: "Tank's fine. She's breathing eleven." Then "Then it's one thing," and he hangs up, because Fen doesn't do goodbyes (line 65).
 - [Ch 3](../../chapters/ch03-signal/LATEST.md), POV: the machines; agreeing with Lyra about their mother; finding Judge on the weather channel and giving him Juno's name before he'd decided to (line 105); talking to his mother about the day he stopped dancing; the grid dying at 12:14 and the generator on the third pull; the one lit house, and "He had done it again."
-- [Ch 4](../../chapters/ch04-ice/LATEST.md), off stage: on the roof at first light; his generator is running the oxygen, and Juno won't ask Lyra to choose between that and a fridge (line 185).
+- [Ch 4](../../chapters/ch04-ice/LATEST.md), off stage: on the roof at first light; his generator is running the oxygen, and Juno won't ask Lyra to choose between that and a fridge (line 209).
 - [Ch 6](../../chapters/ch06-sixteen/LATEST.md), POV: five nights of Judge at nine; siphoning cars with Lonny and a mouthful of petrol; Ears ("a boy who could hear a pin drop") clocked as more than a radio; walking to the Vales' and not knocking, "the first time he had ever told himself that about Juno" (line 61). The ship, the empty AIS map, *will be stopped*. He turns the volume to zero and tells Juno the true thing that isn't the truth: "They're not talking to us" (line 125). Decides: the arm tonight, the ship tomorrow. The drone.
-- [Ch 7](../../chapters/ch07-heat/LATEST.md), Tock's eyes: on his roof with the radio, not moving, while the road cheers (line 91). At ten he puts the handheld on the table, admits he sat on Judge's request for two nights, and passes on "ask you nice" (line 203). He does not mention the ship. One step back from the burning table.
-- [Ch 8](../../chapters/ch08-market/LATEST.md), off stage: he made the case for Juno going down "in the fewest words possible" and stayed on the radio (lines 5, 15). "Fen hears everything." Judge: "Fen's a good boy. Talks too much on an open channel" (line 55). Juno ends the chapter with "a secret now, the way Fen did."
+- [Ch 7](../../chapters/ch07-heat/LATEST.md), Tock's eyes: on his roof with the radio, not moving, while the road cheers (line 101). At ten he puts the handheld on the table, admits he sat on Judge's request for two nights, and passes on "ask you nice" (line 213). He does not mention the ship. One step back from the burning table.
+- [Ch 8](../../chapters/ch08-market/LATEST.md), off stage: he made the case for Juno going down "in the fewest words possible" and stayed on the radio (lines 5, 15). "Fen hears everything." Judge: "Fen's a good boy. Talks too much on an open channel" (line 81). Juno ends the chapter with "a secret now, the way Fen did."
 
 ## Voice
 

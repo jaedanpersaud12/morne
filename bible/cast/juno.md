@@ -34,17 +34,17 @@ The Sleep erases the future she worked her whole life for. Granny is asleep, so 
 
 **Wound:** a grandmother whose love had to be earned and never was, a mother dead, a father in Toronto whose voicemail she hangs up on before the beep ([ch 2](../../chapters/ch02-count/LATEST.md) L27). And the attempt, two years ago, which she came back from and still lives beside.
 
-**How they love:** by doing the job for you. She asks Kit to the beach every time and means it every time. She waited out every one of Sol's silences for eleven years and sat on the end of Sol's bed through all of Form Two without saying a word ([ch 4](../../chapters/ch04-ice/LATEST.md) L227). She hits Tock in the arm. She sits up with a ninety-year-old neighbour with a teaspoon because she was the one who decided he'd get the spoon instead of the bag.
+**How they love:** by doing the job for you. She asks Kit to the beach every time and means it every time. She waited out every one of Sol's silences for eleven years and sat on the end of Sol's bed through all of Form Two without saying a word ([ch 4](../../chapters/ch04-ice/LATEST.md) L251). She hits Tock in the arm. She sits up with a ninety-year-old neighbour with a teaspoon because she was the one who decided he'd get the spoon instead of the bag.
 
-**How it shows:** when she is in charge her voice goes fast and steady; her steadiest face only ever means something is badly wrong ([ch 4](../../chapters/ch04-ice/LATEST.md) L171). She says "okay" in threes. She does arithmetic out loud to keep her hands still, smooths tape twice more than it needs, sits with one hand flat on the page and doesn't write. Her hand opens and closes at her side when she is told something she can't use ([ch 6](../../chapters/ch06-sixteen/LATEST.md) L133). She shakes in private, for thirty seconds, on the edge of a bathtub.
+**How it shows:** when she is in charge her voice goes fast and steady; her steadiest face only ever means something is badly wrong ([ch 4](../../chapters/ch04-ice/LATEST.md) L195). She says "okay" in threes. She does arithmetic out loud to keep her hands still, smooths tape twice more than it needs, sits with one hand flat on the page and doesn't write. Her hand opens and closes at her side when she is told something she can't use ([ch 6](../../chapters/ch06-sixteen/LATEST.md) L133). She shakes in private, for thirty seconds, on the edge of a bathtub.
 
 **Humour:** dry, fast, and aimed at the person she loves most in the room. "Tock, the goat," with Granny on the floor next door. "She's too rude to die. God doesn't want her." "The paper was a photo." "Don't climb walls," to a boy thanking her for setting his arm. The jokes get flatter and quicker the worse things are; she is still making them on day eight.
 
-**What breaks them:** effort that wasn't enough. Mr. Hale got more water from her own hands than anyone in the ward and died anyway, and the same arithmetic then puts Granny first ([ch 5](../../chapters/ch05-spoon/LATEST.md) L183). Each bed death in book one is that again, louder.
+**What breaks them:** effort that wasn't enough. Mr. Hale got more water from her own hands than anyone in the ward and died anyway, and the same arithmetic then puts Granny first ([ch 5](../../chapters/ch05-spoon/LATEST.md) L197). Each bed death in book one is that again, louder.
 
 **Happy:** loud. Head back, laughing harder than anyone at a joke her brother made ([ch 1](../../chapters/ch01-dust/LATEST.md) L47). The beach, the cooler, the moustache on the newspaper photo. The girl who walked across the Finches' yard at five to ask if Sol wanted to see a frog.
 
-**Secret:** the twelve bags of IV fluid in the Mosses' front room were a gift from Judge, and she knows exactly what a gift from Cole Mayers is ([ch 8](../../chapters/ch08-market/LATEST.md) L189). Only Lonny was there. Older and quieter: the thirty seconds in the bathroom, which nobody sees.
+**Secret:** the twelve bags of IV fluid in the Mosses' front room were a gift from Judge, and she knows exactly what a gift from Cole Mayers is ([ch 8](../../chapters/ch08-market/LATEST.md) L215). Only Lonny was there. Older and quieter: the thirty seconds in the bathroom, which nobody sees.
 
 **Book one leaves them:** Granny failing after a year of Juno's hands. Juno carries her to the garden at night alone and can't, and lets Tock take the other end; Kit finds them there ([17](../17-book-one-outline.md#movement-5-the-garden-ch-2830-months-1012), ch 29). Letting herself be carried, once, by the people who were always going to carry her. On her birthday she wakes up and is not asleep. Her hands are cold and she doesn't know why (ch 30).
 
@@ -52,7 +52,7 @@ The Sleep erases the future she worked her whole life for. Granny is asleep, so 
 
 **Shows most:** duty, dread.
 **Hides:** wanting to be held.
-**The surprise:** envy. The island chose Kit, and Juno has no power. Approved 2026-11-02; **PROPOSED** for the page, because no chapter shows it yet (Kit's power first shows in ch 9). The chapters already lean toward it: Juno meets every power so far as a resource ("Okay. That's one thing," over Sol's ice, [ch 4](../../chapters/ch04-ice/LATEST.md) L229; "How hot can you get it?", [ch 7](../../chapters/ch07-heat/LATEST.md) L225), never as something she might have had.
+**The surprise:** envy. The island chose Kit, and Juno has no power. Approved 2026-11-02; **PROPOSED** for the page, because no chapter shows it yet (Kit's power first shows in ch 9). The chapters already lean toward it: Juno meets every power so far as a resource ("Okay. That's one thing," over Sol's ice, [ch 4](../../chapters/ch04-ice/LATEST.md) L253; "How hot can you get it?", [ch 7](../../chapters/ch07-heat/LATEST.md) L235), never as something she might have had.
 
 ## On the page so far
 
@@ -66,14 +66,14 @@ The Sleep erases the future she worked her whole life for. Granny is asleep, so 
 
 ## Voice
 
-- "Nobody. There's nobody. It's us." ([ch 2](../../chapters/ch02-count/LATEST.md) L75)
-- "Town has to do town." ([ch 2](../../chapters/ch02-count/LATEST.md) L131)
+- "Nobody. There's nobody. It's us." ([ch 2](../../chapters/ch02-count/LATEST.md) L79)
+- "Town has to do town." ([ch 2](../../chapters/ch02-count/LATEST.md) L135)
 - "No," Juno said, without looking up. "She's too rude to die. God doesn't want her." ([ch 5](../../chapters/ch05-spoon/LATEST.md) L83)
-- "How hot," Juno said, "can you get it?" ([ch 7](../../chapters/ch07-heat/LATEST.md) L225)
-- "I can't do anything." (answering Judge's "You can't do nothing", [ch 8](../../chapters/ch08-market/LATEST.md) L97)
-- *this is the first thing I have ever done that I cannot undo.* ([ch 8](../../chapters/ch08-market/LATEST.md) L69)
+- "How hot," Juno said, "can you get it?" ([ch 7](../../chapters/ch07-heat/LATEST.md) L235)
+- "I can't do anything." (answering Judge's "You can't do nothing", [ch 8](../../chapters/ch08-market/LATEST.md) L123)
+- *this is the first thing I have ever done that I cannot undo.* ([ch 8](../../chapters/ch08-market/LATEST.md) L95)
 
-Close third. Lists. Counting. Arithmetic as a way to keep her hands still. When she is in charge the sentences get short and flat; when she is alone they get long and circle back on themselves. She says "okay" three times when she is not okay; Lyra catches it off her ("Okay. Okay. Okay," the way Juno said it, [ch 3](../../chapters/ch03-signal/LATEST.md) L165). She carries the least dialect on the hill, because she has been correcting herself for a scholarship since Form One ([14](../14-writing-rules.md#dialect-is-class)): light island English with the friends ("We going down the beach"), standard the moment she is on duty or in front of the Harbour. She uses the book's words (deep coma, the bevel up) and circles the ones she won't say.
+Close third. Lists. Counting. Arithmetic as a way to keep her hands still. When she is in charge the sentences get short and flat; when she is alone they get long and circle back on themselves. She says "okay" three times when she is not okay; Lyra catches it off her ("Okay. Okay. Okay," the way Juno said it, [ch 3](../../chapters/ch03-signal/LATEST.md) L181). She carries the least dialect on the hill, because she has been correcting herself for a scholarship since Form One ([14](../14-writing-rules.md#dialect-is-class)): light island English with the friends ("We going down the beach"), standard the moment she is on duty or in front of the Harbour. She uses the book's words (deep coma, the bevel up) and circles the ones she won't say.
 
 ## Relationships
 

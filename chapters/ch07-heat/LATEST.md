@@ -84,6 +84,16 @@ For the rest of the day he didn't touch the baby.
 
 He boiled water on the new cylinder once Lonny got the regulator on, in thirty seconds, without even looking. He made the bottles with Granny's oven gloves on, the thick quilted ones with the chillies printed on them. Bix laughed at him until Tock looked at him, and then he stopped. When Vee cried he sent Bix. When Bix couldn't settle her he sent her down the road to Sol, who held her too carefully and talked to her about Arsenal. He could hear her from the kitchen, going on and on. Every time she did, his hands got hot again, so he put them under the cold tap and held them there until the water ran warm.
 
+In the afternoon Sol had to go up to the ward, so Vee went down to the bend instead. She came back an hour later asleep on Bix's shoulder, which nobody had managed since the night Tock found her.
+
+"Kit did a thing," Bix said, impressed. "With her thumb, on the forehead. Like this." He showed it on the air. "And she talked to her about Everton the whole time. Kit says Everton's better for sleeping. Kit says Arsenal's too exciting."
+
+"Kit's never watched Arsenal," Tock said.
+
+"Kit says you look sick and you should drink water."
+
+Tock put his hands back under the tap.
+
 He told everyone it was the fever. He told Juno he didn't want Vee to catch it. Juno, who hadn't slept in a bed since the first night, looked at him for half a second longer than usual and then said, "Fine. Drink water," and went back down to the ward. She didn't have room in her head for anything else. He had counted on that.
 
 On the seventh morning there was a ship.

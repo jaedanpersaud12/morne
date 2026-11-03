@@ -12,7 +12,7 @@ Scene-by-scene plans for chapters not yet written. A plan, not prose: the lines 
 
 ### Where Kit is when it opens
 
-Eight days on the gallery at the bend. Ambrose on a mattress in the shade, on his side, cushion under his head. She kept him out of the ward and never said why. The corbeaux have sat on the taxi roof since day zero. She has the key to the steel box on a cord round her neck. She doesn't know that Judge knows, or that Juno now knows ([ch 8](../chapters/ch08-market/LATEST.md) L147, L193). Her mother's number rang out on night one. Fen still owes her the goat.
+Eight days on the gallery at the bend. Ambrose on a mattress in the shade, on his side, cushion under his head. She kept him out of the ward and never said why. The corbeaux have sat on the taxi roof since day zero. She has the key to the steel box on a cord round her neck. She doesn't know that Judge knows, or that Juno now knows ([ch 8](../chapters/ch08-market/LATEST.md) L173, L219). Her mother's number rang out on night one. Fen still owes her the goat.
 
 ### Scene 1 — the box (day 8, dusk)
 

@@ -8,12 +8,12 @@ By ch 8 the outside world amounts to one ship, one drone and one broadcast on a 
 
 | What | When | On the page | Source |
 | --- | --- | --- | --- |
-| Local FM | Night one | One Machel song on a loop; the rest of the band dead | [ch 2](../chapters/ch02-count/LATEST.md) L63, [ch 3](../chapters/ch03-signal/LATEST.md) L69 |
+| Local FM | Night one | One Machel song on a loop; the rest of the band dead | [ch 2](../chapters/ch02-count/LATEST.md) L67, [ch 3](../chapters/ch03-signal/LATEST.md) L69 |
 | Channel 16 | Days 0 to 6 | Hiss for a week | [ch 3](../chapters/ch03-signal/LATEST.md) L71, [ch 6](../chapters/ch06-sixteen/LATEST.md) L85 |
-| The ship | Day 7, dawn | Grey, low, a mast "full of shapes", a gun Fen won't name; dead still on the horizon | [ch 6](../chapters/ch06-sixteen/LATEST.md) L75-77, [ch 7](../chapters/ch07-heat/LATEST.md) L91 |
+| The ship | Day 7, dawn | Grey, low, a mast "full of shapes", a gun Fen won't name; dead still on the horizon | [ch 6](../chapters/ch06-sixteen/LATEST.md) L75-77, [ch 7](../chapters/ch07-heat/LATEST.md) L101 |
 | AIS | Day 7 | Fishing boats show; the ship doesn't. Warships run dark | [ch 6](../chapters/ch06-sixteen/LATEST.md) L79-83 |
 | The *sécurité* loop | Day 7 on | A flat voice, "an accent from somewhere a long way from here" | [ch 6](../chapters/ch06-sixteen/LATEST.md) L89-93 |
-| The drone | Night 7 | A small cross, unblinking red light, thirty feet over the lit Quill roof; leaves toward the ship | [ch 6](../chapters/ch06-sixteen/LATEST.md) L199-209 |
+| The drone | Night 7 | A small cross, unblinking red light, thirty feet over the lit Quill roof; leaves toward the ship | [ch 6](../chapters/ch06-sixteen/LATEST.md) L201-211 |
 | More ships | Weeks 1 on | Until the horizon holds one in every direction | [02](02-the-sleep.md#the-boundary-a-quarantine-not-a-dome) |
 | A helicopter | Movement 2 | Circles Zu's boat and leaves | [17](17-book-one-outline.md#parallel-stories-the-world-off-page) |
 | Lights at night (new) | Week 2 on | Navigation lights in a ring on a black sea; a searchlight when a boat moves | (new) |
@@ -26,7 +26,7 @@ The Quill satellite dish ([06](06-island.md)) is pay TV whose subscription lapse
 
 Kept to [02](02-the-sleep.md#the-boundary-a-quarantine-not-a-dome): detected within a day; ships, drones, drops that stop; adults who land sleep.
 
-**How it was noticed (new).** The Monday ferry doesn't sail, the island's coast guard and air traffic channels go silent, and diaspora calls ring out. On commercial night-time satellite imagery the island goes black at 12:14 except for one point on the south hill, the Quill house ([ch 3](../chapters/ch03-signal/LATEST.md) L173). The neighbouring islands, under the same dust, find their adults awake, so the cause is on the island and not in the air.
+**How it was noticed (new).** The Monday ferry doesn't sail, the island's coast guard and air traffic channels go silent, and diaspora calls ring out. On commercial night-time satellite imagery the island goes black at 12:14 except for one point on the south hill, the Quill house ([ch 3](../chapters/ch03-signal/LATEST.md) L189). The neighbouring islands, under the same dust, find their adults awake, so the cause is on the island and not in the air.
 
 **Who runs it (new).** The island is a small independent state ("this island and its territorial waters", [ch 6](../chapters/ch06-sixteen/LATEST.md) L89; Juno is "top of the country", [Juno](cast/juno.md)). Its government is asleep. The senior official still awake is its UN ambassador, in New York that Sunday. Within 48 hours WHO declares a public health emergency of international concern, and a multinational task force follows under a UN mandate, using the navies that already patrol the Caribbean. The first ship on station is European, which is why Fen can't place the accent. Each ship enforces twelve miles around *itself* (L89), so the line is a ring of overlapping circles, not a wall.
 
@@ -42,7 +42,7 @@ Kept to [02](02-the-sleep.md#the-boundary-a-quarantine-not-a-dome): detected wit
 
 ## The rules of the line
 
-The broadcast says three things: stay in port, stay twelve miles off, or "will be stopped" ([ch 6](../chapters/ch06-sixteen/LATEST.md) L89, L97). Judge reads it right: "The ship is to keep us here" (L163).
+The broadcast says three things: stay in port, stay twelve miles off, or "will be stopped" ([ch 6](../chapters/ch06-sixteen/LATEST.md) L89, L97). Judge reads it right: "The ship is to keep us here" (L165).
 
 | If | Then |
 | --- | --- |
@@ -56,9 +56,9 @@ The broadcast says three things: stay in port, stay twelve miles off, or "will b
 ## Contact so far (by ch 8)
 
 - None both ways. The navy has spoken once, on a loop, to "all stations". In Fen's words, "They're not talking to us" ([ch 6](../chapters/ch06-sixteen/LATEST.md) L125).
-- Fen knows it is a quarantine. Judge knows and has told 230 kids (L163). Juno told the road "Somebody's coming" (L141), and Tock believes her ([ch 7](../chapters/ch07-heat/LATEST.md) L93).
+- Fen knows it is a quarantine. Judge knows and has told 230 kids (L163). Juno told the road "Somebody's coming" (L141), and Tock believes her ([ch 7](../chapters/ch07-heat/LATEST.md) L103).
 - The drone has seen the lit house and probably the sheet. Fen has told no one ([Fen](cast/fen.md)).
-- No drops yet. Judge's five weeks of rice assumes no help ([ch 8](../chapters/ch08-market/LATEST.md) L135).
+- No drops yet. Judge's five weeks of rice assumes no help ([ch 8](../chapters/ch08-market/LATEST.md) L161).
 
 ## How it develops
 

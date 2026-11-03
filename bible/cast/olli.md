@@ -8,7 +8,7 @@ The little brother. Gap where his front teeth should be. Counts himself when the
 
 Not a plot device: a child who has to be fed, taught and protected for three years, and who grows up inside the apocalypse. He is seven at the Sleep and ten by the end. The group's reason on the hard days, and the one who says the true thing nobody else will.
 
-Youngest of the three Vales, raised by [Granny Dot](supporting.md#quarry-trace) with [Juno](juno.md) and [Tock](tock.md) after their mother died and their father went to Canada. He still does spelling in a school exercise book; Juno tears his pages out on night one to start the list ([ch 2](../../chapters/ch02-count/LATEST.md) L87). In August he fell off the Hales' tank stand, and Kit saw real fear on Juno's face that day ([ch 1](../../chapters/ch01-dust/LATEST.md) L169). He is a kid without a groove: too young and too untouched for a power, for now ([02](../02-the-sleep.md#outcomes-by-age)).
+Youngest of the three Vales, raised by [Granny Dot](supporting.md#quarry-trace) with [Juno](juno.md) and [Tock](tock.md) after their mother died and their father went to Canada. He still does spelling in a school exercise book; Juno tears his pages out on night one to start the list ([ch 2](../../chapters/ch02-count/LATEST.md) L91). In August he fell off the Hales' tank stand, and Kit saw real fear on Juno's face that day ([ch 1](../../chapters/ch01-dust/LATEST.md) L169). He is a kid without a groove: too young and too untouched for a power, for now ([02](../02-the-sleep.md#outcomes-by-age)).
 
 ## Inside
 
@@ -46,7 +46,7 @@ Youngest of the three Vales, raised by [Granny Dot](supporting.md#quarry-trace) 
 
 - [Ch 1](../../chapters/ch01-dust/LATEST.md): comes down the hill with the six as "the little one," counting himself. That afternoon he is wedged between the fridge and the wall while Juno takes Granny's pulse on the floor, and Juno takes him by the arm (L143, L165).
 - [Ch 2](../../chapters/ch02-count/LATEST.md): on the couch with the TV on, told Granny is sleeping hard, in the most bored voice Juno can find. He believes her. His spelling pages are torn out to make room for the list.
-- [Ch 4](../../chapters/ch04-ice/LATEST.md): asleep under the kitchen table at ten to five. When the goat finally makes everyone laugh again, he asks "what's the goat" and nobody tells him. Sol's power first showed in his glass the night before ("Olli's glass," L223); nobody tells him that either.
+- [Ch 4](../../chapters/ch04-ice/LATEST.md): asleep under the kitchen table at ten to five. When the goat finally makes everyone laugh again, he asks "what's the goat" and nobody tells him. Sol's power first showed in his glass the night before ("Olli's glass," L247); nobody tells him that either.
 - [Ch 5](../../chapters/ch05-spoon/LATEST.md): asks for a job and gets eyes: wipe, then tape, on every sleeper. Stops at Granny and asks if she's going to die; laughs at the answer. By day 4 Mr. Hale's eyes have sunk so far Olli's tape doesn't touch the lids. Finds the electricity bill and gives the dead man his first name.
 - [Ch 6](../../chapters/ch06-sixteen/LATEST.md): on somebody's shoulders in the road, cheering the navy ship.
 - [Ch 7](../../chapters/ch07-heat/LATEST.md): not in a scene, but his work is everywhere: Bix runs the ward jugs on Olli's old wagon, and Olli's tape is over Granny's eyes when Tock kneels by her.

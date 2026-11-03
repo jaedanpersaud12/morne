@@ -35,7 +35,7 @@ From the blind read of ch 1 to 8. Each is **PROPOSED**: beat-sheeted so it can b
 
 ### 6½ (or the first scene of 9) — Kit — "Box"
 
-**Why:** Kit opens the book and then is a hand lifted from a gallery for seven chapters. Eight chapters is too long to park the opening POV; the steel box at the end of ch 8 shows the book knows she matters. One scene inside her head before ch 9 keeps her a person, not a Chekhov's gun.
+**Why:** Kit opens the book and then is a hand lifted from a gallery for seven chapters. (Eased 2026-11-03: she now has a small moment with a different friend in every chapter from 2 to 8; see [cast/kit](cast/kit.md#on-the-page-so-far). The scene inside her head is still ch 9.) Eight chapters is too long to park the opening POV; the steel box at the end of ch 8 shows the book knows she matters. One scene inside her head before ch 9 keeps her a person, not a Chekhov's gun.
 
 **When:** day 6, the evening after the funeral, while Fen is on the roof (ch 6) and Tock is scrubbing the counter (ch 7). About 1,200 words; a half-chapter or the cold open of ch 9.
 

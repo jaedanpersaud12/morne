@@ -14,6 +14,16 @@ That was the whole argument. Fen had made it at the kitchen table the night befo
 
 Nobody put a hand up. Lonny said he'd walk her down. Fen said he'd stay on the radio. Tock said nothing, which was worse. In the morning he was at the bend with Vee on his hip, and he didn't say goodbye, he said, "Come back," and when she said, "Obviously," he didn't smile.
 
+Kit was on the gallery when they passed. She came down the steps with her father's steel thermos and held it out.
+
+"It's water," she said. "It's eleven kilometres."
+
+Juno took it. "I'll bring it back."
+
+"Bring yourself back," Kit said. "He wants the thermos, though."
+
+Lonny laughed. Juno looked at Ambrose on his mattress, then at Kit, and for a second it seemed she might say something else. She said, "Okay," and they went.
+
 The coast road was eleven kilometres. They did it in two hours with Dr. Moss's bag between them and the sun on the backs of their necks.
 
 Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them. They watched Juno and Lonny go past without a word. When the youngest one raised a hand, Lonny raised one back, and nobody said anything about the padlock on the pump or the fact that the boy's hand had left a brown mark on the roof where he'd been resting it.
@@ -27,6 +37,22 @@ Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of g
 "Fen hears everything."
 
 "Yeah," Lonny said. "That's the thing about Fen."
+
+They walked a kilometre without talking. Then Lonny said, "Wren's mother is twelve."
+
+"Everybody's twelve."
+
+"Wren turns her every afternoon. On her own. She won't let me help." He kicked a stone along the road ahead of them. "She's stronger than she looks."
+
+"You love her," Juno said. It wasn't a question. She said it the way she'd say a pulse.
+
+Lonny went red to the ears, all six foot three of him. "We're seventeen."
+
+"Granny married at seventeen."
+
+"Granny would kill me."
+
+"Granny would kill you," Juno said, and for a few steps they were both laughing on an empty road about a woman asleep in a row in the Mosses' front room, who would have.
 
 Morne Bay started as a smell. Fish, and smoke, and under it something sweeter that Juno's stomach knew before her head did. She made herself keep walking at the same pace. The coast road became the main road and the main road became the market square, and the market square was full of children.
 
@@ -190,7 +216,7 @@ She stood at the edge of Morne Bay with twelve bags of the thing she'd done divi
 
 She carried the knowing up the hill.
 
-At the bend Kit lifted a hand from the gallery. Juno looked past her, through the open door of the flat, at the bedroom where the steel box was, and kept walking.
+At the bend Kit lifted a hand from the gallery. Juno, with the thermos still in her hand, looked past her, through the open door of the flat, at the bedroom where the steel box was, and kept walking.
 
 Tock was waiting a little way up the road with Vee asleep on his shoulder.
 

@@ -10,7 +10,7 @@ The twin who stayed in dance.
 
 Fen's twin. Outgoing, magnetic, knows every song at every fete, always surrounded by people. Does everything at volume. She and Fen clash sometimes and are still each other's person. She keeps the house loud so nobody has to hear the machines.
 
-**Tell (changed 2026-11-02, APPROVED):** she stops singing mid-song. This replaces "when she goes flat, something is very wrong." No chapter has shown her singing yet, so the tell is **PROPOSED** on the page until one does. Canon still on the page: on night one her voice on the phone is flat, and "in sixteen years Juno had never once heard Lyra be flat about anything" ([ch 2](../../chapters/ch02-count/LATEST.md), line 49). See Open questions.
+**Tell (changed 2026-11-02, APPROVED):** she stops singing mid-song. This replaces "when she goes flat, something is very wrong." No chapter has shown her singing yet, so the tell is **PROPOSED** on the page until one does. Canon still on the page: on night one her voice on the phone is flat, and "in sixteen years Juno had never once heard Lyra be flat about anything" ([ch 2](../../chapters/ch02-count/LATEST.md), line 53). See Open questions.
 
 Tier 3 holds: one core fact, seen from outside until a chapter happens to her ([overview](_overview.md#depth-tiers-locked)). Her chapter is ch 14, the water run. Everything under Inside is for the author; on the page, readers get it through what she does in other people's chapters.
 
@@ -26,13 +26,13 @@ Their mother put both twins in a dance company as little kids. Lyra stayed and c
 
 **Lie:** That if it's loud enough, nothing bad can get in. She kept the house loud through a year of machines so nobody had to hear them.
 
-**Fear:** The quiet. On night one the whole island goes quiet and the machines are the loudest thing in the house; when the grid dies at 12:14 she is the one breathing fast in the dark ([ch 3](../../chapters/ch03-signal/LATEST.md), line 151).
+**Fear:** The quiet. On night one the whole island goes quiet and the machines are the loudest thing in the house; when the grid dies at 12:14 she is the one breathing fast in the dark ([ch 3](../../chapters/ch03-signal/LATEST.md), line 167).
 
 **Wound:** The same year as Fen's, lived the other way: she stayed in the studio and kept the house loud while he went silent and learned the machines. Their mother's hands curled on nothing for months, even with the morphine ([ch 3](../../chapters/ch03-signal/LATEST.md), line 45).
 
 **How they love:** Out loud and with her hands. She straightens the blanket where it doesn't need straightening, puts her hand over her mother's open one and leaves it there, falls asleep across the foot of the bed still reaching for her ([ch 3](../../chapters/ch03-signal/LATEST.md), lines 25, 51, 127). She runs inside to tell her mother about the ship ([ch 6](../../chapters/ch06-sixteen/LATEST.md), line 111). With people, "Lyra being Lyra, with everyone, loudly" ([09](../09-relationships.md#lyra-and-the-convert)).
 
-**How it shows:** Her thumb moving on the phone without stopping. Tidying what is already tidy. Sleep that takes her mid-sentence: she falls asleep on the Vales' stairs at three in the morning before she finishes giving the generator news ([ch 4](../../chapters/ch04-ice/LATEST.md), line 5). When she is frightened she borrows other people's words: "Okay. Okay. Okay," the way Juno says it ([ch 3](../../chapters/ch03-signal/LATEST.md), line 165). When something is very wrong she stops singing mid-song (**PROPOSED** until shown). Linked, Fen feels it.
+**How it shows:** Her thumb moving on the phone without stopping. Tidying what is already tidy. Sleep that takes her mid-sentence: she falls asleep on the Vales' stairs at three in the morning before she finishes giving the generator news ([ch 4](../../chapters/ch04-ice/LATEST.md), line 5). When she is frightened she borrows other people's words: "Okay. Okay. Okay," the way Juno says it ([ch 3](../../chapters/ch03-signal/LATEST.md), line 181). When something is very wrong she stops singing mid-song (**PROPOSED** until shown). Linked, Fen feels it.
 
 **Humour:** Quick, warm, and she names things. The Pell baby is "Pell," "like a footballer," because "she's the only Pell who's awake. She's earned it" ([ch 4](../../chapters/ch04-ice/LATEST.md), lines 45-49). At the goat she says "oh my God" into her arms on the stairs. Fen's joke about her is the truest thing said about her: she'll want to try the generator, and she'll flood it.
 
@@ -54,12 +54,12 @@ Their mother put both twins in a dance company as little kids. Lyra stayed and c
 
 ## On the page so far
 
-- [Ch 2](../../chapters/ch02-count/LATEST.md): on the phone to the Vales' kitchen, flat for the first time in Juno's memory. "We're not leaving her." She gives the full report (nurse asleep in the chair, Daddy on the floor in the hall, Mummy looks the same) and then asks Juno, "What is this" (lines 49-53).
+- [Ch 2](../../chapters/ch02-count/LATEST.md): on the phone to the Vales' kitchen, flat for the first time in Juno's memory. "We're not leaving her." She gives the full report (nurse asleep in the chair, Daddy on the floor in the hall, Mummy looks the same) and then asks Juno, "What is this" (lines 53-57).
 - [Ch 3](../../chapters/ch03-signal/LATEST.md), Fen's eyes: messaging everyone who might answer. She says the hard thing first: "Is it bad that she looks better?" Then, "I don't want her to wake up into that" (lines 39, 55). Asleep across the foot of the bed; awake and counting when the grid dies.
 - [Ch 4](../../chapters/ch04-ice/LATEST.md): comes up the hill at three with the news that the generator works and falls asleep mid-sentence on the stairs. Names the baby "Pell." Goes with the goat.
 - [Ch 5](../../chapters/ch05-spoon/LATEST.md), off stage: when Lonny carries the sleepers to the Mosses', Lyra says no "in a voice nobody argued with," so Mrs. Quill stays in her hospital bed at number six; Mr. Quill and Miss Tilda go up the hill (line 7). It is her call, not Fen's.
 - [Ch 6](../../chapters/ch06-sixteen/LATEST.md), Fen's eyes: at the bottom of the ladder, face turned up: "Fen, is it for us?" He says "It's the navy," and she is gone inside to tell their mother before he can say anything else (lines 107-111).
-- [Ch 7](../../chapters/ch07-heat/LATEST.md), off stage: home with their mother; the only one of the six not at the table when the handprints burn into it (line 195).
+- [Ch 7](../../chapters/ch07-heat/LATEST.md), off stage: home with their mother; the only one of the six not at the table when the handprints burn into it (line 205).
 
 ## Voice
 
@@ -77,7 +77,7 @@ She talks in short, direct lines and says the thing first, which Fen can't do ("
 - [Fen](fen.md): see above, and [09](../09-relationships.md#fen-and-lyra-the-unbreakable-one). The feeling is ease: he is the one person she can ask the unaskable question, and she says it so he doesn't have to. She trusts him completely and doesn't know how much he keeps from her (the generator until it worked, the 94%, the ship). They clash, and when linked a normal sibling fight is dangerous. In book one the link arrives (ch 16), she learns Cass's secret through Fen (ch 23), and the bond holds. The only thing that could break it is the network, in year three. **Do not break it for drama.**
 - Their mother: she agrees with Fen, completely. It still hurts. She is the one who keeps her home in the bed when everyone else goes to the ward (ch 5), and the one who tells her the news. In book one she carries her to the garden with Fen (ch 18).
 - Their father: on the hall floor on night one, then in the Mosses' ward. Never decided about ([17](../17-book-one-outline.md#side-arcs-under-the-main-plot)).
-- [Juno](juno.md): "You always know." "I don't know this." On night one Lyra asks Juno "What is this," and Juno says "I don't know" ([ch 2](../../chapters/ch02-count/LATEST.md), line 53). Juno protects her in return: "I'm not asking Lyra to choose" between the oxygen and the fridge ([ch 4](../../chapters/ch04-ice/LATEST.md), line 185). In ch 11 Lyra takes the little ones because Juno was going to: help, and a quiet claim.
+- [Juno](juno.md): "You always know." "I don't know this." On night one Lyra asks Juno "What is this," and Juno says "I don't know" ([ch 2](../../chapters/ch02-count/LATEST.md), line 57). Juno protects her in return: "I'm not asking Lyra to choose" between the oxygen and the fridge ([ch 4](../../chapters/ch04-ice/LATEST.md), line 209). In ch 11 Lyra takes the little ones because Juno was going to: help, and a quiet claim.
 - Cass ([supporting](supporting.md)): she dates him. It starts as Lyra being Lyra, with everyone, loudly, and becomes serious at the wrong time. When his mother dies in her bed he blames Juno and converts; she finds out through Fen and chooses her twin ([09](../09-relationships.md#lyra-and-the-convert)). The feeling is real enough that losing him breaks her.
 - [Lonny](lonny.md): carries her home from the ambush in month four instead of the water ([07](../07-powers-in-practice.md)).
 - The little ones ([12](../12-little-ones.md)): the job nobody gave her.

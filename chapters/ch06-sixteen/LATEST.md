@@ -150,6 +150,8 @@ The ship didn't move all day.
 
 The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Twenty-four was Juno's number. It was in the book under Day 7, with thirteen and twenty and twenty-two crossed out above it. Fen carried the paint tins and held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
 
+From the roof he could see the balcony. Sometime after lunch Lyra had gone down to the bend and come back with Kit by the wrist, and now the two of them had the binoculars between them, Lyra talking with both hands. At one point Kit laughed, head back, at something he couldn't hear. He watched that for longer than he had watched the ship all day.
+
 At nine the handheld clicked.
 
 "Trace."

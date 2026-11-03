@@ -120,6 +120,22 @@ Fen sat with the handheld in his lap and the cold came up through him slowly, fr
 
 He could call her. Tell her what he'd done, let her decide what it meant. Or he could sit here and hope it meant nothing, and find out in the morning.
 
+His phone had one bar. Instead of calling Juno, he opened the thread with Kit, which was three messages long, all of them about the goat. He typed *you ok*, deleted it, then typed it again and sent it before he could think.
+
+The answer came in under a minute.
+
+*he's breathing 12*
+
+*mine 11*
+
+*is it everyone*
+
+*yes*
+
+Nothing for a while. Then: *the corbeaux are still on the taxi*
+
+He didn't know anything about corbeaux. He typed *they'll go*, because it was what you said, and put the phone face down on his knee.
+
 He got up and took the handheld down with him, because whatever happened next, the boy on the dock was going to call again, and Fen was going to be the one who answered.
 
 ---

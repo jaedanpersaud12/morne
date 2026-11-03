@@ -1,6 +1,6 @@
 # Morne Bay (working title)
 
-_Built 2026-11-03 09:04. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
+_Built 2026-11-03 09:35. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
 
 
 # Chapter 1 — Dust
@@ -232,6 +232,10 @@ Tock came last, and he came angry, which was how Tock came to everything that sc
 "Kids are fine. Nettle girl's crying, I told her lock the door, I'll come back." He kicked the leg of the table. Not hard. Then harder. "Why are the kids fine?"
 
 Nobody answered that.
+
+Tock put a steel thermos on the counter. "Kit," he said. "From the bend. She made it for her father." He didn't finish that. "She said you'd be up."
+
+It was coffee, too sweet, the way a taxi man would take it. Juno didn't drink coffee. Near three in the morning she drank all of it standing at the counter.
 
 Fen and Lyra didn't come. Lyra called, and Juno put her on speaker on the table so she wouldn't have to say it twice.
 
@@ -503,6 +507,22 @@ Fen sat with the handheld in his lap and the cold came up through him slowly, fr
 
 He could call her. Tell her what he'd done, let her decide what it meant. Or he could sit here and hope it meant nothing, and find out in the morning.
 
+His phone had one bar. Instead of calling Juno, he opened the thread with Kit, which was three messages long, all of them about the goat. He typed *you ok*, deleted it, then typed it again and sent it before he could think.
+
+The answer came in under a minute.
+
+*he's breathing 12*
+
+*mine 11*
+
+*is it everyone*
+
+*yes*
+
+Nothing for a while. Then: *the corbeaux are still on the taxi*
+
+He didn't know anything about corbeaux. He typed *they'll go*, because it was what you said, and put the phone face down on his knee.
+
 He got up and took the handheld down with him, because whatever happened next, the boy on the dock was going to call again, and Fen was going to be the one who answered.
 
 ---
@@ -658,6 +678,30 @@ They went down past the bend at first light, Sol and Lonny, because Tock wouldn'
 "Yes, Juno."
 
 Kit was on the gallery of the flat at the bend. Her father was on a mattress she had dragged out there into the shade, on his side, with a cushion under his head, and she sat beside him with her knees up and watched them go past the way she had watched everyone go past since March. She lifted a hand without being asked. The corbeaux on the taxi roof shifted and settled.
+
+Sol stopped at the bottom of the steps, because Kit was watching the mattress and not them.
+
+"How many?" Sol said.
+
+"Twelve," Kit said. "Every time."
+
+"Granny's twelve. Mr. Finch was eleven when I left." Sol worked it out. "Everybody's near twelve."
+
+"He was going to listen to the Everton game on the car radio. Today. He had it on the calendar."
+
+"Arsenal," Sol said.
+
+"I know. The whole road hears you when they lose."
+
+"Nobody's ever going to know the score."
+
+Kit thought about that. "He'll ask, when he wakes up."
+
+"Then I'll make one up," Sol said. "Two-one. Everton."
+
+Kit almost laughed. It got as far as her mouth and stopped there, but it got that far.
+
+"Sol," Lonny said, from the road.
 
 Below the bend was the road. Sol had been on it a thousand times in the back of a car. She had never once walked it.
 
@@ -983,6 +1027,20 @@ Juno stayed after.
 
 The others went back to the house, because the clock would go off in forty minutes and row two needed turning. After filling the hole and stamping the earth down, Lonny had gone to sit under the tap of the Hales' water tank with his clothes on, letting it run over his head. Juno sat under the lime tree with the exercise book on her knees.
 
+Kit was at the fence at the bottom of the garden. She must have come up while they were digging and stood there the whole time with her arms folded, close enough to hear the prayer and far enough to leave if anybody looked at her.
+
+"He gave me fifty cents once," she said. "For the parlour. My first week. He said the new girl should have a sweetie."
+
+"He never gave us anything," Juno said.
+
+"You lot kicked balls in his yard."
+
+Juno laughed before she could stop it. Kit looked pleased with herself for a second, then looked back down the hill toward the bend, where her father was alone.
+
+"I can't stay." She unfolded her arms. "When this is over, I'm coming to the beach."
+
+She was gone down the road before Juno could answer, and Juno sat with that longer than she meant to.
+
 She had given him the most water of anyone. Four days of her own hands, every hour she had. It hadn't been enough.
 
 Granny had had one bag, four days ago. Since then she'd had a syringe, a few drops at a time, the slowest water in the house. She had had less than Mr. Hale. All six of them had.
@@ -1153,6 +1211,8 @@ The ship didn't move all day.
 
 The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Twenty-four was Juno's number. It was in the book under Day 7, with thirteen and twenty and twenty-two crossed out above it. Fen carried the paint tins and held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
 
+From the roof he could see the balcony. Sometime after lunch Lyra had gone down to the bend and come back with Kit by the wrist, and now the two of them had the binoculars between them, Lyra talking with both hands. At one point Kit laughed, head back, at something he couldn't hear. He watched that for longer than he had watched the ship all day.
+
 At nine the handheld clicked.
 
 "Trace."
@@ -1298,6 +1358,16 @@ He hung the cloth over the tap to dry.
 For the rest of the day he didn't touch the baby.
 
 He boiled water on the new cylinder once Lonny got the regulator on, in thirty seconds, without even looking. He made the bottles with Granny's oven gloves on, the thick quilted ones with the chillies printed on them. Bix laughed at him until Tock looked at him, and then he stopped. When Vee cried he sent Bix. When Bix couldn't settle her he sent her down the road to Sol, who held her too carefully and talked to her about Arsenal. He could hear her from the kitchen, going on and on. Every time she did, his hands got hot again, so he put them under the cold tap and held them there until the water ran warm.
+
+In the afternoon Sol had to go up to the ward, so Vee went down to the bend instead. She came back an hour later asleep on Bix's shoulder, which nobody had managed since the night Tock found her.
+
+"Kit did a thing," Bix said, impressed. "With her thumb, on the forehead. Like this." He showed it on the air. "And she talked to her about Everton the whole time. Kit says Everton's better for sleeping. Kit says Arsenal's too exciting."
+
+"Kit's never watched Arsenal," Tock said.
+
+"Kit says you look sick and you should drink water."
+
+Tock put his hands back under the tap.
 
 He told everyone it was the fever. He told Juno he didn't want Vee to catch it. Juno, who hadn't slept in a bed since the first night, looked at him for half a second longer than usual and then said, "Fine. Drink water," and went back down to the ward. She didn't have room in her head for anything else. He had counted on that.
 
@@ -1457,6 +1527,16 @@ That was the whole argument. Fen had made it at the kitchen table the night befo
 
 Nobody put a hand up. Lonny said he'd walk her down. Fen said he'd stay on the radio. Tock said nothing, which was worse. In the morning he was at the bend with Vee on his hip, and he didn't say goodbye, he said, "Come back," and when she said, "Obviously," he didn't smile.
 
+Kit was on the gallery when they passed. She came down the steps with her father's steel thermos and held it out.
+
+"It's water," she said. "It's eleven kilometres."
+
+Juno took it. "I'll bring it back."
+
+"Bring yourself back," Kit said. "He wants the thermos, though."
+
+Lonny laughed. Juno looked at Ambrose on his mattress, then at Kit, and for a second it seemed she might say something else. She said, "Okay," and they went.
+
 The coast road was eleven kilometres. They did it in two hours with Dr. Moss's bag between them and the sun on the backs of their necks.
 
 Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them. They watched Juno and Lonny go past without a word. When the youngest one raised a hand, Lonny raised one back, and nobody said anything about the padlock on the pump or the fact that the boy's hand had left a brown mark on the roof where he'd been resting it.
@@ -1470,6 +1550,22 @@ Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of g
 "Fen hears everything."
 
 "Yeah," Lonny said. "That's the thing about Fen."
+
+They walked a kilometre without talking. Then Lonny said, "Wren's mother is twelve."
+
+"Everybody's twelve."
+
+"Wren turns her every afternoon. On her own. She won't let me help." He kicked a stone along the road ahead of them. "She's stronger than she looks."
+
+"You love her," Juno said. It wasn't a question. She said it the way she'd say a pulse.
+
+Lonny went red to the ears, all six foot three of him. "We're seventeen."
+
+"Granny married at seventeen."
+
+"Granny would kill me."
+
+"Granny would kill you," Juno said, and for a few steps they were both laughing on an empty road about a woman asleep in a row in the Mosses' front room, who would have.
 
 Morne Bay started as a smell. Fish, and smoke, and under it something sweeter that Juno's stomach knew before her head did. She made herself keep walking at the same pace. The coast road became the main road and the main road became the market square, and the market square was full of children.
 
@@ -1633,7 +1729,7 @@ She stood at the edge of Morne Bay with twelve bags of the thing she'd done divi
 
 She carried the knowing up the hill.
 
-At the bend Kit lifted a hand from the gallery. Juno looked past her, through the open door of the flat, at the bedroom where the steel box was, and kept walking.
+At the bend Kit lifted a hand from the gallery. Juno, with the thermos still in her hand, looked past her, through the open door of the flat, at the bedroom where the steel box was, and kept walking.
 
 Tock was waiting a little way up the road with Vee asleep on his shoulder.
 
