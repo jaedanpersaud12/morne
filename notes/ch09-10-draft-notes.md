@@ -1,0 +1,30 @@
+# Chapters 9 and 10: notes for the author
+
+## Chapter 9 — Ground (Kit) — 3,596 words
+
+- **Sheet vs page.** All four scene-1 beats, the ward/junction/Moth sequence, and the root/dawn sequence are as planned. One change: Lonny's "kindness" is an offer of one of Judge's twelve bags *if Ambrose comes up to the ward*, which Kit refuses. It makes her no concrete (a bag is a real thing to turn down) and sets up ch 10's cost, where the bags still don't stop Granny's pauses. Also: the formula errand is Kit's idea, prompted by Ida saying three tins are the last three; she pays the Harkers with Ambrose's fare money, which they take because "money was still money" to a sixteen-year-old. Rust's streak on the shop door plants his decay power without naming it.
+- **Where the yard's soft ground comes from:** the strip by the fence where Ambrose's wash water ran off every morning. Everything else in the yard is packed. (The taxi stays put; the corbeaux lift off its roof at dawn as planned.)
+- **Plants:** eleven shells (one missing, Kit doesn't want to know where); Moth and Old Man Tobit ("four days now"); the whispers as many voices, one of which says her name; the comfort (approved surprise, now on the page: "It soothed her. That was what frightened her"); Ida's Sunday theory, believed at once by the Nettle girl; Kit's refusal of the ward as a *choice*, not a mood.
+- **Pays:** Juno's glance at the box (ch 8); the key on the cord; the corbeaux on the taxi since ch 1; the running-tap sound, now revealed as what she heard on night one; "You said that last time" meeting someone it doesn't work on.
+- **Canon decisions you can veto:** (1) the box came into the house after a fare put a knife to Ambrose's neck at the ferry-dock lights, two years ago (bible says "after a robbery on a night fare"; I made it specific). (2) Ambrose's left hand closes once at dawn, on the wheel-at-a-red-light reflex: that's the chapter's sleeper-becomes-a-person beat. (3) Rust got a free drop to school from Ambrose once; Kit's mother is "in a flat on the coast road" in Kit's rage (the bible has her in town, status unknown; the flat is Kit's assumption, not a fact). (4) The name-voice is deliberately not identified as her father's.
+- **Length:** 3,596, over the 3,450 warn line but under ch 7. The sheet packs twelve beats into three scenes; I'd rather you cut than I lose one. Easiest cuts if you want 3,300: the Rust exchange, the pastor-asleep paragraph.
+
+## Chapter 10 — Skin (Juno) — 3,364 words
+
+- **Title.** "Turgor" is the right word and the wrong title: it's a word Juno would never say and the reader can't hold. The chapter turns on one physical fact, so the title is the object: **Skin**. Change it back if you want the clinical chill.
+- **Sheet vs page.** Scene 1 as planned, including the full coma table on Ambrose, the pinch that springs back, "fungal infection" said out loud, Kit's hand flat on the soil mirroring Juno's on the book, and the envy beat left unnamed (she "put it down somewhere out of sight, where the thirty seconds went"). Scene 2 merges the sheet's "the table" with Granny's numbers and the road finding out, so the chapter has three scenes, not five. Scene 3 merges the night and the note. Kit appears at the kitchen door for "I didn't ask you", then takes her father's thermos off the counter (Juno carried it up in ch 8 and never gave it back) and leaves; that's why she's there.
+- **The theory.** Juno's brain-plasticity line is in; she says it "like it was whole" and hears herself doing it. Tock's "Then what does it do to the finished ones?" gets "Nobody answered." and is left there. Fen says nothing at the table, which is the bill for scene 3.
+- **The ruling** is given in the on-duty voice, not as a vote, with the arithmetic beside it (fourteen, one of her, a bag that doesn't change the pauses).
+- **Plants:** the Nettle girl asking to put her mother in the ground (secret rooting); Juno's ruling (Cass's question, ch 11); the pauses (eleven to thirteen seconds, same pattern as Mr. Hale); Granny's hand turning palm up (sleeper-as-person beat); Ears on the exact line of the bend, head tilted, feet silent, already knowing she was coming (the reader should clock the power; Juno doesn't); the note in her pocket; Fen's light still on.
+- **Pays:** "someone coming down the road"; the skin tent from ch 1 and ch 5; the twelve bags; Mr. Hale's breathing; Fen's one-more-day (she learns about the ship from Judge, not Fen, by ch 10 as the ledger requires); "Morning, Kit", said once at dawn in scene 1 and then not said at the end. No explanation of the missing greeting; the paragraph that explained it is cut.
+- **Canon decisions you can veto:** (1) Olli is the leak: he came down for Mr. Wick's eyes, saw the threads, and told Bix. (2) Juno hangs the first of Judge's twelve bags on Granny on day 10. (3) The note is in Judge's hand with "Vale" on the outside in Nell's. (4) Juno's "age, not Sunday" evidence uses Sol's parents on the couch with the cricket (ch 2) and Miss Tilda at work; I didn't use the ice plant because ch 2 has the Finches at home.
+- **The two girls are not speaking** by the last line. Nobody on the page is the villain: Ida gets the last clean argument ("Then she buried a living man"), Kit gets the last flat one, Juno gets the cost.
+
+## Two things in ch 1 to 8 worth a look (outside this job)
+
+- **Ch 6, the ship cheer:** after the depolish splice the line reads `"It's the navy," "It's a navy," he said.` — a doubled line; one of the two should go (Fen's dry version was "It's a navy").
+- **Ch 5, the grave:** `"He kept it for a year." "You cried," Tock said.` sit on one line; the second quote wants its own paragraph.
+
+## Beat-sheet housekeeping
+
+Delete the ch 9 and ch 10 sheets from bible/26 and update 20-story-so-far when these are accepted. "Who knows what" after ch 10: Juno knows about the ship from Judge; the road knows Ambrose is rooted; nobody knows about Moth; Kit still doesn't know Juno knows about the gun (ch 9 has her working out that *somebody* told Juno, but not who).

@@ -1,6 +1,6 @@
 # Morne Bay (working title)
 
-_Built 2026-11-03 14:56. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
+_Built 2026-11-03 15:19. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
 
 
 # Chapter 1 — Dust
@@ -1017,7 +1017,9 @@ They stood. Then Tock cleared his throat.
 
 "He gave it back every time, though."
 
-"He kept the good one," Juno said. "The red one. Remember? Form One. He kept it for a year." "You cried," Tock said.
+"He kept the good one," Juno said. "The red one. Remember? Form One. He kept it for a year."
+
+"You cried," Tock said.
 
 "I didn't cry."
 
@@ -1167,7 +1169,7 @@ In about a minute the road was full. Kids came out of every house, still in what
 
 "Fen?" Lyra, from the bottom of the ladder, with her face turned up. "Fen, is it for us?"
 
-"It's the navy," "It's a navy," he said. "Not ours. We don't have one."
+"It's a navy," he said. "Not ours. We don't have one."
 
 She was gone before he could say anything else, and he heard her inside telling their mother. He hadn't said anything else.
 
@@ -1738,5 +1740,487 @@ Tock was waiting a little way up the road with Vee asleep on his shoulder.
 She put the box in the Mosses' front room, under the empty coat hangers where the first six had hung. She did not say where it had come from. Nobody asked.
 
 That night she lay awake with the notebook on her chest. The pencil on her wrist had smudged to a grey mark on the walk home. She could still read it. She had a secret now, like Fen. She had been wrong about how easy it was to keep one.
+
+
+
+# Chapter 9 — Ground
+
+Kit had counted her father's breathing so many times in eight days that she did it now without a watch, by the gap between one breath and the next, and the gap was the same as on Sunday.
+
+Twelve. She sat on the gallery with her knees up. He lay on the mattress in the shade with the cushion under his head, on his left side, because the afternoon was a left-side afternoon. She turned him by the sun, not by Juno's clock, because the sun was out here with her.
+
+The corbeaux were on the roof of the taxi. Nine this evening. Some days six, never none, and every morning the roof had white on it that she wiped off with a rag before she even looked at him, because he had washed that car every morning of his life.
+
+Juno and Lonny came up from the bend at the end of the day with the sun behind them. Lonny had a cardboard box on his shoulder, carried like it weighed nothing, which meant it weighed a lot. Juno had Dr. Moss's bag in one hand and her father's thermos in the other.
+
+Kit lifted a hand.
+
+Juno looked at her. Then she looked past her, through the open door of the flat, into the bedroom, and kept walking. Lonny said "Kit" and nodded, and they went on up, and the corbeaux shifted and settled.
+
+Kit put her hand down.
+
+The look had gone into the house, through the front room to the bedroom, to the bed and under it, and come out again, and Juno had kept walking as if there were nothing in there at all.
+
+Lonny came back down an hour later on his own, with a page in his hand. The grid. Her father's name was on it now, at the bottom, under Mr. Finch. *Wick. L / B / R / B.* Juno's small square writing.
+
+"She's got bags," Lonny said. He stood at the bottom of the steps and didn't come up, because he'd been raised polite. "Twelve. From town. For the ones that cough. He's on the list for one, if he comes up." He turned the page over as if there were more on the back. "I'd carry him. Now, before it's dark."
+
+"He doesn't cough."
+
+"Then he doesn't need one yet. He'd still be in the room with the rest, though. With the clock." He looked at the mattress. "You're one of us, you know. You don't have to do him on your own down here."
+
+She didn't believe it and she didn't argue. He had carried her father once already, on the first morning, from the yard to the gallery, and that was a thing you didn't throw back at somebody.
+
+"He's fine where he is."
+
+"Okay." He put the page on the bottom step with a stone on it. "His times. If you want them."
+
+"I know his times."
+
+"I know you do."
+
+When she couldn't hear him on the road any more she went inside.
+
+The steel box was under the bed where it had always been, a grey ammunition case with a padlock through the hasp. It had come into the house two years ago, a week after a fare put a knife to his neck at the lights by the ferry dock, and the key had gone round her neck, because a man who drove at night shouldn't sleep with the key to a gun.
+
+She took the cord off over her head, knelt, and pulled the box out. It scraped on the concrete. She opened it.
+
+The shotgun lay in cut foam, broken at the hinge, barrel and stock side by side. On top of it was his fare book, the little one, with the pen clipped to the cover. In the corner, a cardboard box with the lid open and red plastic shells standing in it in rows like crayons.
+
+Eleven.
+
+She had counted before she knew she was counting. Three rows of four with one gone, and she didn't know where the one had gone, and didn't want to.
+
+She picked up the fare book because it was on top. Sunday. *Pell, Junc, 20. Moss, Clinic, 40.* Then half a word, the pen dragging off the page at a quarter to five. She put it back exactly where it had been, shut the lid, clicked the padlock, and pushed the box against the wall.
+
+That was what Juno had looked at. Not the room. The box. Juno had never been in this bedroom in her life, and she had looked straight at the place under the bed, which meant somebody had told her, and the only people who knew were Kit and a man asleep on a mattress on the gallery.
+
+She put the cord back on and tucked the key inside her shirt.
+
+Outside it was dark and the dogs had started, all over the island, and after the first hour you stopped hearing them the same as you stopped hearing the sea. The generator was going up at the Quills'. Her father breathed, and she sat back down beside him and counted. Twelve.
+
+Under the dogs, under the generator, there was another sound.
+
+It wasn't new. It had been there the first night, standing in the road with the corbeaux on the taxi, and she had taken it for her own blood. A low running sound with no edges, like a tap left on in a house two doors down. Tonight she listened for the house. There was no house. It came from under her, from the boards and the yard and the road, even and quiet.
+
+She told herself it was grief, and that grief had a sound, and that nobody had told her because nobody had thought she'd need to know.
+
+---
+
+Bix brought Vee down in the morning with an empty bottle and a face on him.
+
+"Tock says ask Kit." He held the baby out like a parcel. "She won't take it from him. She took it from you."
+
+"That was once."
+
+"Tock says once is the record."
+
+So Kit went up the hill with the Pell baby on her hip, past the Pells' and the Nettles' and up the Mosses' drive, through the double doors she had never once walked through, into the ward.
+
+The smell got her at the door. The flat had it too, a little, around the mattress. The flat had one. This room had fourteen.
+
+Mattresses in rows with a path between, every sleeper on the left side, tape across the eyes, a towel folded under the hips. Mrs. Moss by the window, who had caught her reading on the step once and said a girl should read. The Nettles side by side, holding nothing. Granny Vale with her headtie on straight.
+
+The Nettle girl was on her knees by her mother with a syringe. Ida Moss was at the end of the room with a basin.
+
+"Formula's in the kitchen," Ida said, without looking up. "Tock measures it. Don't you."
+
+"I know how to make a bottle."
+
+"He does it by the tin."
+
+There were three tins on the counter, one open, the scoop in it and a knife beside it for levelling. Kit made the bottle as the tin said, and Vee took it off her like she had been starving, which she hadn't, and went quiet.
+
+Through the door Ida was still talking, in the carrying voice she had, to the Nettle girl or to the room.
+
+"It was Sunday. That's what nobody wants to say. Every person in this room was in church that morning or had the service on. Your mother was at the eleven o'clock, I saw her. My father had the radio on in the car. All of them." The basin went down. "God put them down to listen. He put them down so they would listen for once, and when He's finished telling them, they'll wake up."
+
+"When?" the Nettle girl said.
+
+"When they've listened."
+
+The Nettle girl's face had gone still and open. She believed it before Ida finished the sentence.
+
+Her father had had the service on the car radio every Sunday of her life. He fell asleep three times before lunch with it on, and the pastor had fallen asleep too, mid-verse, which was why the service kept stopping. God hadn't put the pastor down to listen to himself.
+
+She didn't say it. Saying it meant standing in Ida's room telling Ida about Ida's own father, with a baby on her hip that wasn't hers either.
+
+"Three tins," she said instead. "That's not a lot."
+
+"That's the last three. Tock has it in the book. Three babies, four bottles a day."
+
+"The shop at the junction has it. The blue tins, by the door."
+
+"The Harkers have the junction."
+
+"I know who has the junction." Kit shifted the baby. "He bought petrol there every morning for eight months. They know whose daughter I am."
+
+She didn't say the rest, which was that it got her out of this room, away from a girl with a basin who had an answer.
+
+She gave Vee back to Bix at the Vales' gate, asleep, and he looked at her like she'd done a trick. At the flat she took two hundred dollars out of the cash tin under the hotplate, because that was what two tins cost and he would have paid it. She checked Ambrose. Twelve. She told him where she was going.
+
+The junction was two pumps, a shop and a flat roof, and the Harker boys were on the roof with their legs hanging over the forecourt sign. The big one had a cricket bat across his knees. The small one, the one Lonny called Rust, turned his hands over and looked at the palms when he saw her, then put them in his pockets.
+
+She walked right up to the pumps, because stopping at the edge was for people who were afraid.
+
+"Taxi man's daughter," the big one said. He didn't get up. "He sleeping?"
+
+"Yes."
+
+"Everybody sleeping." He said it like weather. "What you want?"
+
+"Formula. The blue tins by the door. Two." She held up the twenties. "Two hundred."
+
+The big one looked at the money for a while, and she watched him decide that money was still money, because he was sixteen and nobody had told him yet that it wasn't. He jerked his head. "Rust. Go."
+
+The small one dropped off the roof and went in through the shop door without touching it. The door had no handle. There was a brown streak down the paint where a handle had been. He came out with two blue tins, put them on the ground halfway between them and stepped back, with his hands against his sides.
+
+"Your father give me a drop once," he said, quick, like he'd been holding it. "To school. In the rain. He didn't charge."
+
+"He wouldn't."
+
+"Tell him Rust say thanks."
+
+She had gone ten steps up the road with the tins when she saw the boy on the kerb.
+
+He was sitting on the concrete lip where the road turned up toward the Trace, with his feet in the gutter. Bare feet, grey with dust to the ankle. Fourteen, maybe. A T-shirt from a church harvest washed until the writing was a shadow. He wasn't from the road. He had the stillness of somebody who had been sitting there a long time and could sit there longer.
+
+He looked up as if she were late.
+
+"You're the taxi man's daughter," he said.
+
+"Everybody keeps saying that."
+
+"Kit."
+
+She stopped. Nobody down here knew her name. On the Trace, six houses had known it for eight months and still said *the Wick girl* half the time.
+
+"Who told you that?"
+
+He didn't answer. It wasn't rude. It was a door he hadn't opened yet.
+
+"My grandfather is in the ground," he said. "Up in the hills. Four days now. He is not dead." He said it like telling somebody the time. "The ground took him in. He is breathing twelve and he is not getting thin. The others are getting thin. His skin is cool and it is firm. If you touch it, it is like touching somebody who is well."
+
+"Who are you?"
+
+"Moth."
+
+"That's not a name."
+
+"It is what they call me." He looked at her slippers, and up at the tins. "The ground will take your father too. It is already under him. It is under the whole hill where you live, more than anywhere, because of the hole they cut in it. If you ask, it will take him."
+
+"Ask what."
+
+"The ground."
+
+He was not selling it. That was the thing she would think about later. He wasn't pleased with himself, he wasn't trying to frighten her, and he didn't need her to believe him. He said it and then he waited, the way her father waited for a fare to make up their mind about the price.
+
+"You said that last time," Kit said.
+
+It had worked on Fen and on her father. Moth just looked at her. There hadn't been a last time. The line fell on the concrete between them, and he let it lie there.
+
+The sound was louder here.
+
+Under the road, under the dogs, the tap in another house. It had followed her down the hill without her noticing, and in front of this boy on the kerb it was close, as if the house with the tap in it were the house behind him.
+
+"You hear it," Moth said.
+
+She shifted the tins to her other arm and walked past him and up the road, and she didn't look back and she didn't run. The sound got quieter as she went.
+
+At the bend the corbeaux were on the taxi. Ambrose was breathing twelve. She put the tins on the step and didn't tell anybody about the boy, because the one person who had ever kept asking her anything was the one who had looked past her at the box.
+
+---
+
+That night she tried her mother's number.
+
+The phone had a bar of battery and no service, as it had had since Sunday. She dialled it anyway, the number off the birthday card, and held it to her ear, and nothing happened. Not ringing. Not the open line with nobody on it. Nothing, a small cold rectangle against the side of her head.
+
+She dialled it again, and a third time, with her thumb pressing so hard the numbers jumped, and when it did nothing a third time something came up out of her that she had been sitting on for a year, since the morning her father's face did what it did when she asked why, and it came out at the phone. She didn't throw it. She held it in both hands and said things to it, low, with her teeth together, about a woman in a flat on the coast road who had let it ring, because it had rung, it had rung and rung in Morne Bay before anything stopped working, and she had let it. Her father breathed beside her through every word and didn't hear, which was the only reason she could say it.
+
+Then it was out, and she sat with the phone in her lap, shaking, and the sound came up under the gallery, even and quiet, and after a while she stopped.
+
+She got up and went round the side of the flat for his spade.
+
+The yard was dirt, except the apron of concrete by the step. He had washed the car in the same place every morning for eight months, and the water had run down the slope to the fence and sunk in. That strip along the fence was the one soft piece of ground on the whole bend.
+
+She dug there.
+
+The spade went in easy for the first foot. Under it the island was clay, and she had to stand on the blade. She dug a rectangle the length of a man and turned every spadeful so the dark side came up, and broke the clods until the patch was loose and fine. Two hours, by the dogs. Her hands blistered, and the blisters broke, and she kept going.
+
+The soil was warm.
+
+Not warm from the sun. The night was cool now, and the soil under the top layer was warmer than the air on her arms, warm like a thing that had been breathing. She put her hand flat on it, took it off, looked at it, and put it back.
+
+Halfway down there were threads in the clay. White, fine, like hair. She had seen them on Lonny's spade at the grave. She knocked them off the blade and kept digging.
+
+When it was done she stood in the yard and looked at the gallery, at him, at the three steps between the mattress and the dirt, and she understood that she was going to do this alone.
+
+She rolled him onto the sheet one side and then the other, took the two corners by his head and pulled. He moved a foot. She pulled again and the mattress came with him and she had to go round and kick it clear.
+
+The steps were the worst. Three. She went down them backwards with the sheet bunched in both fists and lowered him one step at a time, and each time his hips came off the edge of a step with a sound she felt in her own spine. On the second step she lost him. He went down the last one on his own and lay at the bottom on his back in the dirt with his mouth open, breathing, twelve, as if nothing in the world had happened. She stood on the step above him with her arms shaking and her hands bleeding a little, and for the first time since Sunday she thought she could not do this.
+
+She did it anyway. Across the yard on the sheet, inch and inch, past the car and the birds on the roof of it with their heads turned to watch her. Over the lip of the turned ground, where the sheet caught and tore. Into the soft part.
+
+She rolled him onto his side and pulled the sheet out from under him, because the sheet was between him and the ground and that felt like it mattered. Cushion under the head. She straightened the collar of the Sunday shirt, nine days on him now. Then she sat down in the dirt beside him with her knees up and the key against her chest, and watched him breathe.
+
+Twelve.
+
+The sound came up through the ground she sat on. It was not a tap. She had known that on the kerb at the junction, and she let herself know it now, with her hand flat on the warm earth beside his.
+
+It was more than one sound. A tap was one sound, and this was many, very low, a room full of people talking under their breath in another house with the door shut. And it was not unkind. That was the worse thing. It didn't want anything from her. It was company, on a gallery where she had sat alone since March, and she had been out here with it for nine nights and been less alone for it without knowing why.
+
+It soothed her. That was what frightened her, when nothing else in the yard did.
+
+She sat up with him until the sky went grey.
+
+At first light she looked at his hands. The right one was on his hip. The left was under him, pressed into the turned earth. She lifted the wrist, gently, to see.
+
+Threads. Fine and white, like the ones in the clay. They came up out of the ground and lay against the inside of his wrist, a few of them, no thicker than hair, and where they touched him the skin was cool and dry and firm. She put her thumb on his pulse under them. Fifty-two. Breathing twelve, and the gap between one and the next the same as it had been on Sunday.
+
+His hand closed.
+
+Not much. The fingers drew in toward the palm and stopped, as they did on the wheel at a red light, and opened again. She waited for it to happen twice more. It didn't.
+
+The corbeaux went up off the roof of the taxi all at once, nine of them, with a noise like a sheet being shaken out. They went over the Pells' hibiscus and round the bend and down toward the junction, low, and did not come back.
+
+She watched the roof of the car for a long time. White on it, and nothing else.
+
+Under the ground the voices went on, quiet, many, and in the middle of them, just once, very far down, there was something that might have been her name. The shape of it. Two sounds, the first one short.
+
+She didn't let herself think about whose voice. She put her hand back on the earth and found she was not afraid of that either, and that was when she heard the door.
+
+Up the hill. The Mosses'. Feet on a drive, then on the road, coming down fast, the way Juno walked when she had decided something.
+
+
+
+# Chapter 10 — Skin
+
+Juno came down the road at first light to bring Ambrose Wick up the hill, because the grid had a hole in it and she was tired of the hole.
+
+Every other name on the whiteboard was turned by the clock, in the same room, by whoever was on. His was turned by Kit, on a gallery at the bottom of the road, on whatever clock Kit kept, and every two hours when the alarm went off Juno looked at the last row of the grid and didn't know what had been done. For eight days she had let it go, because she was too tired to walk down and ask, and because asking Kit anything had always taken more than one try. Now there were twelve bags in the front room, and a syringe for the ones who coughed, and a spare mattress against the wall where Mr. Hale had been. There was no reason left for a sleeper to be outside the room except that his daughter wanted him there.
+
+Olli came with her because he had asked. He had his roll of tape and his cloth in a plastic bag and he wanted to do Mr. Wick's eyes, which nobody had done.
+
+The sun was not up yet. The road was grey and the dogs had stopped, as they did for an hour before dawn, as if even dogs had to sleep. At the Pells' hibiscus she could see the bend, and the flat, and the gallery.
+
+The mattress was there. The cushion was there. The sheet was gone, and so was he.
+
+For one second there was nothing in her at all. Then the worst reading, which was always the first one she went to: he's dead. He died in the night, and she's put him somewhere, and she's sitting with him, and she didn't come up the hill to say.
+
+Then she saw them in the yard.
+
+Kit was sitting in the dirt by the fence with her knees up. Beside her, on the ground, on his side, with the cushion under his head and the collar of his Sunday shirt straight, was her father. The taxi stood in its ruts between them and the road with nothing on the roof.
+
+Juno stopped at the gate. Olli stopped behind her and put his hand in the back of her T-shirt.
+
+Kit looked up. Her face didn't do anything.
+
+"Morning, Kit," Juno said.
+
+"Morning."
+
+She went in through the gate and across the yard. The ground changed under her feet at the fence, from packed dirt to turned earth, loose, the kind you sink into. She knelt in it.
+
+She did what she did. Breathing: she counted a full minute, with her eyes on his chest, and it was twelve. Pulse at the wrist, the right wrist, the one on top: fifty-two. She lifted the eyelid with her thumb. The pupil was small and did nothing about the grey light, the same as every other pupil in the ward. She pressed her knuckle into the bone in the middle of his chest, hard. Nothing.
+
+Then she took the skin on the back of his right hand between her finger and thumb and pinched it up into a tent, and let it go.
+
+It sprang back.
+
+She did it again. She held it longer, a little ridge of skin standing up between her nails, and let it go, and it went down flat at once, like a hand that had drunk two litres of water yesterday and would drink two more today. In the ward, every hand she pinched stayed up. She did it twice a day, on all fourteen, and wrote the number of seconds in the book, and the numbers went up. Granny's had been four seconds last night.
+
+Juno sat back on her heels.
+
+"How long has he been down here?"
+
+"Since last night."
+
+"On the ground."
+
+"Yes."
+
+She looked at the other hand, the left one, under him. She lifted the wrist as Kit must have, and there they were: white threads, fine as hair, coming up out of the earth and lying against his skin on the inside of the wrist, five or six of them, and where they touched him the skin was cool and dry and firm.
+
+She knew the word. She had read it in the chapter on wounds, with a photograph, and the photograph had been of a foot.
+
+"That's a fungal infection," she said.
+
+"He's fine."
+
+"Kit. That's a fungus. It's in the soil, it's in the ground, it's the same thing that was in Mr. Hale's grave, and it's growing into his skin. That's what that is."
+
+"His breathing's twelve. His pulse is fifty-two. You just did it." Kit's voice was level. It was the voice she used for the thermos, for *it's eleven kilometres*. "Pinch his hand again."
+
+Juno didn't.
+
+Olli had come up behind her and was standing at the edge of the turned ground with his plastic bag, looking at the threads. "Is it hurting him?"
+
+"No," Kit said.
+
+"We don't know that," Juno said.
+
+"You don't know what it is either," Kit said. "And yours are dying."
+
+It wasn't loud. Nothing in the yard was loud. It was five in the morning and both of them had been awake all night, and the thing between them stayed low, like two people arguing in a house where somebody is asleep.
+
+"You can't take it back," Juno said. "If it's wrong. If it's in him. You can't dig it out again."
+
+"You can't take back the bags either."
+
+Juno looked at her. Kit was looking at her father. Her right hand was flat on the earth beside his head, pressed down, fingers spread, the way Juno's own hand lay on the exercise book when there was nothing left to write.
+
+She didn't name what came up in her then. It came up and she looked at it and she put it down somewhere out of sight, where the thirty seconds went, and she stood up with earth on her knees.
+
+"I have to tell the others."
+
+"Tell them what?"
+
+Juno didn't answer that. She walked out through the gate and up the road with Olli trotting to keep up, and she had passed the Pells' and the Nettles' before she understood what she had just done in that yard. The full minute. The pupil. The knuckle on the sternum. She had not done the full table on Granny in two days. She had counted the breathing and written it down and moved on, because there were fourteen and there was one of her, and she had just knelt in the dirt and done every line of it, properly, on the one sleeper on the hill who didn't need her.
+
+---
+
+Granny was breathing ten.
+
+Not twelve. Juno counted it twice, kneeling by the mattress under the window with the light coming grey through the curtain, and it was ten, and it was not even. Eight breaths, close together. Then a gap. She counted the gap, as she had counted the gap by Mr. Hale with the spoon in her hand, and at eleven seconds Granny breathed in, hard, a sound like somebody surfacing, and the eight breaths started again.
+
+She wrote it down. *Day 10. 10/min, irreg. Pause 11 s.* She wrote it as the book wrote things, so that it would be a number and not a sentence.
+
+She hung a bag. The first of the twelve, on the coat hanger on the curtain rail where the first one had hung five days ago. She pinched the skin of Granny's thigh into a tent. It stayed up. She put the needle in, shallow, bevel up, and taped it, and smoothed the tape once, and made herself not do it twice, and opened the little wheel until it dripped.
+
+Then she sat on the floor with her back against the wall and watched the drops and did not read what she had written.
+
+Olli was gone by the time she looked up. He had put his bag of tape down by the door and gone out, and she thought he had gone to the kitchen, and he had not gone to the kitchen.
+
+By noon the road knew.
+
+She never found out who he told first. Bix, probably, because Bix was the one who came and stood in the ward doorway and said, "Is Mr. Wick in the ground?" in a voice that carried to every mattress, and then the Nettle girl's head came up from her mother's side, and that was that. By one o'clock there were eight kids on the road at the bend, standing at Kit's fence, looking into the yard. Kit sat in the dirt with her knees up and didn't look back at them. Ambrose breathed. Juno watched it from the Mosses' verandah with the book in her lap and didn't go down.
+
+Ida came and stood next to her chair.
+
+"She put her father in the ground," Ida said. "Like a dead man. Like a dog."
+
+"He's not dead."
+
+"Then she buried a living man." Ida's hands were folded in front of her. "There's a word for that, Juno. It's not a medical word."
+
+Juno didn't answer. She had no argument for Ida that wasn't the one she'd just lost in the yard.
+
+The Nettle girl came out onto the verandah with the syringe still in her hand. She was twelve and she had a face that had learned, in nine days, to ask for things without expecting them.
+
+"Can my mother go in the ground today?"
+
+"No," Juno said.
+
+"Why?"
+
+"Because we don't know what it is."
+
+"Kit's father is breathing twelve."
+
+"So is your mother."
+
+The Nettle girl looked at her. Then she went back in to the rows and knelt down by her mother and started again with the syringe, a few drops into the cheek, and said something to her about the dog.
+
+They were all in the kitchen by three, because there was nowhere else big enough. The six at the table, with the two black handprints in the middle of it that nobody had sanded out and nobody put a cup on. Wren in the doorway with Pip on her hip. Ida standing. Bix on the counter. The Nettle girl on the floor with her brother, and six or seven of the road kids along the wall who had come up the drive behind Ida and not been sent away. Twenty people in a room that had held nine kids and a baby on the first night.
+
+Kit was not there. Juno had sent Olli down to say they were meeting, and Olli had come back and said Kit said okay, and Kit had not come.
+
+"It was Sunday," Ida said. She said it to the whole room, as she had in the ward. "I've said it and I'll say it. Every one of them was listening to the service or sitting in a church when it happened. God put them down to listen. And when a thing is from God, you don't dig a hole and put it in the dirt. You wait on it."
+
+A few of the road kids nodded. The Nettle girl was watching Ida with the whole of her face.
+
+Juno had the nursing book open in front of her. She had found the page an hour ago, in the chapter nobody read, the one about children, and she had read it four times, and now she put her hand flat on it.
+
+"It's not Sunday," she said. "It's age."
+
+The room looked at her.
+
+"Everybody who fell was over twenty, or near it. Everybody who didn't was under. That's the line. Not church. Sol's parents were on their couch with the cricket on, not in church, and they fell. Kit's father was in his car. Miss Tilda was at work." She turned the book round so the page faced the table, though nobody could have read it from there. "A brain isn't finished until you're twenty-five. The book says so. It's still wiring. Still building. The front of it, the part that plans, is the last thing to close up. Whatever this is, it got into something that was still being built. It couldn't get into something finished."
+
+She said it like it was whole. She could hear herself saying it like it was whole, in the fast flat voice, and half the room was nodding, because it had a number in it, and the number was in a book, and the book was in front of the girl from the paper.
+
+Fen, at the end of the table, looked at the ground beside Lonny's foot and said nothing.
+
+Tock had Vee against his shoulder. He had been quiet since the morning, since the road came up the drive, and now he said, "Then what does it do to the finished ones?"
+
+Nobody answered.
+
+He didn't ask it again. He didn't look like he wanted an answer. He looked at the handprints on the table, and then at the stove, and Vee pulled his ear.
+
+Lonny said, "So he's okay, though. Mr. Wick. Down there."
+
+"He's breathing twelve."
+
+"And the skin thing. Sol said you said the skin thing."
+
+Sol, with her knees up on her chair, said, "I said she said it goes back. His goes back. Mine don't."
+
+"We don't know what it is," Juno said.
+
+"You said that."
+
+"Because it's still true." She closed the book. "Nobody puts anybody in the ground until we know what it is. Not a parent, not a grandmother, not Miss Tilda. We don't know what it does in a week. We don't know what it does in a month. We don't know if you can take it out. Until somebody can tell me what it is, nobody else goes down."
+
+It wasn't a vote. There were six of them, and the sleepers were hers, and she had never once said a thing like that at this table in the voice she used on the Harbour. Lonny looked at the table. Sol looked at her hands. Fen didn't look at anything.
+
+"I didn't ask you."
+
+Kit was in the doorway behind Wren. Nobody had heard her come up the drive. She said it flatly, with no fight in it, the way you'd tell somebody the bus had already gone.
+
+Then she came in past Wren, took her father's steel thermos off the counter where Juno had left it two days ago, and went back down the road.
+
+---
+
+Juno took the night with Granny because it was Granny.
+
+The ward at night was the sound of fourteen people breathing and one torch. She knelt by the mattress under the window with the pot of cooled water and the syringe, and she did it the slow way, a few drops into the pocket of the cheek, the head turned, waiting for the throat. The bag above them had run down to a third. The pauses had not changed. Eight breaths, and the gap, and the hard breath in. She counted the gaps without thinking, like Lonny counting spadefuls, and they were eleven, twelve, eleven, thirteen.
+
+At midnight Granny's hand turned over on the sheet. Palm up. Fingers open. Held out across the kitchen table when Juno came home with a report card, without a word, for it to be put into.
+
+Juno put the syringe down and looked at it. Then she put the syringe back in the cheek and gave the next drops, because that was the job.
+
+She said the prayer at one.
+
+Under her breath, with the torch on the floor, the one Ida had said over Mr. Hale and Granny said every night through the wall. She knew every word. She got through the first line and the second. On the third her mouth stopped, as it had stopped in the ward five days ago with Ida kneeling across from her, and she sat there with the next word in her head and not in her mouth, and after a while she picked up the syringe again.
+
+At three she went out onto the verandah.
+
+Mrs. Moss's chair was there, where it had always been. She didn't sit in it. She stood at the rail and looked down the hill, past the Nettles' and the Pells' and the hibiscus, to where the bend was.
+
+She couldn't see the yard from here. It was black down there, like the whole island, with the Quills' light the only square in it. She looked at where the yard was anyway. At the dark square of turned earth she couldn't see, and the man on it whose skin sprang back, and the girl beside him with her hand flat on the ground.
+
+She counted to thirty. Then she counted to thirty again, because the first thirty hadn't been enough and she didn't let herself take a third.
+
+Then she went back in. Granny was on her mattress under the window with the bag dripping into her thigh. Juno sat down on the floor beside her and picked up the syringe and gave her the next drops, and Granny stayed where she was.
+
+Bix woke her at dawn with his hand on her shoulder. She had gone to sleep sitting up against the wall with the syringe in her lap.
+
+"There's a boy at the bend. Harbour boy. He's asking for the Vale girl."
+
+She went down the road with her glasses pushed up into her hair and the book under her arm. The light was coming up grey over the sea. At the Pells' hibiscus the bend came into view, and there was a boy standing in the middle of the road outside Kit's gate, not on the Trace side of it and not on the road side, exactly on the line.
+
+He was thirteen, maybe, and small for it. He stood with his head tilted a little to one side, the way you'd stand if someone in the next room were talking and you were trying to catch it. When she came down the hill he didn't turn his head to look at her. He had already known she was coming.
+
+"Vale girl," he said.
+
+"Yes."
+
+He held out a page. It was folded in four, torn off the bottom of something, with a line of Nell's small neat writing on the outside that said *Vale*. She took it. He turned and went back down the road toward the junction without another word, and his feet made no sound on it, and she watched him until the hibiscus took him.
+
+She opened the page.
+
+One line. Judge's hand, not Nell's; bigger, pressing hard.
+
+*Ask Fen what the ship said.*
+
+She read it twice. She folded it up again along the same lines and put it in her pocket. Then she stood in the road with her hand in her pocket on the page, and she did not do anything for a while, and the sound in her head was Fen's voice on the roof saying *they're not talking to us*, and her own voice in the road, louder than she had used it in a week, saying *somebody's coming*.
+
+Kit was on the step.
+
+Ten feet away, on the bottom step of the gallery, with her knees up and her father in the yard behind her. She had watched the boy come and she had watched him go and she had watched Juno read. Her face didn't do anything.
+
+Juno looked at her. Kit looked back.
+
+Juno turned and walked back up the hill with the note in her pocket and the book under her arm. Behind her the yard was quiet, and the roof of the taxi was empty, and she did not look at either. Ahead of her, at the top of the road, with the sky gone pale behind it, the Quills' house had every window lit, and the generator was still running, and Fen's light was still on.
 
 

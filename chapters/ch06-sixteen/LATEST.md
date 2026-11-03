@@ -106,7 +106,7 @@ In about a minute the road was full. Kids came out of every house, still in what
 
 "Fen?" Lyra, from the bottom of the ladder, with her face turned up. "Fen, is it for us?"
 
-"It's the navy," "It's a navy," he said. "Not ours. We don't have one."
+"It's a navy," he said. "Not ours. We don't have one."
 
 She was gone before he could say anything else, and he heard her inside telling their mother. He hadn't said anything else.
 

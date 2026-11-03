@@ -172,7 +172,9 @@ They stood. Then Tock cleared his throat.
 
 "He gave it back every time, though."
 
-"He kept the good one," Juno said. "The red one. Remember? Form One. He kept it for a year." "You cried," Tock said.
+"He kept the good one," Juno said. "The red one. Remember? Form One. He kept it for a year."
+
+"You cried," Tock said.
 
 "I didn't cry."
 
