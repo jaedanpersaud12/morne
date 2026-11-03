@@ -1,6 +1,6 @@
 # Cast overview
 
-Six friends raised on the same street in [Quarry Trace](../06-island.md#quarry-trace-house-by-house), plus the taxi driver's daughter who moved in eight months ago and was never quite one of them. Two have no power at the start.
+Six friends raised on the same street in [Quarry Trace](../06-island.md#quarry-trace-house-by-house), plus the taxi driver's daughter who moved in eight months ago. They tried with her, and she never quite fit: ten years of shared childhood is hard to walk into. Two have no power at the start.
 
 ## Depth tiers (locked)
 

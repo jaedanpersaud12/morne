@@ -48,7 +48,7 @@ All of them went. Not laughed, went. Somebody bent in half. Somebody had to put 
 
 Kit stood on the step with a clothes peg in her hand.
 
-She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi, and in eight months nobody had ever told her what the goat was. It wasn't meanness. They had been a group since before they could talk, and a group that old doesn't notice who is outside it.
+She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi. They had tried. Lyra had come down the first week with a plate of pelau and stayed an hour, talking, mostly to herself. Lonny waved from the pickup every morning with both hands off the wheel. Sol had lent her a phone charger in April and never asked for it back. Twice somebody had started to explain the goat, and both times the rest of them had shouted over the details until it came apart, because it wasn't a story. It was ten years of them, and you couldn't hand somebody ten years. Every joke had a footnote, and the footnote was a childhood she hadn't been in.
 
 Juno noticed. Juno always noticed.
 
@@ -136,7 +136,7 @@ He weighed more than two of her, but she got her arms hooked under his and pulle
 
 Then she ran.
 
-Up the hill in her slippers on the hot road, past the hibiscus, toward the only house on the road where anybody had ever said her name first.
+Up the hill in her slippers on the hot road, past the hibiscus, toward the one house where somebody had kept on asking, every single time.
 
 The Vales' front door was open. It was never open.
 

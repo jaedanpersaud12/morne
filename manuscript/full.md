@@ -1,6 +1,6 @@
 # Morne Bay (working title)
 
-_Built 2026-11-02 15:44. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
+_Built 2026-11-03 08:54. Do not edit; edit chapters/*/LATEST.md and rerun scripts/build-manuscript.sh._
 
 
 # Chapter 1 — Dust
@@ -53,7 +53,7 @@ All of them went. Not laughed, went. Somebody bent in half. Somebody had to put 
 
 Kit stood on the step with a clothes peg in her hand.
 
-She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi, and in eight months nobody had ever told her what the goat was. It wasn't meanness. They had been a group since before they could talk, and a group that old doesn't notice who is outside it.
+She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi. They had tried. Lyra had come down the first week with a plate of pelau and stayed an hour, talking, mostly to herself. Lonny waved from the pickup every morning with both hands off the wheel. Sol had lent her a phone charger in April and never asked for it back. Twice somebody had started to explain the goat, and both times the rest of them had shouted over the details until it came apart, because it wasn't a story. It was ten years of them, and you couldn't hand somebody ten years. Every joke had a footnote, and the footnote was a childhood she hadn't been in.
 
 Juno noticed. Juno always noticed.
 
@@ -141,7 +141,7 @@ He weighed more than two of her, but she got her arms hooked under his and pulle
 
 Then she ran.
 
-Up the hill in her slippers on the hot road, past the hibiscus, toward the only house on the road where anybody had ever said her name first.
+Up the hill in her slippers on the hot road, past the hibiscus, toward the one house where somebody had kept on asking, every single time.
 
 The Vales' front door was open. It was never open.
 
@@ -565,7 +565,7 @@ Sol Finch had not slept, because things had changed, and she never slept when th
 
 It was ten to five. The Vales' kitchen was grey and full of breathing. The Nettle girl was asleep against Lonny with her thumb in her mouth and Lonny was asleep against the cupboards with his head back and his mouth open, the same shape as his father in the La-Z-Boy, which Sol decided not to tell him. Olli was under the table. Lyra had come up at three with news that the generator worked and had fallen asleep mid-sentence on the stairs. Tock was in the armchair with the Pell baby on his chest, and he was not asleep, and he had not moved in four hours.
 
-Juno was at the counter with the notebook. She had been at the counter when Sol shut her eyes at one and she was at the counter now.
+Juno was at the counter with the notebook. She had been there at one, when Sol stopped pretending to sleep, and she was there now.
 
 "You can sit," Sol said. She had put a slice of bread on the counter an hour ago, by the notebook, and it was still there. "You can also eat."
 
@@ -847,7 +847,7 @@ She did the arithmetic out loud, because it kept her hands still. Mrs. Pell was 
 
 Granny was seventy-four. Mr. Hale was ninety. Granny had coughed twice. Mr. Hale had coughed once, and swallowed some.
 
-By the book, he was the better swallower. By the book, the bag went to the one who couldn't drink. It was a good rule. She had read it at fourteen in a library and it was still a good rule, and it gave her the answer she wanted, and kneeling on Dr. Moss's floor she couldn't tell which of those things she was obeying.
+By the book, he was the better swallower. By the book, the bag went to the one who couldn't drink. It was a good rule. She had read it at fifteen in a library and it was still a good rule, and it gave her the answer she wanted, and kneeling on Dr. Moss's floor she couldn't tell which of those things she was obeying.
 
 "Granny," she said.
 
@@ -915,7 +915,7 @@ She counted. Five seconds. Ten. Fifteen.
 
 At twenty-one he breathed again. Quick and shallow, then deeper, building.
 
-The table in the nursing book had a name for this pattern. It had a line underneath the name, in small type, that she had read at fourteen and never needed to know. She knew it now. She knew it with the spoon in her hand and water on her fingers. She sat beside him and counted the gaps, and they got longer.
+The table in the nursing book had a name for this pattern. It had a line underneath the name, in small type, that she had read at fifteen and never needed to know. She knew it now. She knew it with the spoon in her hand and water on her fingers. She sat beside him and counted the gaps, and they got longer.
 
 ---
 
@@ -1221,7 +1221,7 @@ He was hot all the time, without any of the shivering that came with being sick.
 
 On the sixth morning, the day after the funeral, he was in Granny's kitchen boiling water.
 
-That was his job. Nobody had given it to him; he had just started doing it on the second day and kept going. The ward at the Mosses' went through forty litres of water a day, a teaspoon at a time, and every drop of it had to be boiled and cooled first, because Juno said the tanks were fine for washing and not for putting in a sleeper's mouth. Then there were the bottles. Vee, and the Larks' little boy from the road, and the girl with the baby who had come up to the bend on the first night. Three babies, four bottles each, every day. Every bottle boiled. Every teat boiled. Formula measured with the little scoop, levelled off with a knife, the way the tin said.
+That was his job. Nobody had given it to him; he had just started doing it on the second day and kept going. The ward at the Mosses' went through forty litres of water a day, a teaspoon at a time, and every drop of it had to be boiled and cooled first, because Juno said the tanks were fine for washing and not for putting in a sleeper's mouth. Then there were the bottles. Vee, and the Lark baby, who had come up to the bend with her brothers on the first night, and the little one from the road whose name nobody knew yet. Three babies, four bottles each, every day. Every bottle boiled. Every teat boiled. Formula measured with the little scoop, levelled off with a knife, the way the tin said.
 
 He had a system. Big pot on the back burner for the ward water, small pot on the front for the bottles. Cool the ward water in the buckets on the floor. Fill the jugs. Bix runs the jugs down to the Mosses' on Olli's old wagon. Repeat.
 
@@ -1233,7 +1233,7 @@ Tock looked at it. The ring of blue under the pot shrank, flickered orange at th
 
 "No," he said. "No, no, no."
 
-The cylinder under the counter was empty. He knew it before he tipped it; it was too light, it rocked like a drum. There were thirteen more cylinders in thirteen more kitchens on the road, and Juno had a list of them in the exercise book, one a day, and the next one on the list was the Pells'. He went two doors down and came back with it on his shoulder and got down on the kitchen floor to change it.
+The cylinder under the counter was empty. He knew it before he tipped it; it was too light, it rocked like a drum. There were thirteen more cylinders in the other eight kitchens on the road, and Juno had a list of them in the exercise book, one a day, and the next one on the list was the Pells'. He went two doors down and came back with it on his shoulder and got down on the kitchen floor to change it.
 
 The regulator wouldn't seat.
 
