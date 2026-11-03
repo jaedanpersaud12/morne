@@ -9,21 +9,6 @@
       "resolved": false,
       "created": "2026-11-02T20:38:34.745Z",
       "machine": "jaedan"
-    },
-    {
-      "id": "nmw0wrvfxckbi",
-      "file": "chapters/ch01-dust/LATEST.md",
-      "quote": "He was in the driver's seat of the taxi in the yard, with both front doors open for the breeze, his chin on his chest and his mouth open, snoring over the little book where he wrote his fares. When she knocked on the roof, he jumped so hard the pen went down between the seats. He felt for it with two fingers and gave up.",
-      "line": 5,
-      "body": "This is cool",
-      "resolved": true,
-      "created": "2026-11-03T16:34:53.037Z",
-      "machine": "jaedans-macbook-air-local",
-      "review": {
-        "verdict": "fine",
-        "finding": "Praise, not a problem. The detail matches the bible: tally book, pressed shirt, car on Sundays [bible/cast/kit.md L67]. It also pays off later, since the fare book and pen are in the steel box in ch 9 [ch 9 L43]. One loose end: the pen is lost between the seats [ch 1 L5], but he puts a pen down at 4:45 [ch 1 L109].",
-        "at": "2026-11-03T16:45:27.291Z"
-      }
     }
   ]
 }
