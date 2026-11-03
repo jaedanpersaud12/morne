@@ -42,9 +42,40 @@ Grant drops the reader straight into the event with about three pages of exposit
 
 Sources: [LibraryThing reader review](https://www.librarything.com/work/book/200238965); [LibraryThing on *Hunger*](https://www.librarything.com/work/book/88680266).
 
+## 6. Flow: how our sentences join (from the 2026-11-03 flow pass)
+
+The pass on ch 1 to 8 fixed the same two habits 109 times. These are the moves that fixed them, with real lines from the book. Use them while drafting, not just in revision.
+
+**Join by time or cause, not "and".** "And" says two things happened. *When, as, before, until, because, so, but, though* say how they're connected, which is what the reader actually wants.
+- Before: She brought him the thermos and he drank all of it and she watched his eyelids anyway.
+- After: When she brought him the thermos he drank all of it, and she watched his eyelids anyway. (ch 1)
+- Before: Mrs. Pell coughed, and the water came back out of the corner of her mouth, and Juno sat her up.
+- After: When Mrs. Pell coughed, the water came back out of the corner of her mouth, so Juno sat her up. (ch 5)
+
+**Fold a list of small actions into one sentence.** Three short sentences doing routine things read as a stutter. One sentence with commas reads as one motion, and leaves the short sentence free to land the point.
+- Before: He put the handheld on the shelf. He pulled Miss Tilda's blanket up over Miss Tilda. He checked his father's breathing in the hall. Twelve.
+- After: He put the handheld on the shelf, pulled Miss Tilda's blanket up over Miss Tilda, and checked his father's breathing in the hall. Twelve. (ch 3)
+
+**Lead with the smaller action.** A participle or "after" clause puts the setup first and the main action last, where it lands.
+- Before: Lonny had filled the hole and stamped the earth down and gone to sit under the tap.
+- After: After filling the hole and stamping the earth down, Lonny had gone to sit under the tap. (ch 5)
+
+**Split a chain into two sentences of different shapes.** If a sentence has three "and"s, break it where the mood changes, and make the second half shorter or longer than the first.
+- Before: ...the water underneath it turned cloudy and then clear and then hard, and there was a sound...
+- After: ...the ring closed inward. The water underneath it turned cloudy, then clear, then hard, and there was a sound... (ch 4)
+
+**Keep the short ones that earn it.** A short sentence after a long one is a punch; a run of them is a stutter. Keep runs only where something has just broken, or where a character is counting or in shock.
+- Kept: "She pulled. The boy screamed. Nothing moved." (ch 8)
+- Kept: "It got slower. It got careful." (ch 3)
+
+**One "and" run per chapter, at most, and only at a peak.** Polysyndeton is a tool for breathlessness: the goat laugh breaking loose (ch 4), Tock's rage at Judge (ch 7), the moment Mr. Hale dies (ch 5). Anywhere else it reads as a habit.
+
+**Quick test while drafting:** read a paragraph and count the "and"s that join actions. More than two in a sentence, or the same "X and Y" shape three sentences running, means pick one of the moves above.
+
 ## The checklist for every chapter
 
 - [ ] Sentence lengths in each paragraph actually vary (long builds, short lands)
+- [ ] No sentence joins three actions with "and"; routine actions folded with commas; joins by time or cause (section 6)
 - [ ] Each scene has a goal, something in the way, and ends worse
 - [ ] The POV character gets one Sequel beat: feel it, weigh it, decide
 - [ ] Reactions come in order: gut, reflex, then words
