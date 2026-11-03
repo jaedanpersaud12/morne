@@ -58,7 +58,40 @@ Write these as ripples, not events. The protagonists see smoke, a price, a face 
 - Sol freezing a fish hold for Judge makes her the most valuable person on the island and puts a target on the Trace.
 - A rooted sleeper living when a bedridden one dies empties a faction.
 - A boat sunk at the quarantine line ends the "rescue is coming" faction overnight.
-- The day the Trace turns away a five-year-old is the day it stops being the good guys to everyone outside.
+- The day the Trace turns away healthy kids in the dry season, the road calls it cruelty. The reader has seen the tanks, and knows it isn't.
+
+## The door: who the Trace takes in, and where it stops
+
+Decided 2026-11-03. **The Trace are not bad people.** They take in the sick. They work hard to build a life inside the walls that can hold more people than it could yesterday. When they say no, they are doing what they have to do, and it costs them.
+
+**The wall exists so the door can stay open.** A lifeboat has a number painted on the side, and people keep swimming toward it. The Trace's answer is not to stop pulling people in; it is to keep making the boat bigger. Every sustainable thing they build is a way to say yes one more time:
+
+| What they build | What it lets them say yes to |
+| --- | --- |
+| The turning grid and the ward (week 1) | Every sleeper on the road, not just their own |
+| The Nettle girl's well (month 3) | The dry season without sending anyone away for longer |
+| The antibiotics-for-fish trade (month 3) | Protein for thirty, and medicine for the Harbour's sick |
+| Sol's ice for the fish hold (month 4) | A week's food from a day's fish |
+| Tock's wall and the welded gate (month 9) | Keeping the door open by day without being overrun |
+| The quarry-floor garden (month 9) | A future that doesn't depend on Judge |
+
+**The line.** They stop when taking one more would kill someone already inside. That is never written down as a rule. It shows up as a number in Juno's exercise book and a face at the gate. Juno is the one who most wants to take everyone, because she is the doctor, and she is also the one who counts. That is her conflict in one fact.
+
+**What never changes:** the sick come in. Every time, all year. Little ones come in ([12](12-little-ones.md)).
+
+**How the door moves over book one:**
+
+| When | The door | Where it's on the page |
+| --- | --- | --- |
+| Month 1 | Anyone. Wren and Pip, the wheelbarrow kids, the kids at the bend, Cass and his mother. | Ch 2, 4, 5, 11 |
+| Months 2–3 | Anyone. Newcomers are asked to bring water or hands. They take in a hurt boy from town without a question. | Ch 13 (Adrian) |
+| Month 5 | The boy they took in claims the place. They put him out: the first time the Trace ever turns someone out, and it's someone it took in. From now on every stranger is looked at first, and the looking costs (a kid with a fever waits at the gate while someone checks her). | Ch 17 |
+| Months 4–6, deep dry | The limit. The sick still come in. Healthy kids are turned away until the rain, with water, directions to the Hills and their names remembered. Juno says no herself so nobody else has to. | Ch 19 |
+| Months 7–8 | The rain comes back and the door opens wider again. | Ch 21 |
+| Months 9–10, the fort | The gate shut at night, open by day. The sick still come in. | Ch 24 |
+| After the siege | They treat the dock boy whose face Sol froze and send him home with a note. The door stays open because they choose it, and now they know the price. | Ch 25, 27 |
+
+**Who stands where:** Lonny says yes too easily and pays for it with his own body. Juno counts, and pays from her own ration first. Cass asks who decides. [Adrian](cast/adrian.md) is the reason kindness becomes dangerous. None of the six is ever the villain of a door decision; if a scene makes one of them look cruel without showing the arithmetic, the scene is wrong.
 
 ## Leadership inside the Trace
 

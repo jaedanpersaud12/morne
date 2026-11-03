@@ -57,6 +57,7 @@ Not urgent. Once you know where the book lands, go back and make sure the openin
 
 - [ ] The outline's proposed insertions: Kit's "Box" scene, Lonny's "Yes" chapter, the theory beats in ch 9 to 10, Tock's pot off the page ([17](17-book-one-outline.md#proposed-insertions-2026-11-02)).
 - [ ] The **PROPOSED** emotional beats on the cast pages, where the chapters first allow them: Juno's envy of Kit (ch 9 onward), Fen's guilt about the relief, Tock's pride in making things, Olli going quiet about Granny, Kit's comfort in the whispers.
+- [ ] **Adrian and the quarry gate** (2026-11-03): one plant in ch 1 to 8 so his claim in ch 17 isn't from nowhere. Easiest: ch 5, at Mr. Hale's grave by the quarry gate, Lonny reads the faded CASTELL AGGREGATES on the steel and someone says the Castells haven't been up here in six years. One line. Optional second: ch 2, Juno's list has *Castells?* under *town?*
 - [ ] Life-before details ([22](22-life-before.md)) only where one would hurt: one object or habit in passing, never a paragraph.
 
 ## How to use this page

@@ -101,3 +101,7 @@ Run these on LATEST.md and halve whatever is over:
 - A character narrating their own mistake right after the reader has felt it ("he had said her name... because having an answer had felt like being useful"). Trust the reader once.
 - Juno's glasses (pushed up, smudged, in her hair): one per chapter. Give her face another anchor.
 - Lonny eating: he eats, and it matters, and the seed is loud. A third fewer mentions until the kitchen chapter where someone says it out loud.
+
+### The Trace are never the bad guys (2026-11-03)
+- They take in the sick, every time, and work to build a life that can hold more people. When they say no, the reader sees the arithmetic in the same scene: the tank level, the bed count, the name of the person inside who would die. They do what they have to do, and it costs the one who says it.
+- The plain bad person is [Adrian](cast/adrian.md). Never give him a reason the reader could agree with, and never let one of the six act like him to beat him.

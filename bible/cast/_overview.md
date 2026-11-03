@@ -10,7 +10,7 @@ Six friends raised on the same street in [Quarry Trace](../06-island.md#quarry-t
 | 2: second POV | [Fen](fen.md), [Kit](kit.md) | Full interior life; their own chapters |
 | 3: core friends | [Tock](tock.md), [Lyra](lyra.md), [Sol](sol.md), [Lonny](lonny.md) | One core fact each. Seen from outside until a chapter happens *to* them. |
 | 4: the small one | [Olli](olli.md) | A child, not a device |
-| Antagonists | [Judge](judge.md), [the Gardener](gardener.md) | Full files; short interlude chapters later |
+| Antagonists | [Judge](judge.md), [the Gardener](gardener.md), [Adrian Castell](adrian.md) | Full files. Judge and the Gardener get short interludes; Adrian never gets a POV |
 | Supporting | [everyone else](supporting.md) | A line or two each until they earn more |
 
 ## Who gets chapters
@@ -37,7 +37,8 @@ Every fault line inside the group maps onto an island-wide question. When the fr
 ```
 Juno ──(medicine vs the island)── Kit
 the six ──(who leads)── Cass and the other twenty-four; outsiders keep handing it to Juno
-Lonny ──(close the gates)── the wall, his girlfriend outside
+Lonny ──(the door: yes to everyone)── Juno, who counts
+the Trace ──(what we built)── Adrian, who wants it
 Fen + Lyra ──(letting go)── everyone fighting to save sleepers
 Sol ──(being seen)── the group she loves
 Tock ──(anger)── himself

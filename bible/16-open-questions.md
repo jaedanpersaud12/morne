@@ -19,6 +19,9 @@ Decisions not yet made. Decide here, then update the file the decision belongs t
 - [ ] Kit's mother: alive in Morne Bay? In Judge's town?
 
 - [ ] Who dies in the Harbour siege (someone from the Trace; not one of the six in book one, probably)
+- [x] The plain bad antagonist: **[Adrian Castell](cast/adrian.md)**, 17, the quarry owner's son, no power (2026-11-03)
+- [x] The Trace and the door: they take in the sick, always; the limit is when one more would kill someone inside ([08](08-factions-and-politics.md#the-door-who-the-trace-takes-in-and-where-it-stops))
+- [ ] Adrian's five boys: one named, with a face
 - [ ] Where Rust ends up (the Trace would be the most interesting answer and the hardest to earn)
 - [ ] Whether Sleepy ever touches one of the six
 - [ ] The third powered kid in the Trace beyond the eight, if the second bloom adds one

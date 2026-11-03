@@ -95,13 +95,13 @@ The world pushes from every side at once ([13](13-resources-and-roles.md), [07](
 | Ch | POV | Beats |
 | --- | --- | --- |
 | 12 | Tock | The Junction crew comes up the road at night, over the cars at the bend. The shotgun comes out of the box under Ambrose's bed; Kit has the key. Tock's handprint on a boy's arm. He doesn't speak for two days. |
-| 13 | Juno | Dry season. The tanks drop. Water from the Hills, carried. The Nettle girl stands in a yard and points. Trade: antibiotics for fish. The price of medicine is set for a year. |
+| 13 | Juno | Dry season. The tanks drop. Water from the Hills, carried. The Nettle girl stands in a yard and points. Trade: antibiotics for fish. The price of medicine is set for a year. A hurt boy from town, Adrian Castell, taken in without a question. |
 | 14 | Lyra | The water run ambushed on the Hills road. The Mas Camp in costume pieces. Through a fence, the wrist. Lonny carries her home and the water doesn't come. |
-| 15 | Sol | Ice for the fish hold. Lux. The Harbour knows something it shouldn't and the Trace looks at Sol, and she takes the accusation over the truth. |
+| 15 | Sol | Ice for the fish hold. Lux. The Harbour knows something it shouldn't (Adrian sold it) and the Trace looks at Sol, and she takes the accusation over the truth. |
 | 16 | Fen | Cass awakens and hardens. Lyra and Cass. The twins awaken, in the garage, catching a falling engine block. The road houses fight: four raiders, no scratch, the whole road watching. The secret is over. |
-| 17 | Kit | Lonny leaves for the road. The group routes around the hole. Kit and Fen, now that everyone knows. The Hills: Mother Hesper's church yard, the rooted in rows, dreaming. |
+| 17 | Kit | Adrian claims the quarry: "This is my father's land." Cass refuses him. The twins walk him out; he takes a third of the medicine and sets up below the bend. Lonny goes to live on the road with two drums of the Trace's water. The Hills: Mother Hesper's church yard, the rooted in rows, dreaming. |
 | 18 | Fen | The twins carry their mother to the garden. Not to save her. The quietest chapter in the book. Juno watches from the balcony and doesn't come down. |
-| 19 | Juno | A new voice on the quarantine channel. Fen tells her he's heard it; he doesn't tell her what it said. Judge's first tax. Juno and Judge, numbers across a table, the thing neither will act on. |
+| 19 | Juno | A new voice on the quarantine channel. Fen tells her he's heard it; he doesn't tell her what it said. Judge's first tax. Juno and Judge, numbers across a table, the thing neither will act on. Deep dry: healthy kids turned away at the gate, with water and their names remembered. |
 | 20 | Interlude: Moth | The Hills. The first rooted raider. A boy who went to seed and kept walking. A name. |
 
 ## Movement 4: The turn (ch 21–27, months 6–10)
@@ -111,10 +111,10 @@ The world pushes from every side at once ([13](13-resources-and-roles.md), [07](
 | 21 | Kit | Zu at the gate with a story: a boat went for the ships and didn't come back. The rescue faction dies in a night. |
 | 22 | Fen | The radio: the quarantine is right. Someone out there knows what leaves if a boat gets through. He tells Juno before anyone. That mends them. |
 | 23 | Juno | Cass converts. Sleepers carried out through the gate at night, three the first time, then one that is still being fought over. Lyra finds out through Fen and chooses her twin. |
-| 24 | Tock | Judge demands the pharmacy, "fairly." Tock welds the gate. The Trace becomes a fort in a week. The quarry-floor garden. Ida refuses to leave her father's bed. |
-| 25 | Juno | The siege, night one. Thirty dock boys, guns, Dax's lightning on the wire. Sol freezes the wet road. The twins on the wall. The shotgun in Kit's hands. |
+| 24 | Tock | Judge demands the pharmacy, "fairly," with Adrian's count of it. Tock welds the gate. The Trace becomes a fort in a week. The quarry-floor garden. Ida refuses to leave her father's bed. |
+| 25 | Juno | The siege, night one. Thirty dock boys, guns, Dax's lightning on the wire. Sol freezes the wet road. The twins on the wall. The shotgun in Kit's hands. Adrian's boys burn the undefended road houses. |
 | 26 | Kit | The siege, night two. Lonny gone. Bix dies, eleven, a stray shot (proposed; see [16](16-open-questions.md)). The Trace holds. The win is worth nothing. Lonny comes back to bury his brother. |
-| 27 | Interlude: Judge | The fish market after. Nell counting. Big Hob fading. Judge walks north to meet the Gardener. The strongman and the saint. |
+| 27 | Interlude: Judge | The fish market after. Judge pays Adrian and tells Nell never again. Nell counting. Big Hob fading. Judge walks north to meet the Gardener. The strongman and the saint. |
 
 ## Movement 5: The garden (ch 28–30, months 10–12)
 
@@ -122,7 +122,7 @@ The world pushes from every side at once ([13](13-resources-and-roles.md), [07](
 | --- | --- | --- |
 | 28 | Kit | The Gardener at the gate, barefoot, asking for Kit by name. What he offers her: her father's voice. What he says to Juno through the bars: nobody has to die. |
 | 29 | Juno | Granny failing, finally, after a year of Juno's hands. Night. Juno carries her to the garden alone and can't. Tock takes the other end. Kit finds them there. The thing she wanted all year and couldn't do by herself, in one scene. |
-| 30 | Juno | Her birthday. She wakes up. She is not asleep. Her hands are cold and she doesn't know why. Last line: she lives, and she doesn't know yet what that costs. |
+| 30 | Juno | Her birthday. A light in the quarry office below the bend: Adrian still there. She wakes up. She is not asleep. Her hands are cold and she doesn't know why. Last line: she lives, and she doesn't know yet what that costs. |
 
 ## Parallel stories: the world off-page
 

@@ -7,7 +7,7 @@ Every fault line inside the friend group maps onto a bigger island-wide question
 | Fault line | Between | The bigger question it stands for | First flashpoint |
 | --- | --- | --- | --- |
 | Medicine or the island | [Juno](cast/juno.md) vs. [Kit](cast/kit.md) | What do we owe the sleepers, and are the rooted ones still themselves? | Kit roots Ambrose in the yard at the bend without asking |
-| Close the gates | [Lonny](cast/lonny.md) vs. the wall | Who is "us"? | The first time the gate is shut with his girlfriend outside |
+| The door | [Lonny](cast/lonny.md) (yes to everyone) vs. [Juno](cast/juno.md) (counts) | Who is "us", and when does saying yes kill someone already inside? | Wren's mother on the road; then the dry season, when healthy kids are turned away ([08](08-factions-and-politics.md#the-door-who-the-trace-takes-in-and-where-it-stops)) |
 | Letting go | [Fen](cast/fen.md) and [Lyra](cast/lyra.md) vs. everyone fighting to save sleepers | When do you stop fighting? | Fen says to give his mother's share of water to someone who can be saved |
 | Who leads | The six vs. the other twenty-four (Cass's voice); outsiders vs. Juno, whom they keep treating as the leader | Does a group that was a group before the collapse get to run the collapse? Does power earn authority? | The first bed death |
 | Being seen | [Sol](cast/sol.md) vs. the group she loves | Does the new world grow back better, or the same? | Lux, and the question of why Sol keeps going to the Harbour |
@@ -18,7 +18,8 @@ Every fault line inside the friend group maps onto a bigger island-wide question
 
 ## With the island
 
-- **The gate question.** Open it to starving kids from town, or hold it. The Trace's first and defining choice, and it recurs every time supplies change.
+- **The door.** The Trace takes in the sick, always, and builds so it can take in more. The limit comes when one more would kill someone inside. It recurs every time supplies change, and [Adrian](cast/adrian.md) makes it dangerous. Full design in [08](08-factions-and-politics.md#the-door-who-the-trace-takes-in-and-where-it-stops).
+- **Adrian Castell.** The quarry owner's son. Taken in hurt in month 3, claims the place in month 5, put out with a third of the medicine, and sits below the bend for the rest of the book. The plain bad person: he wants what the Trace built, not what it has. See [cast/adrian](cast/adrian.md).
 - **Trade with the Harbour.** Medicine for fish. Then Sol for fish. Then loyalty for fish. Then fuel.
 - **The Harbour comes for the pharmacy.** Judge decides medicine should be shared "fairly," meaning under his control. Siege, negotiation, or betrayal from inside.
 - **Kids leaving for the Hills.** When rooted sleepers survive and bedridden ones die, Trace families start carrying their parents north. The Trace empties from inside.
@@ -55,3 +56,4 @@ Every fault line inside the friend group maps onto a bigger island-wide question
 - When Judge offers protection in exchange for Sol, what does Juno say?
 - If the outside world offers to take one kid off the island, who goes?
 - Is Miss Tilda, who is nobody's family, owed the same water as Granny?
+- How many healthy kids do you turn away to keep one sick one alive? And if you took the wrong one in once, do you check the next sick girl at the gate?

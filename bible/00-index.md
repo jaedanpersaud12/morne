@@ -19,7 +19,7 @@ The bible is the law. If a chapter contradicts it, fix one or the other the same
 ## The people
 - [Cast overview](cast/_overview.md): depth tiers, who carries POV, the fault-line map
 - Main cast: [Juno](cast/juno.md), [Tock](cast/tock.md), [Olli](cast/olli.md), [Fen](cast/fen.md), [Lyra](cast/lyra.md), [Sol](cast/sol.md), [Lonny](cast/lonny.md), [Kit](cast/kit.md)
-- Antagonists: [Judge](cast/judge.md), [the Gardener](cast/gardener.md)
+- Antagonists: [Judge](cast/judge.md), [the Gardener](cast/gardener.md), [Adrian Castell](cast/adrian.md)
 - [Supporting cast](cast/supporting.md): everyone else, by place
 
 ## How the world moves
