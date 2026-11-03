@@ -38,7 +38,7 @@ He looked up.
 
 "Is it bad," Lyra said, "that she looks better?"
 
-Something in his chest went tight and then loose, because she had said it first and he hadn't had to. He wanted to give her a real answer. She was the only person in the world he could give one to.
+Something in his chest went tight and then loose. He wanted to give her a real answer. She was the only person in the world he could give one to.
 
 "She's not in pain," he said. "Look at her hands."
 
@@ -62,11 +62,11 @@ It was the first time either of them had said it out loud. It didn't feel like a
 
 At ten he went up to the roof.
 
-The Quill house had a flat roof with a water tank and a satellite dish, and a plastic chair Fen had carried up there two years ago and never brought down. He brought the laptop and the dongle, a black thing the size of a lighter that his father had called a waste of money, and that Fen had bought with birthday money anyway, because with it and a length of wire you could hear anything in the air. Taxis. Aircraft. Fishing boats talking at four in the morning. He had spent a lot of nights up here listening to people who didn't know they were being listened to.
+The Quill house had a flat roof with a water tank and a satellite dish, and a plastic chair Fen had carried up there two years ago and never brought down. He brought the laptop and the dongle, a black thing the size of a lighter that his father had called a waste of money, and that Fen had bought with birthday money anyway, because with it and a length of wire you could hear anything in the air. Taxis. Aircraft. Fishing boats talking at four in the morning. He had spent a lot of nights up here listening to people who didn't know they were being listened to. There was a taxi driver, Pinto, who got on the base channel every night and talked about the price of parts and who was sleeping with who, and Fen had hated him for two years without ever seeing his face. He went looking for Pinto first. Nothing.
 
-The dust had thinned enough to show stars. Below the hill the town was lit the way it was every night and silent the way it never was.
+The dust had thinned enough to show stars. Below the hill the town had all its lights on and none of its noise.
 
-He started on FM, where the station was still playing the one song. He went through the whole band, and it was the one song or nothing.
+He started on FM, where the station was still playing the one song. He went through the whole band, and it was the same soca or nothing, the one from last Carnival about the woman with the red bucket, everywhere in February and hated by March. The station's overnight computer had been playing it since Sunday to nobody.
 
 Marine channels. Sixteen, the one every boat kept open for emergencies, was hiss, and he sat on it for five minutes with the volume up.
 
@@ -136,7 +136,7 @@ Nothing for a while. Then: *the corbeaux are still on the taxi*
 
 He didn't know anything about corbeaux. He typed *they'll go*, because it was what you said, and put the phone face down on his knee.
 
-He got up and took the handheld down with him, because whatever happened next, the boy on the dock was going to call again, and Fen was going to be the one who answered.
+He got up and took the handheld down with him. The boy on the dock was going to call again.
 
 ---
 
@@ -160,13 +160,13 @@ The click came.
 
 "That's not your fault. I'm just saying, that's when."
 
-He sat with her after that without saying anything else. At some point he was counting her breathing again, eleven, eleven, eleven, the one thing in the room that had never once lied to him.
+He sat with her after that without saying anything else. At some point he was counting her breathing again, eleven, eleven, eleven.
 
 At 12:14 the lights went out.
 
 All of them, at once, with no flicker. The lamp, the hall light, the concentrator's green eye. The hum stopped. In the silence it left, the mattress pump wound down to nothing, and then the only sounds in the house were three people breathing slow and one breathing fast, because Lyra was awake now, sitting up, saying his name.
 
-His whole body had gone cold before he'd moved. Then he was standing.
+His whole body went cold. Then he was standing.
 
 "The grid," he said. "Nobody's at the power station. Something tripped. Stay with her."
 
@@ -174,7 +174,7 @@ His whole body had gone cold before he'd moved. Then he was standing.
 
 "I know. Stay with her. Count."
 
-The garage was pitch black. He found the generator by memory, the yellow one on wheels his father ran on hurricane days and swore at, and he found the petrol can by its smell. He had watched his father do this a dozen times and never once done it himself. His hands shook on the cap. The first pull did nothing. The second did nothing. On the third the engine caught and roared, and he stood in the dark with his ears ringing and his eyes stinging from the fumes.
+The garage was pitch black. He found the generator by memory, the yellow one on wheels his father ran on hurricane days and swore at, and he found the petrol can by its smell. He had watched his father do this a dozen times and never once done it himself. His hands shook on the cap. The first pull did nothing. The second did nothing, and the cord came back hard enough to crack his knuckles against the housing. On the third the engine caught and roared, and he stood in the dark with his ears ringing and his eyes stinging from the fumes.
 
 He threw the transfer switch.
 

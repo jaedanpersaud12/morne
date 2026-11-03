@@ -56,7 +56,7 @@ Granny's skin was cool under her fingers. Juno taped the needle down and smoothe
 
 Then she wrote in the exercise book, under the six names, a line. Under the line: *Mr. Hale. Spoon every hour. Me.*
 
-She put herself on him because she was the one who had decided. At two in the morning, by torchlight, she turned his head, tipped his chin and gave him a teaspoon of water. When his throat moved, she said, "Good. That's good," in the bored voice. She had never used it on anyone older than Olli.
+At two in the morning, by torchlight, she turned his head, tipped his chin and gave him a teaspoon of water. When his throat moved, she said, "Good. That's good," in the bored voice. She had never used it on anyone older than Olli.
 
 Across the room, the bag over Granny dripped.
 
@@ -64,13 +64,13 @@ Across the room, the bag over Granny dripped.
 
 By the fourth day the house had a smell, and nobody talked about it.
 
-It got into everything. It was urine, mostly, sharp enough to make your eyes water when you came in from outside, and sweat, and under both of those something sweeter that Juno knew from the ward where Granny had her gallbladder out and had hoped never to smell again. Towels went under every sleeper. Towels came out wet. They were rinsed in buckets from the green rainwater pond on the quarry floor and hung along the quarry's chain-link fence, forty of them in a row. Nobody looked at the pond any more if they could help it. Tock had tied a T-shirt over his nose and mouth on the first morning, and nobody had laughed, which was how Juno knew how bad it was.
+It got into everything. It hit the eyes first, at the door, and the back of the throat a step later. Five minutes in you stopped smelling it, which was worse, because then you went out for a bucket and came back and it was waiting at the door like the first time. Urine, mostly, and sweat, and under both of those something sweeter that Juno knew from the ward where Granny had her gallbladder out and had hoped never to smell again. Towels went under every sleeper. Towels came out wet. They were rinsed in buckets from the green rainwater pond on the quarry floor and hung along the quarry's chain-link fence, forty of them in a row. Nobody looked at the pond any more if they could help it. Tock had tied a T-shirt over his nose and mouth on the first morning, and nobody had laughed.
 
 She had a whiteboard from Ida's bedroom propped on the dining table, with a grid on it in green marker. Every sleeper, every two hours, turned: left side, back, right side, back. When the alarm you'd set on the kitchen clock went off, you went down the rows in pairs, one at the shoulders and one at the hips, and you rolled. If you didn't, the skin where they lay went red, then purple, then opened. The book had pictures. Juno had made everyone look at the pictures.
 
-Between turns, the spoon. A person to every two sleepers, round the clock, a teaspoon at a time into the cheek. It took an hour to get a cup into somebody. They needed eight cups a day in this heat, and they weren't getting four. There weren't enough hands. There would never be enough hands.
+Between turns, the spoon. A person to every two sleepers, round the clock, a teaspoon at a time into the cheek. It took an hour to get a cup into somebody. They needed eight cups a day in this heat, and they weren't getting four. There weren't enough hands.
 
-The Nettle girl was twelve and the best of them. She was patient in a way nobody had known she was, and she talked to every sleeper while she worked, telling them what was for breakfast and what the dog was doing. She did her own mother last, every round, because she wanted to save the best for last. Ida Moss moved through the room at night with a plastic basin and a cloth and her lips moving. Juno let her. It was Ida's house and Ida's father, and the praying didn't slow anything down.
+The Nettle girl was twelve and the best of them. She was patient in a way nobody had known she was, and she talked to every sleeper while she worked, telling them what was for breakfast and what the dog was doing. She did her own mother last, every round. Ida Moss moved through the room at night with a plastic basin and a cloth and her lips moving. Juno let her. It was Ida's house and Ida's father, and the praying didn't slow anything down.
 
 Olli wanted a job. She gave him eyes.
 
@@ -112,13 +112,13 @@ She counted. Five seconds. Ten. Fifteen.
 
 At twenty-one he breathed again. Quick and shallow, then deeper, building.
 
-The table in the nursing book had a name for this pattern. It had a line underneath the name, in small type, that she had read at fifteen and never needed to know. She knew it now. She knew it with the spoon in her hand and water on her fingers. She sat beside him and counted the gaps, and they got longer.
+The table in the nursing book had a name for this pattern. It had a line underneath the name, in small type, that she had read at fifteen and never needed to know. She knew it now, with the spoon in her hand and water on her fingers. She sat beside him and counted the gaps, and they got longer.
 
 ---
 
 He died at twelve minutes past five, with the windows going grey.
 
-The gap came and didn't end. She counted to sixty. She put two fingers on the side of his neck where the book said, and waited, and moved them, and waited again. Then she looked at the kitchen clock through the doorway and wrote the time in the exercise book, because in hospitals somebody always wrote down the time, and she couldn't think what else to do with her hands.
+The gap came and didn't end. She counted to sixty. She put two fingers on the side of his neck where the book said, and waited, and moved them, and waited again. Then she looked at the kitchen clock through the doorway and wrote the time in the exercise book, because in hospitals somebody always wrote down the time.
 
 *Mr. Hale. 5:12 a.m. Day 5.*
 
@@ -146,7 +146,7 @@ Juno looked at him.
 
 "Same name as me," Lonny said. "We're not family. Never were. Everybody on the road used to make the joke." He shrugged, and it came out wrong, too big. "Somebody with the name should do it."
 
-They chose the slope behind number nine, Mr. Hale's own house, under the lime tree at the bottom of his garden where the land fell away toward the sea. Lonny got a pickaxe and a spade from the Finches' garage. The first foot was easy, dark topsoil and roots. Under it the island was clay and stone, packed hard. He swung the pickaxe for three hours with his shirt off and his hands wrapped in a dish towel. The little kids brought him water in relays, then stood at the edge of the hole and watched, because nobody had told them not to.
+They chose the slope behind number nine, Mr. Hale's own house, under the lime tree at the bottom of his garden where the land fell away toward the sea. Lonny got a pickaxe and a spade from the Finches' garage. The first foot was easy, dark topsoil and roots. Under it the island was clay and stone, packed hard. He swung the pickaxe for three hours with his shirt off and his hands wrapped in a dish towel. Nobody saw his hands until after, under the tap, when the water ran off them pink for a while and then clear. The little kids brought him water in relays, then stood at the edge of the hole and watched, because nobody had told them not to.
 
 Halfway down the soil changed. It went darker and cooler, and every spadeful came up threaded with something white and fine, like hair. Lonny knocked it off the blade against his boot without a word and kept digging.
 
@@ -158,13 +158,13 @@ At four feet he hit rock and couldn't go further.
 
 "It's enough, Lonny."
 
-They wrapped Mr. Hale in the sheet from his own bed. Olli found an electricity bill on the counter at number nine and came running down the garden holding it up. *Mr. Barnaby Hale.* Ninety years, and the whole road had called him Mr. Hale, and nobody standing at the hole had known his first name until a seven-year-old sounded it out off a bill.
+They wrapped Mr. Hale in the sheet from his own bed. Olli found an electricity bill on the counter at number nine and came running down the garden holding it up. *Mr. Barnaby Hale.* Ninety years on the road, and nobody at the hole had known it until a seven-year-old sounded it out off a bill.
 
 Lonny climbed down into the grave. When Tock and Juno lowered the sheet to him, he took it and laid the old man on the cool white-threaded floor of the hole as gently as he'd carried every one of them up the drive.
 
 Ida said the prayer again. This time a few of the little ones said it with her.
 
-Nobody knew what to say after that. They stood. Then Tock cleared his throat.
+They stood. Then Tock cleared his throat.
 
 "He used to shout at us," he said. "When the cricket ball went in his yard."
 
@@ -172,9 +172,11 @@ Nobody knew what to say after that. They stood. Then Tock cleared his throat.
 
 "He gave it back every time, though."
 
-"He kept the good one," Juno said. "The red one. Remember? Form One. He kept it for a year."
+"He kept the good one," Juno said. "The red one. Remember? Form One. He kept it for a year." "You cried," Tock said.
 
-Tock laughed, a short, shocked sound that set off Lonny and then a couple of the little kids who didn't know why it was funny, and for a few seconds the three of them laughed at the edge of a grave about a cricket ball. Then they stopped, and Lonny climbed out and picked up the spade.
+"I didn't cry."
+
+Tock laughed, a short, shocked sound that set off Lonny and then a couple of the little kids who didn't know why it was funny. Then they stopped, and Lonny climbed out and picked up the spade.
 
 Juno stayed after.
 

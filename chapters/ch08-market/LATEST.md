@@ -26,7 +26,7 @@ Lonny laughed. Juno looked at Ambrose on his mattress, then at Kit, and for a se
 
 The coast road was eleven kilometres. They did it in two hours with Dr. Moss's bag between them and the sun on the backs of their necks.
 
-Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them. They watched Juno and Lonny go past without a word. When the youngest one raised a hand, Lonny raised one back, and nobody said anything about the padlock on the pump or the fact that the boy's hand had left a brown mark on the roof where he'd been resting it.
+Nothing on the road moved. Cars sat where they'd stopped, doors open, a bag of groceries on a passenger seat gone soft in the heat. Dogs watched from the yards. At the junction the Harker boys were sitting on the roof of the gas station with their legs hanging down, three of them. They watched Juno and Lonny go past without a word. When the youngest one raised a hand, Lonny raised one back. There was a padlock on the pump. The boy's hand had left a brown mark on the roof where he'd been resting it.
 
 "Rust," Lonny said, when they were past. "That's what they call him. The little one."
 
@@ -68,7 +68,7 @@ The *Lady Marisol* was a forty-foot trawler tied up at the end of the dock with 
 
 He stood up.
 
-He was her age, and lean the way people are lean when they work. His shirt was salt-stained and open at the collar, and there was a holster on his belt with something in it that he didn't touch and didn't hide. He had the kind of face that didn't move much. He looked at her for a long time before he spoke, and when he did it was slow.
+He was her age, and lean from work. His shirt was salt-stained and open at the collar, and there was a holster on his belt with something in it that he didn't touch and didn't hide. He had the kind of face that didn't move much. He looked at her for a long time before he spoke, and when he did it was slow.
 
 "You're shorter than the paper."
 
@@ -102,7 +102,7 @@ The boy with the broken arm was fourteen. He had fallen off a warehouse wall on 
 
 He didn't send someone. He went himself and came back with two slats off a fish crate and a roll of electrical tape. Kneeling on the other side of the boy, he held the boy's good hand and said, "Look at me. Not at her. At me."
 
-She put her hands where the picture put them, one above the break and one below, and felt the bump under her fingers. Eight days. The book didn't have a page for eight days. The book assumed you got there the same afternoon, and somewhere under that skin the bone had already started deciding for itself how it was going to heal.
+She put her hands where the picture put them, one above the break and one below, the bump under her fingers. Eight days. The book didn't have a page for eight days. The book assumed you got there the same afternoon, and somewhere under that skin the bone had already started deciding for itself how it was going to heal.
 
 She pulled. The boy screamed. Nothing moved.
 
@@ -110,15 +110,15 @@ The ring of kids made a sound, all of them at once, the sound of a crowd watchin
 
 "Lonny," Juno said. "Harder."
 
-Lonny leaned his whole weight into the boy's shoulders. Juno set her knee against the concrete and pulled the way you pull a car door that has jammed in the heat, steady and then all at once, and something gave under her hands with a soft wet crack she felt in her teeth before she heard it. The arm was straight. It was straighter. It was as straight as she was going to get it, and she knew that while it was happening. She splinted it the way the picture showed and taped it before she could start wishing she had done it a week ago.
+Lonny leaned his whole weight into the boy's shoulders. Juno set her knee against the concrete and pulled the way you pull a car door that has jammed in the heat, steady and then all at once, and something gave under her hands with a soft wet crack she felt in her teeth before she heard it. The arm was straight. It was straighter. It was as straight as she was going to get it, and she knew that while it was happening. She splinted it as the picture showed. The tape wouldn't take on the boy's arm, the sweat lifted it as fast as she laid it, so she wound it round and round over itself until the slats stopped moving, before she could start wishing she had done it a week ago.
 
-She sat back on her heels with her hands shaking. The boy was crying and saying thank you, thank you, and she didn't know what to do with that, so she said, "Don't climb walls."
+She sat back on her heels with her hands shaking. The boy was crying and saying thank you, thank you, and she didn't know what to do with that, so she said, "Don't climb walls." "It still crooked," a girl said, from somewhere behind Lonny. She wasn't wrong. Judge didn't look round, and the ring broke up.
 
 The girl who had swallowed something was worse, because there was nothing in the book for her.
 
 She was seven. She had swallowed a watch battery on the first night, from a toy, and had been sick twice and then stopped being sick. Now she lay on a mat in the children's house with her hand on her stomach, looking at Juno with huge eyes, and did not say anything at all.
 
-"You can't do nothing," Judge said. It wasn't a question.
+"You can't do nothing," Judge said.
 
 "I can't do anything." Juno stood up. "A battery burns. Inside. It needs to come out, and I can't take it out, and the hospital—"
 
@@ -130,7 +130,7 @@ She was seven. She had swallowed a watch battery on the first night, from a toy,
 
 "I don't know." She made herself look at him. "Maybe. Maybe it passes. Maybe it's already done the damage. I don't know, Judge, I read a book, I'm not—"
 
-"You're what we got," he said. Not unkind. Just a fact, set down between them like a crate.
+"You're what we got," he said. A fact, set down between them like a crate.
 
 Juno knelt down again, because standing over the girl felt like leaving already.
 
@@ -150,7 +150,7 @@ She didn't answer, because the true answer was *nothing*, and Ria was looking at
 
 ---
 
-He walked her out himself, at four, when the light was going orange and the square had filled with the smell of frying from the oil drums. Nell had given her a list on a page torn from the clipboard, twenty-two names, what was wrong with each of them, in neat small handwriting. Lonny carried the bag. Judge walked on her other side with his hands behind his back. For a long time he didn't say anything, and she realised he was waiting for her to.
+He walked her out himself, at four, when the light was going orange and the square had filled with the smell of frying from the oil drums. Nell had given her a list on a page torn from the clipboard, twenty-two names, what was wrong with each of them, in neat small handwriting. Lonny carried the bag. Judge walked on her other side with his hands behind his back. For a long time he didn't say anything. He was waiting for her to.
 
 "How are you feeding them?" she said.
 
@@ -204,7 +204,7 @@ It took her a second. Then the cold went through her stomach, and she understood
 
 "I didn't say sale." He turned to go, and stopped, and turned back. "Nell."
 
-Nell came out of the warehouse with a cardboard box in both arms and put it down on the ground between them. It was heavy, from the way she set it down. Juno looked at it. She didn't want to open it. She opened it.
+Nell came out of the warehouse with a cardboard box in both arms and put it down on the ground between them. It was heavy, from how she set it down. Juno looked at it. She didn't want to open it. She opened it.
 
 IV fluid. Clear bags, a litre each. She counted without meaning to.
 
@@ -213,8 +213,6 @@ Twelve.
 "From the hospital store," Judge said. "There's more. Nobody up there could find it; I could. That's for the sixteen." He was already walking back into the square. "Gift."
 
 She stood at the edge of Morne Bay with twelve bags of the thing she'd done division over eight nights ago in a sleeping doctor's study. Lonny picked up the box without a word. She knew exactly what a gift from Cole Mayers was, and she took it anyway.
-
-She carried the knowing up the hill.
 
 At the bend Kit lifted a hand from the gallery. Juno, with the thermos still in her hand, looked past her, through the open door of the flat, at the bedroom where the steel box was, and kept walking.
 
@@ -226,4 +224,4 @@ Tock was waiting a little way up the road with Vee asleep on his shoulder.
 
 She put the box in the Mosses' front room, under the empty coat hangers where the first six had hung. She did not say where it had come from. Nobody asked.
 
-That night she lay awake with the notebook on her chest. She had a secret now, the way Fen did. She had been wrong about how easy it was to keep one.
+That night she lay awake with the notebook on her chest. The pencil on her wrist had smudged to a grey mark on the walk home. She could still read it. She had a secret now, like Fen. She had been wrong about how easy it was to keep one.

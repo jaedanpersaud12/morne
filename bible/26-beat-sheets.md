@@ -550,3 +550,7 @@ Collected from the sheets above. Decide them in [16](16-open-questions.md), then
 - **Adrian's five boys:** give one a name and a face (the one who hesitates).
 - **Juno's father's first name** (ch 22; "Desmond" is a placeholder).
 - **Where Rust ends up** (planted in ch 12; nothing in book one forces it).
+
+### Planted in ch 4, unpaid (added 2026-11-03)
+- **Two-one, Everton.** Sol's made-up score for Kit's father (ch 4). Pay it the first time Kit sits with her father and talks to him, or if he wakes: she tells him two-one, Everton, late winner. Sol is in earshot and doesn't correct her.
+- **Ria's name on Juno's wrist** (ch 8, now planted again in the last paragraph: the pencil smudged grey on the walk home). Needs its own beat by ch 11.

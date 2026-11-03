@@ -12,7 +12,7 @@ Then she went back to the kitchen floor and did it properly.
 
 Two years ago, hiding in the school library from a lunch period she couldn't face, she had found a nursing textbook nobody had checked out since 1998 and read it cover to cover, because reading still worked when nothing else did. The chapter on coma had a table: breathing, pulse, pupils, response to pain. She had learned the table the way she learned every table, without deciding to.
 
-Granny was breathing twelve times a minute. Pulse fifty-two. Pupils small, and they didn't care about the kitchen light. When Juno pressed a knuckle hard into the bone in the middle of her grandmother's chest, the way the book said to, Granny didn't flinch.
+Granny was breathing twelve times a minute. Pulse fifty-two. Pupils small, and they didn't care about the kitchen light. When Juno pressed a knuckle hard into the bone in the middle of her grandmother's chest, where the book said, Granny didn't flinch.
 
 Deep coma. That was what the table called it.
 
@@ -24,7 +24,7 @@ Juno picked up the house phone and dialled 999. It rang for a long time before i
 
 She tried the hospital in Morne Bay. Same.
 
-She tried her father in Toronto, which was stupid, because what was he going to do from Toronto, and when it went to voicemail she hung up before the beep. She didn't know what she would have said.
+She tried her father in Toronto, which was stupid, because what was he going to do from Toronto, and when it went to voicemail she hung up before the beep.
 
 ---
 
@@ -86,7 +86,7 @@ Juno let them have it. Half of her believed it too, and the half that didn't was
 
 "Probably," she said. "But we don't do nothing till then."
 
-Sol put her phone face down on the table, very carefully. Lonny sat on the floor with his back against the cupboards, and Tock didn't move at all, which for Tock was the worst sign.
+Sol put her phone face down on the table, very carefully. Lonny sat on the floor with his back against the cupboards, and Tock didn't move at all.
 
 Juno found a school exercise book in the drawer by the stove, half of it used for Olli's spelling, and tore those pages out. She wrote at the top of a clean one and said it out loud as she wrote, because saying it kept the shaking out of her hands.
 
@@ -106,7 +106,7 @@ The Pells had a baby. Eight months old. Juno had held her in September at the ch
 
 He was already moving. The door hit the wall behind him.
 
-Sol was crying without making a sound, and Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing, because the alternative was standing there.
+Sol was crying without making a sound, and Lonny had his head between his knees. Juno stood at the counter with the pen and made herself keep writing.
 
 *Two. Babies. Small kids. Who's alone.*
 
@@ -114,7 +114,7 @@ Sol was crying without making a sound, and Lonny had his head between his knees.
 
 *Four. Town.*
 
-She looked at the word. Morne Bay had fifteen thousand people, maybe. Say a third of them kids. Most of the little ones would be fine, because that was how the island worked: a twelve-year-old with a baby sister would feed the baby, a cousin would take a cousin, a neighbour would hear crying through a wall. But there were houses where the oldest child was four. There were flats where nobody knew the people next door. Nobody had a list of those. Nobody could.
+She looked at the word. Morne Bay had fifteen thousand people, maybe. Say a third of them kids. Most of the little ones would be fine, because that was how the island worked: a twelve-year-old with a baby sister would feed the baby, a cousin would take a cousin, a neighbour would hear crying through a wall. But there were houses where the oldest child was four. There were flats where nobody knew the people next door. There was no list of those houses, and no way to make one.
 
 Tock's feet on the road, coming back. Faster.
 
@@ -124,7 +124,7 @@ He came through the door with the baby against his chest. She was screaming, a t
 
 "You went back." Juno's voice came out steadier than she was. "Sol, warm water, there's bottles in their kitchen. Lonny, go with Tock to every house again, every room this time. Every crib, every cot, every bathroom. Anybody under five comes here."
 
-"And then?" Lonny said.
+"And then?" Lonny said. "Tock, you walk past a baby. A whole baby." Tock looked at him. Then Sol laughed, wet, and Tock said "shut up," and it was the first thing anybody had said all night in a normal voice.
 
 She looked at the list. At the word.
 
@@ -132,19 +132,19 @@ She looked at the list. At the word.
 
 "And the rest of town?"
 
-"Town has to do town." She said it flat, like a decision. "There's a hundred kids like us down there right now doing exactly this. Walking into houses. We're not special. We're just the ones up here."
+"Town has to do town." She said it flat. "There's a hundred kids like us down there right now doing exactly this. Walking into houses. We're not special. We not special. We just the ones up here."
 
-Nobody argued, though she wished someone would. She wrote *road at first light* under the list, and under that, smaller, *town?*, and left the question mark, because she didn't have the right to cross it out and didn't have the means to answer it.
+Nobody argued, though she wished someone would. She wrote *road at first light* under the list, and under that, smaller, *town?*, and left the question mark.
 
 ---
 
 She went to number four by herself, because somebody had to and everybody else had a job.
 
-Dr. Moss kept things at home. Granny had sent her over for antibiotics once at nine at night, and he had unlocked a cupboard in his study and handed her a box without writing anything down. The spare key was under the frog on the step, where everybody on the road kept their spare. Dr. Moss was on the hall floor where Tock had put him, on his side, with his reading glasses still on their chain around his neck. Juno stepped over him and said "Sorry, doctor," out loud. It felt wrong not to.
+Dr. Moss kept things at home. Granny had sent her over for antibiotics once at nine at night, and he had unlocked a cupboard in his study and handed her a box without writing anything down. The spare key was under the frog on the step, where everybody on the road kept their spare. Dr. Moss was on the hall floor where Tock had put him, on his side, with his reading glasses still on their chain around his neck. Juno stepped over him and said "Sorry, doctor," out loud.
 
 The cupboard key was in his desk, second drawer. People weren't creative about keys.
 
-Inside: a doctor's bag, gloves, bandages, a lot of antibiotics, paracetamol, a blood pressure cuff, syringes. And on the bottom shelf, a carton of IV fluid, clear bags, a litre each, the kind they had hung next to Granny when she had her gallbladder out.
+Inside: a doctor's bag, a box of gloves with the lid torn off, bandages, amoxicillin in four strengths, two of them past date, paracetamol by the hundred, a blood pressure cuff with the velcro gone furry, syringes still in their plastic. And on the bottom shelf, a carton of IV fluid, clear bags, a litre each, the kind they had hung next to Granny when she had her gallbladder out.
 
 She counted them. She counted again.
 
@@ -164,13 +164,13 @@ Her phone buzzed. Tock.
 
 She read it twice before she put the phone down on the railing and held onto the railing with both hands, because for a second the balcony had tilted.
 
-Sixteen people who couldn't drink. Six bags. Three days. Granny was seventy-four and Mr. Hale was ninety and the arithmetic didn't care about either of them.
+Sixteen people who couldn't drink. Six bags. Three days. Granny was seventy-four and Mr. Hale was ninety.
 
 She could lie about the bags. Tell them there were enough and ration in secret, and nobody would know until somebody's mother didn't wake up. Or she could put the carton on the kitchen table and tell twelve kids the truth and watch what it did to them.
 
 She stood there until she'd chosen, then picked up the carton and went down.
 
-The kitchen was full now, kids on every chair and along the walls, the Nettle girl asleep against Lonny with her thumb in her mouth. The baby had stopped screaming and was asleep on Tock's shoulder, and Tock hadn't moved in twenty minutes in case she woke.
+The kitchen was full now, kids on every chair and along the walls, the Nettle girl asleep against Lonny with her thumb in her mouth. Bix Hale was eating Granny's bread from the bag, standing at the counter, not asking, and he looked at Juno while he did it. The baby had stopped screaming and was asleep on Tock's shoulder, and Tock hadn't moved in twenty minutes in case she woke.
 
 Juno put the carton on the table where everyone could see it, then opened the notebook and wrote *Day 0* at the top of the list. She had almost written *Day 1* and crossed it out, because she wanted to count from the beginning. She had a feeling she'd be counting a long time.
 

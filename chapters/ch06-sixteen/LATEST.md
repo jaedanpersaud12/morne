@@ -10,7 +10,7 @@ On the fifth night Fen was there, because he was always there. He had been on th
 
 The generator ran from seven at night to seven in the morning now. Twelve hours, eighteen litres, enough to keep his mother's oxygen going through the dark and the fridge cold for Juno's antibiotics. In the day he ran the concentrator off a car battery and the inverter from his father's boat, which gave him four hours. For the rest of the day his mother breathed room air, and nothing happened. Her breathing stayed at eleven, and the oximeter on her finger stayed at ninety-four. He had noticed that on the third day. He was trying not to think about what it meant.
 
-That afternoon he and Lonny had siphoned Mr. Finch's Pajero, which was old and gave up forty litres without a fight, and Dr. Moss's Corolla, which was new and had a valve in the neck of the tank that stopped the hose. Fen had sucked on the hose anyway, because he hadn't known about the valve, and got a mouthful of petrol that had nothing to do with the car. He had spat in the Mosses' drain for ten minutes. He could still taste it.
+That afternoon he and Lonny had siphoned Mr. Finch's Pajero, which was old and gave up forty litres without a fight, and Dr. Moss's Corolla, which was new and had a valve in the neck of the tank that stopped the hose. Fen had sucked on the hose anyway, because he hadn't known about the valve, and got a mouthful of petrol that had nothing to do with the car. He had spat in the Mosses' drain for ten minutes. He could still taste it. It sat behind his nose now, and every burp brought it up new.
 
 Fifty-eight litres in the cans now. Three nights. Then the next car.
 
@@ -40,7 +40,7 @@ Eleven kilometres, over water. No aerial on the island did that. Fen let it sit,
 
 "Yeah."
 
-"Cookie feed two hundred and twelve tonight. Fish broth. Nell count every bowl, she writing it in a book. Eleven boats went out this morning and ten came back. One engine dead, we tow it." He said it plainly, the way Fen would read out a fuel gauge. "My boy's arm, though. You remember the boy's arm."
+"Cookie feed two hundred and twelve tonight. Fish broth. Nell count every bowl, she writing it in a book. Eleven boats went out this morning and ten came back. One engine dead, we tow it." He said it plainly. "My boy's arm, though. You remember the boy's arm."
 
 "I remember."
 
@@ -74,9 +74,9 @@ He swung the binoculars out past the boats, to see how far they went.
 
 There was a ship on the horizon.
 
-Grey. Low. Too long and too flat for a tanker, too angular for a cruise ship, with a mast full of shapes on top and something at the front that he didn't want to name yet. It wasn't moving. It sat exactly on the line between the sea and the sky, and the morning light came up behind it.
+Grey. Low. Too long and too flat for a tanker, too angular for a cruise ship, with a mast full of shapes on top and something at the front that he didn't want to name yet. It sat exactly on the line between the sea and the sky, and the morning light came up behind it.
 
-He put the binoculars down and opened the laptop. The dongle could pick up AIS, the signal every big ship sent out with its name and speed and where it was going. He had spent whole nights watching cargo ships crawl across the screen toward Panama. He pulled up the map.
+He put the binoculars down and opened the laptop. The dongle could pick up AIS, the signal every big ship sent out with its name and speed and where it was going. He had spent whole nights watching cargo ships crawl across the screen toward Panama. He pulled up the map. The triangles were still on it from the last time he'd looked, each one with a time beside it in grey, five days old, the last time anybody had heard from it.
 
 Nothing. The fishing boats showed up, a few of them, the ones with transponders. Out on the horizon, where the grey ship sat, the map was empty.
 
@@ -94,7 +94,7 @@ A pause. A click. A man's voice, flat, with an accent from somewhere a long way 
 
 He listened to it three times. On the third he typed it into the laptop word for word, because his hands needed something to do.
 
-*Will be stopped.* Not *helped*. Not *rescued*. *Stopped*.
+*Will be stopped.* Not *helped*. *Stopped*.
 
 *Assistance is being coordinated.* For who? It didn't say children. It didn't say who was on the island at all. It talked to the boats, as if the boats were the problem.
 
@@ -106,7 +106,7 @@ In about a minute the road was full. Kids came out of every house, still in what
 
 "Fen?" Lyra, from the bottom of the ladder, with her face turned up. "Fen, is it for us?"
 
-"It's the navy," he said.
+"It's the navy," "It's a navy," he said. "Not ours. We don't have one."
 
 She was gone before he could say anything else, and he heard her inside telling their mother. He hadn't said anything else.
 
@@ -124,7 +124,7 @@ The handheld was in his lap, and the loop was still running, low, *all stations,
 
 "They're not talking to us," he said.
 
-It was true. He hated it for being true.
+It was true.
 
 "But they've seen us."
 
@@ -134,7 +134,7 @@ Juno looked back at the ship. Her hand at her side opened and closed.
 
 "Okay," she said. "Okay. That's okay." She breathed out. "If they've seen us, they'll send something. Even one boat. One doctor. Bags." Her voice caught on the last word and kept going. "They'd have bags on a ship like that. They'd have everything."
 
-Fen said nothing. He had learned on the first night what it cost him to say the wrong thing on the radio. He was learning now what it cost not to say the right thing off it.
+Fen said nothing. He had learned on the first night what it cost him to say the wrong thing on the radio.
 
 She put her hand on his shoulder, briefly, the way she did, and went back down the ladder. A minute later he heard her voice in the road, louder than he had heard it in a week.
 
@@ -148,7 +148,7 @@ Fen sat on the roof with the handheld in his lap and the volume at zero.
 
 The ship didn't move all day.
 
-The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Twenty-four was Juno's number. It was in the book under Day 7, with thirteen and twenty and twenty-two crossed out above it. Fen carried the paint tins and held one corner of the sheet while the Nettle girl did the S. Nobody asked him what he thought it would do, and he didn't say.
+The kids took turns watching it from the Hales' balcony, two at a time, with the binoculars Fen let them borrow. In the afternoon Ida Moss and the Nettle girl and half the little ones painted a bedsheet with house paint from the Finches' garage and laid it out on the flat white floor of the quarry, weighed down with bricks: *24 KIDS. SEND HELP*. Twenty-four was Juno's number. It was in the book under Day 7, with thirteen and twenty and twenty-two crossed out above it. Fen carried the paint tins and held one corner of the sheet while the Nettle girl did the S. Bix wanted the S and the Nettle girl wouldn't give up the brush, so he kicked the tin, and a leg of the K went grey, and they left it. Nobody asked him what he thought it would do, and he didn't say.
 
 From the roof he could see the balcony. Sometime after lunch Lyra had gone down to the bend and come back with Kit by the wrist, and now the two of them had the binoculars between them, Lyra talking with both hands. At one point Kit laughed, head back, at something he couldn't hear. He watched that for longer than he had watched the ship all day.
 
@@ -168,7 +168,7 @@ Fen looked up at the quarry. In the starlight the sheet was a pale square, the l
 
 "You tell yours?" Judge said.
 
-The silence went on too long. Fen knew it was too long while it was happening.
+The silence went on too long.
 
 "No," Judge said. "I didn't think so. The doctor girl don't know."
 
@@ -196,13 +196,13 @@ The ship, he didn't know. He thought of her hand flat on the page, and her voice
 
 The arm, tonight, at the table, in front of the six. The ship, tomorrow.
 
-He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, the way it had been every night since the first. He had stopped seeing it.
+He stood and picked up the handheld. Below him, the yard was yellow with the light from every window of the house, every night since the first. He had stopped seeing it.
 
 There was a sound over his head.
 
-He knew the generator's sound, every note of it, and this wasn't the generator. It was higher, thinner, a whine like a mosquito that didn't come and go. He looked up.
+He knew the generator's sound, every note of it. This was higher, thinner, a whine like a mosquito that didn't come and go. He looked up.
 
-Thirty feet above the roof, black against the stars, was a small cross with a light on its belly. Red. It didn't blink. It hung there without moving, the way nothing that flew should be able to, perfectly level, perfectly still.
+Thirty feet above the roof, black against the stars, was a small cross with a light on its belly. Red. It didn't blink. It hung there without moving, the way nothing that flew should be able to, level and still.
 
 A drone. Pointing down.
 

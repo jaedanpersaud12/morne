@@ -2,11 +2,11 @@
 
 Kit's father fell asleep three times before lunch, and the first time, she laughed.
 
-He was in the driver's seat of the taxi in the yard, with both front doors open for the breeze, his chin on his chest and his mouth open, snoring over the little book where he wrote his fares. When she knocked on the roof, he jumped so hard the pen went down between the seats.
+He was in the driver's seat of the taxi in the yard, with both front doors open for the breeze, his chin on his chest and his mouth open, snoring over the little book where he wrote his fares. When she knocked on the roof, he jumped so hard the pen went down between the seats. He felt for it with two fingers and gave up.
 
 "Dust," he said, and pointed up.
 
-The sky was the colour of weak tea. Sahara dust had blown in overnight, four thousand miles of it, the way it did a few times a year, and it turned the sun into a dull orange coin you could look straight at. It got in your eyes and your throat. Everyone on the island blamed it for everything: headaches, bad moods, dogs that wouldn't eat.
+The sky was the colour of weak tea. Sahara dust had blown in overnight, four thousand miles of it, and turned the sun into a dull orange coin you could look straight at. It came a few times a year and got in your eyes and your throat. Everyone on the island blamed it for everything: headaches, bad moods, dogs that wouldn't eat.
 
 "It's November," Kit said. "Dust comes in June."
 
@@ -48,9 +48,9 @@ All of them went. Not laughed, went. Somebody bent in half. Somebody had to put 
 
 Kit stood on the step with a clothes peg in her hand.
 
-She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi. They had tried. Lyra had come down the first week with a plate of pelau and stayed an hour, talking, mostly to herself. Lonny waved from the pickup every morning with both hands off the wheel. Sol had lent her a phone charger in April and never asked for it back. Twice somebody had started to explain the goat, and both times the rest of them had shouted over the details until it came apart, because it wasn't a story. It was ten years of them, and you couldn't hand somebody ten years. Every joke had a footnote, and the footnote was a childhood she hadn't been in.
+She had lived under these people for eight months. They had grown up together in the houses up the road, every one of them, and she had come in March with two suitcases and a taxi. They had tried. Lyra had come down the first week with a plate of pelau and stayed an hour, talking, mostly to herself. Lonny waved from the pickup every morning with both hands off the wheel. Sol had lent her a phone charger in April and never asked for it back. Twice somebody had started to explain the goat, and both times the rest of them had shouted over the details until it came apart. It was ten years of them, and you couldn't hand somebody ten years. Every joke had a footnote, and the footnote was a childhood she hadn't been in.
 
-Juno noticed. Juno always noticed.
+Juno noticed. Juno always noticed. Lyra waved, big, with her whole arm, at the upstairs. Nobody lived in the upstairs.
 
 "Morning, Kit."
 
@@ -60,7 +60,7 @@ She was tall, with her hair up in a puff and wire glasses she pushed up with one
 
 "We going down the beach. You want to come?"
 
-She asked every time and meant it every time, and every time Kit said the same thing, because being asked wasn't the same as being there.
+She asked every time and meant it every time, and every time Kit said the same thing.
 
 "I have to help my father."
 
@@ -78,7 +78,7 @@ He stopped by the front step on the way but didn't look at her, exactly. He look
 
 "I know."
 
-The pickup went round the bend and down toward the junction, six in the tray and Lonny driving too fast, and her father called "Mind the police!" after it the way he always did. But he called it late, when the pickup was already gone. Like he had to think about it.
+The pickup went round the bend and down toward the junction, six in the tray and Lonny driving too fast, and her father called "Mind the police!" after it, like every time. But he called it late, when the pickup was already gone.
 
 ---
 
@@ -114,13 +114,13 @@ His chin went to his chest. His breath went in and out. Slow. Deep. Even.
 
 "Daddy. Daddy, wake up."
 
-She shook him, slapped his face, not hard and then hard, and when that did nothing she poured what was left in the thermos over his head, lukewarm coffee running down his neck into his pressed collar. He didn't move. She pinched the skin on the back of his hand the way the clinic nurse did, and it stood up in a little tent and went down slow.
+She shook him, slapped his face, not hard and then hard, and when that did nothing she poured what was left in the thermos over his head, lukewarm coffee running down his neck into his pressed collar. He didn't move. She pinched the skin on the back of his hand, the clinic nurse's trick, and it stood up in a little tent and went down slow.
 
 His skin was cool.
 
 That was the thing that turned her stomach over. It was thirty-four degrees in that car with both doors open, and her father, who sweated through his shirt by noon every day of his life, was cool to the touch.
 
-She took out her phone and dialled 999. It rang a long time before it stopped ringing and nothing happened, no voice, no click, just an open line with nobody on it.
+She took out her phone and dialled 999. It rang a long time before it stopped ringing and nothing happened, no voice, no click, an open line with nobody on it.
 
 She hung up. Her hands were shaking now. She dialled the other number, the one she knew by heart and had never once used.
 
@@ -128,7 +128,7 @@ It rang and rang, somewhere down in Morne Bay, and nobody picked up. She didn't 
 
 She stood at the car door with the phone in her hand. For a few seconds there was nothing in her head at all, only the radio and the sound of him breathing, and she let it be nothing, because the alternative was screaming and screaming wouldn't move a man off a chair.
 
-Then she thought it through, the way he would have.
+Then she thought it through, like he would have.
 
 On his side, so he wouldn't choke. Something under his head. Then help.
 
@@ -136,7 +136,7 @@ He weighed more than two of her, but she got her arms hooked under his and pulle
 
 Then she ran.
 
-Up the hill in her slippers on the hot road, past the hibiscus, to Juno.
+Up the hill in her slippers until the left one went, and then barefoot on the hot road, past the hibiscus, to Juno.
 
 The Vales' front door was open. It was never open.
 
@@ -166,7 +166,7 @@ Juno stared at her. Then down at her grandmother. Then back.
 
 Kit went.
 
-Halfway down the hill she slowed, because her legs had gone strange, and because of what Juno's face had done when she said *her too*. It wasn't fear. Kit knew what fear looked like on Juno; she'd seen it in August, the day Olli fell off the Hales' tank stand. This was something flatter. This was a girl adding something up.
+Halfway down the hill she slowed, because her legs had gone strange, and because of what Juno's face had done when she said *her too*. Kit knew what fear looked like on Juno; she'd seen it in August, the day Olli fell off the Hales' tank stand. This was flatter.
 
 Two houses. Two grown people. Same breathing.
 
@@ -174,7 +174,7 @@ She started running again, and the whole way down she was making a list of what 
 
 The corbeaux had come down.
 
-All day they'd sat on the light pole at the bend, four or five of them, the big black vultures with their wings half open, the way they always did. Now there were a dozen. More. They were on the galvanize of the flat. They were on the roof of the taxi. They were on the yard fence on either side of it, hunched and patient, with their bald red heads turned, every one of them, toward the open door of the car.
+All day they'd sat on the light pole at the bend, four or five of them, the big black vultures with their wings half open, same as always. Now there were a dozen. More. They were on the galvanize of the flat. They were on the roof of the taxi. They were on the yard fence on either side of it, hunched and patient, with their bald red heads turned, every one of them, toward the open door of the car.
 
 Toward her father, on the ground beside it.
 

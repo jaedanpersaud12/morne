@@ -11,3 +11,4 @@ Earlier drafts (v1 literary, v2 Gone-style short, v3 full-length with trading-ca
 - v006 (20261102-1544): Review pass: Celsius; cut duplicated goat line
 - v007 (20261103-0900): Kit and the group: they tried (Lyra's pelau, Lonny's wave, Sol's charger, the goat explained twice and lost), it's the shared childhood that's hard to get into. L139 now 'the one house where somebody had kept on asking'.
 - v008 (20261103-0930): Flow pass: broke up 'and' chains and choppy runs with conjunctions; dialogue, facts and line numbers unchanged.
+- v009 (20261103-1456): Depolish pass (AI-tell cleanup: trailing explanations, 'the way X' thinned, negate-asserts, personified objects) plus the flag decisions from notes/depolish-flags.json applied; voice and dialect untouched. Log in DEPOLISH-LOG.md.
