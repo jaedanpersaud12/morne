@@ -52,6 +52,21 @@ The six are so close their humour makes no sense to anyone else. Use it:
 
 - **Let an outsider be the lens.** Kit watches them laugh at something incomprehensible and feels shut out. The reader feels it with her. Slowly she learns the jokes, and so does the reader. By the end, the reader is in the group.
 - **Never explain a joke on the spot.** Let a reference float by. Two hundred pages later we learn where it came from. (The goat is not even a goat.)
+
+### The goat (decided 2026-11-03)
+
+**What happened.** Six years ago, in a blackout, the six were playing Pictionary at Granny's kitchen table by candlelight. Lonny was eleven. Sol drew a goat, and because she's Sol it was a perfect goat: horns, beard, the square pupils, even the little tail. Lonny looked at it and said "Sheep." Wrong. He said it again. Then he committed. For ten minutes he argued, with total confidence and getting louder, that it was a sheep: the beard is "the sheep part," goats are "the brown ones," he'd seen sheep in a book. He stood on a chair. His line, over and over: **"It's not even a goat. That's a sheep."**
+
+Granny came in to see what the noise was, looked at the drawing and said, "That is a goat." Lonny said, "With respect, Miss Dot, it's not even a goat." Granny laughed until she had to sit down and take her glasses off. It's the only time any of them ever saw her laugh like that.
+
+**Why it lands.**
+- It's Lonny being Lonny: wrong, sure of himself, the group's favourite target, playing along ever since.
+- "It's not even a goat" (Fen to Kit, ch 1) is Lonny's line, quoted.
+- Olli was a baby, so he wasn't there. That's why he's the one who keeps asking.
+- It's secretly about Granny. Juno saying "Tock, the goat" in ch 4, with Granny asleep on the floor next door, is the group remembering the one night Granny laughed. Funny and awful at once, which is the book.
+- Sol's drawing still exists, in a kitchen drawer at the Vales'. Useful later.
+
+**When the reader finds out:** ch 30, on Juno's birthday. Fen finally keeps his ch 1 promise and tells Kit, and the whole group interrupts to correct the details. Lonny still says it was a sheep. Nobody tells it to the reader before that.
 - **Make it a survival tool.** Over a radio the Harbour is listening to, the group can say things only they understand.
 - **Use it to measure damage.** When they stop joking, the reader knows things are bad. When one of them dies, a joke dies too. The first time someone makes it again is the moment the group starts to heal.
 
